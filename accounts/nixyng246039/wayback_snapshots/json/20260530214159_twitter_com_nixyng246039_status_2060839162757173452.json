@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060839162757173452",
+    "created_at": "2026-05-30T21:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060839162757173452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3224022277",
+          "start": 3,
+          "username": "funamusea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060839162757173452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060288616459559074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @funamusea: やっぱりわだのはらスキって言ってくれるひとが多いわね\n私も大好きだけど、1番描くのが苦手なきゃらくたー　うまく、描けん!!!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060839162757173452",
+        "created_at": "2026-05-30T21:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060839162757173452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3224022277",
+              "start": 3,
+              "username": "funamusea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060839162757173452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060288616459559074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @funamusea: やっぱりわだのはらスキって言ってくれるひとが多いわね\n私も大好きだけど、1番描くのが苦手なきゃらくたー　うまく、描けん!!!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3224022277",
+        "conversation_id": "2060288616459559074",
+        "created_at": "2026-05-29T09:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060288616459559074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060288616459559074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4819,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "やっぱりわだのはらスキって言ってくれるひとが多いわね\n私も大好きだけど、1番描くのが苦手なきゃらくたー　うまく、描けん!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 198,
+          "like_count": 2781,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 394
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-23T06:46:30.000Z",
+        "description": "なんか神奈川で生きてるやつ\n\n❖ https://t.co/iJL8cwzQEl\n❖ https://t.co/socyOA3g4c\nhttps://t.co/qtoZdorlPQ\nFanArtTag #funamuseum\n\n⚠️未成年NG／NO MINOR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 101,
+                "tag": "funamuseum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ci-en.net/creator/1215",
+                "end": 40,
+                "expanded_url": "http://ci-en.net/creator/1215",
+                "start": 17,
+                "url": "https://t.co/iJL8cwzQEl"
+              },
+              {
+                "display_url": "ko-fi.com/funamusea",
+                "end": 66,
+                "expanded_url": "http://ko-fi.com/funamusea",
+                "start": 43,
+                "url": "https://t.co/socyOA3g4c"
+              },
+              {
+                "display_url": "twitch.tv/funamusea_com",
+                "end": 90,
+                "expanded_url": "http://twitch.tv/funamusea_com",
+                "start": 67,
+                "url": "https://t.co/qtoZdorlPQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "funamuseacom.carrd.co",
+                "end": 23,
+                "expanded_url": "https://funamuseacom.carrd.co",
+                "start": 0,
+                "url": "https://t.co/dY0GiBSe8t"
+              }
+            ]
+          }
+        },
+        "id": "3224022277",
+        "location": "県警がやばいとこ",
+        "name": "海底囚人／DSP",
+        "pinned_tweet_id": "1700496006067232977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970294062084431878/ubGuSbt-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115521,
+          "following_count": 652,
+          "like_count": 21656,
+          "listed_count": 302,
+          "media_count": 285,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/dY0GiBSe8t",
+        "username": "funamusea",
+        "verified": false
+      }
+    ]
+  }
+}

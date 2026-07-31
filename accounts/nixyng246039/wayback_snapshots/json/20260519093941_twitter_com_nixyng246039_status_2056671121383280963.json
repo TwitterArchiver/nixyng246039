@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056386481590337537"
+      ],
+      "media_source_tweet_id": [
+        "2056386504977752417"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2056671121383280963",
+    "created_at": "2026-05-19T09:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056671121383280963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0wdbblYLc",
+          "end": 46,
+          "expanded_url": "https://x.com/hgds0/status/2056386504977752417/photo/1",
+          "media_key": "3_2056386481590337537",
+          "start": 23,
+          "url": "https://t.co/N0wdbblYLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056671121383280963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056386504977752417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 下面那一堆就是我的一生 https://t.co/N0wdbblYLc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056386481590337537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInAnBwbgAEnH-w.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056386481590337537"
+          ],
+          "media_source_tweet_id": [
+            "2056386504977752417"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2056671121383280963",
+        "created_at": "2026-05-19T09:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056671121383280963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0wdbblYLc",
+              "end": 46,
+              "expanded_url": "https://x.com/hgds0/status/2056386504977752417/photo/1",
+              "media_key": "3_2056386481590337537",
+              "start": 23,
+              "url": "https://t.co/N0wdbblYLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056671121383280963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056386504977752417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 下面那一堆就是我的一生 https://t.co/N0wdbblYLc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056386481590337537"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2056386504977752417",
+        "created_at": "2026-05-18T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056386504977752417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0wdbblYLc",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/2056386504977752417/photo/1",
+              "media_key": "3_2056386481590337537",
+              "start": 12,
+              "url": "https://t.co/N0wdbblYLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056386504977752417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 21870,
+          "like_count": 458,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "下面那一堆就是我的一生 https://t.co/N0wdbblYLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 198,
+          "like_count": 2611,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 348
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97576,
+          "following_count": 2458,
+          "like_count": 44345,
+          "listed_count": 146,
+          "media_count": 4212,
+          "tweet_count": 8611
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

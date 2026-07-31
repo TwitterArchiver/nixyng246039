@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062138057999187968"
+      ],
+      "media_source_tweet_id": [
+        "2062138060922560527"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2062586283969438119",
+    "created_at": "2026-06-04T17:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062586283969438119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908821205307850752",
+          "start": 3,
+          "username": "prm_o_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9V763gpoRZ",
+          "end": 55,
+          "expanded_url": "https://x.com/prm_o_o/status/2062138060922560527/photo/1",
+          "media_key": "3_2062138057999187968",
+          "start": 32,
+          "url": "https://t.co/9V763gpoRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062586283969438119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062138060922560527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prm_o_o: 東京でも通用する可愛さですか、こりは https://t.co/9V763gpoRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062138057999187968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4vo1jbAAA96zI.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062138057999187968"
+          ],
+          "media_source_tweet_id": [
+            "2062138060922560527"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2062586283969438119",
+        "created_at": "2026-06-04T17:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062586283969438119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908821205307850752",
+              "start": 3,
+              "username": "prm_o_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V763gpoRZ",
+              "end": 55,
+              "expanded_url": "https://x.com/prm_o_o/status/2062138060922560527/photo/1",
+              "media_key": "3_2062138057999187968",
+              "start": 32,
+              "url": "https://t.co/9V763gpoRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062586283969438119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062138060922560527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prm_o_o: 東京でも通用する可愛さですか、こりは https://t.co/9V763gpoRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062138057999187968"
+          ]
+        },
+        "author_id": "1908821205307850752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2062138060922560527",
+        "created_at": "2026-06-03T11:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062138060922560527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V763gpoRZ",
+              "end": 42,
+              "expanded_url": "https://x.com/prm_o_o/status/2062138060922560527/photo/1",
+              "media_key": "3_2062138057999187968",
+              "start": 19,
+              "url": "https://t.co/9V763gpoRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062138060922560527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 25779,
+          "like_count": 2640,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "東京でも通用する可愛さですか、こりは https://t.co/9V763gpoRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 258,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 583
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:57:09.000Z",
+        "description": "一般弱者女性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/prima_0208?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/prima_0208?igsh=MTlnY2R1dXMyZ2o2",
+                "start": 0,
+                "url": "https://t.co/8CybQeK7U1"
+              }
+            ]
+          }
+        },
+        "id": "1908821205307850752",
+        "location": "全国重加工選手権東海地区代表",
+        "name": "ぷりま🩰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000225120770789376/STa_zpqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8385,
+          "following_count": 175,
+          "like_count": 46710,
+          "listed_count": 39,
+          "media_count": 148,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/8CybQeK7U1",
+        "username": "prm_o_o",
+        "verified": false
+      }
+    ]
+  }
+}

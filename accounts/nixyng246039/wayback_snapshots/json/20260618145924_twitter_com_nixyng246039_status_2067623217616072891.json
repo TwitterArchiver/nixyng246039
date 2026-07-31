@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067502636509843456"
+      ],
+      "media_source_tweet_id": [
+        "2067502646542713017"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2067623217616072891",
+    "created_at": "2026-06-18T14:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067623217616072891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TadSm60pKd",
+          "end": 105,
+          "expanded_url": "https://x.com/Numiouoo/status/2067502646542713017/photo/1",
+          "media_key": "3_2067502636509843456",
+          "start": 82,
+          "url": "https://t.co/TadSm60pKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067623217616072891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067502646542713017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 看原图很不爽，本优质极品毒虫怒而改之\n\n我们就超天酱来的！健全人你们什么档次自己歪瓜裂枣还来泼毒虫脏水，闲得发慌可以多照照镜子！谢谢。 https://t.co/TadSm60pKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2067502636509843456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE-sZ1aUAA0w3j.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067502636509843456"
+          ],
+          "media_source_tweet_id": [
+            "2067502646542713017"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2067623217616072891",
+        "created_at": "2026-06-18T14:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067623217616072891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TadSm60pKd",
+              "end": 105,
+              "expanded_url": "https://x.com/Numiouoo/status/2067502646542713017/photo/1",
+              "media_key": "3_2067502636509843456",
+              "start": 82,
+              "url": "https://t.co/TadSm60pKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067623217616072891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067502646542713017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 看原图很不爽，本优质极品毒虫怒而改之\n\n我们就超天酱来的！健全人你们什么档次自己歪瓜裂枣还来泼毒虫脏水，闲得发慌可以多照照镜子！谢谢。 https://t.co/TadSm60pKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067502636509843456"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067502646542713017",
+        "created_at": "2026-06-18T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067502646542713017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TadSm60pKd",
+              "end": 91,
+              "expanded_url": "https://x.com/Numiouoo/status/2067502646542713017/photo/1",
+              "media_key": "3_2067502636509843456",
+              "start": 68,
+              "url": "https://t.co/TadSm60pKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067502646542713017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4536,
+          "like_count": 112,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "看原图很不爽，本优质极品毒虫怒而改之\n\n我们就超天酱来的！健全人你们什么档次自己歪瓜裂枣还来泼毒虫脏水，闲得发慌可以多照照镜子！谢谢。 https://t.co/TadSm60pKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 501,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2069
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 907,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

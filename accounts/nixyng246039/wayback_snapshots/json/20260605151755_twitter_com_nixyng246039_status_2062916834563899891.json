@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062916830600310785"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062916834563899891",
+    "created_at": "2026-06-05T15:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062916834563899891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KwCinLcbru",
+          "end": 42,
+          "expanded_url": "https://x.com/nixyng246039/status/2062916834563899891/photo/1",
+          "media_key": "3_2062916830600310785",
+          "start": 19,
+          "url": "https://t.co/KwCinLcbru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062916834563899891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "检测到用户变更为深蓝孝女立马安排限定 https://t.co/KwCinLcbru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2062916830600310785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDz7XkbMAEWPER.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062916830600310785"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062916834563899891",
+        "created_at": "2026-06-05T15:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062916834563899891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwCinLcbru",
+              "end": 42,
+              "expanded_url": "https://x.com/nixyng246039/status/2062916834563899891/photo/1",
+              "media_key": "3_2062916830600310785",
+              "start": 19,
+              "url": "https://t.co/KwCinLcbru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062916834563899891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "检测到用户变更为深蓝孝女立马安排限定 https://t.co/KwCinLcbru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 296,
+          "like_count": 3743,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 675
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054169135102455808"
+      ],
+      "media_source_tweet_id": [
+        "2054169138848051379"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054270622340096333",
+    "created_at": "2026-05-12T18:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054270622340096333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821694572591996928",
+          "start": 3,
+          "username": "2003Tei31532"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNwiSIUymS",
+          "end": 41,
+          "expanded_url": "https://x.com/2003Tei31532/status/2054169138848051379/photo/1",
+          "media_key": "3_2054169135102455808",
+          "start": 18,
+          "url": "https://t.co/YNwiSIUymS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054270622340096333",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054169138848051379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2003Tei31532: https://t.co/YNwiSIUymS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_2054169135102455808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHf8eZacAAqo4T.jpg",
+        "width": 1359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054169135102455808"
+          ],
+          "media_source_tweet_id": [
+            "2054169138848051379"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054270622340096333",
+        "created_at": "2026-05-12T18:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054270622340096333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821694572591996928",
+              "start": 3,
+              "username": "2003Tei31532"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNwiSIUymS",
+              "end": 41,
+              "expanded_url": "https://x.com/2003Tei31532/status/2054169138848051379/photo/1",
+              "media_key": "3_2054169135102455808",
+              "start": 18,
+              "url": "https://t.co/YNwiSIUymS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054270622340096333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054169138848051379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2003Tei31532: https://t.co/YNwiSIUymS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054169135102455808"
+          ]
+        },
+        "author_id": "1821694572591996928",
+        "conversation_id": "2054169138848051379",
+        "created_at": "2026-05-12T11:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054169138848051379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNwiSIUymS",
+              "end": 23,
+              "expanded_url": "https://x.com/2003Tei31532/status/2054169138848051379/photo/1",
+              "media_key": "3_2054169135102455808",
+              "start": 0,
+              "url": "https://t.co/YNwiSIUymS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054169138848051379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4235,
+          "like_count": 674,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YNwiSIUymS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 162,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 116
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T23:47:12.000Z",
+        "description": "@engawa_0621🗝️（相互関係なくフォローしてたら通します）\n（🌈🕒️/🌞、🏢、🔺中心）たまに一次創作\n無言フォローマン",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "engawa_0621"
+              }
+            ]
+          }
+        },
+        "id": "1821694572591996928",
+        "name": "おがわ元帥",
+        "pinned_tweet_id": "2042902497191432537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048061195350122496/6DCEVfCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 112,
+          "like_count": 674,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 731
+        },
+        "username": "2003Tei31532",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054133578217517390",
+    "created_at": "2026-05-12T09:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054133578217517390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1969076990952275968",
+          "start": 3,
+          "username": "Iris1208dzqIris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054133578217517390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053478790811226542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris1208dzqIris: 那些问我属性的 我告诉你，08年属老鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054133578217517390",
+        "created_at": "2026-05-12T09:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054133578217517390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1969076990952275968",
+              "start": 3,
+              "username": "Iris1208dzqIris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054133578217517390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053478790811226542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iris1208dzqIris: 那些问我属性的 我告诉你，08年属老鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2053478790811226542",
+        "created_at": "2026-05-10T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053478790811226542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053478790811226542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 40703,
+          "like_count": 288,
+          "quote_count": 3,
+          "reply_count": 80,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "那些问我属性的 我告诉你，08年属老鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 154,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜人生忧患识字始｜水仙：@Sovereign_Iriss\n匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris62491",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris62491",
+                "start": 0,
+                "url": "https://t.co/OgiEY06W89"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "pinned_tweet_id": "2023461391441797486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050962867671949314/-sAwRpkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 19,
+          "like_count": 1284,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/OgiEY06W89",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

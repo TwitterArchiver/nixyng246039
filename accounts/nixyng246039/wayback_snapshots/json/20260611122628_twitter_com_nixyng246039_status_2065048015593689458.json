@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064958749165658112"
+      ],
+      "media_source_tweet_id": [
+        "2064958779901595717"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065048015593689458",
+    "created_at": "2026-06-11T12:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065048015593689458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757603703811371008",
+          "start": 3,
+          "username": "11andpr89648964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHpye4CqU0",
+          "end": 50,
+          "expanded_url": "https://x.com/11andpr89648964/status/2064958779901595717/video/1",
+          "media_key": "13_2064958749165658112",
+          "start": 27,
+          "url": "https://t.co/FHpye4CqU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048015593689458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064958779901595717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11andpr89648964: 我飞你的飞 https://t.co/FHpye4CqU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2405,
+        "height": 1280,
+        "media_key": "13_2064958749165658112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064958749165658112/img/GmCmrT7qIXoNIE0Y.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064958749165658112/vid/avc1/320x568/IaE6V1hOmmntbhas.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064958749165658112/vid/avc1/480x852/XUF8UpGg-wbinG2R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064958749165658112/vid/avc1/720x1280/H0uaywb66GokL1Wj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064958749165658112/pl/gfxQfa7SY6XgYAUO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064958749165658112"
+          ],
+          "media_source_tweet_id": [
+            "2064958779901595717"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065048015593689458",
+        "created_at": "2026-06-11T12:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065048015593689458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757603703811371008",
+              "start": 3,
+              "username": "11andpr89648964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHpye4CqU0",
+              "end": 50,
+              "expanded_url": "https://x.com/11andpr89648964/status/2064958779901595717/video/1",
+              "media_key": "13_2064958749165658112",
+              "start": 27,
+              "url": "https://t.co/FHpye4CqU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048015593689458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064958779901595717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11andpr89648964: 我飞你的飞 https://t.co/FHpye4CqU0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064958749165658112"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2064958779901595717",
+        "created_at": "2026-06-11T06:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064958779901595717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHpye4CqU0",
+              "end": 29,
+              "expanded_url": "https://x.com/11andpr89648964/status/2064958779901595717/video/1",
+              "media_key": "13_2064958749165658112",
+              "start": 6,
+              "url": "https://t.co/FHpye4CqU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064958779901595717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我飞你的飞 https://t.co/FHpye4CqU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 419,
+          "like_count": 5777,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1427
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2064253156872388919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 849,
+          "like_count": 143,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1581
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

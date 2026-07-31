@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063655180021710848"
+      ],
+      "media_source_tweet_id": [
+        "2063655764061761910"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063663014872743949",
+    "created_at": "2026-06-07T16:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063663014872743949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063285995487834112",
+          "start": 3,
+          "username": "HarukoKazama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZE6mUAy25",
+          "end": 45,
+          "expanded_url": "https://x.com/HarukoKazama/status/2063655764061761910/video/1",
+          "media_key": "13_2063655180021710848",
+          "start": 22,
+          "url": "https://t.co/rZE6mUAy25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063663014872743949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063655764061761910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarukoKazama: 很瘆人 https://t.co/rZE6mUAy25"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063663014872743949].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063663014872743949",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063663014872743949"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40598,
+        "height": 1280,
+        "media_key": "13_2063655180021710848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063655180021710848/img/paDbXxQdeuOKwEXQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063655180021710848/vid/avc1/320x568/0hUaJzZOjUuL3IXA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063655180021710848/vid/avc1/480x852/WjdxoXPWJhapO-Vr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063655180021710848/vid/avc1/720x1280/1ot8y3aJXKd6lxGq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063655180021710848/pl/Ga175VSV5kuuhTRQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063655180021710848"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2063655764061761910",
+        "created_at": "2026-06-07T16:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063655764061761910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZE6mUAy25",
+              "end": 27,
+              "expanded_url": "https://x.com/HarukoKazama/status/2063655764061761910/video/1",
+              "media_key": "13_2063655180021710848",
+              "start": 4,
+              "url": "https://t.co/rZE6mUAy25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063655764061761910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很瘆人 https://t.co/rZE6mUAy25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 346,
+          "like_count": 4437,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 930
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2063643842222391364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

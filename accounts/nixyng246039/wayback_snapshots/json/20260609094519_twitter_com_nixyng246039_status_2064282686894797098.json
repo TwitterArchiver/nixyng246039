@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064274609147613184"
+      ],
+      "media_source_tweet_id": [
+        "2064274637719232703"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064282686894797098",
+    "created_at": "2026-06-09T09:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064282686894797098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "Chloris923"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCPeMl0Moz",
+          "end": 50,
+          "expanded_url": "https://x.com/Chloris923/status/2064274637719232703/photo/1",
+          "media_key": "3_2064274609147613184",
+          "start": 27,
+          "url": "https://t.co/VCPeMl0Moz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064282686894797098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064274637719232703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris923: 每天就這麼對我同學。 https://t.co/VCPeMl0Moz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064274609147613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXG0e0aEAAcbNx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064274609147613184"
+          ],
+          "media_source_tweet_id": [
+            "2064274637719232703"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064282686894797098",
+        "created_at": "2026-06-09T09:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064282686894797098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "Chloris923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCPeMl0Moz",
+              "end": 50,
+              "expanded_url": "https://x.com/Chloris923/status/2064274637719232703/photo/1",
+              "media_key": "3_2064274609147613184",
+              "start": 27,
+              "url": "https://t.co/VCPeMl0Moz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064282686894797098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064274637719232703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris923: 每天就這麼對我同學。 https://t.co/VCPeMl0Moz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064274609147613184"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "2064274637719232703",
+        "created_at": "2026-06-09T09:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064274637719232703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCPeMl0Moz",
+              "end": 34,
+              "expanded_url": "https://x.com/Chloris923/status/2064274637719232703/photo/1",
+              "media_key": "3_2064274609147613184",
+              "start": 11,
+              "url": "https://t.co/VCPeMl0Moz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064274637719232703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天就這麼對我同學。 https://t.co/VCPeMl0Moz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 391,
+          "like_count": 5259,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1174
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "𝕾𝖆𝖌𝖆 𝖒𝖆𝖝𝖎𝖒𝖆 𝖈𝖔𝖓𝖙𝖎𝖓𝖊𝖓𝖙𝖎𝖘 𝖆𝖚𝖘𝖙𝖗𝖆𝖑𝖎𝖘🪄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://chloris923.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/F2u8aBkQtL"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "Bедьма✨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063911094729711616/JVgAbqgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 319,
+          "like_count": 36945,
+          "listed_count": 5,
+          "media_count": 707,
+          "tweet_count": 21151
+        },
+        "url": "https://t.co/F2u8aBkQtL",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

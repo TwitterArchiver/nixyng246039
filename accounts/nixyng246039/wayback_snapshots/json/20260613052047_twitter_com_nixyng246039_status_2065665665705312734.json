@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065336534833013243",
+    "created_at": "2026-06-13T05:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065665665705312734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065665665705312734",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065336534833013243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 卧槽……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065336534833013243",
+        "created_at": "2026-06-13T05:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065665665705312734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065665665705312734",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065336534833013243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 卧槽……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2065336534833013243",
+        "created_at": "2026-06-12T07:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065336534833013243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065336534833013243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢年上的都是缺爱b，喜欢年下的都闲得没事儿干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 455,
+          "like_count": 6244,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1601
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "目前人设：勾践。恶心我的死全家。                                                                               \n提问箱：https://t.co/6wYsRJnYiG           朋友圈：@lostmediagirlll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 138,
+                "username": "lostmediagirlll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 123,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 100,
+                "url": "https://t.co/6wYsRJnYiG"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂（努力学习版）",
+        "pinned_tweet_id": "2042975618497941982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052349606823137280/IAT4Bl4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 219,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 3680
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

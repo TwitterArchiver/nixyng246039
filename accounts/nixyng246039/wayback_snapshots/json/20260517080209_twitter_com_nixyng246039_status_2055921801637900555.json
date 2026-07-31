@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055858716378079232",
+        "3_2055858754655285248"
+      ],
+      "media_source_tweet_id": [
+        "2055859085783003165",
+        "2055859085783003165"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055921801637900555",
+    "created_at": "2026-05-17T08:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055921801637900555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1332977048692822021",
+          "start": 3,
+          "username": "freePluvios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKeGafSVGX",
+          "end": 53,
+          "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+          "media_key": "3_2055858716378079232",
+          "start": 30,
+          "url": "https://t.co/VKeGafSVGX"
+        },
+        {
+          "display_url": "pic.x.com/VKeGafSVGX",
+          "end": 53,
+          "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+          "media_key": "3_2055858754655285248",
+          "start": 30,
+          "url": "https://t.co/VKeGafSVGX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055921801637900555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055859085783003165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @freePluvios: 希望金啾卡的手沒有脫臼( https://t.co/VKeGafSVGX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2055858716378079232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfgnDIbIAAanQx.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2055858754655285248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfgpRua8AAVsdK.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055858716378079232",
+            "3_2055858754655285248"
+          ],
+          "media_source_tweet_id": [
+            "2055859085783003165",
+            "2055859085783003165"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055921801637900555",
+        "created_at": "2026-05-17T08:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055921801637900555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1332977048692822021",
+              "start": 3,
+              "username": "freePluvios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKeGafSVGX",
+              "end": 53,
+              "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+              "media_key": "3_2055858716378079232",
+              "start": 30,
+              "url": "https://t.co/VKeGafSVGX"
+            },
+            {
+              "display_url": "pic.x.com/VKeGafSVGX",
+              "end": 53,
+              "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+              "media_key": "3_2055858754655285248",
+              "start": 30,
+              "url": "https://t.co/VKeGafSVGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055921801637900555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055859085783003165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @freePluvios: 希望金啾卡的手沒有脫臼( https://t.co/VKeGafSVGX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055858716378079232",
+            "3_2055858754655285248"
+          ]
+        },
+        "author_id": "1332977048692822021",
+        "conversation_id": "2055859085783003165",
+        "created_at": "2026-05-17T03:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055859085783003165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKeGafSVGX",
+              "end": 36,
+              "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+              "media_key": "3_2055858716378079232",
+              "start": 13,
+              "url": "https://t.co/VKeGafSVGX"
+            },
+            {
+              "display_url": "pic.x.com/VKeGafSVGX",
+              "end": 36,
+              "expanded_url": "https://x.com/freePluvios/status/2055859085783003165/photo/1",
+              "media_key": "3_2055858754655285248",
+              "start": 13,
+              "url": "https://t.co/VKeGafSVGX"
+            },
+            {
+              "display_url": "x.com/takamura_zzzzz…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/takamura_zzzzz/status/2055811371464527972",
+              "start": 37,
+              "url": "https://t.co/fxOx4qnetC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055859085783003165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 14818,
+          "like_count": 1339,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055811371464527972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "希望金啾卡的手沒有脫臼( https://t.co/VKeGafSVGX https://t.co/fxOx4qnetC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 194,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 308
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-29T09:17:53.000Z",
+        "description": "台灣人/Kami Oshi:🦁💰.🎫🕶️.🍸🐍/🚢：🍸🎫(🔄❌)/健全繪圖帳：@0202Pluvi /推文都是幹話/pfp感謝咖哩:@/its_me_curry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "0202Pluvi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/freepluvios",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/freepluvios",
+                "start": 0,
+                "url": "https://t.co/UmR9whT9Xl"
+              }
+            ]
+          }
+        },
+        "id": "1332977048692822021",
+        "location": "棉花糖🔽",
+        "name": "志祥🍋🍋‍🟩布穀J84",
+        "pinned_tweet_id": "2031373190241669250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052313577869225984/AzYEzZK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24939,
+          "following_count": 161,
+          "like_count": 530,
+          "listed_count": 35,
+          "media_count": 7558,
+          "tweet_count": 70739
+        },
+        "url": "https://t.co/UmR9whT9Xl",
+        "username": "freePluvios",
+        "verified": false
+      }
+    ]
+  }
+}

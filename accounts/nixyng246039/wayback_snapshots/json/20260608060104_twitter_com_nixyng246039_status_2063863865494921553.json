@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063860037731467264"
+      ],
+      "media_source_tweet_id": [
+        "2063860135643300205"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063863865494921553",
+    "created_at": "2026-06-08T06:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063863865494921553"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 55,
+          "start": 43,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 68,
+          "start": 56,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 76,
+          "start": 69,
+          "tag": "承認欲求の塊"
+        },
+        {
+          "end": 95,
+          "start": 78,
+          "tag": "雰囲気嫌いじゃないよって人いいね"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409516495571501066",
+          "start": 3,
+          "username": "DrankghostU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0v7yWZoFt",
+          "end": 120,
+          "expanded_url": "https://x.com/DrankghostU/status/2063860135643300205/video/1",
+          "media_key": "13_2063860037731467264",
+          "start": 97,
+          "url": "https://t.co/E0v7yWZoFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063863865494921553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063860135643300205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrankghostU: 👿👊🏻你没在听吧？！\n\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/E0v7yWZoFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6866,
+        "height": 1920,
+        "media_key": "13_2063860037731467264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063860037731467264/img/1NXSkHPyKhJk_J7g.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063860037731467264/vid/avc1/480x852/4fE9J7VJa18ITccA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063860037731467264/pl/MlhTdxUXlxPA2A3h.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063860037731467264/vid/avc1/320x568/z4TB4znZXlQjv-RL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063860037731467264/vid/avc1/720x1280/EBd-LmRk_Ls9sB-6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063860037731467264/vid/avc1/1080x1920/UQr3EZUyoMpQj1q1.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063860037731467264"
+          ],
+          "media_source_tweet_id": [
+            "2063860135643300205"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063863865494921553",
+        "created_at": "2026-06-08T06:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063863865494921553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 69,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 95,
+              "start": 78,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409516495571501066",
+              "start": 3,
+              "username": "DrankghostU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0v7yWZoFt",
+              "end": 120,
+              "expanded_url": "https://x.com/DrankghostU/status/2063860135643300205/video/1",
+              "media_key": "13_2063860037731467264",
+              "start": 97,
+              "url": "https://t.co/E0v7yWZoFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063863865494921553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063860135643300205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrankghostU: 👿👊🏻你没在听吧？！\n\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/E0v7yWZoFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063860037731467264"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063860135643300205",
+        "created_at": "2026-06-08T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063860135643300205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 78,
+              "start": 61,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0v7yWZoFt",
+              "end": 103,
+              "expanded_url": "https://x.com/DrankghostU/status/2063860135643300205/video/1",
+              "media_key": "13_2063860037731467264",
+              "start": 80,
+              "url": "https://t.co/E0v7yWZoFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063860135643300205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👿👊🏻你没在听吧？！\n\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/E0v7yWZoFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 356,
+          "like_count": 4581,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 978
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画绝对禁止。\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 195,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 574
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063498821322313728"
+      ],
+      "media_source_tweet_id": [
+        "2063498833330573461"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063508129506001349",
+    "created_at": "2026-06-07T06:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063508129506001349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720585683184857088",
+          "start": 3,
+          "username": "xiaoqi3377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qj5Iq9SktF",
+          "end": 53,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2063498833330573461/photo/1",
+          "media_key": "3_2063498821322313728",
+          "start": 30,
+          "url": "https://t.co/qj5Iq9SktF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063508129506001349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063498833330573461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi3377: 多夸夸我吧\n我会变得更可爱 https://t.co/qj5Iq9SktF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2063498821322313728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMFPr9akAA5lhq.jpg",
+        "width": 1880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063498821322313728"
+          ],
+          "media_source_tweet_id": [
+            "2063498833330573461"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063508129506001349",
+        "created_at": "2026-06-07T06:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063508129506001349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720585683184857088",
+              "start": 3,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qj5Iq9SktF",
+              "end": 53,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2063498833330573461/photo/1",
+              "media_key": "3_2063498821322313728",
+              "start": 30,
+              "url": "https://t.co/qj5Iq9SktF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063508129506001349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063498833330573461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi3377: 多夸夸我吧\n我会变得更可爱 https://t.co/qj5Iq9SktF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063498821322313728"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063498833330573461",
+        "created_at": "2026-06-07T05:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063498833330573461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qj5Iq9SktF",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2063498833330573461/photo/1",
+              "media_key": "3_2063498821322313728",
+              "start": 14,
+              "url": "https://t.co/qj5Iq9SktF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063498833330573461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "多夸夸我吧\n我会变得更可爱 https://t.co/qj5Iq9SktF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 327,
+          "like_count": 4164,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 847
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 164,
+          "like_count": 628,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 447
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

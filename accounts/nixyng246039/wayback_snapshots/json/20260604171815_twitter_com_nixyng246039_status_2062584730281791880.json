@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062569961638248448"
+      ],
+      "media_source_tweet_id": [
+        "2062570030038937639"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062584730281791880",
+    "created_at": "2026-06-04T17:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062584730281791880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8atD48KjaR",
+          "end": 40,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2062570030038937639/video/1",
+          "media_key": "13_2062569961638248448",
+          "start": 17,
+          "url": "https://t.co/8atD48KjaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062584730281791880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062570030038937639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: https://t.co/8atD48KjaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 1280,
+        "media_key": "13_2062569961638248448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062569961638248448/img/MG2MDBOwGiPQkjlW.jpg",
+        "public_metrics": {
+          "view_count": 596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062569961638248448/vid/avc1/320x568/3BDshZ4CULpzjVtT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062569961638248448/vid/avc1/480x852/N2BoIIC21V1ZbNW3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062569961638248448/vid/avc1/720x1280/HXOWcokHFH1OSP8p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062569961638248448/pl/saLD-sYRvoykVoQp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062569961638248448"
+          ],
+          "media_source_tweet_id": [
+            "2062570030038937639"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062584730281791880",
+        "created_at": "2026-06-04T17:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062584730281791880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8atD48KjaR",
+              "end": 40,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2062570030038937639/video/1",
+              "media_key": "13_2062569961638248448",
+              "start": 17,
+              "url": "https://t.co/8atD48KjaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062584730281791880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062570030038937639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: https://t.co/8atD48KjaR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062569961638248448"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2062570030038937639",
+        "created_at": "2026-06-04T16:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062570030038937639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8atD48KjaR",
+              "end": 23,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2062570030038937639/video/1",
+              "media_key": "13_2062569961638248448",
+              "start": 0,
+              "url": "https://t.co/8atD48KjaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570030038937639",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 2122,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8atD48KjaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 253,
+          "like_count": 3466,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 572
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! \nFan Account (Not Affiliated with Crypton Future Media!)\n(Ran by: @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041367547669254144/RQzxdjzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450268,
+          "following_count": 17,
+          "like_count": 3789,
+          "listed_count": 139,
+          "media_count": 1151,
+          "tweet_count": 1193
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

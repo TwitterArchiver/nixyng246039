@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063238335137734656",
+        "3_2063238335100010496"
+      ],
+      "media_source_tweet_id": [
+        "2063238350040162723",
+        "2063238350040162723"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063490148248018977",
+    "created_at": "2026-06-07T05:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063490148248018977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060032916189773824",
+          "start": 3,
+          "username": "WuCanObject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdltOlxdGx",
+          "end": 47,
+          "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+          "media_key": "3_2063238335137734656",
+          "start": 24,
+          "url": "https://t.co/ZdltOlxdGx"
+        },
+        {
+          "display_url": "pic.x.com/ZdltOlxdGx",
+          "end": 47,
+          "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+          "media_key": "3_2063238335100010496",
+          "start": 24,
+          "url": "https://t.co/ZdltOlxdGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063490148248018977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063238350040162723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WuCanObject: 鬼👻分为两种 https://t.co/ZdltOlxdGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2063238335137734656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIYVZTaYAA_y96.jpg",
+        "width": 1024
+      },
+      {
+        "height": 544,
+        "media_key": "3_2063238335100010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIYVZKawAA_ZZZ.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063238335137734656",
+            "3_2063238335100010496"
+          ],
+          "media_source_tweet_id": [
+            "2063238350040162723",
+            "2063238350040162723"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063490148248018977",
+        "created_at": "2026-06-07T05:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063490148248018977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060032916189773824",
+              "start": 3,
+              "username": "WuCanObject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdltOlxdGx",
+              "end": 47,
+              "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+              "media_key": "3_2063238335137734656",
+              "start": 24,
+              "url": "https://t.co/ZdltOlxdGx"
+            },
+            {
+              "display_url": "pic.x.com/ZdltOlxdGx",
+              "end": 47,
+              "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+              "media_key": "3_2063238335100010496",
+              "start": 24,
+              "url": "https://t.co/ZdltOlxdGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063490148248018977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063238350040162723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WuCanObject: 鬼👻分为两种 https://t.co/ZdltOlxdGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063238335137734656",
+            "3_2063238335100010496"
+          ]
+        },
+        "author_id": "2060032916189773824",
+        "conversation_id": "2063238350040162723",
+        "created_at": "2026-06-06T12:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063238350040162723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdltOlxdGx",
+              "end": 30,
+              "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+              "media_key": "3_2063238335137734656",
+              "start": 7,
+              "url": "https://t.co/ZdltOlxdGx"
+            },
+            {
+              "display_url": "pic.x.com/ZdltOlxdGx",
+              "end": 30,
+              "expanded_url": "https://x.com/WuCanObject/status/2063238350040162723/photo/1",
+              "media_key": "3_2063238335100010496",
+              "start": 7,
+              "url": "https://t.co/ZdltOlxdGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063238350040162723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11601,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "鬼👻分为两种 https://t.co/ZdltOlxdGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 326,
+          "like_count": 4136,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 841
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "Welcome to the safe house... sort of.\nMain account: @CanWuObject\nBackup while staying off the radar.\n【Ministry of security】\n：@CwSecurityHead",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "CanWuObject"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "CwSecurityHead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "safe house",
+        "name": "物残",
+        "pinned_tweet_id": "2060755471846527321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060033124416032768/tWh0j9-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 171,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": false
+      }
+    ]
+  }
+}

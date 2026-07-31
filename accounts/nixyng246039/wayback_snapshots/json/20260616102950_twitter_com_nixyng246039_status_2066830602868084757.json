@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066828814911787008",
+    "created_at": "2026-06-16T10:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066830602868084757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066830602868084757",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066828814911787008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 呃啊好萌好像刚睡醒的潦草小猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4768,
+        "height": 960,
+        "media_key": "13_2066828755432329216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066828755432329216/img/8ppIevlklFLNREIE.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066828755432329216/vid/avc1/320x426/Paf899RaAaQFjvgs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066828755432329216/vid/avc1/480x640/uUTpTYXdG1QQPIwC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066828755432329216/vid/avc1/720x960/Q5E62m7g8MPFKm8L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066828755432329216/pl/WFipShTmKiMPr2-O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066828814911787008",
+        "created_at": "2026-06-16T10:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066830602868084757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830602868084757",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066828814911787008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 呃啊好萌好像刚睡醒的潦草小猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066828755432329216"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "conversation_id": "2066828814911787008",
+        "created_at": "2026-06-16T10:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066828814911787008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHeKjIGN2G",
+              "end": 34,
+              "expanded_url": "https://x.com/xaoyou408/status/2066828814911787008/video/1",
+              "media_key": "13_2066828755432329216",
+              "start": 11,
+              "url": "https://t.co/jHeKjIGN2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066828814911787008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好潦草哈哈哈哈哈哈哈 https://t.co/jHeKjIGN2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 495,
+          "like_count": 7039,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2052
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "请叫我小优 谢谢你们喜欢💗\n^^神经病/被害妄想症/畏惧死亡/人体改造/受虐倾向\n交友🚪52）zfb口令+名",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 33,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 195
+        },
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}

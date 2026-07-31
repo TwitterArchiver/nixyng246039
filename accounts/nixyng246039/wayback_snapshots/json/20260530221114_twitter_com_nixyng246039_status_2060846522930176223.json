@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060264809183301632"
+      ],
+      "media_source_tweet_id": [
+        "2060264827327820235"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060846522930176223",
+    "created_at": "2026-05-30T22:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060846522930176223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015138980631838720",
+          "start": 3,
+          "username": "MyP0OrbRa1Ns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOhpKwrBB3",
+          "end": 57,
+          "expanded_url": "https://x.com/MyP0OrbRa1Ns/status/2060264827327820235/video/1",
+          "media_key": "7_2060264809183301632",
+          "start": 34,
+          "url": "https://t.co/nOhpKwrBB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060846522930176223",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060264827327820235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyP0OrbRa1Ns: 같이봐요♡ \n아 너무좋아ㅜㅜ https://t.co/nOhpKwrBB3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10357,
+        "height": 1024,
+        "media_key": "7_2060264809183301632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060264809183301632/pu/img/OivC0MqlE-OPgTxj.jpg",
+        "public_metrics": {
+          "view_count": 13596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060264809183301632/pu/vid/avc1/320x568/ChyoYeNP3bAhnPDn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060264809183301632/pu/vid/avc1/480x852/eRWNxn4FP1rcPdqL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060264809183301632/pu/vid/avc1/576x1024/HDXVIFbApFDTYFG7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060264809183301632/pu/pl/Cwe8S_DfvKLVu2Dl.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060264809183301632"
+          ],
+          "media_source_tweet_id": [
+            "2060264827327820235"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060846522930176223",
+        "created_at": "2026-05-30T22:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060846522930176223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015138980631838720",
+              "start": 3,
+              "username": "MyP0OrbRa1Ns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOhpKwrBB3",
+              "end": 57,
+              "expanded_url": "https://x.com/MyP0OrbRa1Ns/status/2060264827327820235/video/1",
+              "media_key": "7_2060264809183301632",
+              "start": 34,
+              "url": "https://t.co/nOhpKwrBB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060846522930176223",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060264827327820235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MyP0OrbRa1Ns: 같이봐요♡ \n아 너무좋아ㅜㅜ https://t.co/nOhpKwrBB3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060264809183301632"
+          ]
+        },
+        "author_id": "2015138980631838720",
+        "conversation_id": "2060264827327820235",
+        "created_at": "2026-05-29T07:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060264827327820235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOhpKwrBB3",
+              "end": 39,
+              "expanded_url": "https://x.com/MyP0OrbRa1Ns/status/2060264827327820235/video/1",
+              "media_key": "7_2060264809183301632",
+              "start": 16,
+              "url": "https://t.co/nOhpKwrBB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060264827327820235",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 34448,
+          "like_count": 2667,
+          "quote_count": 54,
+          "reply_count": 4,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "같이봐요♡ \n아 너무좋아ㅜㅜ https://t.co/nOhpKwrBB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 200,
+          "like_count": 2851,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 411
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T19:06:04.000Z",
+        "description": "박제가 되어버린... 돼버린? 탬버린 천재를 아시오?",
+        "id": "2015138980631838720",
+        "name": "나비부인",
+        "pinned_tweet_id": "2041166828635111719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033416148113674240/JUXFtLsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 53,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 392
+        },
+        "username": "MyP0OrbRa1Ns",
+        "verified": false
+      }
+    ]
+  }
+}

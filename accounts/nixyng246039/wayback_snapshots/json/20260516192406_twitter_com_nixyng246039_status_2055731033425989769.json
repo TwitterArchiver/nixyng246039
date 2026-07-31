@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055338352300478464"
+      ],
+      "media_source_tweet_id": [
+        "2055338363813875866"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055731033425989769",
+    "created_at": "2026-05-16T19:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055731033425989769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429055428374130693",
+          "start": 3,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nJPGsBovLs",
+          "end": 39,
+          "expanded_url": "https://x.com/Gamer94469/status/2055338363813875866/photo/1",
+          "media_key": "3_2055338352300478464",
+          "start": 16,
+          "url": "https://t.co/nJPGsBovLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055731033425989769",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055338363813875866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamer94469: https://t.co/nJPGsBovLs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055731033425989769].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055731033425989769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055731033425989769"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2055338352300478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYHV34bUAA6iOQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055338352300478464"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055338363813875866",
+        "created_at": "2026-05-15T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055338363813875866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJPGsBovLs",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2055338363813875866/photo/1",
+              "media_key": "3_2055338352300478464",
+              "start": 0,
+              "url": "https://t.co/nJPGsBovLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055338363813875866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1518,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nJPGsBovLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 193,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 296
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "Яд",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055678756539559936/lge1SDQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 289,
+          "like_count": 21433,
+          "listed_count": 1,
+          "media_count": 659,
+          "tweet_count": 5554
+        },
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

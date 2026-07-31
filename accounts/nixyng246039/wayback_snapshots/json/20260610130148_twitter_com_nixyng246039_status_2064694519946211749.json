@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064580992959172608"
+      ],
+      "media_source_tweet_id": [
+        "2064580997941989487"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064694519946211749",
+    "created_at": "2026-06-10T13:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064694519946211749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1400817171018567680",
+          "start": 3,
+          "username": "v30033000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxrIDq4spG",
+          "end": 65,
+          "expanded_url": "https://x.com/v30033000/status/2064580997941989487/photo/1",
+          "media_key": "3_2064580992959172608",
+          "start": 42,
+          "url": "https://t.co/BxrIDq4spG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064694519946211749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064580997941989487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @v30033000: リスカは切るだけじゃなくて\nためるのもすきなんだああ https://t.co/BxrIDq4spG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_2064580992959172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbdeXda0AAZRJ-.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064580992959172608"
+          ],
+          "media_source_tweet_id": [
+            "2064580997941989487"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064694519946211749",
+        "created_at": "2026-06-10T13:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064694519946211749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1400817171018567680",
+              "start": 3,
+              "username": "v30033000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxrIDq4spG",
+              "end": 65,
+              "expanded_url": "https://x.com/v30033000/status/2064580997941989487/photo/1",
+              "media_key": "3_2064580992959172608",
+              "start": 42,
+              "url": "https://t.co/BxrIDq4spG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064694519946211749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064580997941989487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @v30033000: リスカは切るだけじゃなくて\nためるのもすきなんだああ https://t.co/BxrIDq4spG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064580992959172608"
+          ]
+        },
+        "author_id": "1400817171018567680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064580997941989487",
+        "created_at": "2026-06-10T05:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064580997941989487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxrIDq4spG",
+              "end": 50,
+              "expanded_url": "https://x.com/v30033000/status/2064580997941989487/photo/1",
+              "media_key": "3_2064580992959172608",
+              "start": 27,
+              "url": "https://t.co/BxrIDq4spG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580997941989487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 20855,
+          "like_count": 2553,
+          "quote_count": 36,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "リスカは切るだけじゃなくて\nためるのもすきなんだああ https://t.co/BxrIDq4spG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 404,
+          "like_count": 5516,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1291
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T14:10:22.000Z",
+        "description": "手帳2 双極I パニック od 🐿 ひとりごと",
+        "id": "1400817171018567680",
+        "name": "ぴっぴ( ՞. ̫.՞)",
+        "pinned_tweet_id": "2030613859128824027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039545673348190208/DBZoDYJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 19,
+          "like_count": 101,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 245
+        },
+        "username": "v30033000",
+        "verified": false
+      }
+    ]
+  }
+}

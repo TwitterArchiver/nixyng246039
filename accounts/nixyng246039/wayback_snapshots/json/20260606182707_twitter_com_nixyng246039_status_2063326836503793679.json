@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063225409450434560"
+      ],
+      "media_source_tweet_id": [
+        "2063225418166231368"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063326836503793679",
+    "created_at": "2026-06-06T18:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063326836503793679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1995805194421239809",
+          "start": 3,
+          "username": "shenmiren67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6gRPGECGE",
+          "end": 52,
+          "expanded_url": "https://x.com/shenmiren67/status/2063225418166231368/photo/1",
+          "media_key": "3_2063225409450434560",
+          "start": 29,
+          "url": "https://t.co/q6gRPGECGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063326836503793679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063225418166231368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shenmiren67: 推友给我寄的帽子◉‿◉ https://t.co/q6gRPGECGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_2063225409450434560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIMlBXaYAAJTlx.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063225409450434560"
+          ],
+          "media_source_tweet_id": [
+            "2063225418166231368"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063326836503793679",
+        "created_at": "2026-06-06T18:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063326836503793679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1995805194421239809",
+              "start": 3,
+              "username": "shenmiren67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6gRPGECGE",
+              "end": 52,
+              "expanded_url": "https://x.com/shenmiren67/status/2063225418166231368/photo/1",
+              "media_key": "3_2063225409450434560",
+              "start": 29,
+              "url": "https://t.co/q6gRPGECGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063326836503793679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063225418166231368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shenmiren67: 推友给我寄的帽子◉‿◉ https://t.co/q6gRPGECGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063225409450434560"
+          ]
+        },
+        "author_id": "1995805194421239809",
+        "conversation_id": "2063225418166231368",
+        "created_at": "2026-06-06T11:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063225418166231368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6gRPGECGE",
+              "end": 35,
+              "expanded_url": "https://x.com/shenmiren67/status/2063225418166231368/photo/1",
+              "media_key": "3_2063225409450434560",
+              "start": 12,
+              "url": "https://t.co/q6gRPGECGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225418166231368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5092,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推友给我寄的帽子◉‿◉ https://t.co/q6gRPGECGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 314,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 748
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T10:40:30.000Z",
+        "description": "万般皆我 我有多重人格\n你觉得我是怎样的人 你就配怎样的我\n感谢🥹 感谢平台让我感觉到有人在意我 \n大家都好温暖🥹\n私信我不怎么回 因为我不会聊天社恐➕嘴巴笨不好意思呀\n不要让我互fo啦 你和我互动多了我会自己fo你的",
+        "id": "1995805194421239809",
+        "name": "小X",
+        "pinned_tweet_id": "2037542166885740807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028508656933957637/RCsA9YAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 62,
+          "like_count": 5280,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1066
+        },
+        "username": "shenmiren67",
+        "verified": false
+      }
+    ]
+  }
+}

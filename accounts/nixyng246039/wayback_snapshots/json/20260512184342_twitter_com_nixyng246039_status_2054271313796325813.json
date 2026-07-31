@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054271313796325813",
+    "created_at": "2026-05-12T18:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054271313796325813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010625193467867136",
+          "start": 3,
+          "username": "nutsh33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054271313796325813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054038708287082730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nutsh33: 现在主要任务是肯德基把蛋挞配方卖给华莱士\n麦当劳把薯条配方卖给华莱士\n塔斯汀把汉堡胚配方卖给华莱士\n汉堡王把汉堡配方卖给华莱士\n\n然后按照华莱士的价格卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054271313796325813",
+        "created_at": "2026-05-12T18:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054271313796325813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010625193467867136",
+              "start": 3,
+              "username": "nutsh33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054271313796325813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054038708287082730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nutsh33: 现在主要任务是肯德基把蛋挞配方卖给华莱士\n麦当劳把薯条配方卖给华莱士\n塔斯汀把汉堡胚配方卖给华莱士\n汉堡王把汉堡配方卖给华莱士\n\n然后按照华莱士的价格卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010625193467867136",
+        "conversation_id": "2054038708287082730",
+        "created_at": "2026-05-12T03:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054038708287082730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054038708287082730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17247,
+          "like_count": 400,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "现在主要任务是肯德基把蛋挞配方卖给华莱士\n麦当劳把薯条配方卖给华莱士\n塔斯汀把汉堡胚配方卖给华莱士\n汉堡王把汉堡配方卖给华莱士\n\n然后按照华莱士的价格卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 162,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "日向 夏 Himukai Natsu ‖ 数码圈 ‖ 健身圈 ‖ Trance ‖ \n可爱、有趣的、日常 ‖ @UNIQLO_JP Staff ‖ 小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "UNIQLO_JP"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "Natsu H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037968637076844544/_IfjcZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 815,
+          "like_count": 1004,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 1588
+        },
+        "username": "nutsh33",
+        "verified": true
+      }
+    ]
+  }
+}

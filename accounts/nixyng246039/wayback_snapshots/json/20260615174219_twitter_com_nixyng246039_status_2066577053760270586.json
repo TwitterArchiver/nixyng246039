@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066402786317832509",
+    "created_at": "2026-06-15T17:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066577053760270586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        },
+        {
+          "end": 25,
+          "id": "2027601407277469697",
+          "start": 14,
+          "username": "checheguye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066577053760270586",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066576749429940705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 @checheguye 我是汉子男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066402786317832509",
+        "created_at": "2026-06-15T17:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066577053760270586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            },
+            {
+              "end": 25,
+              "id": "2027601407277469697",
+              "start": 14,
+              "username": "checheguye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066577053760270586",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066576749429940705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 @checheguye 我是汉子男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760994638478118912",
+        "conversation_id": "2066402786317832509",
+        "created_at": "2026-06-15T17:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066576749429940705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            },
+            {
+              "end": 25,
+              "id": "2027601407277469697",
+              "start": 14,
+              "username": "checheguye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066576749429940705",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066576103045812286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 @checheguye 我是男子汉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 493,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1971
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "Don't leave me on my own，\nI'm difficult I know，\nBut I really need a chance to be someone，\nSomeone I've never known\n性别男",
+        "id": "1760994638478118912",
+        "location": "距离冰岛 9999 千米的小众岛",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 1028,
+          "like_count": 33724,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 5508
+        },
+        "username": "3timesdie333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T04:27:40.000Z",
+        "description": "直男…匿名：https://t.co/cgvsCNFXkT可以找我聊天，可以加微信qq，无🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guye23389",
+                "end": 29,
+                "expanded_url": "https://ngl.link/guye23389",
+                "start": 6,
+                "url": "https://t.co/cgvsCNFXkT"
+              }
+            ]
+          }
+        },
+        "id": "2027601407277469697",
+        "name": "车车猫",
+        "pinned_tweet_id": "2063650402541916556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063493457927352320/EgAY6EzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 62,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 253
+        },
+        "username": "checheguye",
+        "verified": false
+      }
+    ]
+  }
+}

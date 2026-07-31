@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2059669614519525396",
+    "created_at": "2026-05-27T16:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059669614519525396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1214737620749578240",
+          "start": 3,
+          "username": "NIJISANJI_World"
+        },
+        {
+          "end": 135,
+          "id": "1545562635650957312",
+          "start": 126,
+          "username": "AiaAmare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059669614519525396",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 863
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059530151701119104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIJISANJI_World: Let's wish a very Happy Birthday to the master of dungeons, the angel of art, and the goobiest of goobs, @AiaAmare! 👼⭐…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2059530139898400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTrwBja0AAGubc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2059669614519525396",
+        "created_at": "2026-05-27T16:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059669614519525396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1214737620749578240",
+              "start": 3,
+              "username": "NIJISANJI_World"
+            },
+            {
+              "end": 135,
+              "id": "1545562635650957312",
+              "start": 126,
+              "username": "AiaAmare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059669614519525396",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 863
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059530151701119104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NIJISANJI_World: Let's wish a very Happy Birthday to the master of dungeons, the angel of art, and the goobiest of goobs, @AiaAmare! 👼⭐…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059530139898400768"
+          ]
+        },
+        "author_id": "1214737620749578240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2059530151701119104",
+        "created_at": "2026-05-27T07:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059530151701119104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 120,
+              "tag": "AiaDay2026"
+            },
+            {
+              "end": 145,
+              "start": 132,
+              "tag": "NIJISANJI_EN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1545562635650957312",
+              "start": 105,
+              "username": "AiaAmare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfxOL0SAdI",
+              "end": 169,
+              "expanded_url": "https://x.com/NIJISANJI_World/status/2059530151701119104/photo/1",
+              "media_key": "3_2059530139898400768",
+              "start": 146,
+              "url": "https://t.co/EfxOL0SAdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059530151701119104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 51684,
+          "like_count": 5188,
+          "quote_count": 8,
+          "reply_count": 65,
+          "retweet_count": 863
+        },
+        "reply_settings": "everyone",
+        "text": "Let's wish a very Happy Birthday to the master of dungeons, the angel of art, and the goobiest of goobs, @AiaAmare! 👼⭐\n\n#AiaDay2026 #NIJISANJI_EN https://t.co/EfxOL0SAdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 195,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 356
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T02:37:35.000Z",
+        "description": "#NIJISANJI_EN Official Account | Check out our page to get updates and info on our Livers! | Partner account: @nijisanji_app #NIJIArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "NIJIArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "nijisanji_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/nijisanji_en…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/nijisanji_en?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/IPE1Yk4pfE"
+              }
+            ]
+          }
+        },
+        "id": "1214737620749578240",
+        "name": "NIJISANJI EN Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534055366748536832/70Yonwzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906008,
+          "following_count": 34,
+          "like_count": 774,
+          "listed_count": 5103,
+          "media_count": 3580,
+          "tweet_count": 4861
+        },
+        "url": "https://t.co/IPE1Yk4pfE",
+        "username": "NIJISANJI_World",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T00:17:56.000Z",
+        "description": "I'm Aia Amare, the Angelic Maiden of NIJISANJI EN!👼⭐ にじさんじEN所属天界の少女アイア・アマレです。| ママ: @Noy_0_0\n \n🎨: #AmareAtelier\n#ILUNA\nBanner: sunsetlcc\nPFP: mayurikaichou",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 97,
+                "tag": "AmareAtelier"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "ILUNA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Noy_0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCN68L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+                "start": 0,
+                "url": "https://t.co/JtqUOwZaBp"
+              }
+            ]
+          }
+        },
+        "id": "1545562635650957312",
+        "location": "Institute of Mystics",
+        "name": "Aia Amare 👼⭐NIJISANJI EN",
+        "pinned_tweet_id": "2058915993137623143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059483458876121088/ErdA3dUI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387409,
+          "following_count": 560,
+          "like_count": 15354,
+          "listed_count": 3006,
+          "media_count": 2117,
+          "tweet_count": 9075
+        },
+        "url": "https://t.co/JtqUOwZaBp",
+        "username": "AiaAmare",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961017694515535872"
+      ],
+      "media_source_tweet_id": [
+        "1961017700773511209"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066824960019251259",
+    "created_at": "2026-06-16T10:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066824960019251259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1318416163777376257",
+          "start": 3,
+          "username": "hima_kaz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JAY6vnhXDG",
+          "end": 52,
+          "expanded_url": "https://x.com/hima_kaz/status/1961017700773511209/photo/1",
+          "media_key": "3_1961017694515535872",
+          "start": 29,
+          "url": "https://t.co/JAY6vnhXDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824960019251259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961017700773511209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hima_kaz: 連載再開しました！(日丸屋) https://t.co/JAY6vnhXDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1961017694515535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbvNAfaoAAdfnU.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961017694515535872"
+          ],
+          "media_source_tweet_id": [
+            "1961017700773511209"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066824960019251259",
+        "created_at": "2026-06-16T10:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824960019251259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1318416163777376257",
+              "start": 3,
+              "username": "hima_kaz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAY6vnhXDG",
+              "end": 52,
+              "expanded_url": "https://x.com/hima_kaz/status/1961017700773511209/photo/1",
+              "media_key": "3_1961017694515535872",
+              "start": 29,
+              "url": "https://t.co/JAY6vnhXDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824960019251259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961017700773511209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hima_kaz: 連載再開しました！(日丸屋) https://t.co/JAY6vnhXDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961017694515535872"
+          ]
+        },
+        "author_id": "1318416163777376257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961017700773511209",
+        "created_at": "2025-08-28T10:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961017700773511209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAY6vnhXDG",
+              "end": 38,
+              "expanded_url": "https://x.com/hima_kaz/status/1961017700773511209/photo/1",
+              "media_key": "3_1961017694515535872",
+              "start": 15,
+              "url": "https://t.co/JAY6vnhXDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961017700773511209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2447,
+          "impression_count": 1477306,
+          "like_count": 55688,
+          "quote_count": 558,
+          "reply_count": 82,
+          "retweet_count": 11122
+        },
+        "reply_settings": "everyone",
+        "text": "連載再開しました！(日丸屋) https://t.co/JAY6vnhXDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 495,
+          "like_count": 7015,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2039
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T04:58:34.000Z",
+        "description": "『ヘタリアWorld☆Stars』(少年ジャンプ＋)、お仕事関連の宣伝、情報その他をゆるりと発信していきます。日丸屋本人の発信には(日丸屋)が付きます。https://t.co/zD7HyxLk9M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shonenjumpplus.com/episode/108334…",
+                "end": 99,
+                "expanded_url": "https://shonenjumpplus.com/episode/10833497643049549836",
+                "start": 76,
+                "url": "https://t.co/zD7HyxLk9M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jumpsq.shueisha.co.jp/contents/sp_pr…",
+                "end": 23,
+                "expanded_url": "https://jumpsq.shueisha.co.jp/contents/sp_primeministerclub/",
+                "start": 0,
+                "url": "https://t.co/IKu5iNOnOz"
+              }
+            ]
+          }
+        },
+        "id": "1318416163777376257",
+        "name": "日丸屋秀和 公式",
+        "pinned_tweet_id": "2046967526752764142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319530891605995521/YY9bkqZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310492,
+          "following_count": 4,
+          "like_count": 15,
+          "listed_count": 1345,
+          "media_count": 287,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/IKu5iNOnOz",
+        "username": "hima_kaz",
+        "verified": false
+      }
+    ]
+  }
+}

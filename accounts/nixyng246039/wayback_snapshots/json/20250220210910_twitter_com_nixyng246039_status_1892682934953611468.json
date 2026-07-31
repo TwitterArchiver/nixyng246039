@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891808718557413378"
+      ],
+      "media_source_tweet_id": [
+        "1891808856193323184"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1892682934953611468",
+    "created_at": "2025-02-20T21:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T22:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892682934953611468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Fulgatus",
+          "probability": 0.8099,
+          "start": 38,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "Fulgatus"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1537228325159985153",
+          "start": 3,
+          "username": "mey_aster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YRJ4nk5R8Y",
+          "end": 70,
+          "expanded_url": "https://x.com/mey_aster/status/1891808856193323184/photo/1",
+          "media_key": "3_1891808718557413378",
+          "start": 47,
+          "url": "https://t.co/YRJ4nk5R8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892682934953611468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 916
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891808856193323184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mey_aster: \"Give me that shit.\"\n\n#Fulgatus https://t.co/YRJ4nk5R8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1891808718557413378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEOAZyaAAIGjGB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891808718557413378"
+          ],
+          "media_source_tweet_id": [
+            "1891808856193323184"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1892682934953611468",
+        "created_at": "2025-02-20T21:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T22:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892682934953611468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Fulgatus",
+              "probability": 0.8099,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "Fulgatus"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1537228325159985153",
+              "start": 3,
+              "username": "mey_aster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRJ4nk5R8Y",
+              "end": 70,
+              "expanded_url": "https://x.com/mey_aster/status/1891808856193323184/photo/1",
+              "media_key": "3_1891808718557413378",
+              "start": 47,
+              "url": "https://t.co/YRJ4nk5R8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892682934953611468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 916
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891808856193323184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mey_aster: \"Give me that shit.\"\n\n#Fulgatus https://t.co/YRJ4nk5R8Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891808718557413378"
+          ]
+        },
+        "author_id": "1537228325159985153",
+        "conversation_id": "1891808856193323184",
+        "created_at": "2025-02-18T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891808856193323184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Fulgatus",
+              "probability": 0.7463,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "Fulgatus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRJ4nk5R8Y",
+              "end": 55,
+              "expanded_url": "https://x.com/mey_aster/status/1891808856193323184/photo/1",
+              "media_key": "3_1891808718557413378",
+              "start": 32,
+              "url": "https://t.co/YRJ4nk5R8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891808856193323184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 750,
+          "impression_count": 95755,
+          "like_count": 10483,
+          "quote_count": 28,
+          "reply_count": 32,
+          "retweet_count": 916
+        },
+        "reply_settings": "everyone",
+        "text": "\"Give me that shit.\"\n\n#Fulgatus https://t.co/YRJ4nk5R8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "鸮隼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T00:20:05.000Z",
+        "description": "🐏FA | NIJISANJI EN | Lurker | Grateful to kind Comfydants",
+        "id": "1537228325159985153",
+        "location": "earth",
+        "name": "mey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609254835240710146/gSahUD9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 44,
+          "like_count": 12460,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1441
+        },
+        "username": "mey_aster",
+        "verified": false
+      }
+    ]
+  }
+}

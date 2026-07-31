@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065770899534762345",
+    "created_at": "2026-06-14T08:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066070746078544070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        },
+        {
+          "end": 28,
+          "id": "1876439318929231873",
+          "start": 12,
+          "username": "meow_me0w_me0w_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066070746078544070",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066047822122910164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 @meow_me0w_me0w_ 哦哦哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065770899534762345",
+        "created_at": "2026-06-14T08:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066070746078544070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            },
+            {
+              "end": 28,
+              "id": "1876439318929231873",
+              "start": 12,
+              "username": "meow_me0w_me0w_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066070746078544070",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066047822122910164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 @meow_me0w_me0w_ 哦哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2065770899534762345",
+        "created_at": "2026-06-14T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066047822122910164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            },
+            {
+              "end": 30,
+              "id": "1876439318929231873",
+              "start": 14,
+              "username": "meow_me0w_me0w_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066047822122910164",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066046872943215078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 @meow_me0w_me0w_ 你别笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 476,
+          "like_count": 6549,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1752
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "我是木頭，我愛你們",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@utopia0923_",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@utopia0923_",
+                "start": 0,
+                "url": "https://t.co/sUSgEQkST1"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2065802051372961846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 327,
+          "like_count": 37586,
+          "listed_count": 5,
+          "media_count": 719,
+          "tweet_count": 21554
+        },
+        "url": "https://t.co/sUSgEQkST1",
+        "username": "Chloris923",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T01:23:15.000Z",
+        "description": "宇宙濒临毁灭，唯有簇拥在宇宙主佛习近平习总书记及其党中央领导下方可涅槃重生，轮转再活。\n法轮天天转，功力日日深。\n骂我吧，别骂我平哥",
+        "id": "1876439318929231873",
+        "name": "宇宙主佛习近平⎛⎝.⎛⓿⏝⏝⓿⎞.⎠⎞",
+        "pinned_tweet_id": "2047643397561950300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933406563836080128/Mm4HrNDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 4389,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 645
+        },
+        "username": "meow_me0w_me0w_",
+        "verified": false
+      }
+    ]
+  }
+}

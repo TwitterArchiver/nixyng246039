@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-05T13:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062895261874082089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944253255124504576",
+          "start": 0,
+          "username": "L92579L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062895261874082089",
+    "in_reply_to_user_id": "1944253255124504576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062700222636306785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L92579L 谢谢关心呀（∩▽∩）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-05T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062895261874082089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944253255124504576",
+              "start": 0,
+              "username": "L92579L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062895261874082089",
+        "in_reply_to_user_id": "1944253255124504576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062700222636306785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L92579L 谢谢关心呀（∩▽∩）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944253255124504576",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-05T00:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062700222636306785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062700222636306785",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 不，身體傷害太大，可以選擇其它的什麼替代一下，希望你一切安好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 287,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 646
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T04:31:25.000Z",
+        "description": "14，學生/喜愛數碼与電子遊戲🎮，主要玩音game和fps類，平常會發發遊戲日常和回復推文/中文，日本語、English/无精神疾病，不搞黨爭話題。",
+        "id": "1944253255124504576",
+        "location": "Taipei City, Taiwan",
+        "name": "Lynn4331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062683910451134464/4KY-ORn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 38,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 420
+        },
+        "username": "L92579L",
+        "verified": true
+      }
+    ]
+  }
+}

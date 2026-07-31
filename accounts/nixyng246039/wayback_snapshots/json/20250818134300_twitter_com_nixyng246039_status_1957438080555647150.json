@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956439157695533056",
+        "3_1956439166654570496",
+        "3_1956439178239197184",
+        "3_1956439185575022593"
+      ],
+      "media_source_tweet_id": [
+        "1956447847395844569",
+        "1956447847395844569",
+        "1956447847395844569",
+        "1956447847395844569"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1957438080555647150",
+    "created_at": "2025-08-18T13:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T14:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957438080555647150"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "zuttoღo",
+          "probability": 0.7289,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "zuttoღo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1413339084076978179",
+          "start": 3,
+          "username": "Petra_Gurin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwb3qEPDVP",
+          "end": 94,
+          "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+          "media_key": "3_1956439157695533056",
+          "start": 71,
+          "url": "https://t.co/kwb3qEPDVP"
+        },
+        {
+          "display_url": "pic.x.com/kwb3qEPDVP",
+          "end": 94,
+          "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+          "media_key": "3_1956439166654570496",
+          "start": 71,
+          "url": "https://t.co/kwb3qEPDVP"
+        },
+        {
+          "display_url": "pic.x.com/kwb3qEPDVP",
+          "end": 94,
+          "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+          "media_key": "3_1956439178239197184",
+          "start": 71,
+          "url": "https://t.co/kwb3qEPDVP"
+        },
+        {
+          "display_url": "pic.x.com/kwb3qEPDVP",
+          "end": 94,
+          "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+          "media_key": "3_1956439185575022593",
+          "start": 71,
+          "url": "https://t.co/kwb3qEPDVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957438080555647150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3570
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956447847395844569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Petra_Gurin: forever friends, through the seasons! 🌸☀️🍁❄️\n#zuttoღo https://t.co/kwb3qEPDVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3250,
+        "media_key": "3_1956439157695533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyarDFsbUAATMdK.jpg",
+        "width": 1950
+      },
+      {
+        "height": 3250,
+        "media_key": "3_1956439166654570496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyarDnEbYAADEs2.jpg",
+        "width": 1950
+      },
+      {
+        "height": 3250,
+        "media_key": "3_1956439178239197184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyarESOawAAW8vr.jpg",
+        "width": 1950
+      },
+      {
+        "height": 3250,
+        "media_key": "3_1956439185575022593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyarEtjakAEGAa5.jpg",
+        "width": 1950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956439157695533056",
+            "3_1956439166654570496",
+            "3_1956439178239197184",
+            "3_1956439185575022593"
+          ],
+          "media_source_tweet_id": [
+            "1956447847395844569",
+            "1956447847395844569",
+            "1956447847395844569",
+            "1956447847395844569"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1957438080555647150",
+        "created_at": "2025-08-18T13:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957438080555647150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "zuttoღo",
+              "probability": 0.7289,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "zuttoღo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1413339084076978179",
+              "start": 3,
+              "username": "Petra_Gurin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 94,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439157695533056",
+              "start": 71,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 94,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439166654570496",
+              "start": 71,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 94,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439178239197184",
+              "start": 71,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 94,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439185575022593",
+              "start": 71,
+              "url": "https://t.co/kwb3qEPDVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957438080555647150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3570
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956447847395844569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Petra_Gurin: forever friends, through the seasons! 🌸☀️🍁❄️\n#zuttoღo https://t.co/kwb3qEPDVP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956439157695533056",
+            "3_1956439166654570496",
+            "3_1956439178239197184",
+            "3_1956439185575022593"
+          ]
+        },
+        "author_id": "1413339084076978179",
+        "conversation_id": "1956447847395844569",
+        "created_at": "2025-08-15T20:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T21:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956447847395844569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "zuttoღo",
+              "probability": 0.7088,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "zuttoღo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 77,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439157695533056",
+              "start": 54,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 77,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439166654570496",
+              "start": 54,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 77,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439178239197184",
+              "start": 54,
+              "url": "https://t.co/kwb3qEPDVP"
+            },
+            {
+              "display_url": "pic.x.com/kwb3qEPDVP",
+              "end": 77,
+              "expanded_url": "https://x.com/Petra_Gurin/status/1956447847395844569/photo/1",
+              "media_key": "3_1956439185575022593",
+              "start": 54,
+              "url": "https://t.co/kwb3qEPDVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956447847395844569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1094,
+          "impression_count": 184476,
+          "like_count": 18184,
+          "quote_count": 23,
+          "reply_count": 40,
+          "retweet_count": 3570
+        },
+        "reply_settings": "everyone",
+        "text": "forever friends, through the seasons! 🌸☀️🍁❄️\n#zuttoღo https://t.co/kwb3qEPDVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T03:34:33.000Z",
+        "description": "your neighborhood penguin! 🧡 \nにじさんじEN所属 🌈🕒 ペンギンのペトラ・グリンです 🐧┆\n#NIJISANJI_EN #OBSYDIA #zuttoღo #NIJISEUP┆\n🎨 #PetraArt┆ママ 🍑 @momoco_haru┆header @yechuan030┆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 61,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "OBSYDIA"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "zuttoღo"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "NIJISEUP"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "tag": "PetraArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "momoco_haru"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "yechuan030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@petragurin",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@petragurin",
+                "start": 0,
+                "url": "https://t.co/jgRltmZau9"
+              }
+            ]
+          }
+        },
+        "id": "1413339084076978179",
+        "name": "Petra Gurin 🐧❄️ NIJISANJI EN",
+        "pinned_tweet_id": "1863596337884955113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907241979207114752/SRMRTtNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585726,
+          "following_count": 800,
+          "like_count": 71299,
+          "listed_count": 5441,
+          "media_count": 2480,
+          "tweet_count": 27795
+        },
+        "url": "https://t.co/jgRltmZau9",
+        "username": "Petra_Gurin",
+        "verified": false
+      }
+    ]
+  }
+}

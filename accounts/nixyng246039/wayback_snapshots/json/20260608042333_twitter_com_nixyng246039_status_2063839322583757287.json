@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063639525851557888"
+      ],
+      "media_source_tweet_id": [
+        "2063639859869151583"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063839322583757287",
+    "created_at": "2026-06-08T04:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063839322583757287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1666607501406531585",
+          "start": 3,
+          "username": "Bealouis_illu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/clxhgONvFR",
+          "end": 56,
+          "expanded_url": "https://x.com/Bealouis_illu/status/2063639859869151583/photo/1",
+          "media_key": "3_2063639525851557888",
+          "start": 33,
+          "url": "https://t.co/clxhgONvFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063839322583757287",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063639859869151583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bealouis_illu: wosemi samaaa https://t.co/clxhgONvFR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2063639525851557888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOFNxLWcAApx7E.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063639525851557888"
+          ],
+          "media_source_tweet_id": [
+            "2063639859869151583"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063839322583757287",
+        "created_at": "2026-06-08T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063839322583757287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1666607501406531585",
+              "start": 3,
+              "username": "Bealouis_illu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/clxhgONvFR",
+              "end": 56,
+              "expanded_url": "https://x.com/Bealouis_illu/status/2063639859869151583/photo/1",
+              "media_key": "3_2063639525851557888",
+              "start": 33,
+              "url": "https://t.co/clxhgONvFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063839322583757287",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063639859869151583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bealouis_illu: wosemi samaaa https://t.co/clxhgONvFR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063639525851557888"
+          ]
+        },
+        "author_id": "1666607501406531585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063639859869151583",
+        "created_at": "2026-06-07T15:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063639859869151583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clxhgONvFR",
+              "end": 37,
+              "expanded_url": "https://x.com/Bealouis_illu/status/2063639859869151583/photo/1",
+              "media_key": "3_2063639525851557888",
+              "start": 14,
+              "url": "https://t.co/clxhgONvFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063639859869151583",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3800,
+          "like_count": 599,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "wosemi samaaa https://t.co/clxhgONvFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 351,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 971
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:46:37.000Z",
+        "description": "🎨🖌️ fan artist | Current brainrot: 🌈🕒, HSR & GI | DM or ✉️ for comm inquiries\n20↑ | kamioshis 🐣🎡|🎀✨\n✉️bealouisillustration@outlook.com",
+        "id": "1666607501406531585",
+        "location": "ic: RaaCos",
+        "name": "Bealouis ✨",
+        "pinned_tweet_id": "1996392539159752981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981469282803273728/zWTdrKu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 398,
+          "like_count": 25170,
+          "listed_count": 10,
+          "media_count": 587,
+          "tweet_count": 4889
+        },
+        "username": "Bealouis_illu",
+        "verified": false
+      }
+    ]
+  }
+}

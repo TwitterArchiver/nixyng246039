@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064072195014332416"
+      ],
+      "media_source_tweet_id": [
+        "2064072343723393521"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064142834018705730",
+    "created_at": "2026-06-09T00:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064142834018705730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545562635650957312",
+          "start": 3,
+          "username": "AiaAmare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRmQNVn75u",
+          "end": 56,
+          "expanded_url": "https://x.com/AiaAmare/status/2064072343723393521/photo/1",
+          "media_key": "3_2064072195014332416",
+          "start": 33,
+          "url": "https://t.co/IRmQNVn75u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064142834018705730",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064072343723393521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AiaAmare: lazy day at work😴💤 https://t.co/IRmQNVn75u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064072195014332416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUOubaXEAAFUk3.jpg",
+        "width": 1684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064072195014332416"
+          ],
+          "media_source_tweet_id": [
+            "2064072343723393521"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064142834018705730",
+        "created_at": "2026-06-09T00:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064142834018705730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545562635650957312",
+              "start": 3,
+              "username": "AiaAmare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRmQNVn75u",
+              "end": 56,
+              "expanded_url": "https://x.com/AiaAmare/status/2064072343723393521/photo/1",
+              "media_key": "3_2064072195014332416",
+              "start": 33,
+              "url": "https://t.co/IRmQNVn75u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064142834018705730",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064072343723393521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AiaAmare: lazy day at work😴💤 https://t.co/IRmQNVn75u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064072195014332416"
+          ]
+        },
+        "author_id": "1545562635650957312",
+        "conversation_id": "2064072343723393521",
+        "created_at": "2026-06-08T19:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064072343723393521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRmQNVn75u",
+              "end": 42,
+              "expanded_url": "https://x.com/AiaAmare/status/2064072343723393521/photo/1",
+              "media_key": "3_2064072195014332416",
+              "start": 19,
+              "url": "https://t.co/IRmQNVn75u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064072343723393521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4778,
+          "like_count": 812,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "lazy day at work😴💤 https://t.co/IRmQNVn75u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 388,
+          "like_count": 5113,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1132
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:17:56.000Z",
+        "description": "I'm Aia Amare, the Angelic Maiden of NIJISANJI EN!👼⭐ にじさんじEN所属天界の少女アイア・アマレです。| ママ: @Noy_0_0\n \n🎨: #AmareAtelier\n#ILUNA\nBanner: sunsetlcc\nPFP: mayurikaichou",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 97,
+                "tag": "AmareAtelier"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "ILUNA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Noy_0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCN68L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+                "start": 0,
+                "url": "https://t.co/JtqUOwZIqX"
+              }
+            ]
+          }
+        },
+        "id": "1545562635650957312",
+        "location": "Institute of Mystics",
+        "name": "Aia Amare 👼⭐NIJISANJI EN",
+        "pinned_tweet_id": "2063848441889878463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064076582528897024/dr7yWLJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386823,
+          "following_count": 563,
+          "like_count": 15486,
+          "listed_count": 2993,
+          "media_count": 2140,
+          "tweet_count": 9165
+        },
+        "url": "https://t.co/JtqUOwZIqX",
+        "username": "AiaAmare",
+        "verified": true
+      }
+    ]
+  }
+}

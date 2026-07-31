@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2068921144854651006",
+    "created_at": "2026-06-23T11:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069379549259800927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofuwo8964"
+        },
+        {
+          "end": 19,
+          "id": "1954426904712536064",
+          "start": 12,
+          "username": "_14_ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069379549259800927",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068921144854651006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofuwo8964 @_14_ii 为啥要对别人的恶意这么大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2068921139775311872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZI0KSakAArn5B.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2068921144854651006",
+        "created_at": "2026-06-23T11:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069379549259800927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            },
+            {
+              "end": 19,
+              "id": "1954426904712536064",
+              "start": 12,
+              "username": "_14_ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069379549259800927",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068921144854651006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 @_14_ii 为啥要对别人的恶意这么大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068921139775311872"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068921144854651006",
+        "created_at": "2026-06-22T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068921144854651006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgslwae4oV",
+              "end": 62,
+              "expanded_url": "https://x.com/mofuwo8964/status/2068921144854651006/photo/1",
+              "media_key": "3_2068921139775311872",
+              "start": 39,
+              "url": "https://t.co/Kgslwae4oV"
+            },
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2068919739750166667",
+              "start": 63,
+              "url": "https://t.co/v0XiO18I5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068921144854651006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 83900,
+          "like_count": 652,
+          "quote_count": 3,
+          "reply_count": 126,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068919739750166667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是类似这种帖子的仇恨辱骂行为，看到了我会立即拉黑，关注这种的也会被我连坐🙏 https://t.co/Kgslwae4oV https://t.co/v0XiO18I5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 504,
+          "like_count": 7306,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 997,
+          "like_count": 4158,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3349
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港|Omni|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En |互fo/擴列 大歡迎|高強度上網\n［精神狀態偶爾不穩 很友好請放心撫摸］\n歡迎小窗互動 出來線下面基呀 ♡\n*ଘ 幸せが私に来ますように! ‧₊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_14_ii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_14_ii",
+                "start": 0,
+                "url": "https://t.co/JTbL0TBwP6"
+              }
+            ]
+          }
+        },
+        "id": "1954426904712536064",
+        "location": "🚪52/88/188",
+        "name": "好痛苦可能因為我們是青少年",
+        "pinned_tweet_id": "2068593188932329967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 131,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/JTbL0TBwP6",
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

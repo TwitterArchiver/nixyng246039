@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057559670022455296"
+      ],
+      "media_source_tweet_id": [
+        "2057559675923787777"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2057600172868448367",
+    "created_at": "2026-05-21T23:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057600172868448367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002534097584058368",
+          "start": 3,
+          "username": "9cqcx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ceJYVAmFkc",
+          "end": 34,
+          "expanded_url": "https://x.com/9cqcx/status/2057559675923787777/photo/1",
+          "media_key": "3_2057559670022455296",
+          "start": 11,
+          "url": "https://t.co/ceJYVAmFkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057600172868448367",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057559675923787777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9cqcx: https://t.co/ceJYVAmFkc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2057559670022455296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3rnlPbwAAtPiR.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057559670022455296"
+          ],
+          "media_source_tweet_id": [
+            "2057559675923787777"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2057600172868448367",
+        "created_at": "2026-05-21T23:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057600172868448367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002534097584058368",
+              "start": 3,
+              "username": "9cqcx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceJYVAmFkc",
+              "end": 34,
+              "expanded_url": "https://x.com/9cqcx/status/2057559675923787777/photo/1",
+              "media_key": "3_2057559670022455296",
+              "start": 11,
+              "url": "https://t.co/ceJYVAmFkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057600172868448367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057559675923787777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9cqcx: https://t.co/ceJYVAmFkc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057559670022455296"
+          ]
+        },
+        "author_id": "2002534097584058368",
+        "conversation_id": "2057559675923787777",
+        "created_at": "2026-05-21T20:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057559675923787777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceJYVAmFkc",
+              "end": 23,
+              "expanded_url": "https://x.com/9cqcx/status/2057559675923787777/photo/1",
+              "media_key": "3_2057559670022455296",
+              "start": 0,
+              "url": "https://t.co/ceJYVAmFkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057559675923787777",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 2598,
+          "like_count": 457,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ceJYVAmFkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 196,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 346
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T00:18:39.000Z",
+        "description": "🇯🇵18 鳥海(Torimi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "torimi.straw.page",
+                "end": 23,
+                "expanded_url": "https://torimi.straw.page",
+                "start": 0,
+                "url": "https://t.co/2Ry6YscpEJ"
+              }
+            ]
+          }
+        },
+        "id": "2002534097584058368",
+        "name": "ْ",
+        "pinned_tweet_id": "2011432409267687814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050170106450427904/kZP5bKWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/2Ry6YscpEJ",
+        "username": "9cqcx",
+        "verified": false
+      }
+    ]
+  }
+}

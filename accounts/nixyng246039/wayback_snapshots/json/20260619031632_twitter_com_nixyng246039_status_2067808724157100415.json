@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067587743232970752"
+      ],
+      "media_source_tweet_id": [
+        "2067587754293354526"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2067808724157100415",
+    "created_at": "2026-06-19T03:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067808724157100415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829867271592026112",
+          "start": 3,
+          "username": "Shivam3228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYR9KvHIXM",
+          "end": 43,
+          "expanded_url": "https://x.com/Shivam3228/status/2067587754293354526/photo/1",
+          "media_key": "3_2067587743232970752",
+          "start": 20,
+          "url": "https://t.co/UYR9KvHIXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067808724157100415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067587754293354526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shivam3228: 你们好 https://t.co/UYR9KvHIXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2067587743232970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGMGRFaUAAA3zz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067587743232970752"
+          ],
+          "media_source_tweet_id": [
+            "2067587754293354526"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2067808724157100415",
+        "created_at": "2026-06-19T03:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067808724157100415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYR9KvHIXM",
+              "end": 43,
+              "expanded_url": "https://x.com/Shivam3228/status/2067587754293354526/photo/1",
+              "media_key": "3_2067587743232970752",
+              "start": 20,
+              "url": "https://t.co/UYR9KvHIXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067808724157100415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587754293354526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shivam3228: 你们好 https://t.co/UYR9KvHIXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067587743232970752"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2067587754293354526",
+        "created_at": "2026-06-18T12:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067587754293354526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYR9KvHIXM",
+              "end": 27,
+              "expanded_url": "https://x.com/Shivam3228/status/2067587754293354526/photo/1",
+              "media_key": "3_2067587743232970752",
+              "start": 4,
+              "url": "https://t.co/UYR9KvHIXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067587754293354526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 980,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你们好 https://t.co/UYR9KvHIXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 503,
+          "like_count": 7101,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2067588292372299787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 446,
+          "like_count": 1432,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

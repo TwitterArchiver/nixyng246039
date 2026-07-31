@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064622250243117057"
+      ],
+      "media_source_tweet_id": [
+        "2064622319080022049"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064645748235423866",
+    "created_at": "2026-06-10T09:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064645748235423866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599377355503726592",
+          "start": 3,
+          "username": "meiiiTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cs4lHRCXPR",
+          "end": 37,
+          "expanded_url": "https://x.com/meiiiTvT/status/2064622319080022049/video/1",
+          "media_key": "13_2064622250243117057",
+          "start": 14,
+          "url": "https://t.co/Cs4lHRCXPR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064645748235423866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064622319080022049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiiiTvT: https://t.co/Cs4lHRCXPR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5433,
+        "height": 1280,
+        "media_key": "13_2064622250243117057",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064622250243117057/img/RmsnaT1KzLz4pFcI.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064622250243117057/vid/avc1/320x568/V1XQzgbOfSzGTz_-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064622250243117057/vid/avc1/480x852/ErVmlC4iJW2RuTM7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064622250243117057/vid/avc1/720x1280/hWGgtS3rSOiilTvH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064622250243117057/pl/EIQX1qlwsDHpjdRU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064622250243117057"
+          ],
+          "media_source_tweet_id": [
+            "2064622319080022049"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064645748235423866",
+        "created_at": "2026-06-10T09:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064645748235423866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599377355503726592",
+              "start": 3,
+              "username": "meiiiTvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cs4lHRCXPR",
+              "end": 37,
+              "expanded_url": "https://x.com/meiiiTvT/status/2064622319080022049/video/1",
+              "media_key": "13_2064622250243117057",
+              "start": 14,
+              "url": "https://t.co/Cs4lHRCXPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064645748235423866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064622319080022049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiiiTvT: https://t.co/Cs4lHRCXPR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064622250243117057"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "conversation_id": "2064622319080022049",
+        "created_at": "2026-06-10T08:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064622319080022049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cs4lHRCXPR",
+              "end": 23,
+              "expanded_url": "https://x.com/meiiiTvT/status/2064622319080022049/video/1",
+              "media_key": "13_2064622250243117057",
+              "start": 0,
+              "url": "https://t.co/Cs4lHRCXPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064622319080022049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Cs4lHRCXPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 401,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1262
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060007971237904384/XKElbklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 444,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2445
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

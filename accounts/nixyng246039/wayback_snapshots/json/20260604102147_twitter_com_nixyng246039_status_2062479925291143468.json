@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2062479925291143468",
+    "created_at": "2026-06-04T10:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062479925291143468"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 22,
+          "tag": "DevilsInvitation"
+        },
+        {
+          "end": 114,
+          "start": 101,
+          "tag": "NIJISANJI_EN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1214737620749578240",
+          "start": 3,
+          "username": "NIJISANJI_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062479925291143468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062459602911060208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIJISANJI_World: 【#DevilsInvitation merch announcement】\n\nNew merch will soon be available on the #NIJISANJI_EN Official Store!\n\n⏰ Sales…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2062459591221559296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9UEiJbwAAsz5y.jpg",
+        "width": 1465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2062479925291143468",
+        "created_at": "2026-06-04T10:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062479925291143468"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 22,
+              "tag": "DevilsInvitation"
+            },
+            {
+              "end": 114,
+              "start": 101,
+              "tag": "NIJISANJI_EN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1214737620749578240",
+              "start": 3,
+              "username": "NIJISANJI_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062479925291143468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062459602911060208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NIJISANJI_World: 【#DevilsInvitation merch announcement】\n\nNew merch will soon be available on the #NIJISANJI_EN Official Store!\n\n⏰ Sales…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062459591221559296"
+          ]
+        },
+        "author_id": "1214737620749578240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2062459602911060208",
+        "created_at": "2026-06-04T09:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062459602911060208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 1,
+              "tag": "DevilsInvitation"
+            },
+            {
+              "end": 93,
+              "start": 80,
+              "tag": "NIJISANJI_EN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ANYCOLOR Inc. is an entertainment startup established on May 2, 2017. We will cast magic on the daily lives of people around the world as an instigator of this new era in which the “Entertainment Economic Zone” is accelerating.",
+              "display_url": "anycolor.co.jp/en/news/9om23s…",
+              "end": 187,
+              "expanded_url": "https://www.anycolor.co.jp/en/news/9om23scb1",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2062459625853906944/0CZU6wWm?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062459625853906944/0CZU6wWm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 164,
+              "status": 200,
+              "title": "NIJISANJI and NIJISANJI EN Announce “Devil’s Invitation” | ANYCOLOR Inc.",
+              "unwound_url": "https://www.anycolor.co.jp/en/news/9om23scb1",
+              "url": "https://t.co/6UpgKVYQE1"
+            },
+            {
+              "display_url": "pic.x.com/zhoe3ayYE8",
+              "end": 211,
+              "expanded_url": "https://x.com/NIJISANJI_World/status/2062459602911060208/photo/1",
+              "media_key": "3_2062459591221559296",
+              "start": 188,
+              "url": "https://t.co/zhoe3ayYE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062459602911060208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 81560,
+          "like_count": 4004,
+          "quote_count": 199,
+          "reply_count": 7,
+          "retweet_count": 1182
+        },
+        "reply_settings": "everyone",
+        "text": "【#DevilsInvitation merch announcement】\n\nNew merch will soon be available on the #NIJISANJI_EN Official Store!\n\n⏰ Sales start\nJune 5 (Fri) 2:00 PDT\n\n🔻 Press release\nhttps://t.co/6UpgKVYQE1 https://t.co/zhoe3ayYE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 221,
+          "like_count": 3226,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 499
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T02:37:35.000Z",
+        "description": "#NIJISANJI_EN Official Account | Check out our page to get updates and info on our Livers! | Partner account: @nijisanji_app #NIJIArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "NIJIArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "nijisanji_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/nijisanji_en…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/nijisanji_en?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/IPE1Yk4pfE"
+              }
+            ]
+          }
+        },
+        "id": "1214737620749578240",
+        "name": "NIJISANJI EN Official",
+        "pinned_tweet_id": "2061651796007977405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534055366748536832/70Yonwzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904990,
+          "following_count": 34,
+          "like_count": 774,
+          "listed_count": 5081,
+          "media_count": 3611,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/IPE1Yk4pfE",
+        "username": "NIJISANJI_World",
+        "verified": true
+      }
+    ]
+  }
+}

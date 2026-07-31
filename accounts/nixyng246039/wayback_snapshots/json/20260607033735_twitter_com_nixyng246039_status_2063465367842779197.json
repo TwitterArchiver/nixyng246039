@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063465367842779197",
+    "created_at": "2026-06-07T03:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063465367842779197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045127800324288513",
+          "start": 3,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063465367842779197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063264448689901749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yacht_ono: 你们每天在网上卖惨，结果呢，有的是北京上海户口，有的在985211读书，有的家里开公司，有的ip在国外...急得我这个心呀七上八下地乱跳你们就别掺和我们穷比的事儿了行吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063465367842779197",
+        "created_at": "2026-06-07T03:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063465367842779197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045127800324288513",
+              "start": 3,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063465367842779197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063264448689901749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yacht_ono: 你们每天在网上卖惨，结果呢，有的是北京上海户口，有的在985211读书，有的家里开公司，有的ip在国外...急得我这个心呀七上八下地乱跳你们就别掺和我们穷比的事儿了行吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2063264448689901749",
+        "created_at": "2026-06-06T14:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063264448689901749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063264448689901749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9492,
+          "like_count": 258,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你们每天在网上卖惨，结果呢，有的是北京上海户口，有的在985211读书，有的家里开公司，有的ip在国外...急得我这个心呀七上八下地乱跳你们就别掺和我们穷比的事儿了行吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 325,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 828
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪30",
+        "name": "yacht",
+        "pinned_tweet_id": "2058824497806074128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 34,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 200
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

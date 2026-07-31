@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054389476156461097",
+    "created_at": "2026-05-13T02:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054389476156461097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MinuraNakatawa…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/MinuraNakatawa/status/2054214894560719338",
+          "start": 10,
+          "url": "https://t.co/0V4x0kcVix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054389476156461097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054214894560719338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我啥时候能有这功底 https://t.co/0V4x0kcVix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2054213660634189824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIIcM7bEAA3EOc.png",
+        "width": 474
+      },
+      {
+        "height": 246,
+        "media_key": "3_2054213679013670912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIIdRZbsAAnVyh.png",
+        "width": 314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054389476156461097",
+        "created_at": "2026-05-13T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054389476156461097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MinuraNakatawa…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/MinuraNakatawa/status/2054214894560719338",
+              "start": 10,
+              "url": "https://t.co/0V4x0kcVix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389476156461097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054214894560719338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我啥时候能有这功底 https://t.co/0V4x0kcVix"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054213660634189824",
+            "3_2054213679013670912"
+          ]
+        },
+        "author_id": "1117854744121184256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054214894560719338",
+        "created_at": "2026-05-12T14:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054214894560719338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XfNUtK2uk",
+              "end": 80,
+              "expanded_url": "https://x.com/MinuraNakatawa/status/2054214894560719338/photo/1",
+              "media_key": "3_2054213660634189824",
+              "start": 57,
+              "url": "https://t.co/4XfNUtK2uk"
+            },
+            {
+              "display_url": "pic.x.com/4XfNUtK2uk",
+              "end": 80,
+              "expanded_url": "https://x.com/MinuraNakatawa/status/2054214894560719338/photo/1",
+              "media_key": "3_2054213679013670912",
+              "start": 57,
+              "url": "https://t.co/4XfNUtK2uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054214894560719338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4186,
+          "impression_count": 360292,
+          "like_count": 18480,
+          "quote_count": 22,
+          "reply_count": 20,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "i keep getting distracted by Lucia's hips and bum crack. https://t.co/4XfNUtK2uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 169,
+          "like_count": 1773,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T18:18:34.000Z",
+        "description": "I'm tired, boss.\nDrawer. \nhttps://t.co/qYXGjhM55u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/minuranakatawa",
+                "end": 49,
+                "expanded_url": "https://ko-fi.com/minuranakatawa",
+                "start": 26,
+                "url": "https://t.co/qYXGjhM55u"
+              }
+            ]
+          }
+        },
+        "id": "1117854744121184256",
+        "location": "Walls (Yours)",
+        "name": "-=Argent Moon=-",
+        "pinned_tweet_id": "1795080743552495631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054335561088053248/A1is8c6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44972,
+          "following_count": 1640,
+          "like_count": 12709,
+          "listed_count": 244,
+          "media_count": 3078,
+          "tweet_count": 5939
+        },
+        "username": "MinuraNakatawa",
+        "verified": false
+      }
+    ]
+  }
+}

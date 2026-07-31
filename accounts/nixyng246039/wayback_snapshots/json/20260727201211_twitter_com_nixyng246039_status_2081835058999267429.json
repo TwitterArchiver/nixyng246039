@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2081835058999267429",
+    "created_at": "2026-07-27T20:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081835058999267429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860377535215013888",
+          "start": 3,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081835058999267429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081818446371934245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AraiNogawaovo: 快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2081818439019311104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1yCasAAu2me.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818438981566464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1x5awAAyDwo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818439036092416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1yGawAAgbkt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818438977421312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1x4bgAAkwaS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2081835058999267429",
+        "created_at": "2026-07-27T20:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081835058999267429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860377535215013888",
+              "start": 3,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081835058999267429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081818446371934245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AraiNogawaovo: 快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081818439019311104",
+            "3_2081818438981566464",
+            "3_2081818439036092416",
+            "3_2081818438977421312"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2081818446371934245",
+        "created_at": "2026-07-27T19:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081818446371934245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818439019311104",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818438981566464",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818439036092416",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818438977421312",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081818446371934245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学精神诊断学\n-\n消息可能不会及时回复看到想回就回\n睡眠障碍持续骚扰中od只是为了安定🥺❌\n酒精尼古丁重度依赖中欢迎互推\n-\n搞一点二次元主坑全职/粥/弹丸/…\n玩很多游戏fps除外 联机游戏都可以找我玩\n搞oc 会画画写诗写故事 目前在研究宗教学自创神中\n喜欢的作家是帕拉尼克和\n-\n如果想说话可以直接给我弹语音。我不爱打字。\n爱你们。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学精神诊断学\n-\n消息可能不会及时回复看到想回就回\n睡眠障碍持续骚扰中od只是为了安定🥺❌ https://t.co/tGfGUBYYQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 507,
+          "like_count": 7795,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2081818446371934245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 233,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

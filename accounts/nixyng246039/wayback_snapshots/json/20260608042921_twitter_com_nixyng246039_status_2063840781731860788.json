@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1967361019644411904"
+      ],
+      "media_source_tweet_id": [
+        "1967361042897625183"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2063840781731860788",
+    "created_at": "2026-06-08T04:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063840781731860788"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "Genshin"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "原神"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "放浪者"
+        },
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "Wanderer"
+        },
+        {
+          "end": 55,
+          "start": 42,
+          "tag": "RaidenShogun"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1455846815891279875",
+          "start": 3,
+          "username": "ChyMeyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P9f0bRZJ0P",
+          "end": 79,
+          "expanded_url": "https://x.com/ChyMeyy/status/1967361042897625183/video/1",
+          "media_key": "7_1967361019644411904",
+          "start": 56,
+          "url": "https://t.co/P9f0bRZJ0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063840781731860788",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967361042897625183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChyMeyy: #Genshin #原神 #放浪者 #Wanderer  #RaidenShogun https://t.co/P9f0bRZJ0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17763,
+        "height": 882,
+        "media_key": "7_1967361019644411904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967361019644411904/pu/img/YDhTpa1RXuTx_sJa.jpg",
+        "public_metrics": {
+          "view_count": 121190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967361019644411904/pu/vid/avc1/320x392/tHZFYdHsb9Fsu49f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967361019644411904/pu/vid/avc1/480x588/FqDzjSIWzP2g69Fs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967361019644411904/pu/vid/avc1/720x882/vEl5z9E5YxXN3EQO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967361019644411904/pu/pl/mj7yD1swuhdUPFfz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967361019644411904"
+          ],
+          "media_source_tweet_id": [
+            "1967361042897625183"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2063840781731860788",
+        "created_at": "2026-06-08T04:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063840781731860788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "Genshin"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "原神"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "放浪者"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "Wanderer"
+            },
+            {
+              "end": 55,
+              "start": 42,
+              "tag": "RaidenShogun"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1455846815891279875",
+              "start": 3,
+              "username": "ChyMeyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9f0bRZJ0P",
+              "end": 79,
+              "expanded_url": "https://x.com/ChyMeyy/status/1967361042897625183/video/1",
+              "media_key": "7_1967361019644411904",
+              "start": 56,
+              "url": "https://t.co/P9f0bRZJ0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063840781731860788",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967361042897625183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChyMeyy: #Genshin #原神 #放浪者 #Wanderer  #RaidenShogun https://t.co/P9f0bRZJ0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967361019644411904"
+          ]
+        },
+        "author_id": "1455846815891279875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1967361042897625183",
+        "created_at": "2025-09-14T22:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T23:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967361042897625183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Genshin"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "原神"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "放浪者"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "Wanderer"
+            },
+            {
+              "end": 42,
+              "start": 29,
+              "tag": "RaidenShogun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9f0bRZJ0P",
+              "end": 66,
+              "expanded_url": "https://x.com/ChyMeyy/status/1967361042897625183/video/1",
+              "media_key": "7_1967361019644411904",
+              "start": 43,
+              "url": "https://t.co/P9f0bRZJ0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967361042897625183",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4431,
+          "impression_count": 155938,
+          "like_count": 24655,
+          "quote_count": 151,
+          "reply_count": 28,
+          "retweet_count": 4113
+        },
+        "reply_settings": "everyone",
+        "text": "#Genshin #原神 #放浪者 #Wanderer  #RaidenShogun https://t.co/P9f0bRZJ0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 352,
+          "like_count": 4553,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 974
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T10:38:41.000Z",
+        "description": "🇻🇳 artist.                                             \nCommission here:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/ChiMeyy",
+                "end": 23,
+                "expanded_url": "https://vgen.co/ChiMeyy",
+                "start": 0,
+                "url": "https://t.co/RtVqxStEK4"
+              }
+            ]
+          }
+        },
+        "id": "1455846815891279875",
+        "name": "Chi Meyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055880162026442752/WNqsaWH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4550,
+          "following_count": 43,
+          "like_count": 2083,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/RtVqxStEK4",
+        "username": "ChyMeyy",
+        "verified": false
+      }
+    ]
+  }
+}

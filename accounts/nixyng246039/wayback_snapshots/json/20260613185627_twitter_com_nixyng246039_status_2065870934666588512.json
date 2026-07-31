@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065651961161293957",
+    "created_at": "2026-06-13T18:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065870934666588512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004903164215263233",
+          "start": 0,
+          "username": "Chen_LingShui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065870934666588512",
+    "in_reply_to_user_id": "2004903164215263233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065651961161293957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chen_LingShui 你火了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065651961161293957",
+        "created_at": "2026-06-13T18:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065870934666588512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004903164215263233",
+              "start": 0,
+              "username": "Chen_LingShui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065870934666588512",
+        "in_reply_to_user_id": "2004903164215263233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065651961161293957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chen_LingShui 你火了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004903164215263233",
+        "conversation_id": "2065651961161293957",
+        "created_at": "2026-06-13T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065651961161293957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065651961161293957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8791,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 81,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有什么好办法让推火起来🤔\n因为真的很想认识更多的人交更多的朋友🥺🥺🥺想和很多很多人说话🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 466,
+          "like_count": 6399,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1674
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T13:12:29.000Z",
+        "description": "一名普通的人类观察员。想要在这里知道自己是谁。\n\n还是简单写点\n神秘长发友LGBTQ+顺男/你其实已经翻车了吧？/多意识体（h尺旦 t令雨 令雨发的会在末尾加（令雨））/INFP-T/中日术/音游phigros pjsk\n想到什么说什么 所以会有很多碎碎念 毕竟是难得一个不受限的表达空间",
+        "id": "2004903164215263233",
+        "location": "现居四川成都/来自湖北十堰",
+        "name": "戈哀忒伊",
+        "pinned_tweet_id": "2007840435981729800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017451125675323392/VpwF_v6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 154,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 627
+        },
+        "username": "Chen_LingShui",
+        "verified": false
+      }
+    ]
+  }
+}

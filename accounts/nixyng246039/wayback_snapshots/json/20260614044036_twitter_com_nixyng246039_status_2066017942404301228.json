@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065906452209004866",
+    "created_at": "2026-06-14T04:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066017942404301228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995929856723615744",
+          "start": 0,
+          "username": "Navira1449585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066017942404301228",
+    "in_reply_to_user_id": "1995929856723615744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065906452209004866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Navira1449585 太好了！恭喜恭喜恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2065906442906054656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuS9tSbMAApn5E.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065906452209004866",
+        "created_at": "2026-06-14T04:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066017942404301228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995929856723615744",
+              "start": 0,
+              "username": "Navira1449585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066017942404301228",
+        "in_reply_to_user_id": "1995929856723615744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065906452209004866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Navira1449585 太好了！恭喜恭喜恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065906442906054656"
+          ]
+        },
+        "author_id": "1995929856723615744",
+        "conversation_id": "2065906452209004866",
+        "created_at": "2026-06-13T21:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065906452209004866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARq1j0ljp9",
+              "end": 37,
+              "expanded_url": "https://x.com/Navira1449585/status/2065906452209004866/photo/1",
+              "media_key": "3_2065906442906054656",
+              "start": 14,
+              "url": "https://t.co/ARq1j0ljp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065906452209004866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo达成（鼓掌鼓掌） https://t.co/ARq1j0ljp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 473,
+          "like_count": 6435,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1689
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "＝毛线\n不登校｜intp｜11｜互fo\n💊｜🚬｜🍻｜智商低情商为负orz\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 65,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 42,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "毛线咪",
+        "pinned_tweet_id": "2065069580725440747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 157,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

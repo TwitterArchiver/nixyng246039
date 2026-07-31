@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064892093357854865",
+    "created_at": "2026-06-11T11:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065030167144132807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022999593995370496",
+          "start": 0,
+          "username": "suanyun77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065030167144132807",
+    "in_reply_to_user_id": "2022999593995370496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064893673725468698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suanyun77 唉，我们要考期末考试呀，我都感觉我要挂科了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064892093357854865",
+        "created_at": "2026-06-11T11:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065030167144132807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022999593995370496",
+              "start": 0,
+              "username": "suanyun77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065030167144132807",
+        "in_reply_to_user_id": "2022999593995370496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064893673725468698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanyun77 唉，我们要考期末考试呀，我都感觉我要挂科了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022999593995370496",
+        "conversation_id": "2064892093357854865",
+        "created_at": "2026-06-11T02:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064893673725468698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064893673725468698",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064893358347018438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 我没在上学呢，只用去考学业水平考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 418,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1396
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T11:42:03.000Z",
+        "description": "|isfp-t | 碎碎念|OD&自残|负面情绪|\n#不登校\n#メンヘラ\n#精神不安定\n想要和萌女子扩列聊天...",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "不登校"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "精神不安定"
+              }
+            ]
+          }
+        },
+        "id": "2022999593995370496",
+        "location": "四川",
+        "name": "芏芏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023001576399589376/Cava4z-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 22,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 628
+        },
+        "username": "suanyun77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065477574894268416"
+      ],
+      "media_source_tweet_id": [
+        "2065477640090497246"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065485549633204258",
+    "created_at": "2026-06-12T17:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065485549633204258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753116711899770880",
+          "start": 3,
+          "username": "elna_elvie9091"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32Wp8bmqNy",
+          "end": 43,
+          "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+          "media_key": "13_2065477574894268416",
+          "start": 20,
+          "url": "https://t.co/32Wp8bmqNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065485549633204258",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065477640090497246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elna_elvie9091: https://t.co/32Wp8bmqNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8543,
+        "height": 1280,
+        "media_key": "13_2065477574894268416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065477574894268416/img/V4N-gTroobePgrnV.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/320x568/xfh1Bj7KRf4bH2VA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/480x852/dGJ1m5LAEYRo6aVh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/720x1280/GUX77WBv328_4zwe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065477574894268416/pl/fzn0ahxHokLvDxX6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065477574894268416"
+          ],
+          "media_source_tweet_id": [
+            "2065477640090497246"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065485549633204258",
+        "created_at": "2026-06-12T17:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065485549633204258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753116711899770880",
+              "start": 3,
+              "username": "elna_elvie9091"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Wp8bmqNy",
+              "end": 43,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+              "media_key": "13_2065477574894268416",
+              "start": 20,
+              "url": "https://t.co/32Wp8bmqNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485549633204258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065477640090497246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elna_elvie9091: https://t.co/32Wp8bmqNy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065477574894268416"
+          ]
+        },
+        "author_id": "1753116711899770880",
+        "conversation_id": "2065477640090497246",
+        "created_at": "2026-06-12T16:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065477640090497246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32Wp8bmqNy",
+              "end": 23,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2065477640090497246/video/1",
+              "media_key": "13_2065477574894268416",
+              "start": 0,
+              "url": "https://t.co/32Wp8bmqNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065477640090497246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/32Wp8bmqNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 454,
+          "like_count": 6152,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1563
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 267,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

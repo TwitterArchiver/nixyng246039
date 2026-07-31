@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319391064311033856",
+          "name": "Hetalia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319391064311033856",
+          "name": "Hetalia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2066824854960243052",
+    "created_at": "2026-06-16T10:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066824854960243052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1318416163777376257",
+          "start": 3,
+          "username": "hima_kaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824854960243052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9928
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046967526752764142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hima_kaz: 【お知らせ】\n今後の『ヘタリア』の更新ですが、コミックス作業および企画準備のため、しばらくの間お休みさせていただきます。\n再開時期が決まり次第こちらのアカウントで告知いたしますので、今しばらくお待ちいただけると幸いです。\n\n今後とも『ヘタリア』の応援…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2046967522646491136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhKHdYbAAAxLjz.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2066824854960243052",
+        "created_at": "2026-06-16T10:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824854960243052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1318416163777376257",
+              "start": 3,
+              "username": "hima_kaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824854960243052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9928
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046967526752764142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hima_kaz: 【お知らせ】\n今後の『ヘタリア』の更新ですが、コミックス作業および企画準備のため、しばらくの間お休みさせていただきます。\n再開時期が決まり次第こちらのアカウントで告知いたしますので、今しばらくお待ちいただけると幸いです。\n\n今後とも『ヘタリア』の応援…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046967522646491136"
+          ]
+        },
+        "author_id": "1318416163777376257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319391064311033856",
+              "name": "Hetalia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2046967526752764142",
+        "created_at": "2026-04-22T15:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046967526752764142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Juc0d5gg3G",
+              "end": 166,
+              "expanded_url": "https://x.com/hima_kaz/status/2046967526752764142/photo/1",
+              "media_key": "3_2046967522646491136",
+              "start": 143,
+              "url": "https://t.co/Juc0d5gg3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046967526752764142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2686,
+          "impression_count": 1293362,
+          "like_count": 45982,
+          "quote_count": 803,
+          "reply_count": 159,
+          "retweet_count": 9928
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\n今後の『ヘタリア』の更新ですが、コミックス作業および企画準備のため、しばらくの間お休みさせていただきます。\n再開時期が決まり次第こちらのアカウントで告知いたしますので、今しばらくお待ちいただけると幸いです。\n\n今後とも『ヘタリア』の応援のほど、よろしくお願いいたします。 https://t.co/Juc0d5gg3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 495,
+          "like_count": 7014,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2038
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T04:58:34.000Z",
+        "description": "『ヘタリアWorld☆Stars』(少年ジャンプ＋)、お仕事関連の宣伝、情報その他をゆるりと発信していきます。日丸屋本人の発信には(日丸屋)が付きます。https://t.co/zD7HyxLk9M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shonenjumpplus.com/episode/108334…",
+                "end": 99,
+                "expanded_url": "https://shonenjumpplus.com/episode/10833497643049549836",
+                "start": 76,
+                "url": "https://t.co/zD7HyxLk9M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jumpsq.shueisha.co.jp/contents/sp_pr…",
+                "end": 23,
+                "expanded_url": "https://jumpsq.shueisha.co.jp/contents/sp_primeministerclub/",
+                "start": 0,
+                "url": "https://t.co/IKu5iNOnOz"
+              }
+            ]
+          }
+        },
+        "id": "1318416163777376257",
+        "name": "日丸屋秀和 公式",
+        "pinned_tweet_id": "2046967526752764142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319530891605995521/YY9bkqZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310492,
+          "following_count": 4,
+          "like_count": 15,
+          "listed_count": 1345,
+          "media_count": 287,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/IKu5iNOnOz",
+        "username": "hima_kaz",
+        "verified": false
+      }
+    ]
+  }
+}

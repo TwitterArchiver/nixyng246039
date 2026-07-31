@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2066798774161404170",
+    "created_at": "2026-06-16T14:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066890894033174991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229828195031175174",
+          "start": 0,
+          "username": "broccoli3___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066890894033174991",
+    "in_reply_to_user_id": "1229828195031175174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066798774161404170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broccoli3___ 杀手皇后，第三炸弹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2066798744834818048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6-ghAaQAALV22.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2066798774161404170",
+        "created_at": "2026-06-16T14:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066890894033174991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229828195031175174",
+              "start": 0,
+              "username": "broccoli3___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066890894033174991",
+        "in_reply_to_user_id": "1229828195031175174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066798774161404170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli3___ 杀手皇后，第三炸弹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066798744834818048"
+          ]
+        },
+        "author_id": "1229828195031175174",
+        "conversation_id": "2066798774161404170",
+        "created_at": "2026-06-16T08:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066798774161404170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TTgl4Grk9",
+              "end": 33,
+              "expanded_url": "https://x.com/broccoli3___/status/2066798774161404170/photo/1",
+              "media_key": "3_2066798744834818048",
+              "start": 10,
+              "url": "https://t.co/8TTgl4Grk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066798774161404170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9370,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁往我号里放炸弹了 https://t.co/8TTgl4Grk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 496,
+          "like_count": 7074,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2059
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T18:01:30.000Z",
+        "description": "(*^^*)switch | 我都玩🌍online了 我爱咋咋 | 不约 | 号主多重人格随机切 | 无需关注 我发我喜欢的图跟你没关系 | tbc...\n\n#关你屁事#关我屁事#",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oi0ioi0io",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oi0ioi0io",
+                "start": 0,
+                "url": "https://t.co/R2aZ8y3200"
+              }
+            ]
+          }
+        },
+        "id": "1229828195031175174",
+        "location": "🌍online",
+        "name": ":3",
+        "pinned_tweet_id": "2063219878639923385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061083760767180800/S5hG02cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 293,
+          "like_count": 22477,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/R2aZ8y3200",
+        "username": "broccoli3___",
+        "verified": false
+      }
+    ]
+  }
+}

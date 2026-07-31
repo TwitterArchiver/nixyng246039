@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054139927877808128"
+      ],
+      "media_source_tweet_id": [
+        "2054139936430067978"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2054410655596519627",
+    "created_at": "2026-05-13T03:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054410655596519627"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "アコスタ弁天町"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1913118535662108673",
+          "start": 3,
+          "username": "someiyosino_cos"
+        },
+        {
+          "end": 76,
+          "id": "514176500",
+          "start": 66,
+          "username": "reitooplk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qdi28623EY",
+          "end": 102,
+          "expanded_url": "https://x.com/someiyosino_cos/status/2054139936430067978/photo/1",
+          "media_key": "3_2054139927877808128",
+          "start": 79,
+          "url": "https://t.co/Qdi28623EY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054410655596519627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054139936430067978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @someiyosino_cos: ⚠︎cosplay | 🌈🕒.🌞\n\n桜ﾏへようこそ____\n\n#アコスタ弁天町 \n📸▶︎ @reitooplk 様 https://t.co/Qdi28623EY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2054139927877808128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHFYZAacAAmIgY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054139927877808128"
+          ],
+          "media_source_tweet_id": [
+            "2054139936430067978"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2054410655596519627",
+        "created_at": "2026-05-13T03:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054410655596519627"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "アコスタ弁天町"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1913118535662108673",
+              "start": 3,
+              "username": "someiyosino_cos"
+            },
+            {
+              "end": 76,
+              "id": "514176500",
+              "start": 66,
+              "username": "reitooplk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qdi28623EY",
+              "end": 102,
+              "expanded_url": "https://x.com/someiyosino_cos/status/2054139936430067978/photo/1",
+              "media_key": "3_2054139927877808128",
+              "start": 79,
+              "url": "https://t.co/Qdi28623EY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054410655596519627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054139936430067978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @someiyosino_cos: ⚠︎cosplay | 🌈🕒.🌞\n\n桜ﾏへようこそ____\n\n#アコスタ弁天町 \n📸▶︎ @reitooplk 様 https://t.co/Qdi28623EY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054139927877808128"
+          ]
+        },
+        "author_id": "1913118535662108673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2054139936430067978",
+        "created_at": "2026-05-12T10:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054139936430067978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "アコスタ弁天町"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "514176500",
+              "start": 45,
+              "username": "reitooplk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qdi28623EY",
+              "end": 81,
+              "expanded_url": "https://x.com/someiyosino_cos/status/2054139936430067978/photo/1",
+              "media_key": "3_2054139927877808128",
+              "start": 58,
+              "url": "https://t.co/Qdi28623EY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054139936430067978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3164,
+          "like_count": 293,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "⚠︎cosplay | 🌈🕒.🌞\n\n桜ﾏへようこそ____\n\n#アコスタ弁天町 \n📸▶︎ @reitooplk 様 https://t.co/Qdi28623EY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 171,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 195
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T06:33:10.000Z",
+        "description": "関東 | 20↑ 社会人| 移行前▷ @AgqsmopxQb83717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "AgqsmopxQb83717"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yoshiyoshi0812",
+                "end": 23,
+                "expanded_url": "https://lit.link/yoshiyoshi0812",
+                "start": 0,
+                "url": "https://t.co/3p8OvRX8kz"
+              }
+            ]
+          }
+        },
+        "id": "1913118535662108673",
+        "name": "吉野。",
+        "pinned_tweet_id": "2053428364699177119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033926272603328512/a3n6qS44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 218,
+          "like_count": 2873,
+          "listed_count": 22,
+          "media_count": 63,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/3p8OvRX8kz",
+        "username": "someiyosino_cos",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-04T10:09:43.000Z",
+        "description": "cafe/ sweets/ soccer /fashion/ 兵庫→佐世保 →大阪",
+        "id": "514176500",
+        "name": "Reito.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027058563236130816/STZ-6wSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1646,
+          "like_count": 17340,
+          "listed_count": 10,
+          "media_count": 1033,
+          "tweet_count": 19159
+        },
+        "username": "reitooplk",
+        "verified": false
+      }
+    ]
+  }
+}

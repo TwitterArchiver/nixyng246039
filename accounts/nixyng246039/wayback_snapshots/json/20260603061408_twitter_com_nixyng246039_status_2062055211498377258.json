@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061952510928289792"
+      ],
+      "media_source_tweet_id": [
+        "2061952533757857859"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062055211498377258",
+    "created_at": "2026-06-03T06:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062055211498377258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779499464585314305",
+          "start": 3,
+          "username": "YOUYUGUIX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aIQHEfp7dv",
+          "end": 38,
+          "expanded_url": "https://x.com/YOUYUGUIX/status/2061952533757857859/photo/1",
+          "media_key": "3_2061952510928289792",
+          "start": 15,
+          "url": "https://t.co/aIQHEfp7dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062055211498377258",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061952533757857859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YOUYUGUIX: https://t.co/aIQHEfp7dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061952510928289792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2G4k2bAAAkMoJ.jpg",
+        "width": 1385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061952510928289792"
+          ],
+          "media_source_tweet_id": [
+            "2061952533757857859"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062055211498377258",
+        "created_at": "2026-06-03T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062055211498377258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779499464585314305",
+              "start": 3,
+              "username": "YOUYUGUIX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIQHEfp7dv",
+              "end": 38,
+              "expanded_url": "https://x.com/YOUYUGUIX/status/2061952533757857859/photo/1",
+              "media_key": "3_2061952510928289792",
+              "start": 15,
+              "url": "https://t.co/aIQHEfp7dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062055211498377258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061952533757857859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YOUYUGUIX: https://t.co/aIQHEfp7dv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061952510928289792"
+          ]
+        },
+        "author_id": "1779499464585314305",
+        "conversation_id": "2061952533757857859",
+        "created_at": "2026-06-02T23:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061952533757857859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIQHEfp7dv",
+              "end": 23,
+              "expanded_url": "https://x.com/YOUYUGUIX/status/2061952533757857859/photo/1",
+              "media_key": "3_2061952510928289792",
+              "start": 0,
+              "url": "https://t.co/aIQHEfp7dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061952533757857859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 22152,
+          "like_count": 4034,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aIQHEfp7dv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 220,
+          "like_count": 3133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 480
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T13:18:38.000Z",
+        "description": "🇨🇳/🤍🤎",
+        "id": "1779499464585314305",
+        "name": "yyy",
+        "pinned_tweet_id": "1944183745994498253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005364539366481920/fV5OomNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 49,
+          "like_count": 7983,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1490
+        },
+        "username": "YOUYUGUIX",
+        "verified": false
+      }
+    ]
+  }
+}

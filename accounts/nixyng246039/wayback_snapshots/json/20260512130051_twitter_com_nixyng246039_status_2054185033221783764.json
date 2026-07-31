@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054007947605499904"
+      ],
+      "media_source_tweet_id": [
+        "2054007953171362254"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054185033221783764",
+    "created_at": "2026-05-12T13:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054185033221783764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033841172414935040",
+          "start": 3,
+          "username": "bokozq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JqRWkTbcXN",
+          "end": 39,
+          "expanded_url": "https://x.com/bokozq/status/2054007953171362254/photo/1",
+          "media_key": "3_2054007947605499904",
+          "start": 16,
+          "url": "https://t.co/JqRWkTbcXN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054185033221783764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054007953171362254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokozq: めいど https://t.co/JqRWkTbcXN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2054007947605499904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFNWILa4AACWKc.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054007947605499904"
+          ],
+          "media_source_tweet_id": [
+            "2054007953171362254"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054185033221783764",
+        "created_at": "2026-05-12T13:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054185033221783764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033841172414935040",
+              "start": 3,
+              "username": "bokozq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqRWkTbcXN",
+              "end": 39,
+              "expanded_url": "https://x.com/bokozq/status/2054007953171362254/photo/1",
+              "media_key": "3_2054007947605499904",
+              "start": 16,
+              "url": "https://t.co/JqRWkTbcXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054185033221783764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054007953171362254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokozq: めいど https://t.co/JqRWkTbcXN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054007947605499904"
+          ]
+        },
+        "author_id": "2033841172414935040",
+        "conversation_id": "2054007953171362254",
+        "created_at": "2026-05-12T01:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054007953171362254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqRWkTbcXN",
+              "end": 27,
+              "expanded_url": "https://x.com/bokozq/status/2054007953171362254/photo/1",
+              "media_key": "3_2054007947605499904",
+              "start": 4,
+              "url": "https://t.co/JqRWkTbcXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054007953171362254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 33148,
+          "like_count": 2909,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "めいど https://t.co/JqRWkTbcXN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 156,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T09:42:26.000Z",
+        "description": "名前が思いつかないです",
+        "id": "2033841172414935040",
+        "name": "ボコすパン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051919276874014720/-6A10pZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 34,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "bokozq",
+        "verified": false
+      }
+    ]
+  }
+}

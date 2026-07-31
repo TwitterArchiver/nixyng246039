@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054401582746534350",
+    "created_at": "2026-05-13T03:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054401582746534350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2054076507916849351",
+          "start": 11,
+          "url": "https://t.co/RvbfWaokGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054401582746534350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054076507916849351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的是这样想的…… https://t.co/RvbfWaokGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2054076491198304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGLr49bEAAy1Ez.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054401582746534350",
+        "created_at": "2026-05-13T03:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054401582746534350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2054076507916849351",
+              "start": 11,
+              "url": "https://t.co/RvbfWaokGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054401582746534350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054076507916849351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是这样想的…… https://t.co/RvbfWaokGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054076491198304256"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2054076507916849351",
+        "created_at": "2026-05-12T05:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054076507916849351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WKyjSQCmV",
+              "end": 33,
+              "expanded_url": "https://x.com/hsn8086xe/status/2054076507916849351/photo/1",
+              "media_key": "3_2054076491198304256",
+              "start": 10,
+              "url": "https://t.co/5WKyjSQCmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054076507916849351",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4038,
+          "like_count": 255,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "id: 18899 https://t.co/5WKyjSQCmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 180
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36172,
+          "following_count": 372,
+          "like_count": 227,
+          "listed_count": 103,
+          "media_count": 13774,
+          "tweet_count": 13852
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054407442151428560",
+    "created_at": "2026-05-13T03:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054407442151428560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916598464491732992",
+          "start": 3,
+          "username": "Emily_XD69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054407442151428560",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053783809082941619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emily_XD69: hot take: el vestido de sirvienta tradicional es mil veces mas bonito, mas elegante y mejor que esa porqueria globalizada d…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054407442151428560",
+        "created_at": "2026-05-13T03:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054407442151428560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916598464491732992",
+              "start": 3,
+              "username": "Emily_XD69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054407442151428560",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053783809082941619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emily_XD69: hot take: el vestido de sirvienta tradicional es mil veces mas bonito, mas elegante y mejor que esa porqueria globalizada d…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916598464491732992",
+        "conversation_id": "2053783809082941619",
+        "created_at": "2026-05-11T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053783809082941619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shia_pm__/stat…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/shia_pm__/status/2053316509448167855",
+              "start": 137,
+              "url": "https://t.co/blkbWXHUDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053783809082941619",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15987,
+          "impression_count": 3541884,
+          "like_count": 195337,
+          "quote_count": 645,
+          "reply_count": 782,
+          "retweet_count": 24555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053316509448167855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hot take: el vestido de sirvienta tradicional es mil veces mas bonito, mas elegante y mejor que esa porqueria globalizada de falda corta https://t.co/blkbWXHUDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 187
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T21:02:13.000Z",
+        "description": "pronombres: me da igual / me gusta el arte / 10% artista y 90% autista / también me gustan los juegitos",
+        "id": "1916598464491732992",
+        "location": "el mejor pais de chile",
+        "name": "EmilyXD",
+        "pinned_tweet_id": "2048394993413283883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979947174147350528/uIh2yolG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 4337,
+          "like_count": 36064,
+          "listed_count": 0,
+          "media_count": 1646,
+          "tweet_count": 5344
+        },
+        "username": "Emily_XD69",
+        "verified": false
+      }
+    ]
+  }
+}

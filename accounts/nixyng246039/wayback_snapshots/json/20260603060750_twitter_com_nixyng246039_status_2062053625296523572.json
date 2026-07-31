@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061999083397459968"
+      ],
+      "media_source_tweet_id": [
+        "2061999640124293356"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062053625296523572",
+    "created_at": "2026-06-03T06:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062053625296523572"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "funamusea"
+        },
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "funamuseum"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "946171190250557440",
+          "start": 3,
+          "username": "MakKoeda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jgKEUHhZvP",
+          "end": 72,
+          "expanded_url": "https://x.com/MakKoeda/status/2061999640124293356/photo/1",
+          "media_key": "3_2061999083397459968",
+          "start": 49,
+          "url": "https://t.co/jgKEUHhZvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062053625296523572",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061999640124293356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MakKoeda: (1/3) 🦈🪭⭐️\n\n#funamusea #funamuseum https://t.co/jgKEUHhZvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3059,
+        "media_key": "3_2061999083397459968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2xPc0WMAA0NCL.jpg",
+        "width": 3861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061999083397459968"
+          ],
+          "media_source_tweet_id": [
+            "2061999640124293356"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062053625296523572",
+        "created_at": "2026-06-03T06:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062053625296523572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "funamusea"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "funamuseum"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "946171190250557440",
+              "start": 3,
+              "username": "MakKoeda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgKEUHhZvP",
+              "end": 72,
+              "expanded_url": "https://x.com/MakKoeda/status/2061999640124293356/photo/1",
+              "media_key": "3_2061999083397459968",
+              "start": 49,
+              "url": "https://t.co/jgKEUHhZvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062053625296523572",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061999640124293356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MakKoeda: (1/3) 🦈🪭⭐️\n\n#funamusea #funamuseum https://t.co/jgKEUHhZvP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061999083397459968"
+          ]
+        },
+        "author_id": "946171190250557440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061999640124293356",
+        "created_at": "2026-06-03T02:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061999640124293356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "funamusea"
+            },
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "funamuseum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgKEUHhZvP",
+              "end": 58,
+              "expanded_url": "https://x.com/MakKoeda/status/2061999640124293356/photo/1",
+              "media_key": "3_2061999083397459968",
+              "start": 35,
+              "url": "https://t.co/jgKEUHhZvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061999640124293356",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2113,
+          "like_count": 313,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "(1/3) 🦈🪭⭐️\n\n#funamusea #funamuseum https://t.co/jgKEUHhZvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 219,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 472
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-28T00:09:25.000Z",
+        "description": "🇦🇷illustrator|Vtuber|♂|ESP/ENG/日本語\n🎨 #MakkoArt\n🔞#Macock\nMama bomnita @funamusea\n💌 makkoeda@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 37,
+                "tag": "MakkoArt"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "Macock"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "funamusea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/MakKoeda",
+                "end": 23,
+                "expanded_url": "https://vgen.co/MakKoeda",
+                "start": 0,
+                "url": "https://t.co/7fSOzA7k5V"
+              }
+            ]
+          }
+        },
+        "id": "946171190250557440",
+        "location": "Satanick's dick ",
+        "name": "MakKoeda 🔪❤┃ DeepSeaTuber",
+        "pinned_tweet_id": "1830713560042700824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957129059558719488/gebS7ZC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6381,
+          "following_count": 1213,
+          "like_count": 13311,
+          "listed_count": 31,
+          "media_count": 2139,
+          "tweet_count": 12038
+        },
+        "url": "https://t.co/7fSOzA7k5V",
+        "username": "MakKoeda",
+        "verified": false
+      }
+    ]
+  }
+}

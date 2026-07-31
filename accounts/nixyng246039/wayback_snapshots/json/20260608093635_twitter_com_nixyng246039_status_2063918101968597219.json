@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063563036187873280"
+      ],
+      "media_source_tweet_id": [
+        "2063900512660107571"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063918101968597219",
+    "created_at": "2026-06-08T09:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063918101968597219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958228567898427392",
+          "start": 3,
+          "username": "11xx20xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRktaSRtCy",
+          "end": 44,
+          "expanded_url": "https://x.com/11xx20xx/status/2063900512660107571/photo/1",
+          "media_key": "3_2063563036187873280",
+          "start": 21,
+          "url": "https://t.co/bRktaSRtCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063918101968597219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063900512660107571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11xx20xx: 👁ｷﾞｮﾛｯ https://t.co/bRktaSRtCy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2181,
+        "media_key": "3_2063563036187873280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM_pe-a0AAUQ8C.jpg",
+        "width": 1608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063563036187873280"
+          ],
+          "media_source_tweet_id": [
+            "2063900512660107571"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063918101968597219",
+        "created_at": "2026-06-08T09:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063918101968597219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958228567898427392",
+              "start": 3,
+              "username": "11xx20xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRktaSRtCy",
+              "end": 44,
+              "expanded_url": "https://x.com/11xx20xx/status/2063900512660107571/photo/1",
+              "media_key": "3_2063563036187873280",
+              "start": 21,
+              "url": "https://t.co/bRktaSRtCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063918101968597219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900512660107571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11xx20xx: 👁ｷﾞｮﾛｯ https://t.co/bRktaSRtCy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063563036187873280"
+          ]
+        },
+        "author_id": "1958228567898427392",
+        "conversation_id": "2063900512660107571",
+        "created_at": "2026-06-08T08:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063900512660107571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRktaSRtCy",
+              "end": 30,
+              "expanded_url": "https://x.com/11xx20xx/status/2063900512660107571/photo/1",
+              "media_key": "3_2063563036187873280",
+              "start": 7,
+              "url": "https://t.co/bRktaSRtCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063900512660107571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 520,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "👁ｷﾞｮﾛｯ https://t.co/bRktaSRtCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 365,
+          "like_count": 4692,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1017
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T18:04:18.000Z",
+        "description": "よくおえかきしてます",
+        "id": "1958228567898427392",
+        "name": "𐔌˙.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062912804517244928/N_PeMOfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 11,
+          "like_count": 1266,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 18
+        },
+        "username": "11xx20xx",
+        "verified": false
+      }
+    ]
+  }
+}

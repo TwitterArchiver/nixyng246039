@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1795743962910580736"
+      ],
+      "media_source_tweet_id": [
+        "1795744349701222443"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1961128549903130926",
+    "created_at": "2025-08-28T18:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T19:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961128549903130926"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 15,
+          "tag": "mogekocastle"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "mogeko"
+        },
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "funamuseum"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "海底囚人"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577845607007395840",
+          "start": 3,
+          "username": "AxerusART"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6uoHIlrHm",
+          "end": 78,
+          "expanded_url": "https://x.com/AxerusART/status/1795744349701222443/photo/1",
+          "media_key": "3_1795743962910580736",
+          "start": 55,
+          "url": "https://t.co/S6uoHIlrHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961128549903130926",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795744349701222443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AxerusART: #mogekocastle #mogeko #funamuseum #海底囚人 https://t.co/S6uoHIlrHm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1795743962910580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOvDnrjWYAAm9Qk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795743962910580736"
+          ],
+          "media_source_tweet_id": [
+            "1795744349701222443"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1961128549903130926",
+        "created_at": "2025-08-28T18:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961128549903130926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "mogekocastle"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "mogeko"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "funamuseum"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "海底囚人"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577845607007395840",
+              "start": 3,
+              "username": "AxerusART"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6uoHIlrHm",
+              "end": 78,
+              "expanded_url": "https://x.com/AxerusART/status/1795744349701222443/photo/1",
+              "media_key": "3_1795743962910580736",
+              "start": 55,
+              "url": "https://t.co/S6uoHIlrHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961128549903130926",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795744349701222443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AxerusART: #mogekocastle #mogeko #funamuseum #海底囚人 https://t.co/S6uoHIlrHm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795743962910580736"
+          ]
+        },
+        "author_id": "1577845607007395840",
+        "conversation_id": "1795744349701222443",
+        "created_at": "2024-05-29T09:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795744349701222443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "mogekocastle"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "mogeko"
+            },
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "funamuseum"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "海底囚人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6uoHIlrHm",
+              "end": 63,
+              "expanded_url": "https://x.com/AxerusART/status/1795744349701222443/photo/1",
+              "media_key": "3_1795743962910580736",
+              "start": 40,
+              "url": "https://t.co/S6uoHIlrHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795744349701222443",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 10423,
+          "like_count": 349,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "#mogekocastle #mogeko #funamuseum #海底囚人 https://t.co/S6uoHIlrHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 57,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T02:19:19.000Z",
+        "description": "intento",
+        "id": "1577845607007395840",
+        "name": "Axoros",
+        "pinned_tweet_id": "1579146128922398721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590594706794287104/1evBNaVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 0,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 92
+        },
+        "username": "AxerusART",
+        "verified": false
+      }
+    ]
+  }
+}

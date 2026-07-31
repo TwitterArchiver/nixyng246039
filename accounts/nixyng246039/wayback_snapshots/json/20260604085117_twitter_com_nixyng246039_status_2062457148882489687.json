@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062017731978023110",
+    "created_at": "2026-06-04T08:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062457148882489687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062457148882489687",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062017731978023110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 我去🉑🉑🉑呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062017731978023110",
+        "created_at": "2026-06-04T08:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062457148882489687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062457148882489687",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062017731978023110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 我去🉑🉑🉑呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053707183427366912",
+        "conversation_id": "2062017731978023110",
+        "created_at": "2026-06-03T03:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062017731978023110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062017731978023110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我買了電吉他！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 220,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 493
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "yume🇭🇰∥健全人fol我死那个∥神聖かまってちゃん 李志 beyond∥愛人 @xuanying114514\n∥rip @Yume_121_\n@Yume_121_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yume_121_"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "^  ̳   ̫   ̳^",
+        "name": "Yume",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053707994354028544/O2G0V1D2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 118,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 129
+        },
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

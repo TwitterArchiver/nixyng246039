@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063753784459972608",
+        "3_2063753784929775616"
+      ],
+      "media_source_tweet_id": [
+        "2063753787358265678",
+        "2063753787358265678"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063825865855668585",
+    "created_at": "2026-06-08T03:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063825865855668585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910629733785870336",
+          "start": 3,
+          "username": "ji_chu25601"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RP5OH8T2X",
+          "end": 40,
+          "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+          "media_key": "3_2063753784459972608",
+          "start": 17,
+          "url": "https://t.co/5RP5OH8T2X"
+        },
+        {
+          "display_url": "pic.x.com/5RP5OH8T2X",
+          "end": 40,
+          "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+          "media_key": "3_2063753784929775616",
+          "start": 17,
+          "url": "https://t.co/5RP5OH8T2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063825865855668585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063753787358265678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chu25601: https://t.co/5RP5OH8T2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2063753784459972608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPtIfqa0AA5wd5.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2063753784929775616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPtIhabcAAYnRf.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063753784459972608",
+            "3_2063753784929775616"
+          ],
+          "media_source_tweet_id": [
+            "2063753787358265678",
+            "2063753787358265678"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063825865855668585",
+        "created_at": "2026-06-08T03:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063825865855668585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910629733785870336",
+              "start": 3,
+              "username": "ji_chu25601"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 40,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784459972608",
+              "start": 17,
+              "url": "https://t.co/5RP5OH8T2X"
+            },
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 40,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784929775616",
+              "start": 17,
+              "url": "https://t.co/5RP5OH8T2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063825865855668585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063753787358265678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chu25601: https://t.co/5RP5OH8T2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063753784459972608",
+            "3_2063753784929775616"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2063753787358265678",
+        "created_at": "2026-06-07T22:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063753787358265678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784459972608",
+              "start": 0,
+              "url": "https://t.co/5RP5OH8T2X"
+            },
+            {
+              "display_url": "pic.x.com/5RP5OH8T2X",
+              "end": 23,
+              "expanded_url": "https://x.com/ji_chu25601/status/2063753787358265678/photo/1",
+              "media_key": "3_2063753784929775616",
+              "start": 0,
+              "url": "https://t.co/5RP5OH8T2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063753787358265678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 385,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5RP5OH8T2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 350,
+          "like_count": 4511,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 957
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 84,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 353
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

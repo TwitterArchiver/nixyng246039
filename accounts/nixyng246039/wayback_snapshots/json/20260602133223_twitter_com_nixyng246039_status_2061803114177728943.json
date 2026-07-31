@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061803114177728943",
+    "created_at": "2026-06-02T13:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061803114177728943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545562635650957312",
+          "start": 3,
+          "username": "AiaAmare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061803114177728943",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060000402393735295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AiaAmare: Here’s the decoden birthday cake I made with Aiadmirers last night! \nThe whipped cream is silicone, so my room smells insane…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1209,
+        "media_key": "3_2060000392285466628",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaXcUNXMAQJXyT.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061803114177728943",
+        "created_at": "2026-06-02T13:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061803114177728943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545562635650957312",
+              "start": 3,
+              "username": "AiaAmare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061803114177728943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060000402393735295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AiaAmare: Here’s the decoden birthday cake I made with Aiadmirers last night! \nThe whipped cream is silicone, so my room smells insane…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060000392285466628"
+          ]
+        },
+        "author_id": "1545562635650957312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2060000402393735295",
+        "created_at": "2026-05-28T14:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060000402393735295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2jWwEVYnU",
+              "end": 241,
+              "expanded_url": "https://x.com/AiaAmare/status/2060000402393735295/photo/1",
+              "media_key": "3_2060000392285466628",
+              "start": 218,
+              "url": "https://t.co/t2jWwEVYnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060000402393735295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 27678,
+          "like_count": 2601,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "Here’s the decoden birthday cake I made with Aiadmirers last night! \nThe whipped cream is silicone, so my room smells insane right now, but at least the results are cute!🤍🥹\nI’m gonna store my phone charms in it hehehe https://t.co/t2jWwEVYnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 220,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 461
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:17:56.000Z",
+        "description": "I'm Aia Amare, the Angelic Maiden of NIJISANJI EN!👼⭐ にじさんじEN所属天界の少女アイア・アマレです。| ママ: @Noy_0_0\n \n🎨: #AmareAtelier\n#ILUNA\nBanner: sunsetlcc\nPFP: mayurikaichou",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 97,
+                "tag": "AmareAtelier"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "ILUNA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Noy_0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCN68L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+                "start": 0,
+                "url": "https://t.co/JtqUOwZaBp"
+              }
+            ]
+          }
+        },
+        "id": "1545562635650957312",
+        "location": "Institute of Mystics",
+        "name": "Aia Amare 👼⭐NIJISANJI EN",
+        "pinned_tweet_id": "2061522838503239710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059483458876121088/ErdA3dUI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386807,
+          "following_count": 559,
+          "like_count": 15440,
+          "listed_count": 2993,
+          "media_count": 2130,
+          "tweet_count": 9129
+        },
+        "url": "https://t.co/JtqUOwZaBp",
+        "username": "AiaAmare",
+        "verified": true
+      }
+    ]
+  }
+}

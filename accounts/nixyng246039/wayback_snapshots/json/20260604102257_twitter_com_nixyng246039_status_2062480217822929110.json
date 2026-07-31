@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062202841448730624",
+        "3_2062202841910095872"
+      ],
+      "media_source_tweet_id": [
+        "2062202844493865227",
+        "2062202844493865227"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062480217822929110",
+    "created_at": "2026-06-04T10:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062480217822929110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677573719408123904",
+          "start": 3,
+          "username": "leerie_14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qEoT80mC3p",
+          "end": 55,
+          "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+          "media_key": "3_2062202841448730624",
+          "start": 32,
+          "url": "https://t.co/qEoT80mC3p"
+        },
+        {
+          "display_url": "pic.x.com/qEoT80mC3p",
+          "end": 55,
+          "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+          "media_key": "3_2062202841910095872",
+          "start": 32,
+          "url": "https://t.co/qEoT80mC3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062480217822929110",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1816
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202844493865227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leerie_14: 가끔씩 미소녀를 그려줘야합니다 https://t.co/qEoT80mC3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062202841448730624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5qjutaUAAqaFm.jpg",
+        "width": 1322
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062202841910095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5qjwbaMAAxb39.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062202841448730624",
+            "3_2062202841910095872"
+          ],
+          "media_source_tweet_id": [
+            "2062202844493865227",
+            "2062202844493865227"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062480217822929110",
+        "created_at": "2026-06-04T10:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062480217822929110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677573719408123904",
+              "start": 3,
+              "username": "leerie_14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEoT80mC3p",
+              "end": 55,
+              "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+              "media_key": "3_2062202841448730624",
+              "start": 32,
+              "url": "https://t.co/qEoT80mC3p"
+            },
+            {
+              "display_url": "pic.x.com/qEoT80mC3p",
+              "end": 55,
+              "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+              "media_key": "3_2062202841910095872",
+              "start": 32,
+              "url": "https://t.co/qEoT80mC3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062480217822929110",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1816
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202844493865227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leerie_14: 가끔씩 미소녀를 그려줘야합니다 https://t.co/qEoT80mC3p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062202841448730624",
+            "3_2062202841910095872"
+          ]
+        },
+        "author_id": "1677573719408123904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062202844493865227",
+        "created_at": "2026-06-03T16:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062202844493865227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEoT80mC3p",
+              "end": 40,
+              "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+              "media_key": "3_2062202841448730624",
+              "start": 17,
+              "url": "https://t.co/qEoT80mC3p"
+            },
+            {
+              "display_url": "pic.x.com/qEoT80mC3p",
+              "end": 40,
+              "expanded_url": "https://x.com/leerie_14/status/2062202844493865227/photo/1",
+              "media_key": "3_2062202841910095872",
+              "start": 17,
+              "url": "https://t.co/qEoT80mC3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062202844493865227",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1903,
+          "impression_count": 299976,
+          "like_count": 17868,
+          "quote_count": 84,
+          "reply_count": 5,
+          "retweet_count": 1816
+        },
+        "reply_settings": "everyone",
+        "text": "가끔씩 미소녀를 그려줘야합니다 https://t.co/qEoT80mC3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 221,
+          "like_count": 3229,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 502
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T07:03:28.000Z",
+        "description": "",
+        "id": "1677573719408123904",
+        "name": "리리",
+        "pinned_tweet_id": "2030655343307747687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022947626753363968/683OQ2Jn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 333,
+          "like_count": 14861,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1699
+        },
+        "username": "leerie_14",
+        "verified": false
+      }
+    ]
+  }
+}

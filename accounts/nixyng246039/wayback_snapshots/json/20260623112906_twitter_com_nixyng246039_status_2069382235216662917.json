@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2069028697798332876",
+    "created_at": "2026-06-23T11:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069382235216662917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069382235216662917",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069028697798332876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 。？那什么大夫我家爷爷生了我还有事我先走了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1977,
+        "media_key": "3_2069028690684723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqocpawAA15rh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2069028697798332876",
+        "created_at": "2026-06-23T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069382235216662917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069382235216662917",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069028697798332876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 。？那什么大夫我家爷爷生了我还有事我先走了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069028690684723200"
+          ]
+        },
+        "author_id": "1851327101946953728",
+        "conversation_id": "2069028697798332876",
+        "created_at": "2026-06-22T12:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069028697798332876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQKd0p4eJ8",
+              "end": 36,
+              "expanded_url": "https://x.com/060105o/status/2069028697798332876/photo/1",
+              "media_key": "3_2069028690684723200",
+              "start": 13,
+              "url": "https://t.co/EQKd0p4eJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028697798332876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到我的课堂找我打针 https://t.co/EQKd0p4eJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 509,
+          "like_count": 7330,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2202
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/双相情感障碍/自残/ 双性恋/生活推/疾病生活日记录/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天 /(。•ω•。)ノ♡/树洞博主/即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友/成为你的树洞 倾诉心中压力 为你而活 门槛🚪十块钱谢谢宝子们可怜我这路边一条",
+        "id": "1851327101946953728",
+        "location": "门槛10r  520米可打视频打电话",
+        "name": "哇咔",
+        "pinned_tweet_id": "2056420109837860868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 521,
+          "like_count": 6851,
+          "listed_count": 3,
+          "media_count": 1860,
+          "tweet_count": 9485
+        },
+        "url": "",
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

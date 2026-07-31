@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066560157916545324",
+    "created_at": "2026-06-15T16:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066560157916545324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dodioibs/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Dodioibs/status/2066233232224616722",
+          "start": 6,
+          "url": "https://t.co/8YCpVtWABD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066560157916545324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066233232224616722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真要穷死了 https://t.co/8YCpVtWABD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066560157916545324",
+        "created_at": "2026-06-15T16:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066560157916545324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dodioibs/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Dodioibs/status/2066233232224616722",
+              "start": 6,
+              "url": "https://t.co/8YCpVtWABD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066560157916545324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066233232224616722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真要穷死了 https://t.co/8YCpVtWABD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2066233232224616722",
+        "created_at": "2026-06-14T18:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066233232224616722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066233232224616722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想把我的血图打包三块钱一张卖出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 490,
+          "like_count": 6794,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1918
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 264,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 900
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063772042743402496"
+      ],
+      "media_source_tweet_id": [
+        "2063772054508453914"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063908827016184039",
+    "created_at": "2026-06-08T08:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063908827016184039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778850117933838337",
+          "start": 3,
+          "username": "TBduyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65exQViy0B",
+          "end": 47,
+          "expanded_url": "https://x.com/TBduyu/status/2063772054508453914/photo/1",
+          "media_key": "3_2063772042743402496",
+          "start": 24,
+          "url": "https://t.co/65exQViy0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063908827016184039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063772054508453914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TBduyu: 我到考场了，你们人呢？ https://t.co/65exQViy0B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_2063772042743402496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP9vREaUAAR8cm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063772042743402496"
+          ],
+          "media_source_tweet_id": [
+            "2063772054508453914"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063908827016184039",
+        "created_at": "2026-06-08T08:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063908827016184039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778850117933838337",
+              "start": 3,
+              "username": "TBduyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65exQViy0B",
+              "end": 47,
+              "expanded_url": "https://x.com/TBduyu/status/2063772054508453914/photo/1",
+              "media_key": "3_2063772042743402496",
+              "start": 24,
+              "url": "https://t.co/65exQViy0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063908827016184039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063772054508453914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TBduyu: 我到考场了，你们人呢？ https://t.co/65exQViy0B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063772042743402496"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "conversation_id": "2063772054508453914",
+        "created_at": "2026-06-07T23:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063772054508453914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65exQViy0B",
+              "end": 35,
+              "expanded_url": "https://x.com/TBduyu/status/2063772054508453914/photo/1",
+              "media_key": "3_2063772042743402496",
+              "start": 12,
+              "url": "https://t.co/65exQViy0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063772054508453914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17677,
+          "like_count": 600,
+          "quote_count": 3,
+          "reply_count": 79,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我到考场了，你们人呢？ https://t.co/65exQViy0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 360,
+          "like_count": 4627,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 995
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生\n 喜欢毛茸茸 \n  目前：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机（几乎懒得搞了现在）\n开个蓝v，加点曝光，说不定能火一把呢？当然也没抱太大希望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "username": "aoim33"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "My home/school",
+        "name": "tabiame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1584,
+          "like_count": 16011,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1462
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

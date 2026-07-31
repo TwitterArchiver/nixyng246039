@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066560042686652811",
+    "created_at": "2026-06-15T17:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066567735698440614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027601407277469697",
+          "start": 0,
+          "username": "checheguye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066567735698440614",
+    "in_reply_to_user_id": "2027601407277469697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066560042686652811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@checheguye 居居猫补药伤心了……抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066560042686652811",
+        "created_at": "2026-06-15T17:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066567735698440614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027601407277469697",
+              "start": 0,
+              "username": "checheguye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066567735698440614",
+        "in_reply_to_user_id": "2027601407277469697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066560042686652811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@checheguye 居居猫补药伤心了……抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027601407277469697",
+        "conversation_id": "2066560042686652811",
+        "created_at": "2026-06-15T16:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066560042686652811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066560042686652811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃，大半夜情绪低落了，缺爱了这波"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 489,
+          "like_count": 6830,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1929
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T04:27:40.000Z",
+        "description": "直男…匿名：https://t.co/cgvsCNFXkT可以找我聊天，可以加微信qq，无🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guye23389",
+                "end": 29,
+                "expanded_url": "https://ngl.link/guye23389",
+                "start": 6,
+                "url": "https://t.co/cgvsCNFXkT"
+              }
+            ]
+          }
+        },
+        "id": "2027601407277469697",
+        "name": "车车猫",
+        "pinned_tweet_id": "2063650402541916556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063493457927352320/EgAY6EzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 60,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 246
+        },
+        "username": "checheguye",
+        "verified": false
+      }
+    ]
+  }
+}

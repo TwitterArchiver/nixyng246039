@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050266083953971200"
+      ],
+      "media_source_tweet_id": [
+        "2050266190665388506"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064646513842667753",
+    "created_at": "2026-06-10T09:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064646513842667753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1564990471327215619",
+          "start": 3,
+          "username": "bisco91395061"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sbvUAfrNcO",
+          "end": 60,
+          "expanded_url": "https://x.com/bisco91395061/status/2050266190665388506/photo/1",
+          "media_key": "3_2050266083953971200",
+          "start": 37,
+          "url": "https://t.co/sbvUAfrNcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064646513842667753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050266190665388506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bisco91395061: 所有人夸我可以吗🤲🤲🤲❤️❤️❤️ https://t.co/sbvUAfrNcO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050266083953971200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQCI_0bkAARjPO.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050266083953971200"
+          ],
+          "media_source_tweet_id": [
+            "2050266190665388506"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064646513842667753",
+        "created_at": "2026-06-10T09:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064646513842667753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1564990471327215619",
+              "start": 3,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbvUAfrNcO",
+              "end": 60,
+              "expanded_url": "https://x.com/bisco91395061/status/2050266190665388506/photo/1",
+              "media_key": "3_2050266083953971200",
+              "start": 37,
+              "url": "https://t.co/sbvUAfrNcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064646513842667753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050266190665388506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bisco91395061: 所有人夸我可以吗🤲🤲🤲❤️❤️❤️ https://t.co/sbvUAfrNcO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050266083953971200"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2050266190665388506",
+        "created_at": "2026-05-01T17:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050266190665388506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbvUAfrNcO",
+              "end": 41,
+              "expanded_url": "https://x.com/bisco91395061/status/2050266190665388506/photo/1",
+              "media_key": "3_2050266083953971200",
+              "start": 18,
+              "url": "https://t.co/sbvUAfrNcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050266190665388506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4372,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "所有人夸我可以吗🤲🤲🤲❤️❤️❤️ https://t.co/sbvUAfrNcO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 401,
+          "like_count": 5457,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1265
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 199,
+          "like_count": 7491,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1034
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

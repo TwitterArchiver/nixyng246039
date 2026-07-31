@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069064368726089728"
+      ],
+      "media_source_tweet_id": [
+        "2069064565044679037"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2069395452579975515",
+    "created_at": "2026-06-23T12:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069395452579975515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948450129092247553",
+          "start": 3,
+          "username": "isolations83641"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvYr7xO8YJ",
+          "end": 60,
+          "expanded_url": "https://x.com/isolations83641/status/2069064565044679037/video/1",
+          "media_key": "13_2069064368726089728",
+          "start": 37,
+          "url": "https://t.co/dvYr7xO8YJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069395452579975515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069064565044679037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isolations83641: 姐姐家拍的。然后呢我喜欢玩鬼图 https://t.co/dvYr7xO8YJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12700,
+        "height": 1280,
+        "media_key": "13_2069064368726089728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069064368726089728/img/KGRByfcqTO9HlHIk.jpg",
+        "public_metrics": {
+          "view_count": 1297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/320x588/BwzD7hFmETzQUB1t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/480x882/llGeas3KXmqFiZMq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/vid/avc1/696x1280/xNLe7tQGXg2AUxPN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069064368726089728/pl/gFGUmf2zEPPPXyaK.m3u8?v=cfc"
+          }
+        ],
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069064368726089728"
+          ],
+          "media_source_tweet_id": [
+            "2069064565044679037"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2069395452579975515",
+        "created_at": "2026-06-23T12:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395452579975515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1948450129092247553",
+              "start": 3,
+              "username": "isolations83641"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvYr7xO8YJ",
+              "end": 60,
+              "expanded_url": "https://x.com/isolations83641/status/2069064565044679037/video/1",
+              "media_key": "13_2069064368726089728",
+              "start": 37,
+              "url": "https://t.co/dvYr7xO8YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395452579975515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069064565044679037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isolations83641: 姐姐家拍的。然后呢我喜欢玩鬼图 https://t.co/dvYr7xO8YJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069064368726089728"
+          ]
+        },
+        "author_id": "1948450129092247553",
+        "conversation_id": "2069064565044679037",
+        "created_at": "2026-06-22T14:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069064565044679037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvYr7xO8YJ",
+              "end": 39,
+              "expanded_url": "https://x.com/isolations83641/status/2069064565044679037/video/1",
+              "media_key": "13_2069064368726089728",
+              "start": 16,
+              "url": "https://t.co/dvYr7xO8YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069064565044679037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2565,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐家拍的。然后呢我喜欢玩鬼图 https://t.co/dvYr7xO8YJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 516,
+          "like_count": 7451,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2250
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T18:28:25.000Z",
+        "description": "我喜欢温柔的。人还有手好看的\n我是高中生有🚪。我只是为了圈钱买药买游戏皮肤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/death24435",
+                "end": 23,
+                "expanded_url": "https://ngl.link/death24435",
+                "start": 0,
+                "url": "https://t.co/WWLLi1lEFC"
+              }
+            ]
+          }
+        },
+        "id": "1948450129092247553",
+        "location": "找我聊天我都会回。匿名信箱",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2004755439507177851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061125738838085633/e59AXL0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 41,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/WWLLi1lEFC",
+        "username": "isolations83641",
+        "verified": false
+      }
+    ]
+  }
+}

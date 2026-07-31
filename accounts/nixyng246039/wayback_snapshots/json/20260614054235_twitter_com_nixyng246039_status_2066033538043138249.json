@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065678044375781377",
+        "3_2065678045369839616"
+      ],
+      "media_source_tweet_id": [
+        "2065678047831834681",
+        "2065678047831834681"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066033538043138249",
+    "created_at": "2026-06-14T05:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066033538043138249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652331459477217283",
+          "start": 3,
+          "username": "priya_laluuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MSUWyhouny",
+          "end": 85,
+          "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+          "media_key": "3_2065678044375781377",
+          "start": 62,
+          "url": "https://t.co/MSUWyhouny"
+        },
+        {
+          "display_url": "pic.x.com/MSUWyhouny",
+          "end": 85,
+          "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+          "media_key": "3_2065678045369839616",
+          "start": 62,
+          "url": "https://t.co/MSUWyhouny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066033538043138249",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065678047831834681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @priya_laluuu: does she know how uncontrollable her moe is https://t.co/MSUWyhouny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065678044375781377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrDPKdXkAENPOC.jpg",
+        "width": 1494
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2065678045369839616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrDPOKXsAAQ16O.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065678044375781377",
+            "3_2065678045369839616"
+          ],
+          "media_source_tweet_id": [
+            "2065678047831834681",
+            "2065678047831834681"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066033538043138249",
+        "created_at": "2026-06-14T05:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066033538043138249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652331459477217283",
+              "start": 3,
+              "username": "priya_laluuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSUWyhouny",
+              "end": 85,
+              "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+              "media_key": "3_2065678044375781377",
+              "start": 62,
+              "url": "https://t.co/MSUWyhouny"
+            },
+            {
+              "display_url": "pic.x.com/MSUWyhouny",
+              "end": 85,
+              "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+              "media_key": "3_2065678045369839616",
+              "start": 62,
+              "url": "https://t.co/MSUWyhouny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033538043138249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065678047831834681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @priya_laluuu: does she know how uncontrollable her moe is https://t.co/MSUWyhouny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065678044375781377",
+            "3_2065678045369839616"
+          ]
+        },
+        "author_id": "1652331459477217283",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065678047831834681",
+        "created_at": "2026-06-13T06:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065678047831834681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSUWyhouny",
+              "end": 67,
+              "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+              "media_key": "3_2065678044375781377",
+              "start": 44,
+              "url": "https://t.co/MSUWyhouny"
+            },
+            {
+              "display_url": "pic.x.com/MSUWyhouny",
+              "end": 67,
+              "expanded_url": "https://x.com/priya_laluuu/status/2065678047831834681/photo/1",
+              "media_key": "3_2065678045369839616",
+              "start": 44,
+              "url": "https://t.co/MSUWyhouny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065678047831834681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7849,
+          "like_count": 1165,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "does she know how uncontrollable her moe is https://t.co/MSUWyhouny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 475,
+          "like_count": 6499,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1719
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T15:18:38.000Z",
+        "description": "you can call me priya! | (AR/ENG) | devoted aloupeep 💜| ethyria ♡ | 🎀✨️,🌤 | i@/shrimpbimbab ♡ h@/kafuntotatakau1",
+        "id": "1652331459477217283",
+        "location": "she/her | syrian",
+        "name": "wowow 🕊💜",
+        "pinned_tweet_id": "1940751240679641196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962830977413054464/O4mp8qUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 833,
+          "like_count": 38460,
+          "listed_count": 4,
+          "media_count": 1817,
+          "tweet_count": 25138
+        },
+        "username": "priya_laluuu",
+        "verified": false
+      }
+    ]
+  }
+}

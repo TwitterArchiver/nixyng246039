@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064704896209740069",
+    "created_at": "2026-06-10T13:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064704896209740069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 102,
+          "tag": "困的呕吐物"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "人皮扣"
+        },
+        {
+          "end": 127,
+          "start": 114,
+          "tag": "playpiercing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043252600234274816",
+          "start": 3,
+          "username": "outuwu___"
+        },
+        {
+          "end": 48,
+          "id": "2043252600234274816",
+          "start": 38,
+          "username": "outuwu___"
+        },
+        {
+          "end": 66,
+          "id": "1853011632659542016",
+          "start": 51,
+          "username": "blindfish_blue"
+        },
+        {
+          "end": 85,
+          "id": "1768516030844792832",
+          "start": 69,
+          "username": "AakashRana99975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064704896209740069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063990885059293671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @outuwu___: 痛是反反复复\n短暂缝合后又渗出血流\n__\n\n🪡@outuwu___ \n🩸@blindfish_blue \n📷@AakashRana99975 \n双方知情同意 无真实暴力行为\n#困的呕吐物 #人皮扣 #playpiercing https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064704896209740069].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064704896209740069",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064704896209740069"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063990449992515584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTEYPeaQAAJtXN.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063990449992515584"
+          ]
+        },
+        "author_id": "2043252600234274816",
+        "conversation_id": "2063990885059293671",
+        "created_at": "2026-06-08T14:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063990885059293671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "困的呕吐物"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "人皮扣"
+            },
+            {
+              "end": 112,
+              "start": 99,
+              "tag": "playpiercing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2043252600234274816",
+              "start": 23,
+              "username": "outuwu___"
+            },
+            {
+              "end": 51,
+              "id": "1853011632659542016",
+              "start": 36,
+              "username": "blindfish_blue"
+            },
+            {
+              "end": 70,
+              "id": "1768516030844792832",
+              "start": 54,
+              "username": "AakashRana99975"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpLzFtwbqD",
+              "end": 136,
+              "expanded_url": "https://x.com/outuwu___/status/2063990885059293671/photo/1",
+              "media_key": "3_2063990449992515584",
+              "start": 113,
+              "url": "https://t.co/tpLzFtwbqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063990885059293671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1085,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "痛是反反复复\n短暂缝合后又渗出血流\n__\n\n🪡@outuwu___ \n🩸@blindfish_blue \n📷@AakashRana99975 \n双方知情同意 无真实暴力行为\n#困的呕吐物 #人皮扣 #playpiercing https://t.co/tpLzFtwbqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 414,
+          "like_count": 5588,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1332
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T09:02:42.000Z",
+        "description": "你好 我是困困2.0ʢᴗ.ᴗʡᶻ @kundeoutuwu_｜Bi｜S｜🪡人皮扣体验/合作/教学欢迎礼貌询价｜作品均是🔞 一切行为均经过知情同意确认 无真实暴力发生｜咨询/预约类私信都会回 非互fo私信不闲聊。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kundeoutuwu_"
+              }
+            ]
+          }
+        },
+        "id": "2043252600234274816",
+        "location": "    Visual / Body Artist",
+        "name": "呕吐物___",
+        "pinned_tweet_id": "2053693305083601370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043253824169869312/FBHypxGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 79,
+          "like_count": 317,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 59
+        },
+        "username": "outuwu___",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T09:50:05.000Z",
+        "description": "“人生目标是玩BDSM到八十岁” | 本质为M的switch | 性唤起式恋痛 | 鄂A | 穿刺 | SP | 被缚＆努力成为合格缚手中 | polyamory 多偶制 | 约实践约绳中，欢迎私信 | 待发现……",
+        "id": "1853011632659542016",
+        "name": "不见夏鱼",
+        "pinned_tweet_id": "2035352918665380312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993227014409797635/NTaffAyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 514,
+          "like_count": 3262,
+          "listed_count": 16,
+          "media_count": 146,
+          "tweet_count": 843
+        },
+        "username": "blindfish_blue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T05:54:33.000Z",
+        "description": "常驻023丨📷⛓💉丨S丨\nNTEK_ONE 厂牌丨分享私摄作品丨合作私信丨\n喜欢美丽的肉体",
+        "id": "1768516030844792832",
+        "name": "AtomicBomb_SMXJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974148035983945728/0VJQZAJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11221,
+          "following_count": 171,
+          "like_count": 702,
+          "listed_count": 64,
+          "media_count": 66,
+          "tweet_count": 203
+        },
+        "username": "AakashRana99975",
+        "verified": false
+      }
+    ]
+  }
+}

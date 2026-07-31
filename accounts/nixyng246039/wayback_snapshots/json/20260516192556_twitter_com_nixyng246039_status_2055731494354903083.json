@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055664578340757504"
+      ],
+      "media_source_tweet_id": [
+        "2055664582635733288"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055731494354903083",
+    "created_at": "2026-05-16T19:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055731494354903083"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "みとあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786725740123488256",
+          "start": 3,
+          "username": "ninjin_nij"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPKtBS7MOY",
+          "end": 58,
+          "expanded_url": "https://x.com/ninjin_nij/status/2055664582635733288/photo/1",
+          "media_key": "3_2055664578340757504",
+          "start": 35,
+          "url": "https://t.co/qPKtBS7MOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055731494354903083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055664582635733288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninjin_nij: 集団幻覚を見た気がした\n#みとあーと https://t.co/qPKtBS7MOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055664578340757504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcwCulaoAAtUhN.jpg",
+        "width": 1381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055664578340757504"
+          ],
+          "media_source_tweet_id": [
+            "2055664582635733288"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055731494354903083",
+        "created_at": "2026-05-16T19:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055731494354903083"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "みとあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786725740123488256",
+              "start": 3,
+              "username": "ninjin_nij"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPKtBS7MOY",
+              "end": 58,
+              "expanded_url": "https://x.com/ninjin_nij/status/2055664582635733288/photo/1",
+              "media_key": "3_2055664578340757504",
+              "start": 35,
+              "url": "https://t.co/qPKtBS7MOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055731494354903083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055664582635733288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninjin_nij: 集団幻覚を見た気がした\n#みとあーと https://t.co/qPKtBS7MOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055664578340757504"
+          ]
+        },
+        "author_id": "1786725740123488256",
+        "conversation_id": "2055664582635733288",
+        "created_at": "2026-05-16T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055664582635733288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "みとあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPKtBS7MOY",
+              "end": 42,
+              "expanded_url": "https://x.com/ninjin_nij/status/2055664582635733288/photo/1",
+              "media_key": "3_2055664578340757504",
+              "start": 19,
+              "url": "https://t.co/qPKtBS7MOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055664582635733288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 350,
+          "impression_count": 50896,
+          "like_count": 7303,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "集団幻覚を見た気がした\n#みとあーと https://t.co/qPKtBS7MOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 193,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 300
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T11:54:19.000Z",
+        "description": "人神と書いてにんじんと読みます",
+        "id": "1786725740123488256",
+        "name": "人神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030550509351018496/d4IyzCse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 58,
+          "like_count": 2602,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 79
+        },
+        "username": "ninjin_nij",
+        "verified": false
+      }
+    ]
+  }
+}

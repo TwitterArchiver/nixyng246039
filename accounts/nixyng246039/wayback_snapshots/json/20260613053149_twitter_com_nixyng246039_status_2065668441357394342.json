@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065648209888935936",
+        "3_2065648210476199937",
+        "3_2065648210996236288",
+        "3_2065648212900544512"
+      ],
+      "media_source_tweet_id": [
+        "2065648226682929507",
+        "2065648226682929507",
+        "2065648226682929507",
+        "2065648226682929507"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065668441357394342",
+    "created_at": "2026-06-13T05:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065668441357394342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910629733785870336",
+          "start": 3,
+          "username": "ji_chu25601"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0AL8fk56S",
+          "end": 98,
+          "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+          "media_key": "3_2065648209888935936",
+          "start": 75,
+          "url": "https://t.co/c0AL8fk56S"
+        },
+        {
+          "display_url": "pic.x.com/c0AL8fk56S",
+          "end": 98,
+          "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+          "media_key": "3_2065648210476199937",
+          "start": 75,
+          "url": "https://t.co/c0AL8fk56S"
+        },
+        {
+          "display_url": "pic.x.com/c0AL8fk56S",
+          "end": 98,
+          "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+          "media_key": "3_2065648210996236288",
+          "start": 75,
+          "url": "https://t.co/c0AL8fk56S"
+        },
+        {
+          "display_url": "pic.x.com/c0AL8fk56S",
+          "end": 98,
+          "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+          "media_key": "3_2065648212900544512",
+          "start": 75,
+          "url": "https://t.co/c0AL8fk56S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065668441357394342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065648226682929507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chu25601: 我生活费被断了😥求路过打赏一点啊之后就是我内个找不到工作他们说是手上有伤加上15岁😢也接纯绿线下()私信问价吧() https://t.co/c0AL8fk56S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2065648209888935936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoGkVaAAAR0F_.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2065648210476199937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoGmha8AEmFPO.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2065648210996236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoGodaEAAk2tz.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2065648212900544512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqoGvjbgAAzday.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065648209888935936",
+            "3_2065648210476199937",
+            "3_2065648210996236288",
+            "3_2065648212900544512"
+          ],
+          "media_source_tweet_id": [
+            "2065648226682929507",
+            "2065648226682929507",
+            "2065648226682929507",
+            "2065648226682929507"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065668441357394342",
+        "created_at": "2026-06-13T05:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065668441357394342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910629733785870336",
+              "start": 3,
+              "username": "ji_chu25601"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 98,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648209888935936",
+              "start": 75,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 98,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648210476199937",
+              "start": 75,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 98,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648210996236288",
+              "start": 75,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 98,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648212900544512",
+              "start": 75,
+              "url": "https://t.co/c0AL8fk56S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065668441357394342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065648226682929507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chu25601: 我生活费被断了😥求路过打赏一点啊之后就是我内个找不到工作他们说是手上有伤加上15岁😢也接纯绿线下()私信问价吧() https://t.co/c0AL8fk56S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065648209888935936",
+            "3_2065648210476199937",
+            "3_2065648210996236288",
+            "3_2065648212900544512"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2065648226682929507",
+        "created_at": "2026-06-13T04:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065648226682929507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 81,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648209888935936",
+              "start": 58,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 81,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648210476199937",
+              "start": 58,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 81,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648210996236288",
+              "start": 58,
+              "url": "https://t.co/c0AL8fk56S"
+            },
+            {
+              "display_url": "pic.x.com/c0AL8fk56S",
+              "end": 81,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065648226682929507/photo/1",
+              "media_key": "3_2065648212900544512",
+              "start": 58,
+              "url": "https://t.co/c0AL8fk56S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065648226682929507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我生活费被断了😥求路过打赏一点啊之后就是我内个找不到工作他们说是手上有伤加上15岁😢也接纯绿线下()私信问价吧() https://t.co/c0AL8fk56S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 456,
+          "like_count": 6264,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1609
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2065648226682929507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 101,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 397
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

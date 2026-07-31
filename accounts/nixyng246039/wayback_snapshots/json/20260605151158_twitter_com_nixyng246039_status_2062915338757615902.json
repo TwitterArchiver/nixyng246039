@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062915338757615902",
+    "created_at": "2026-06-05T15:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062915338757615902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1806877178333929472",
+          "start": 3,
+          "username": "xio1766719oai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062915338757615902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062685563317330375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xio1766719oai: 无病呻吟怎么了  生活没把我操到高潮我还不能演了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062915338757615902",
+        "created_at": "2026-06-05T15:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062915338757615902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1806877178333929472",
+              "start": 3,
+              "username": "xio1766719oai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062915338757615902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062685563317330375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xio1766719oai: 无病呻吟怎么了  生活没把我操到高潮我还不能演了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806877178333929472",
+        "conversation_id": "2062685563317330375",
+        "created_at": "2026-06-04T23:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062685563317330375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062685563317330375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3792,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "无病呻吟怎么了  生活没把我操到高潮我还不能演了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 294,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 669
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T02:33:49.000Z",
+        "description": "我系一只小猫猫。\n@xyr060606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "xyr060606"
+              }
+            ]
+          }
+        },
+        "id": "1806877178333929472",
+        "location": "🚪88/188/388/520/1314 非入门私信不回",
+        "name": "絮语耳",
+        "pinned_tweet_id": "2039264031958249738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970489809358430208/-R4LNrUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 9,
+          "like_count": 125,
+          "listed_count": 16,
+          "media_count": 43,
+          "tweet_count": 132
+        },
+        "username": "xio1766719oai",
+        "verified": false
+      }
+    ]
+  }
+}

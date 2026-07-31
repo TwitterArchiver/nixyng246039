@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062805181855924224"
+      ],
+      "media_source_tweet_id": [
+        "2062805198498840821"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063320092473979354",
+    "created_at": "2026-06-06T18:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063320092473979354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987496594594496512",
+          "start": 3,
+          "username": "aldn126633"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZ8VtMasRL",
+          "end": 64,
+          "expanded_url": "https://x.com/aldn126633/status/2062805198498840821/photo/1",
+          "media_key": "3_2062805181855924224",
+          "start": 41,
+          "url": "https://t.co/fZ8VtMasRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063320092473979354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062805198498840821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aldn126633: 好烦好烦好烦好烦好烦好烦好烦好烦糖糖好烦！！！！ https://t.co/fZ8VtMasRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062805181855924224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOYjlbgAAabub.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062805181855924224"
+          ],
+          "media_source_tweet_id": [
+            "2062805198498840821"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063320092473979354",
+        "created_at": "2026-06-06T18:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063320092473979354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987496594594496512",
+              "start": 3,
+              "username": "aldn126633"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZ8VtMasRL",
+              "end": 64,
+              "expanded_url": "https://x.com/aldn126633/status/2062805198498840821/photo/1",
+              "media_key": "3_2062805181855924224",
+              "start": 41,
+              "url": "https://t.co/fZ8VtMasRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063320092473979354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062805198498840821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aldn126633: 好烦好烦好烦好烦好烦好烦好烦好烦糖糖好烦！！！！ https://t.co/fZ8VtMasRL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062805181855924224"
+          ]
+        },
+        "author_id": "1987496594594496512",
+        "conversation_id": "2062805198498840821",
+        "created_at": "2026-06-05T07:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062805198498840821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZ8VtMasRL",
+              "end": 48,
+              "expanded_url": "https://x.com/aldn126633/status/2062805198498840821/photo/1",
+              "media_key": "3_2062805181855924224",
+              "start": 25,
+              "url": "https://t.co/fZ8VtMasRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062805198498840821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 13489,
+          "like_count": 1705,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "好烦好烦好烦好烦好烦好烦好烦好烦糖糖好烦！！！！ https://t.co/fZ8VtMasRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 309,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 730
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n分身@kiwi_03096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 22,
+          "like_count": 187,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 409
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

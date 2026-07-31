@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054936286532960419",
+    "created_at": "2026-05-14T15:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054946961124683832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052760341411708928",
+          "start": 0,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054946961124683832",
+    "in_reply_to_user_id": "2052760341411708928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054936286532960419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui17171Fei 我天呢要在家多休息啊，希望你早点好起来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2054936283596886019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISZqZPakAMwnV7.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054936286532960419",
+        "created_at": "2026-05-14T15:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054946961124683832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052760341411708928",
+              "start": 0,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054946961124683832",
+        "in_reply_to_user_id": "2052760341411708928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054936286532960419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui17171Fei 我天呢要在家多休息啊，希望你早点好起来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054936283596886019"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054936286532960419",
+        "created_at": "2026-05-14T14:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054936286532960419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/po2PNsZ3ZM",
+              "end": 167,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2054936286532960419/photo/1",
+              "media_key": "3_2054936283596886019",
+              "start": 144,
+              "url": "https://t.co/po2PNsZ3ZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054936286532960419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花粉重度过敏强行出门加上高烧还没有完全痊愈徒步20公里，本不健康的身体，雪上加霜，肠胃炎+轻度结膜炎+慢性鼻炎+中度发烧+咽炎+轻微吐血+指甲断掉一根+加上花粉过敏身体瘙痒，好了，该去自助配药了，长期生病加上身体透支，我现在已经可以处理各种中小型疾病了，古有神农尝百草，今有千岁吃百药。 https://t.co/po2PNsZ3ZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 187,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 260
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千岁",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054880994738802688/IgSH64WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 170,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 253
+        },
+        "username": "Sui17171Fei",
+        "verified": false
+      }
+    ]
+  }
+}

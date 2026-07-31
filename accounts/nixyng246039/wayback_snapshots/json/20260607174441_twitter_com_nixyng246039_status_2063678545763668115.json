@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063647897359638528"
+      ],
+      "media_source_tweet_id": [
+        "2063647904322252939"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063678545763668115",
+    "created_at": "2026-06-07T17:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063678545763668115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698654267962470400",
+          "start": 3,
+          "username": "rurisukii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mq3tpzJXmf",
+          "end": 63,
+          "expanded_url": "https://x.com/rurisukii/status/2063647904322252939/photo/1",
+          "media_key": "3_2063647897359638528",
+          "start": 40,
+          "url": "https://t.co/Mq3tpzJXmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063678545763668115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063647904322252939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurisukii: 透露一个皮下风格（？）\n其实有点割裂哈哈哈哈哈哈 https://t.co/Mq3tpzJXmf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2063647897359638528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOM1DeaYAApJND.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063647897359638528"
+          ],
+          "media_source_tweet_id": [
+            "2063647904322252939"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063678545763668115",
+        "created_at": "2026-06-07T17:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063678545763668115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698654267962470400",
+              "start": 3,
+              "username": "rurisukii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq3tpzJXmf",
+              "end": 63,
+              "expanded_url": "https://x.com/rurisukii/status/2063647904322252939/photo/1",
+              "media_key": "3_2063647897359638528",
+              "start": 40,
+              "url": "https://t.co/Mq3tpzJXmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063678545763668115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063647904322252939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurisukii: 透露一个皮下风格（？）\n其实有点割裂哈哈哈哈哈哈 https://t.co/Mq3tpzJXmf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063647897359638528"
+          ]
+        },
+        "author_id": "1698654267962470400",
+        "conversation_id": "2063647904322252939",
+        "created_at": "2026-06-07T15:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063647904322252939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq3tpzJXmf",
+              "end": 48,
+              "expanded_url": "https://x.com/rurisukii/status/2063647904322252939/photo/1",
+              "media_key": "3_2063647897359638528",
+              "start": 25,
+              "url": "https://t.co/Mq3tpzJXmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063647904322252939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 471,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "透露一个皮下风格（？）\n其实有点割裂哈哈哈哈哈哈 https://t.co/Mq3tpzJXmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 346,
+          "like_count": 4473,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 938
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T11:08:40.000Z",
+        "description": "👉b站同名 注意甄别🐥\n(本人不私加任何人不要再被骗了)😾!!互动留言我都会看🥺💌\n谢谢大家的喜欢，这边就分享点图~",
+        "id": "1698654267962470400",
+        "name": "🌸夏目水奈🐶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698654631088500736/FLv-x53l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 68,
+          "like_count": 1056,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 509
+        },
+        "username": "rurisukii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055627246841585664"
+      ],
+      "media_source_tweet_id": [
+        "2055627278596628859"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055925214283010332",
+    "created_at": "2026-05-17T08:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055925214283010332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "みとあーと"
+        },
+        {
+          "end": 39,
+          "start": 25,
+          "tag": "CONCERTO_Day1"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998967783078637574",
+          "start": 3,
+          "username": "dondokojanka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5IxUs779O",
+          "end": 70,
+          "expanded_url": "https://x.com/dondokojanka/status/2055627278596628859/photo/1",
+          "media_key": "3_2055627246841585664",
+          "start": 47,
+          "url": "https://t.co/g5IxUs779O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055925214283010332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055627278596628859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dondokojanka: #みとあーと #CONCERTO_Day1\n\n最高すぎた https://t.co/g5IxUs779O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055627246841585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcOFv6bYAAj_EA.jpg",
+        "width": 2890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055627246841585664"
+          ],
+          "media_source_tweet_id": [
+            "2055627278596628859"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055925214283010332",
+        "created_at": "2026-05-17T08:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055925214283010332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "みとあーと"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "CONCERTO_Day1"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998967783078637574",
+              "start": 3,
+              "username": "dondokojanka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5IxUs779O",
+              "end": 70,
+              "expanded_url": "https://x.com/dondokojanka/status/2055627278596628859/photo/1",
+              "media_key": "3_2055627246841585664",
+              "start": 47,
+              "url": "https://t.co/g5IxUs779O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055925214283010332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055627278596628859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dondokojanka: #みとあーと #CONCERTO_Day1\n\n最高すぎた https://t.co/g5IxUs779O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055627246841585664"
+          ]
+        },
+        "author_id": "1998967783078637574",
+        "conversation_id": "2055627278596628859",
+        "created_at": "2026-05-16T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055627278596628859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "みとあーと"
+            },
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "CONCERTO_Day1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5IxUs779O",
+              "end": 52,
+              "expanded_url": "https://x.com/dondokojanka/status/2055627278596628859/photo/1",
+              "media_key": "3_2055627246841585664",
+              "start": 29,
+              "url": "https://t.co/g5IxUs779O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055627278596628859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 20655,
+          "like_count": 2914,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "#みとあーと #CONCERTO_Day1\n\n最高すぎた https://t.co/g5IxUs779O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 194,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 315
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T04:07:33.000Z",
+        "description": "絵を描きます / FA雑多 Vと学マス中心かも / 無断転載・AI利用禁止 / ﾌﾟﾘﾃｨｰ垢▶︎@dondokojan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "dondokojan"
+              }
+            ]
+          }
+        },
+        "id": "1998967783078637574",
+        "name": "どどんどこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029514796618620928/8H5xkBzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 9,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 39
+        },
+        "username": "dondokojanka",
+        "verified": false
+      }
+    ]
+  }
+}

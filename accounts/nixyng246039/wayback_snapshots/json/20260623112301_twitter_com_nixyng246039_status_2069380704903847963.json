@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069343446595420160"
+      ],
+      "media_source_tweet_id": [
+        "2069343453453197576"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2069380704903847963",
+    "created_at": "2026-06-23T11:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069380704903847963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1262437392171991041",
+          "start": 3,
+          "username": "SumiSamuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5Gv8lZu1T",
+          "end": 96,
+          "expanded_url": "https://x.com/SumiSamuuu/status/2069343453453197576/photo/1",
+          "media_key": "3_2069343446595420160",
+          "start": 73,
+          "url": "https://t.co/j5Gv8lZu1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069380704903847963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069343453453197576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @SumiSamuuu: *再揭\n「________ 」-1961\n_\n如果你認得「七個隆咚鏘咚鏘」這個音，沒錯，這首歌也是戒嚴時期的禁歌 https://t.co/j5Gv8lZu1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069343446595420160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfI5pyaQAAThkA.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069343446595420160"
+          ],
+          "media_source_tweet_id": [
+            "2069343453453197576"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2069380704903847963",
+        "created_at": "2026-06-23T11:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069380704903847963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1262437392171991041",
+              "start": 3,
+              "username": "SumiSamuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5Gv8lZu1T",
+              "end": 96,
+              "expanded_url": "https://x.com/SumiSamuuu/status/2069343453453197576/photo/1",
+              "media_key": "3_2069343446595420160",
+              "start": 73,
+              "url": "https://t.co/j5Gv8lZu1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069380704903847963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069343453453197576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @SumiSamuuu: *再揭\n「________ 」-1961\n_\n如果你認得「七個隆咚鏘咚鏘」這個音，沒錯，這首歌也是戒嚴時期的禁歌 https://t.co/j5Gv8lZu1T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069343446595420160"
+          ]
+        },
+        "author_id": "1262437392171991041",
+        "conversation_id": "2069343453453197576",
+        "created_at": "2026-06-23T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069343453453197576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5Gv8lZu1T",
+              "end": 80,
+              "expanded_url": "https://x.com/SumiSamuuu/status/2069343453453197576/photo/1",
+              "media_key": "3_2069343446595420160",
+              "start": 57,
+              "url": "https://t.co/j5Gv8lZu1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343453453197576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6112,
+          "like_count": 372,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "*再揭\n「________ 」-1961\n_\n如果你認得「七個隆咚鏘咚鏘」這個音，沒錯，這首歌也是戒嚴時期的禁歌 https://t.co/j5Gv8lZu1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 508,
+          "like_count": 7317,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2193
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T17:38:34.000Z",
+        "description": "ㄇㄏ↦ヘタリア元祖亞細亜領 | 🇰🇷と東亞細亜中心 | 勇耀固定 |\n中.日.EN 🆗 | F外通知OFF🔕 | 有刪文習慣 多忙時多低浮 | 史向鍵垢→⁠ @SumiSamuuu_HIS (久未更新)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "SumiSamuuu_HIS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/sumisamuuu?t=H…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/sumisamuuu?t=HzCD4P&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Nu3vRKblQj"
+              }
+            ]
+          }
+        },
+        "id": "1262437392171991041",
+        "location": "Taiwan",
+        "name": "ㄇㄏ | 墨",
+        "pinned_tweet_id": "1956007913761214759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017361333709377539/cp38YJqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 34,
+          "like_count": 4667,
+          "listed_count": 16,
+          "media_count": 545,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/Nu3vRKblQj",
+        "username": "SumiSamuuu",
+        "verified": false
+      }
+    ]
+  }
+}

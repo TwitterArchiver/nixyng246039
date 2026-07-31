@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064776823360106496"
+      ],
+      "media_source_tweet_id": [
+        "2064776958857126059"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      }
+    ],
+    "conversation_id": "2065091222897578375",
+    "created_at": "2026-06-11T15:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065091222897578375"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "AmareAtelier"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "b3d"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1658543693022781454",
+          "start": 3,
+          "username": "SeraTsukiakari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rukbED8aFg",
+          "end": 62,
+          "expanded_url": "https://x.com/SeraTsukiakari/status/2064776958857126059/photo/1",
+          "media_key": "3_2064776823360106496",
+          "start": 39,
+          "url": "https://t.co/rukbED8aFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065091222897578375",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064776958857126059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeraTsukiakari: #AmareAtelier #b3d https://t.co/rukbED8aFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2064776823360106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKePlMjWsAAXhHt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064776823360106496"
+          ],
+          "media_source_tweet_id": [
+            "2064776958857126059"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          }
+        ],
+        "conversation_id": "2065091222897578375",
+        "created_at": "2026-06-11T15:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065091222897578375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "AmareAtelier"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "b3d"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1658543693022781454",
+              "start": 3,
+              "username": "SeraTsukiakari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rukbED8aFg",
+              "end": 62,
+              "expanded_url": "https://x.com/SeraTsukiakari/status/2064776958857126059/photo/1",
+              "media_key": "3_2064776823360106496",
+              "start": 39,
+              "url": "https://t.co/rukbED8aFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091222897578375",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064776958857126059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeraTsukiakari: #AmareAtelier #b3d https://t.co/rukbED8aFg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064776823360106496"
+          ]
+        },
+        "author_id": "1658543693022781454",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          }
+        ],
+        "conversation_id": "2064776958857126059",
+        "created_at": "2026-06-10T18:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064776958857126059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "AmareAtelier"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "b3d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rukbED8aFg",
+              "end": 42,
+              "expanded_url": "https://x.com/SeraTsukiakari/status/2064776958857126059/photo/1",
+              "media_key": "3_2064776823360106496",
+              "start": 19,
+              "url": "https://t.co/rukbED8aFg"
+            },
+            {
+              "display_url": "x.com/SeraTsukiakari…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/SeraTsukiakari/status/2064003468893864039",
+              "start": 43,
+              "url": "https://t.co/5cNl2HXFQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064776958857126059",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6484,
+          "like_count": 336,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064003468893864039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#AmareAtelier #b3d https://t.co/rukbED8aFg https://t.co/5cNl2HXFQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 435,
+          "like_count": 5874,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1457
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T18:43:46.000Z",
+        "description": "hi :3 ✧ 25 ✧ 🔮🛸🌤️ (🖋️) ✧ (pls don't follow if you're a minor) ✧ don't use my art for a//i\ncurrently viozashi pilled im STILL in that restaurant",
+        "id": "1658543693022781454",
+        "location": "she/they",
+        "name": "sera",
+        "pinned_tweet_id": "2064776958857126059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981438075562520576/hmJajjnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 74,
+          "like_count": 91838,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 6839
+        },
+        "username": "SeraTsukiakari",
+        "verified": false
+      }
+    ]
+  }
+}

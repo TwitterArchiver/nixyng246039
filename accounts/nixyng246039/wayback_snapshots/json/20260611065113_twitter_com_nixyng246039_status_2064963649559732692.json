@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064940601934766080"
+      ],
+      "media_source_tweet_id": [
+        "2064940633169748125"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064963649559732692",
+    "created_at": "2026-06-11T06:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064963649559732692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720585683184857088",
+          "start": 3,
+          "username": "xiaoqi3377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAS7ZrxP3e",
+          "end": 50,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2064940633169748125/photo/1",
+          "media_key": "3_2064940601934766080",
+          "start": 27,
+          "url": "https://t.co/HAS7ZrxP3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064963649559732692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064940633169748125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi3377: 叽里咕噜的 说什么呢 https://t.co/HAS7ZrxP3e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2064940601934766080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgkiXSaYAADPGi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064940601934766080"
+          ],
+          "media_source_tweet_id": [
+            "2064940633169748125"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064963649559732692",
+        "created_at": "2026-06-11T06:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064963649559732692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720585683184857088",
+              "start": 3,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAS7ZrxP3e",
+              "end": 50,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2064940633169748125/photo/1",
+              "media_key": "3_2064940601934766080",
+              "start": 27,
+              "url": "https://t.co/HAS7ZrxP3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064963649559732692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064940633169748125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi3377: 叽里咕噜的 说什么呢 https://t.co/HAS7ZrxP3e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064940601934766080"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064940633169748125",
+        "created_at": "2026-06-11T05:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064940633169748125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAS7ZrxP3e",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2064940633169748125/photo/1",
+              "media_key": "3_2064940601934766080",
+              "start": 11,
+              "url": "https://t.co/HAS7ZrxP3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064940633169748125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 138,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "叽里咕噜的 说什么呢 https://t.co/HAS7ZrxP3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 419,
+          "like_count": 5710,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1388
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 163,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 503
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

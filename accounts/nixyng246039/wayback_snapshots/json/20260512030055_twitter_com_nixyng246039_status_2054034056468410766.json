@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053790333113372672"
+      ],
+      "media_source_tweet_id": [
+        "2053790339010630143"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054034056468410766",
+    "created_at": "2026-05-12T03:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054034056468410766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "かな絵"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522428783503970304",
+          "start": 3,
+          "username": "8washihachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXikEr9ZZZ",
+          "end": 45,
+          "expanded_url": "https://x.com/8washihachi/status/2053790339010630143/photo/1",
+          "media_key": "3_2053790333113372672",
+          "start": 22,
+          "url": "https://t.co/zXikEr9ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054034056468410766",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053790339010630143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8washihachi: #かな絵 https://t.co/zXikEr9ZZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053790333113372672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICHbTBakAAaI_S.jpg",
+        "width": 1473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053790333113372672"
+          ],
+          "media_source_tweet_id": [
+            "2053790339010630143"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054034056468410766",
+        "created_at": "2026-05-12T03:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054034056468410766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "かな絵"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522428783503970304",
+              "start": 3,
+              "username": "8washihachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXikEr9ZZZ",
+              "end": 45,
+              "expanded_url": "https://x.com/8washihachi/status/2053790339010630143/photo/1",
+              "media_key": "3_2053790333113372672",
+              "start": 22,
+              "url": "https://t.co/zXikEr9ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054034056468410766",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053790339010630143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8washihachi: #かな絵 https://t.co/zXikEr9ZZZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053790333113372672"
+          ]
+        },
+        "author_id": "1522428783503970304",
+        "conversation_id": "2053790339010630143",
+        "created_at": "2026-05-11T10:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053790339010630143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "かな絵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXikEr9ZZZ",
+              "end": 28,
+              "expanded_url": "https://x.com/8washihachi/status/2053790339010630143/photo/1",
+              "media_key": "3_2053790333113372672",
+              "start": 5,
+              "url": "https://t.co/zXikEr9ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053790339010630143",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 744,
+          "impression_count": 90277,
+          "like_count": 12180,
+          "quote_count": 27,
+          "reply_count": 3,
+          "retweet_count": 1414
+        },
+        "reply_settings": "everyone",
+        "text": "#かな絵 https://t.co/zXikEr9ZZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 121,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 88
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T04:11:38.000Z",
+        "description": "はちわしはち。成人済。漫画イラストお仕事のご依頼✉hachiwashihachi@gmail.comまでAI学習無断転載禁止Please do not re-upload日常→（ @8washihachi_23 ）🦋→ https://t.co/3gIPenQSVa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "8washihachi_23"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/8washi…",
+                "end": 133,
+                "expanded_url": "https://bsky.app/profile/8washihachi.bsky.social",
+                "start": 110,
+                "url": "https://t.co/3gIPenQSVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84142770",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/84142770",
+                "start": 0,
+                "url": "https://t.co/8PlAjJnDuN"
+              }
+            ]
+          }
+        },
+        "id": "1522428783503970304",
+        "location": "絵はライバー本人のみ使用可。他の方には基本許可を出してません",
+        "name": "八和紙蜂/にじそ西2 の-12",
+        "pinned_tweet_id": "2043989737552392408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917914417037279232/14T6jz4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39486,
+          "following_count": 84,
+          "like_count": 5167,
+          "listed_count": 164,
+          "media_count": 1287,
+          "tweet_count": 5285
+        },
+        "url": "https://t.co/8PlAjJnDuN",
+        "username": "8washihachi",
+        "verified": true
+      }
+    ]
+  }
+}

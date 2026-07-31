@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063864393411022967",
+    "created_at": "2026-06-08T06:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063864393411022967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670322365912461313",
+          "start": 3,
+          "username": "Seraphinexe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063864393411022967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063840050086076465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seraphinexe: 我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063864393411022967",
+        "created_at": "2026-06-08T06:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063864393411022967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670322365912461313",
+              "start": 3,
+              "username": "Seraphinexe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063864393411022967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840050086076465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seraphinexe: 我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670322365912461313",
+        "conversation_id": "2063840050086076465",
+        "created_at": "2026-06-08T04:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063840050086076465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063840050086076465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1721,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 357,
+          "like_count": 4592,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 981
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T06:47:55.000Z",
+        "description": "我想 哥哥这一页 应是 椿萱并茂 棠棣同馨",
+        "id": "1670322365912461313",
+        "location": "浙江杭州",
+        "name": "郁闷的土豆",
+        "pinned_tweet_id": "2062861683383828977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 4526,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 206
+        },
+        "username": "Seraphinexe",
+        "verified": false
+      }
+    ]
+  }
+}

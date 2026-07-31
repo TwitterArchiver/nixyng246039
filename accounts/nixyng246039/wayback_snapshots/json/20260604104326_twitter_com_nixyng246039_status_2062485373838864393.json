@@ -1,0 +1,657 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1454127857244917763",
+          "name": "Pom Pom Purin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1454142301131792387",
+          "name": "Cinnamoroll"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1454127857244917763",
+          "name": "Pom Pom Purin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1454142301131792387",
+          "name": "Cinnamoroll"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1454127857244917763",
+          "name": "Pom Pom Purin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1454142301131792387",
+          "name": "Cinnamoroll"
+        }
+      }
+    ],
+    "conversation_id": "2062485373838864393",
+    "created_at": "2026-06-04T10:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062485373838864393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearmylove_yum…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dearmylove_yume/status/2059832039239553445",
+          "start": 9,
+          "url": "https://t.co/ynBYJEBB8N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062485373838864393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059832039239553445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个泳衣好萌。！ https://t.co/ynBYJEBB8N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2059474913128574977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS5hZzbcAEUXTf.jpg",
+        "width": 1824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          }
+        ],
+        "conversation_id": "2062485373838864393",
+        "created_at": "2026-06-04T10:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062485373838864393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearmylove_yum…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dearmylove_yume/status/2059832039239553445",
+              "start": 9,
+              "url": "https://t.co/ynBYJEBB8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062485373838864393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059832039239553445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个泳衣好萌。！ https://t.co/ynBYJEBB8N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059474913128574977"
+          ]
+        },
+        "author_id": "1196968535311835137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454127857244917763",
+              "name": "Pom Pom Purin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454142301131792387",
+              "name": "Cinnamoroll"
+            }
+          }
+        ],
+        "conversation_id": "2059832039239553445",
+        "created_at": "2026-05-28T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059832039239553445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 5,
+              "tag": "サンリオキャラクターズ"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "DearMyLove"
+            }
+          ],
+          "urls": [
+            {
+              "description": "6/1mon12:00販売START♥ Sanrio characters×DearMyLoveswimwear collection マイメロディ・シナモロールクロミ・ポムポムプリンをイメージしたサンリオキャラクターのコラボ水着が再登場♡ DearMyLoveらしいガーリーなデザインとキャラクターごとの“かわいい”をたっぷり詰め込んだ特別な4型です♡ 購入時のご注意 今回の発売分は受注生産ではありません。数量限定の販売となります。 発売スタートと同時にアクセスが集中する場合があります。ご購入前に以下、必ずご確認をお願いいたします。 商品をカートに入れても在庫確保とはなりません。カートに入れたあとは速やかにご購入手続きをお願いいたします。 ご購入の際には、会員ログインを推奨いたします。 ※ログインから120分が経過しますと自動でログアウト状態になりますのでご注意ください。 ※パスワードをお忘れの場合は、事前にパスワードの再設定をお願いいたします。 ※住所入力等の手間を省ける、事前の会員登録をおすすめいたします。 ご注文完了後のキャンセル・変更は承っておりません。 注文完了後、自動的に発送準備が開始されます為、ご注文内容の変更・キャンセルは、申し訳ございませんがお受けすることができません。 ご購入時に備考欄(コメント欄)に変更や配送のご希望を記入いただきましても、お受けすることが出来ません。 用意している在庫よりも多いご注文が入った場合、ご注文をキャンセルさせていただく可能性があります キャンセルの場合は個別にご連絡させていただきますのでご了承ください。 ※キャンセルが発生した場合、自動で商品が補充される場合がございます。 アクセス殺到によりページが表示されない場合は、一定時間を置いてから再アクセスをお願いいたします。 【完売後の受注生産について】 発売日に完売するなど、大変ご好評の場合、受注生産を検討する可能性がございます。発売後、改めて発信いたしますので高額転売の購入をお控えください。 【高額転売について】 マナーを守ってくださる方ばかりの中、このような注意喚起を行うのは本意ではございませんが、前回、多くのお客様からコラボ商品の高額転売の情報が寄せられました。ご購入時のご注意にも記載しております通り、営利目的での転売は禁止しております。転売目的の購入だと判断した場",
+              "display_url": "x.gd/yINwR",
+              "end": 63,
+              "expanded_url": "https://x.gd/yINwR",
+              "images": [
+                {
+                  "height": 225,
+                  "url": "https://pbs.twimg.com/news_img/2061341399614963713/11RfE01n?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061341399614963713/11RfE01n?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "Sanrio characters × DearMyLove swimwear collection",
+              "unwound_url": "https://dreamvs.jp/blogs/topic/2026sanrio_swimwear?utm_source=twitterdv",
+              "url": "https://t.co/SeD4AjXxLi"
+            },
+            {
+              "display_url": "pic.x.com/Zh2sxuA2Y3",
+              "end": 196,
+              "expanded_url": "https://x.com/dearmylove_yume/status/2059832039239553445/photo/1",
+              "media_key": "3_2059474913128574977",
+              "start": 173,
+              "url": "https://t.co/Zh2sxuA2Y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059832039239553445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 5,
+                "tag": "サンリオキャラクターズ"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "tag": "DearMyLove"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/yINwR",
+                "end": 63,
+                "expanded_url": "https://x.gd/yINwR",
+                "start": 40,
+                "url": "https://t.co/9HWuMi6iVK"
+              }
+            ]
+          },
+          "text": "₊˚ ୨ #サンリオキャラクターズ × #DearMyLove   ୧ ˚₊\n🔗https://t.co/9HWuMi6iVK\n\nマイメロディ・シナモロール・クロミ・ポムポムプリンをイメージした水着が再登場♡\n\nDearMyLoveらしいデザインとキャラクターごとの“かわいい”をたっぷり詰め込んだ特別な4型です♡👙\n\nこの夏だけのとっておきの\nコレクションをお楽しみに🎐⋆｡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3490,
+          "impression_count": 867136,
+          "like_count": 12892,
+          "quote_count": 2044,
+          "reply_count": 25,
+          "retweet_count": 2046
+        },
+        "reply_settings": "everyone",
+        "text": "₊˚ ୨ #サンリオキャラクターズ × #DearMyLove   ୧ ˚₊\n🔗https://t.co/SeD4AjXxLi\n\nマイメロディ・シナモロール・クロミ・ポムポムプリンをイメージした水着が再登場♡\n\nDearMyLoveらしいデザインとキャラクターごとの“かわいい”をたっぷり詰め込んだ特別な4型です♡👙\n\nこの夏だけのとっておきの https://t.co/Zh2sxuA2Y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 222,
+          "like_count": 3268,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 513
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T01:48:50.000Z",
+        "description": "𓊆S~6Lサイズまで展開𓊇 ONLINE限定ブランド 「DEARMYLOVE」の公式アカウントです🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yumetenbox",
+                "end": 23,
+                "expanded_url": "https://lit.link/yumetenbox",
+                "start": 0,
+                "url": "https://t.co/tdvDbYOkXh"
+              }
+            ]
+          }
+        },
+        "id": "1196968535311835137",
+        "name": "DearMyLove All Sister Brands",
+        "pinned_tweet_id": "2059832039239553445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348898799603785728/6WZuNrWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39542,
+          "following_count": 5,
+          "like_count": 2444,
+          "listed_count": 588,
+          "media_count": 4173,
+          "tweet_count": 5522
+        },
+        "url": "https://t.co/tdvDbYOkXh",
+        "username": "dearmylove_yume",
+        "verified": true
+      }
+    ]
+  }
+}

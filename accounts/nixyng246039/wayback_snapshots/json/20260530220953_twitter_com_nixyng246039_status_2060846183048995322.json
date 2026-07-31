@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060319384032481281"
+      ],
+      "media_source_tweet_id": [
+        "2060319401711468745"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060846183048995322",
+    "created_at": "2026-05-30T22:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060846183048995322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992534469140762624",
+          "start": 3,
+          "username": "kxyws"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/olhj59GnSB",
+          "end": 37,
+          "expanded_url": "https://x.com/kxyws/status/2060319401711468745/photo/1",
+          "media_key": "3_2060319384032481281",
+          "start": 14,
+          "url": "https://t.co/olhj59GnSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060846183048995322",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060319401711468745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxyws: oc https://t.co/olhj59GnSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_2060319384032481281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe5kFEbkAEyGTT.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060319384032481281"
+          ],
+          "media_source_tweet_id": [
+            "2060319401711468745"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060846183048995322",
+        "created_at": "2026-05-30T22:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060846183048995322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992534469140762624",
+              "start": 3,
+              "username": "kxyws"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/olhj59GnSB",
+              "end": 37,
+              "expanded_url": "https://x.com/kxyws/status/2060319401711468745/photo/1",
+              "media_key": "3_2060319384032481281",
+              "start": 14,
+              "url": "https://t.co/olhj59GnSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060846183048995322",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060319401711468745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxyws: oc https://t.co/olhj59GnSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060319384032481281"
+          ]
+        },
+        "author_id": "1992534469140762624",
+        "conversation_id": "2060319401711468745",
+        "created_at": "2026-05-29T11:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060319401711468745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olhj59GnSB",
+              "end": 26,
+              "expanded_url": "https://x.com/kxyws/status/2060319401711468745/photo/1",
+              "media_key": "3_2060319384032481281",
+              "start": 3,
+              "url": "https://t.co/olhj59GnSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060319401711468745",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 47173,
+          "like_count": 4904,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "oc https://t.co/olhj59GnSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 200,
+          "like_count": 2849,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 409
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T10:05:00.000Z",
+        "description": "mail: kxywse@gmail.com\nins: https://t.co/DV3BuJMYhY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kxyws",
+                "end": 51,
+                "expanded_url": "https://www.instagram.com/kxyws",
+                "start": 28,
+                "url": "https://t.co/DV3BuJMYhY"
+              }
+            ]
+          }
+        },
+        "id": "1992534469140762624",
+        "name": "きすみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030164550822318080/YrL_ntXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 14,
+          "like_count": 95,
+          "listed_count": 5,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "username": "kxyws",
+        "verified": false
+      }
+    ]
+  }
+}

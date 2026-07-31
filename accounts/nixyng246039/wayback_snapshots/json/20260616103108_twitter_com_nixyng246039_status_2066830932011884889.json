@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066569438900723712"
+      ],
+      "media_source_tweet_id": [
+        "2066569442658824475"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066830932011884889",
+    "created_at": "2026-06-16T10:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066830932011884889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "NijiNOVA"
+        },
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "YaminoArt"
+        },
+        {
+          "end": 47,
+          "start": 38,
+          "tag": "drawluca"
+        },
+        {
+          "end": 60,
+          "start": 48,
+          "tag": "RenZottoArt"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "Briskart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935856538582917120",
+          "start": 3,
+          "username": "yoman533207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5GGHs5Kmii",
+          "end": 103,
+          "expanded_url": "https://x.com/yoman533207/status/2066569442658824475/photo/1",
+          "media_key": "3_2066569438900723712",
+          "start": 80,
+          "url": "https://t.co/5GGHs5Kmii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066830932011884889",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066569442658824475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoman533207: #NijiNOVA #YaminoArt #drawluca #RenZottoArt #Briskart\nMafia au https://t.co/5GGHs5Kmii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_2066569438900723712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3t9J1bIAADciY.jpg",
+        "width": 4086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066569438900723712"
+          ],
+          "media_source_tweet_id": [
+            "2066569442658824475"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066830932011884889",
+        "created_at": "2026-06-16T10:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066830932011884889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "NijiNOVA"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "YaminoArt"
+            },
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "drawluca"
+            },
+            {
+              "end": 60,
+              "start": 48,
+              "tag": "RenZottoArt"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "Briskart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935856538582917120",
+              "start": 3,
+              "username": "yoman533207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GGHs5Kmii",
+              "end": 103,
+              "expanded_url": "https://x.com/yoman533207/status/2066569442658824475/photo/1",
+              "media_key": "3_2066569438900723712",
+              "start": 80,
+              "url": "https://t.co/5GGHs5Kmii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830932011884889",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066569442658824475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoman533207: #NijiNOVA #YaminoArt #drawluca #RenZottoArt #Briskart\nMafia au https://t.co/5GGHs5Kmii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066569438900723712"
+          ]
+        },
+        "author_id": "1935856538582917120",
+        "conversation_id": "2066569442658824475",
+        "created_at": "2026-06-15T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066569442658824475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "NijiNOVA"
+            },
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "YaminoArt"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "drawluca"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "RenZottoArt"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "Briskart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GGHs5Kmii",
+              "end": 86,
+              "expanded_url": "https://x.com/yoman533207/status/2066569442658824475/photo/1",
+              "media_key": "3_2066569438900723712",
+              "start": 63,
+              "url": "https://t.co/5GGHs5Kmii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066569442658824475",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 15865,
+          "like_count": 1827,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "#NijiNOVA #YaminoArt #drawluca #RenZottoArt #Briskart\nMafia au https://t.co/5GGHs5Kmii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 495,
+          "like_count": 7043,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2055
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T00:25:51.000Z",
+        "description": "",
+        "id": "1935856538582917120",
+        "name": "🌞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000271665302003712/YbxKaNcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 0,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "username": "yoman533207",
+        "verified": false
+      }
+    ]
+  }
+}

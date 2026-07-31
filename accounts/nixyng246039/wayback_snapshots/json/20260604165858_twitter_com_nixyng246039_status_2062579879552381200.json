@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-04T16:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062579879552381200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801209423182073857",
+          "start": 0,
+          "username": "taifei067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062579879552381200",
+    "in_reply_to_user_id": "1801209423182073857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062579736422031609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taifei067 薯条派赢麻了（好吃好吃）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062579879552381200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801209423182073857",
+              "start": 0,
+              "username": "taifei067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062579879552381200",
+        "in_reply_to_user_id": "1801209423182073857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062579736422031609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taifei067 薯条派赢麻了（好吃好吃）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801209423182073857",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T16:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062579736422031609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062579736422031609",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062577879045587442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 我们一起爽爽od！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 245,
+          "like_count": 3379,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 551
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T11:06:24.000Z",
+        "description": "別視奸我，你媽死了",
+        "id": "1801209423182073857",
+        "location": "距您0.1km",
+        "name": "Lll6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061491899018739712/LhX_e-9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 70
+        },
+        "username": "taifei067",
+        "verified": false
+      }
+    ]
+  }
+}

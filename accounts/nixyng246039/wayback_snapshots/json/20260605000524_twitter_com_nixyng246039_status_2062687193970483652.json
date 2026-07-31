@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-05T00:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062687193970483652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2061505060086128640",
+          "start": 0,
+          "username": "inmyi1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062687193970483652",
+    "in_reply_to_user_id": "2061505060086128640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062587005087920635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inmyi1x 明白！感谢建议呀，器官衰竭确实很不舒服……😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-05T00:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062687193970483652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061505060086128640",
+              "start": 0,
+              "username": "inmyi1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062687193970483652",
+        "in_reply_to_user_id": "2061505060086128640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062587005087920635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inmyi1x 明白！感谢建议呀，器官衰竭确实很不舒服……😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061505060086128640",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T17:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062587005087920635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062587005087920635",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 实在难受还是喝酒吧！我od的朋友成瘾之后肝差点坏掉了……看起来似乎很难戒掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 274,
+          "like_count": 3561,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 618
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T17:49:44.000Z",
+        "description": "无法介绍该用户",
+        "id": "2061505060086128640",
+        "location": "爱干什么干什么",
+        "name": "想变成猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062363602020077569/utwG-Mpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "inmyi1x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063764126220861440"
+      ],
+      "media_source_tweet_id": [
+        "2063764133477011855"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063865293177323971",
+    "created_at": "2026-06-08T06:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063865293177323971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2015657316964519936",
+          "start": 3,
+          "username": "notevenw0rthit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WnkEAf0XHB",
+          "end": 43,
+          "expanded_url": "https://x.com/notevenw0rthit/status/2063764133477011855/photo/1",
+          "media_key": "3_2063764126220861440",
+          "start": 20,
+          "url": "https://t.co/WnkEAf0XHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063865293177323971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063764133477011855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notevenw0rthit: https://t.co/WnkEAf0XHB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063865293177323971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063865293177323971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063865293177323971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2063764126220861440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP2iduWwAAguxO.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063764126220861440"
+          ]
+        },
+        "author_id": "2015657316964519936",
+        "conversation_id": "2063764133477011855",
+        "created_at": "2026-06-07T23:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063764133477011855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnkEAf0XHB",
+              "end": 23,
+              "expanded_url": "https://x.com/notevenw0rthit/status/2063764133477011855/photo/1",
+              "media_key": "3_2063764126220861440",
+              "start": 0,
+              "url": "https://t.co/WnkEAf0XHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063764133477011855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2484,
+          "like_count": 272,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WnkEAf0XHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 358,
+          "like_count": 4607,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 985
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T05:25:43.000Z",
+        "description": "",
+        "id": "2015657316964519936",
+        "name": "^•^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015687631439286272/Pr-3dAem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 39
+        },
+        "username": "notevenw0rthit",
+        "verified": false
+      }
+    ]
+  }
+}

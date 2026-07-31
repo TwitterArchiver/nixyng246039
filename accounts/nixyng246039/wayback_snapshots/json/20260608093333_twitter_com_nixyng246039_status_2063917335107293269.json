@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063915508211327209",
+    "created_at": "2026-06-08T09:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917335107293269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558757725797986305",
+          "start": 0,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917335107293269",
+    "in_reply_to_user_id": "1558757725797986305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063915508211327209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_113 太坏了我帮你咬他……😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063915508211327209",
+        "created_at": "2026-06-08T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917335107293269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558757725797986305",
+              "start": 0,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917335107293269",
+        "in_reply_to_user_id": "1558757725797986305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063915508211327209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_113 太坏了我帮你咬他……😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2063915508211327209",
+        "created_at": "2026-06-08T09:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063915508211327209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063915508211327209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已气晕 被自己蠢笑了 被人骗了1000块 我真厉害。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 364,
+          "like_count": 4677,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1014
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "HK 10 单机小透明\nod｜自伤｜碎碎念｜小作文\n社恐 低情商 查成分互fo",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 62,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 625
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

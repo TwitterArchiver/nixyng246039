@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063492367286673408"
+      ],
+      "media_source_tweet_id": [
+        "2063492430050246836"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063602278309757160",
+    "created_at": "2026-06-07T12:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063602278309757160"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "ろふあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874708545306038272",
+          "start": 3,
+          "username": "NEOVI9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7A8v5ioEiZ",
+          "end": 56,
+          "expanded_url": "https://x.com/NEOVI9/status/2063492430050246836/video/1",
+          "media_key": "13_2063492367286673408",
+          "start": 33,
+          "url": "https://t.co/7A8v5ioEiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063602278309757160",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 910
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063492430050246836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEOVI9: #ろふあーと\n\nObjection‼️🫵 https://t.co/7A8v5ioEiZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28500,
+        "height": 720,
+        "media_key": "13_2063492367286673408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063492367286673408/img/q7hJ233g5h9BEW0f.jpg",
+        "public_metrics": {
+          "view_count": 32915
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063492367286673408/vid/avc1/294x270/uDdHe06DwbIaSqZ_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063492367286673408/vid/avc1/392x360/uiFdYbh1tPPdS57e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063492367286673408/vid/avc1/784x720/CtguNE17Yqvqg87o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063492367286673408/pl/vcx9cE_VZfq4eOyv.m3u8?v=cfc"
+          }
+        ],
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063492367286673408"
+          ],
+          "media_source_tweet_id": [
+            "2063492430050246836"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063602278309757160",
+        "created_at": "2026-06-07T12:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063602278309757160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "ろふあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874708545306038272",
+              "start": 3,
+              "username": "NEOVI9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7A8v5ioEiZ",
+              "end": 56,
+              "expanded_url": "https://x.com/NEOVI9/status/2063492430050246836/video/1",
+              "media_key": "13_2063492367286673408",
+              "start": 33,
+              "url": "https://t.co/7A8v5ioEiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063602278309757160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 910
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063492430050246836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEOVI9: #ろふあーと\n\nObjection‼️🫵 https://t.co/7A8v5ioEiZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063492367286673408"
+          ]
+        },
+        "author_id": "1874708545306038272",
+        "conversation_id": "2063492430050246836",
+        "created_at": "2026-06-07T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063492430050246836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ろふあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7A8v5ioEiZ",
+              "end": 44,
+              "expanded_url": "https://x.com/NEOVI9/status/2063492430050246836/video/1",
+              "media_key": "13_2063492367286673408",
+              "start": 21,
+              "url": "https://t.co/7A8v5ioEiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063492430050246836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1461,
+          "impression_count": 92140,
+          "like_count": 7804,
+          "quote_count": 48,
+          "reply_count": 1,
+          "retweet_count": 910
+        },
+        "reply_settings": "everyone",
+        "text": "#ろふあーと\n\nObjection‼️🫵 https://t.co/7A8v5ioEiZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 328,
+          "like_count": 4224,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 871
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T06:45:37.000Z",
+        "description": "漫画家志望｜手描き動画｜お仕事のご依頼はDMまたはneovi8399@gmail.comまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@neovi9?_r=1&_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@neovi9?_r=1&_t=ZS-96YeXQMKOWd",
+                "start": 0,
+                "url": "https://t.co/KWTPB0wjlz"
+              }
+            ]
+          }
+        },
+        "id": "1874708545306038272",
+        "name": "ネオ美",
+        "pinned_tweet_id": "2024752428827267196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028763858253615104/7b14FiWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 152,
+          "like_count": 431,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/KWTPB0wjlz",
+        "username": "NEOVI9",
+        "verified": false
+      }
+    ]
+  }
+}

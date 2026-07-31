@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892240175620841472"
+      ],
+      "media_source_tweet_id": [
+        "1892240179634549023"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892682884449800522",
+    "created_at": "2025-02-20T21:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T22:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892682884449800522"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Palouette",
+          "probability": 0.5408,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "エナーアート"
+        },
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "Palouette"
+        },
+        {
+          "end": 51,
+          "start": 40,
+          "tag": "EnnDay2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1397188291292708867",
+          "start": 3,
+          "username": "connieconnieba1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJWO6L9bPf",
+          "end": 103,
+          "expanded_url": "https://x.com/connieconnieba1/status/1892240179634549023/photo/1",
+          "media_key": "3_1892240175620841472",
+          "start": 80,
+          "url": "https://t.co/jJWO6L9bPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892682884449800522",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892240179634549023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @connieconnieba1: #エナーアート #Palouette #EnnDay2025 \nHAPPY B-DAY MY KAMIOSHI🫵🏻💜 https://t.co/jJWO6L9bPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_1892240175620841472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKWagmaYAA06pq.jpg",
+        "width": 2006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892240175620841472"
+          ],
+          "media_source_tweet_id": [
+            "1892240179634549023"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892682884449800522",
+        "created_at": "2025-02-20T21:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T22:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892682884449800522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Palouette",
+              "probability": 0.5408,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "エナーアート"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "Palouette"
+            },
+            {
+              "end": 51,
+              "start": 40,
+              "tag": "EnnDay2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1397188291292708867",
+              "start": 3,
+              "username": "connieconnieba1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJWO6L9bPf",
+              "end": 103,
+              "expanded_url": "https://x.com/connieconnieba1/status/1892240179634549023/photo/1",
+              "media_key": "3_1892240175620841472",
+              "start": 80,
+              "url": "https://t.co/jJWO6L9bPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892682884449800522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892240179634549023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @connieconnieba1: #エナーアート #Palouette #EnnDay2025 \nHAPPY B-DAY MY KAMIOSHI🫵🏻💜 https://t.co/jJWO6L9bPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892240175620841472"
+          ]
+        },
+        "author_id": "1397188291292708867",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892240179634549023",
+        "created_at": "2025-02-19T15:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892240179634549023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Palouette",
+              "probability": 0.6372,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "エナーアート"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "Palouette"
+            },
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "EnnDay2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJWO6L9bPf",
+              "end": 82,
+              "expanded_url": "https://x.com/connieconnieba1/status/1892240179634549023/photo/1",
+              "media_key": "3_1892240175620841472",
+              "start": 59,
+              "url": "https://t.co/jJWO6L9bPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892240179634549023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 28114,
+          "like_count": 3541,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "#エナーアート #Palouette #EnnDay2025 \nHAPPY B-DAY MY KAMIOSHI🫵🏻💜 https://t.co/jJWO6L9bPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "鸮隼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T13:50:39.000Z",
+        "description": "20🇭🇰🌈🕒｜HK丨聯絡：jielijieli1024@gmail.com｜私印無盈利開團一律禁止丨有註名轉載可以丨BG BL注意丨主推：🦁🤟🕊️🃏⚡會畫：👟🦁//👟⛅//🛸🤟//🤟🕊️// 丨很吵會發瘋！丨慎fol❗真的很雜食\n丨很嗑鏡鳥對不起丨小號：@iloveyou123over",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 127,
+                "username": "iloveyou123over"
+              }
+            ]
+          }
+        },
+        "id": "1397188291292708867",
+        "name": "🦁JIELI啫喱🦁🕊️🤟⚡🛸",
+        "pinned_tweet_id": "1714170489663525368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892583925723078656/G8BKRRzx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53368,
+          "following_count": 1988,
+          "like_count": 15487,
+          "listed_count": 135,
+          "media_count": 709,
+          "tweet_count": 6358
+        },
+        "username": "connieconnieba1",
+        "verified": false
+      }
+    ]
+  }
+}

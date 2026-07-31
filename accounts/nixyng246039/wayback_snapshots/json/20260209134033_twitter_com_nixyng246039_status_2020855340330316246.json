@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020829657789304832"
+      ],
+      "media_source_tweet_id": [
+        "2020829712491384835"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2020855340330316246",
+    "created_at": "2026-02-09T13:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020855340330316246"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "Briskart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1581841070018551809",
+          "start": 3,
+          "username": "firstyourheart_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjF2WnzSKJ",
+          "end": 56,
+          "expanded_url": "https://x.com/firstyourheart_/status/2020829712491384835/photo/1",
+          "media_key": "3_2020829657789304832",
+          "start": 33,
+          "url": "https://t.co/bjF2WnzSKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020855340330316246",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020829712491384835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @firstyourheart_: 🚬 #Briskart https://t.co/bjF2WnzSKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2307,
+        "media_key": "3_2020829657789304832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtt3fAbEAAS0mq.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020829657789304832"
+          ],
+          "media_source_tweet_id": [
+            "2020829712491384835"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2020855340330316246",
+        "created_at": "2026-02-09T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020855340330316246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "Briskart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1581841070018551809",
+              "start": 3,
+              "username": "firstyourheart_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjF2WnzSKJ",
+              "end": 56,
+              "expanded_url": "https://x.com/firstyourheart_/status/2020829712491384835/photo/1",
+              "media_key": "3_2020829657789304832",
+              "start": 33,
+              "url": "https://t.co/bjF2WnzSKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020855340330316246",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020829712491384835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @firstyourheart_: 🚬 #Briskart https://t.co/bjF2WnzSKJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020829657789304832"
+          ]
+        },
+        "author_id": "1581841070018551809",
+        "conversation_id": "2020829712491384835",
+        "created_at": "2026-02-09T11:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020829712491384835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "Briskart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjF2WnzSKJ",
+              "end": 35,
+              "expanded_url": "https://x.com/firstyourheart_/status/2020829712491384835/photo/1",
+              "media_key": "3_2020829657789304832",
+              "start": 12,
+              "url": "https://t.co/bjF2WnzSKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020829712491384835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 6077,
+          "like_count": 952,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 #Briskart https://t.co/bjF2WnzSKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 118,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T02:54:42.000Z",
+        "description": "20↑ 🔕｜ 🔗🎭上下左右固定｜@J____2o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "J____2o"
+              }
+            ]
+          }
+        },
+        "id": "1581841070018551809",
+        "location": "🇹🇼｜𝗗𝗢 𝗡𝗢𝗧 𝗥𝗘𝗣𝗢𝗦𝗧.",
+        "name": "J2.🐶🐱ྀི (busy)",
+        "pinned_tweet_id": "1898626909577359694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945321326077460480/IxLQX2T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14261,
+          "following_count": 101,
+          "like_count": 42782,
+          "listed_count": 22,
+          "media_count": 1363,
+          "tweet_count": 20505
+        },
+        "username": "firstyourheart_",
+        "verified": false
+      }
+    ]
+  }
+}

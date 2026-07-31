@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-04T20:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T21:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062629245797470578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1995236469750034432",
+          "start": 0,
+          "username": "7891kuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062629245797470578",
+    "in_reply_to_user_id": "1995236469750034432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062618517623701767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7891kuzi 感谢建议呀，时间长了确实会早死(*꒦ິ⌓꒦ີ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T20:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062629245797470578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995236469750034432",
+              "start": 0,
+              "username": "7891kuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062629245797470578",
+        "in_reply_to_user_id": "1995236469750034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062618517623701767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7891kuzi 感谢建议呀，时间长了确实会早死(*꒦ິ⌓꒦ີ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995236469750034432",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T19:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062618517623701767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062618517623701767",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 不是很想死的话就别做这种事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 263,
+          "like_count": 3512,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 599
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T21:00:27.000Z",
+        "description": "",
+        "id": "1995236469750034432",
+        "location": "武汉",
+        "name": "ku zi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021240294382157824/jicN_8Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 162
+        },
+        "username": "7891kuzi",
+        "verified": false
+      }
+    ]
+  }
+}

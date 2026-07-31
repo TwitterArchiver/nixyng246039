@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062308098572943360"
+      ],
+      "media_source_tweet_id": [
+        "2062308173558735181"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483061036708053",
+    "created_at": "2026-06-04T10:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062483061036708053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "834727712",
+          "start": 3,
+          "username": "seeeeep_n52"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DgGZ9AINg",
+          "end": 40,
+          "expanded_url": "https://x.com/seeeeep_n52/status/2062308173558735181/photo/1",
+          "media_key": "3_2062308098572943360",
+          "start": 17,
+          "url": "https://t.co/8DgGZ9AINg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062483061036708053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 574
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062308173558735181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seeeeep_n52: https://t.co/8DgGZ9AINg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2062308098572943360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7KSgDaAAAwgMp.png",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062308098572943360"
+          ],
+          "media_source_tweet_id": [
+            "2062308173558735181"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483061036708053",
+        "created_at": "2026-06-04T10:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062483061036708053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "834727712",
+              "start": 3,
+              "username": "seeeeep_n52"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DgGZ9AINg",
+              "end": 40,
+              "expanded_url": "https://x.com/seeeeep_n52/status/2062308173558735181/photo/1",
+              "media_key": "3_2062308098572943360",
+              "start": 17,
+              "url": "https://t.co/8DgGZ9AINg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062483061036708053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062308173558735181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seeeeep_n52: https://t.co/8DgGZ9AINg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062308098572943360"
+          ]
+        },
+        "author_id": "834727712",
+        "conversation_id": "2062308173558735181",
+        "created_at": "2026-06-03T22:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062308173558735181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DgGZ9AINg",
+              "end": 23,
+              "expanded_url": "https://x.com/seeeeep_n52/status/2062308173558735181/photo/1",
+              "media_key": "3_2062308098572943360",
+              "start": 0,
+              "url": "https://t.co/8DgGZ9AINg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062308173558735181",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 857,
+          "impression_count": 119514,
+          "like_count": 13188,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 574
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8DgGZ9AINg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 221,
+          "like_count": 3244,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 506
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-20T04:05:40.000Z",
+        "description": "捏造妄想捏造妄想捏造妄想捏造妄想捏造妄想捏造妄想捏造、成人済、AI学習厳禁、無断転載厳禁、基本壁、Reproduction on other sites is prohibited. Do not repost 腐",
+        "id": "834727712",
+        "location": "チンポリア王国",
+        "name": "🐏",
+        "pinned_tweet_id": "2004038304053055809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990087067922309120/lhFT7H1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95160,
+          "following_count": 202,
+          "like_count": 57388,
+          "listed_count": 431,
+          "media_count": 25514,
+          "tweet_count": 173956
+        },
+        "username": "seeeeep_n52",
+        "verified": false
+      }
+    ]
+  }
+}

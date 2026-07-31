@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054059146933420032"
+      ],
+      "media_source_tweet_id": [
+        "2054059154382446613"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054133555148808339",
+    "created_at": "2026-05-12T09:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054133555148808339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "926257162980007936",
+          "start": 3,
+          "username": "mmmmmai51"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6aE4lwPlt0",
+          "end": 46,
+          "expanded_url": "https://x.com/mmmmmai51/status/2054059154382446613/photo/1",
+          "media_key": "3_2054059146933420032",
+          "start": 23,
+          "url": "https://t.co/6aE4lwPlt0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054133555148808339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054059154382446613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmmmai51: まさか...？ https://t.co/6aE4lwPlt0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054059146933420032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIF76UibwAAAOYj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054059146933420032"
+          ],
+          "media_source_tweet_id": [
+            "2054059154382446613"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054133555148808339",
+        "created_at": "2026-05-12T09:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054133555148808339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "926257162980007936",
+              "start": 3,
+              "username": "mmmmmai51"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aE4lwPlt0",
+              "end": 46,
+              "expanded_url": "https://x.com/mmmmmai51/status/2054059154382446613/photo/1",
+              "media_key": "3_2054059146933420032",
+              "start": 23,
+              "url": "https://t.co/6aE4lwPlt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054133555148808339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054059154382446613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmmmai51: まさか...？ https://t.co/6aE4lwPlt0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054059146933420032"
+          ]
+        },
+        "author_id": "926257162980007936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054059154382446613",
+        "created_at": "2026-05-12T04:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054059154382446613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aE4lwPlt0",
+              "end": 31,
+              "expanded_url": "https://x.com/mmmmmai51/status/2054059154382446613/photo/1",
+              "media_key": "3_2054059146933420032",
+              "start": 8,
+              "url": "https://t.co/6aE4lwPlt0"
+            },
+            {
+              "display_url": "x.com/mmmmmai51/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/mmmmmai51/status/2013812198552842560",
+              "start": 32,
+              "url": "https://t.co/4sAINN4ccs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054059154382446613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8216,
+          "like_count": 421,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013812198552842560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まさか...？ https://t.co/6aE4lwPlt0 https://t.co/4sAINN4ccs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 154,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 99
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-03T01:18:11.000Z",
+        "description": "20↑成人済shipper｜🔗🎭 🔁❌｜⚠️妄想100%｜18↓Follow🆖｜icon by ろろ｜自衛ミュートブロック多用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mmmmmai51",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mmmmmai51",
+                "start": 0,
+                "url": "https://t.co/pbktGfZFka"
+              }
+            ]
+          }
+        },
+        "id": "926257162980007936",
+        "location": "Sonnyban村",
+        "name": "まい🌈mai",
+        "pinned_tweet_id": "1954188149657112796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835956484729077760/WT5cUu7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8948,
+          "following_count": 291,
+          "like_count": 48475,
+          "listed_count": 36,
+          "media_count": 3467,
+          "tweet_count": 32036
+        },
+        "url": "https://t.co/pbktGfZFka",
+        "username": "mmmmmai51",
+        "verified": false
+      }
+    ]
+  }
+}

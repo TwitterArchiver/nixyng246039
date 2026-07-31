@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2071484295860920558",
+    "created_at": "2026-06-29T06:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071484295860920558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835865640072364032",
+          "start": 3,
+          "username": "shiawase_shi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071484295860920558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070831164965704148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiawase_shi004: 十四歲真的是一個很棒的年紀 我不管怎麼說我看到幻覺、想自殺、想死 大家都只會解讀成中二病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2071484295860920558",
+        "created_at": "2026-06-29T06:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071484295860920558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835865640072364032",
+              "start": 3,
+              "username": "shiawase_shi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071484295860920558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070831164965704148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiawase_shi004: 十四歲真的是一個很棒的年紀 我不管怎麼說我看到幻覺、想自殺、想死 大家都只會解讀成中二病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835865640072364032",
+        "conversation_id": "2070831164965704148",
+        "created_at": "2026-06-27T11:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070831164965704148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070831164965704148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4131,
+          "like_count": 191,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "十四歲真的是一個很棒的年紀 我不管怎麼說我看到幻覺、想自殺、想死 大家都只會解讀成中二病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 525,
+          "like_count": 7604,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2330
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T02:18:15.000Z",
+        "description": "叫我幸叶（小幸）｜16歲｜病み垢｜♀｜日記｜重鬱｜自傷｜歡迎互fo、交友\n我用難聽的字眼或話語罵人通常都是對自己說的",
+        "id": "1835865640072364032",
+        "location": "人間觀察站",
+        "name": "幸福死",
+        "pinned_tweet_id": "2071121530164007362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070086157946490880/gr2ra7mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 108,
+          "like_count": 10095,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "shiawase_shi004",
+        "verified": false
+      }
+    ]
+  }
+}

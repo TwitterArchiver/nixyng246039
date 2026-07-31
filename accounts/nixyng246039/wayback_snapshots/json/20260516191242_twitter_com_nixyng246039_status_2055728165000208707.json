@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055021361249058816"
+      ],
+      "media_source_tweet_id": [
+        "2055021368341577820"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055728165000208707",
+    "created_at": "2026-05-16T19:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055728165000208707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944780822428438528",
+          "start": 3,
+          "username": "ussonlyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAHKXBs6sk",
+          "end": 42,
+          "expanded_url": "https://x.com/ussonlyy/status/2055021368341577820/photo/1",
+          "media_key": "3_2055021361249058816",
+          "start": 19,
+          "url": "https://t.co/rAHKXBs6sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055728165000208707",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41659
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055021368341577820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ussonlyy: true https://t.co/rAHKXBs6sk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 527,
+        "media_key": "3_2055021361249058816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITnCkMXAAA-dp7.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055021361249058816"
+          ],
+          "media_source_tweet_id": [
+            "2055021368341577820"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055728165000208707",
+        "created_at": "2026-05-16T19:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055728165000208707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944780822428438528",
+              "start": 3,
+              "username": "ussonlyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAHKXBs6sk",
+              "end": 42,
+              "expanded_url": "https://x.com/ussonlyy/status/2055021368341577820/photo/1",
+              "media_key": "3_2055021361249058816",
+              "start": 19,
+              "url": "https://t.co/rAHKXBs6sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055728165000208707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41659
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055021368341577820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ussonlyy: true https://t.co/rAHKXBs6sk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055021361249058816"
+          ]
+        },
+        "author_id": "1944780822428438528",
+        "conversation_id": "2055021368341577820",
+        "created_at": "2026-05-14T20:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055021368341577820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAHKXBs6sk",
+              "end": 28,
+              "expanded_url": "https://x.com/ussonlyy/status/2055021368341577820/photo/1",
+              "media_key": "3_2055021361249058816",
+              "start": 5,
+              "url": "https://t.co/rAHKXBs6sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055021368341577820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11678,
+          "impression_count": 10210752,
+          "like_count": 320339,
+          "quote_count": 2596,
+          "reply_count": 1166,
+          "retweet_count": 41659
+        },
+        "reply_settings": "everyone",
+        "text": "true https://t.co/rAHKXBs6sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 192,
+          "like_count": 2340,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 293
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T15:27:42.000Z",
+        "description": "",
+        "id": "1944780822428438528",
+        "name": "☾",
+        "pinned_tweet_id": "2055021368341577820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049196122451931137/npaFBmxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14159,
+          "following_count": 861,
+          "like_count": 5225,
+          "listed_count": 12,
+          "media_count": 1751,
+          "tweet_count": 1794
+        },
+        "username": "ussonlyy",
+        "verified": true
+      }
+    ]
+  }
+}

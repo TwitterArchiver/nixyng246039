@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061451367299051520"
+      ],
+      "media_source_tweet_id": [
+        "2061451373133373740"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061603401532887315",
+    "created_at": "2026-06-02T00:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061603401532887315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1010506817271558146",
+          "start": 3,
+          "username": "natto_natomo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjtYixkTnG",
+          "end": 48,
+          "expanded_url": "https://x.com/natto_natomo/status/2061451373133373740/photo/1",
+          "media_key": "3_2061451367299051520",
+          "start": 25,
+          "url": "https://t.co/fjtYixkTnG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061603401532887315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061451373133373740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natto_natomo: ろふま……？ https://t.co/fjtYixkTnG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2061451367299051520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu_GLWacAAQord.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061451367299051520"
+          ],
+          "media_source_tweet_id": [
+            "2061451373133373740"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061603401532887315",
+        "created_at": "2026-06-02T00:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061603401532887315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1010506817271558146",
+              "start": 3,
+              "username": "natto_natomo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjtYixkTnG",
+              "end": 48,
+              "expanded_url": "https://x.com/natto_natomo/status/2061451373133373740/photo/1",
+              "media_key": "3_2061451367299051520",
+              "start": 25,
+              "url": "https://t.co/fjtYixkTnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061603401532887315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061451373133373740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natto_natomo: ろふま……？ https://t.co/fjtYixkTnG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061451367299051520"
+          ]
+        },
+        "author_id": "1010506817271558146",
+        "conversation_id": "2061451373133373740",
+        "created_at": "2026-06-01T14:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061451373133373740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjtYixkTnG",
+              "end": 30,
+              "expanded_url": "https://x.com/natto_natomo/status/2061451373133373740/photo/1",
+              "media_key": "3_2061451367299051520",
+              "start": 7,
+              "url": "https://t.co/fjtYixkTnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061451373133373740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 34650,
+          "like_count": 4511,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "ろふま……？ https://t.co/fjtYixkTnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 217,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 449
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-23T12:56:14.000Z",
+        "description": "🌈🕒 |推し☞🏢&⚔️、rfmo|20↑|連絡先☞icegarden0211★https://t.co/Gw9GRCQ6IK|本垢(ほぼ百合)→ natomo211 ※AI学習・画像編集・転載等一切禁止 Reproduction is prohibited.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 62,
+                "expanded_url": "http://gmail.com",
+                "start": 39,
+                "url": "https://t.co/Gw9GRCQ6IK"
+              }
+            ]
+          }
+        },
+        "id": "1010506817271558146",
+        "name": "🏢奈友(なとも)⚔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060726980635774976/avAv8952_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 36,
+          "like_count": 277,
+          "listed_count": 8,
+          "media_count": 63,
+          "tweet_count": 337
+        },
+        "username": "natto_natomo",
+        "verified": false
+      }
+    ]
+  }
+}

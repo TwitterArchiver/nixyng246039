@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070453068421107712"
+      ],
+      "media_source_tweet_id": [
+        "2070453071889715467"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2071105890866909190",
+    "created_at": "2026-06-28T05:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071105890866909190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3224022277",
+          "start": 3,
+          "username": "funamusea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GVpqFqyPEg",
+          "end": 43,
+          "expanded_url": "https://x.com/funamusea/status/2070453071889715467/photo/1",
+          "media_key": "3_2070453068421107712",
+          "start": 20,
+          "url": "https://t.co/GVpqFqyPEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071105890866909190",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070453071889715467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @funamusea: 暗い夜中 https://t.co/GVpqFqyPEg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2070453068421107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu6GJNbkAAV0-z.jpg",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070453068421107712"
+          ],
+          "media_source_tweet_id": [
+            "2070453071889715467"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2071105890866909190",
+        "created_at": "2026-06-28T05:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071105890866909190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3224022277",
+              "start": 3,
+              "username": "funamusea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVpqFqyPEg",
+              "end": 43,
+              "expanded_url": "https://x.com/funamusea/status/2070453071889715467/photo/1",
+              "media_key": "3_2070453068421107712",
+              "start": 20,
+              "url": "https://t.co/GVpqFqyPEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071105890866909190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070453071889715467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @funamusea: 暗い夜中 https://t.co/GVpqFqyPEg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070453068421107712"
+          ]
+        },
+        "author_id": "3224022277",
+        "conversation_id": "2070453071889715467",
+        "created_at": "2026-06-26T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070453071889715467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVpqFqyPEg",
+              "end": 28,
+              "expanded_url": "https://x.com/funamusea/status/2070453071889715467/photo/1",
+              "media_key": "3_2070453068421107712",
+              "start": 5,
+              "url": "https://t.co/GVpqFqyPEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070453071889715467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 21739,
+          "like_count": 3076,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 538
+        },
+        "reply_settings": "following",
+        "text": "暗い夜中 https://t.co/GVpqFqyPEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（淡推因为手机坏了……）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 515,
+          "like_count": 7499,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2281
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-23T06:46:30.000Z",
+        "description": "なんか神奈川で生きてるやつ\n\n❖ https://t.co/iJL8cwzQEl\n❖ https://t.co/socyOA3g4c\nhttps://t.co/qtoZdorlPQ\nFanArtTag #funamuseum\n\n⚠️未成年NG／NO MINOR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 101,
+                "tag": "funamuseum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ci-en.net/creator/1215",
+                "end": 40,
+                "expanded_url": "http://ci-en.net/creator/1215",
+                "start": 17,
+                "url": "https://t.co/iJL8cwzQEl"
+              },
+              {
+                "display_url": "ko-fi.com/funamusea",
+                "end": 66,
+                "expanded_url": "http://ko-fi.com/funamusea",
+                "start": 43,
+                "url": "https://t.co/socyOA3g4c"
+              },
+              {
+                "display_url": "twitch.tv/funamusea_com",
+                "end": 90,
+                "expanded_url": "http://twitch.tv/funamusea_com",
+                "start": 67,
+                "url": "https://t.co/qtoZdorlPQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "funamuseacom.carrd.co",
+                "end": 23,
+                "expanded_url": "https://funamuseacom.carrd.co",
+                "start": 0,
+                "url": "https://t.co/dY0GiBSe8t"
+              }
+            ]
+          }
+        },
+        "id": "3224022277",
+        "location": "県警がやばいとこ",
+        "name": "海底囚人／DSP",
+        "pinned_tweet_id": "1700496006067232977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970294062084431878/ubGuSbt-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115621,
+          "following_count": 656,
+          "like_count": 21793,
+          "listed_count": 301,
+          "media_count": 320,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/dY0GiBSe8t",
+        "username": "funamusea",
+        "verified": false
+      }
+    ]
+  }
+}

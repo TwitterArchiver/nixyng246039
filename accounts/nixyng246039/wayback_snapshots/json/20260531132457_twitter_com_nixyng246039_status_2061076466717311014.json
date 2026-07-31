@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061022582103744565",
+    "created_at": "2026-05-31T13:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061076466717311014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061076466717311014",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061022582103744565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 好萌哇塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11566,
+        "height": 1280,
+        "media_key": "13_2061022517159149569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061022517159149569/img/LHs_4as6QH8d-W7A.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061022517159149569/vid/avc1/320x568/cyYt3ObX0pBdiZIw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061022517159149569/vid/avc1/480x852/4ieQ6tMh4S9ur1Mn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061022517159149569/vid/avc1/720x1280/OroT50jkR58rqu_S.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061022517159149569/pl/XaNFp0XR1zsDsBTr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061022582103744565",
+        "created_at": "2026-05-31T13:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061076466717311014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061076466717311014",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061022582103744565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 好萌哇塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061022517159149569"
+          ]
+        },
+        "author_id": "1987868389709422593",
+        "conversation_id": "2061022582103744565",
+        "created_at": "2026-05-31T09:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061022582103744565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiKjr6Jw4I",
+              "end": 28,
+              "expanded_url": "https://x.com/ruki52621534059/status/2061022582103744565/video/1",
+              "media_key": "13_2061022517159149569",
+              "start": 5,
+              "url": "https://t.co/LiKjr6Jw4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061022582103744565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个乐乐 https://t.co/LiKjr6Jw4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 201,
+          "like_count": 2929,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 421
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 重力系顺男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  |傻逼 |INFP | ADHD| 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | \n来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demon74844",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demon74844",
+                "start": 0,
+                "url": "https://t.co/E0GfgZDTgS"
+              }
+            ]
+          }
+        },
+        "id": "1987868389709422593",
+        "location": "大海深处没有阳光的地方",
+        "name": "人間が好き",
+        "pinned_tweet_id": "2049121778166038929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 136,
+          "like_count": 12598,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/E0GfgZDTgS",
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2081804694658408873",
+    "created_at": "2026-07-27T18:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081810630949101733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609776550341414913",
+          "start": 0,
+          "username": "z_cece0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081810630949101733",
+    "in_reply_to_user_id": "1609776550341414913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081808807974650044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z_cece0710 呃呃啊啊啊啊啊啥时候解除"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2081804694658408873",
+        "created_at": "2026-07-27T18:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081810630949101733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609776550341414913",
+              "start": 0,
+              "username": "z_cece0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081810630949101733",
+        "in_reply_to_user_id": "1609776550341414913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081808807974650044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z_cece0710 呃呃啊啊啊啊啊啥时候解除"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609776550341414913",
+        "conversation_id": "2081804694658408873",
+        "created_at": "2026-07-27T18:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081808807974650044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081808807974650044",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804694658408873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 我去msk咋这样😱😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 507,
+          "like_count": 7773,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2426
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T05:00:58.000Z",
+        "description": "07神秘忧郁大猪普通正常入\n街溜子，小孩闹着玩的\n不发黄不涉镇纯玩🫡\n不会主动聊天，啥都能聊🥲\n最好的@Haki1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "Haki1019"
+              }
+            ]
+          }
+        },
+        "id": "1609776550341414913",
+        "location": "黑墙",
+        "name": "砧Ce",
+        "pinned_tweet_id": "2029970250276700603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979943201310924800/g3EDb53p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 844,
+          "like_count": 7297,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 1900
+        },
+        "url": "",
+        "username": "z_cece0710",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064086691372302336"
+      ],
+      "media_source_tweet_id": [
+        "2064086702378062127"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064230741492289948",
+    "created_at": "2026-06-09T06:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064230741492289948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "MariArtte"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502875979257049088",
+          "start": 3,
+          "username": "pipixiu77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rF363GIYaX",
+          "end": 55,
+          "expanded_url": "https://x.com/pipixiu77/status/2064086702378062127/photo/1",
+          "media_key": "3_2064086691372302336",
+          "start": 32,
+          "url": "https://t.co/rF363GIYaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064230741492289948",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064086702378062127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pipixiu77: #MariArtte \n🏖️🏖️ https://t.co/rF363GIYaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064086691372302336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUb6OjbgAAZuyh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064086691372302336"
+          ],
+          "media_source_tweet_id": [
+            "2064086702378062127"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064230741492289948",
+        "created_at": "2026-06-09T06:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064230741492289948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "MariArtte"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502875979257049088",
+              "start": 3,
+              "username": "pipixiu77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF363GIYaX",
+              "end": 55,
+              "expanded_url": "https://x.com/pipixiu77/status/2064086702378062127/photo/1",
+              "media_key": "3_2064086691372302336",
+              "start": 32,
+              "url": "https://t.co/rF363GIYaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064230741492289948",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064086702378062127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pipixiu77: #MariArtte \n🏖️🏖️ https://t.co/rF363GIYaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064086691372302336"
+          ]
+        },
+        "author_id": "1502875979257049088",
+        "conversation_id": "2064086702378062127",
+        "created_at": "2026-06-08T20:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064086702378062127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "MariArtte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF363GIYaX",
+              "end": 40,
+              "expanded_url": "https://x.com/pipixiu77/status/2064086702378062127/photo/1",
+              "media_key": "3_2064086691372302336",
+              "start": 17,
+              "url": "https://t.co/rF363GIYaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064086702378062127",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 10106,
+          "like_count": 917,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "#MariArtte \n🏖️🏖️ https://t.co/rF363GIYaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 388,
+          "like_count": 5148,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1146
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T05:15:45.000Z",
+        "description": "游里、pipixiu｜低浮上｜中文ok/EN🤏｜無断転載禁止❗don't repost my art without my premission❗AI🚫｜use as header、pfp、wallpaper👌｜無言フォロー失礼します🙇‍♀️",
+        "id": "1502875979257049088",
+        "name": "游里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900234463960829952/0cWLVw3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 137,
+          "like_count": 1429,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 449
+        },
+        "username": "pipixiu77",
+        "verified": false
+      }
+    ]
+  }
+}

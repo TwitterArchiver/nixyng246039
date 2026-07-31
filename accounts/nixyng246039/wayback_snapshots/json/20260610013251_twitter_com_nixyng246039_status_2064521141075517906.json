@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064371655967674368"
+      ],
+      "media_source_tweet_id": [
+        "2064371722988474557"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064521141075517906",
+    "created_at": "2026-06-10T01:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064521141075517906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063285995487834112",
+          "start": 3,
+          "username": "HarukoKazama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmLL7MUNaA",
+          "end": 61,
+          "expanded_url": "https://x.com/HarukoKazama/status/2064371722988474557/photo/1",
+          "media_key": "3_2064371655967674368",
+          "start": 38,
+          "url": "https://t.co/mmLL7MUNaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064521141075517906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064371722988474557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarukoKazama: 我想和地雷妹餐券妹互fo 求互转这条吖 https://t.co/mmLL7MUNaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2064371655967674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYfFWZWkAA4GXy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064371655967674368"
+          ],
+          "media_source_tweet_id": [
+            "2064371722988474557"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064521141075517906",
+        "created_at": "2026-06-10T01:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064521141075517906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063285995487834112",
+              "start": 3,
+              "username": "HarukoKazama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmLL7MUNaA",
+              "end": 61,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064371722988474557/photo/1",
+              "media_key": "3_2064371655967674368",
+              "start": 38,
+              "url": "https://t.co/mmLL7MUNaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064521141075517906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064371722988474557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarukoKazama: 我想和地雷妹餐券妹互fo 求互转这条吖 https://t.co/mmLL7MUNaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064371655967674368"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2064371722988474557",
+        "created_at": "2026-06-09T15:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064371722988474557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmLL7MUNaA",
+              "end": 43,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064371722988474557/photo/1",
+              "media_key": "3_2064371655967674368",
+              "start": 20,
+              "url": "https://t.co/mmLL7MUNaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064371722988474557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想和地雷妹餐券妹互fo 求互转这条吖 https://t.co/mmLL7MUNaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 393,
+          "like_count": 5363,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1229
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2063643842222391364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

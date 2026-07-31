@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975180773885100032"
+      ],
+      "media_source_tweet_id": [
+        "1975180939409101146"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1975823664714317959",
+    "created_at": "2025-10-08T07:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T08:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975823664714317959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3224022277",
+          "start": 3,
+          "username": "funamusea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZG3nR8Hom",
+          "end": 83,
+          "expanded_url": "https://x.com/funamusea/status/1975180939409101146/photo/1",
+          "media_key": "3_1975180773885100032",
+          "start": 60,
+          "url": "https://t.co/rZG3nR8Hom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975823664714317959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975180939409101146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @funamusea: アー！！！\nどっかいってた画像を発見！！！\n先日再掲した漫画のページに追加しておきました https://t.co/rZG3nR8Hom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1975180773885100032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lAcuqaQAAN40Z.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975180773885100032"
+          ],
+          "media_source_tweet_id": [
+            "1975180939409101146"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1975823664714317959",
+        "created_at": "2025-10-08T07:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975823664714317959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3224022277",
+              "start": 3,
+              "username": "funamusea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZG3nR8Hom",
+              "end": 83,
+              "expanded_url": "https://x.com/funamusea/status/1975180939409101146/photo/1",
+              "media_key": "3_1975180773885100032",
+              "start": 60,
+              "url": "https://t.co/rZG3nR8Hom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975823664714317959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975180939409101146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @funamusea: アー！！！\nどっかいってた画像を発見！！！\n先日再掲した漫画のページに追加しておきました https://t.co/rZG3nR8Hom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975180773885100032"
+          ]
+        },
+        "author_id": "3224022277",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1975180939409101146",
+        "created_at": "2025-10-06T12:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975180939409101146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZG3nR8Hom",
+              "end": 68,
+              "expanded_url": "https://x.com/funamusea/status/1975180939409101146/photo/1",
+              "media_key": "3_1975180773885100032",
+              "start": 45,
+              "url": "https://t.co/rZG3nR8Hom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975180939409101146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 21961,
+          "like_count": 1376,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "アー！！！\nどっかいってた画像を発見！！！\n先日再掲した漫画のページに追加しておきました https://t.co/rZG3nR8Hom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 64,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-23T06:46:30.000Z",
+        "description": "小生はアウトサイダー、好きな飲み物はカルピス(巨峰)\nヘッダー右側はWplaceでどなたかが描いてくれたドット絵♡\n\n🎁 https://t.co/socyOA3g4c\n🎁 https://t.co/iJL8cwzQEl\n𝗙𝗮𝗻𝗔𝗿𝘁𝗧𝗮𝗴 #funamuseum\n\n⚠️NO MINOR⚠️\n子供は勉強しろ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 121,
+                "tag": "funamuseum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/funamusea",
+                "end": 84,
+                "expanded_url": "http://ko-fi.com/funamusea",
+                "start": 61,
+                "url": "https://t.co/socyOA3g4c"
+              },
+              {
+                "display_url": "ci-en.net/creator/1215",
+                "end": 110,
+                "expanded_url": "http://ci-en.net/creator/1215",
+                "start": 87,
+                "url": "https://t.co/iJL8cwzQEl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "funamusea.com",
+                "end": 23,
+                "expanded_url": "http://funamusea.com",
+                "start": 0,
+                "url": "https://t.co/5mFnRdJD06"
+              }
+            ]
+          }
+        },
+        "id": "3224022277",
+        "location": "がんばってます！",
+        "name": "海底囚人／DSP",
+        "pinned_tweet_id": "1700496006067232977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970294062084431878/ubGuSbt-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112509,
+          "following_count": 638,
+          "like_count": 21207,
+          "listed_count": 305,
+          "media_count": 243,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/5mFnRdJD06",
+        "username": "funamusea",
+        "verified": false
+      }
+    ]
+  }
+}

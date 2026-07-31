@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066034077313200622",
+    "created_at": "2026-06-14T10:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066103709596082434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1667156388869550084",
+          "start": 0,
+          "username": "Moyun_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066103709596082434",
+    "in_reply_to_user_id": "1667156388869550084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066079622551527790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyun_OwO 啊喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066034077313200622",
+        "created_at": "2026-06-14T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066103709596082434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1667156388869550084",
+              "start": 0,
+              "username": "Moyun_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066103709596082434",
+        "in_reply_to_user_id": "1667156388869550084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066079622551527790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyun_OwO 啊喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667156388869550084",
+        "conversation_id": "2066034077313200622",
+        "created_at": "2026-06-14T08:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066079622551527790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066079622551527790",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066034077313200622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 喵喵喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 479,
+          "like_count": 6582,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1774
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T13:07:28.000Z",
+        "description": "「 愿与愁 」\n\ndm开放 欢迎互fo！⬇️我的主页⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/m0yvn",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/m0yvn",
+                "start": 0,
+                "url": "https://t.co/lvV4voyDZW"
+              }
+            ]
+          }
+        },
+        "id": "1667156388869550084",
+        "location": "你心里",
+        "name": "朋友圈你被我毕业了你知道吗",
+        "pinned_tweet_id": "2065907876984721453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886644300458708992/pApJsolJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2154,
+          "like_count": 18711,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/lvV4voyDZW",
+        "username": "Moyun_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

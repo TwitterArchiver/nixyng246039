@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054597939243470888",
+    "created_at": "2026-05-13T16:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054597939243470888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031591173975060489",
+          "start": 3,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054597939243470888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054455155924557948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054597939243470888",
+        "created_at": "2026-05-13T16:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054597939243470888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031591173975060489",
+              "start": 3,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054597939243470888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054455155924557948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2054455155924557948",
+        "created_at": "2026-05-13T06:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054455155924557948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054455155924557948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 239434,
+          "like_count": 3662,
+          "quote_count": 21,
+          "reply_count": 448,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 178,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 215
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99加✈️",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5776,
+          "following_count": 0,
+          "like_count": 627,
+          "listed_count": 9,
+          "media_count": 25,
+          "tweet_count": 135
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

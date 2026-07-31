@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060841567829839872",
+        "3_2060841567859212288"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060841571931902080",
+    "created_at": "2026-05-30T21:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060841571931902080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUnbWUvsz5",
+          "end": 33,
+          "expanded_url": "https://x.com/nixyng246039/status/2060841571931902080/photo/1",
+          "media_key": "3_2060841567829839872",
+          "start": 10,
+          "url": "https://t.co/VUnbWUvsz5"
+        },
+        {
+          "display_url": "pic.x.com/VUnbWUvsz5",
+          "end": 33,
+          "expanded_url": "https://x.com/nixyng246039/status/2060841571931902080/photo/1",
+          "media_key": "3_2060841567859212288",
+          "start": 10,
+          "url": "https://t.co/VUnbWUvsz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060841571931902080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主播你终于下海了吗 https://t.co/VUnbWUvsz5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2060841567829839872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmUfLTbUAAT-7b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2060841567859212288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmUfLabgAALu8G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060841567829839872",
+            "3_2060841567859212288"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060841571931902080",
+        "created_at": "2026-05-30T21:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060841571931902080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUnbWUvsz5",
+              "end": 33,
+              "expanded_url": "https://x.com/nixyng246039/status/2060841571931902080/photo/1",
+              "media_key": "3_2060841567829839872",
+              "start": 10,
+              "url": "https://t.co/VUnbWUvsz5"
+            },
+            {
+              "display_url": "pic.x.com/VUnbWUvsz5",
+              "end": 33,
+              "expanded_url": "https://x.com/nixyng246039/status/2060841571931902080/photo/1",
+              "media_key": "3_2060841567859212288",
+              "start": 10,
+              "url": "https://t.co/VUnbWUvsz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060841571931902080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播你终于下海了吗 https://t.co/VUnbWUvsz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 198,
+          "like_count": 2802,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 398
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

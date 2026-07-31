@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060743840638930945"
+      ],
+      "media_source_tweet_id": [
+        "2060743950571626882"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060861904667717814",
+    "created_at": "2026-05-30T23:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060861904667717814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596029465448312832",
+          "start": 3,
+          "username": "pakescone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3lf4y4jOQ",
+          "end": 53,
+          "expanded_url": "https://x.com/pakescone/status/2060743950571626882/photo/1",
+          "media_key": "3_2060743840638930945",
+          "start": 30,
+          "url": "https://t.co/h3lf4y4jOQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060861904667717814",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060743950571626882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pakescone: 키페리나 스킨기념 단체포즈 https://t.co/h3lf4y4jOQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2689,
+        "media_key": "3_2060743840638930945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk7mtJbkAEKaKl.jpg",
+        "width": 2447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060743840638930945"
+          ],
+          "media_source_tweet_id": [
+            "2060743950571626882"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060861904667717814",
+        "created_at": "2026-05-30T23:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060861904667717814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596029465448312832",
+              "start": 3,
+              "username": "pakescone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3lf4y4jOQ",
+              "end": 53,
+              "expanded_url": "https://x.com/pakescone/status/2060743950571626882/photo/1",
+              "media_key": "3_2060743840638930945",
+              "start": 30,
+              "url": "https://t.co/h3lf4y4jOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060861904667717814",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060743950571626882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pakescone: 키페리나 스킨기념 단체포즈 https://t.co/h3lf4y4jOQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060743840638930945"
+          ]
+        },
+        "author_id": "1596029465448312832",
+        "conversation_id": "2060743950571626882",
+        "created_at": "2026-05-30T15:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060743950571626882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3lf4y4jOQ",
+              "end": 38,
+              "expanded_url": "https://x.com/pakescone/status/2060743950571626882/photo/1",
+              "media_key": "3_2060743840638930945",
+              "start": 15,
+              "url": "https://t.co/h3lf4y4jOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060743950571626882",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 5726,
+          "like_count": 803,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "키페리나 스킨기념 단체포즈 https://t.co/h3lf4y4jOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 200,
+          "like_count": 2902,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 417
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T06:34:45.000Z",
+        "description": "지금 덕질하는거 립구(프사 nakata님이 주심)\n윈빌📐🎨 좀 주시면 감사하겠습니다🙇‍♀️\n장르계 아님 마카롱김치찌개",
+        "id": "1596029465448312832",
+        "name": "진짜빵",
+        "pinned_tweet_id": "1943220915875254774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995104987060600832/HgDecRNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 147,
+          "like_count": 11119,
+          "listed_count": 3,
+          "media_count": 878,
+          "tweet_count": 17060
+        },
+        "username": "pakescone",
+        "verified": false
+      }
+    ]
+  }
+}

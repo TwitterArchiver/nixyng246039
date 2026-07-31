@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059662943428743168"
+      ],
+      "media_source_tweet_id": [
+        "2059662948856168720"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2059678829707444589",
+    "created_at": "2026-05-27T16:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059678829707444589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1437963160544284675",
+          "start": 3,
+          "username": "EnnaAlouette"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDHNo3Hwr5",
+          "end": 71,
+          "expanded_url": "https://x.com/EnnaAlouette/status/2059662948856168720/photo/1",
+          "media_key": "3_2059662943428743168",
+          "start": 48,
+          "url": "https://t.co/YDHNo3Hwr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059678829707444589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059662948856168720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnnaAlouette: The category is…dance or die. https://t.co/YDHNo3Hwr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2059662943428743168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVkiNQbEAAn_Ng.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059662943428743168"
+          ],
+          "media_source_tweet_id": [
+            "2059662948856168720"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2059678829707444589",
+        "created_at": "2026-05-27T16:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059678829707444589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1437963160544284675",
+              "start": 3,
+              "username": "EnnaAlouette"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDHNo3Hwr5",
+              "end": 71,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2059662948856168720/photo/1",
+              "media_key": "3_2059662943428743168",
+              "start": 48,
+              "url": "https://t.co/YDHNo3Hwr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059678829707444589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059662948856168720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnnaAlouette: The category is…dance or die. https://t.co/YDHNo3Hwr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059662943428743168"
+          ]
+        },
+        "author_id": "1437963160544284675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2059662948856168720",
+        "created_at": "2026-05-27T15:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059662948856168720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDHNo3Hwr5",
+              "end": 53,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2059662948856168720/photo/1",
+              "media_key": "3_2059662943428743168",
+              "start": 30,
+              "url": "https://t.co/YDHNo3Hwr5"
+            },
+            {
+              "display_url": "x.com/sunghanbeans/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/sunghanbeans/status/2059453843222745551",
+              "start": 54,
+              "url": "https://t.co/ude3fTZgN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059662948856168720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11461,
+          "like_count": 844,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059453843222745551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The category is…dance or die. https://t.co/YDHNo3Hwr5 https://t.co/ude3fTZgN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 197,
+          "like_count": 2666,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 361
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T02:15:30.000Z",
+        "description": "NIJISANJI EN's 3rd wave #Ethyria ❤️🧡🩶💜 Your songbird Enna Alouette ♪ にじさんじENエナー アールウェットです！ ♡ まま: @gahara411 | icon: @mimichausson | header: @momorinella",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Ethyria"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "gahara411"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "mimichausson"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "momorinella"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCR6qh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow/sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/I13MlMnlQp"
+              }
+            ]
+          }
+        },
+        "id": "1437963160544284675",
+        "name": "Enna Alouette 🕊️🎐 NIJISANJI EN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034419938119630848/NEh9sClP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661077,
+          "following_count": 479,
+          "like_count": 30540,
+          "listed_count": 4565,
+          "media_count": 2995,
+          "tweet_count": 44469
+        },
+        "url": "https://t.co/I13MlMnlQp",
+        "username": "EnnaAlouette",
+        "verified": false
+      }
+    ]
+  }
+}

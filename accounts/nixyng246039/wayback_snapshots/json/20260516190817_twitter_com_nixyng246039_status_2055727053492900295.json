@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055464891486728192"
+      ],
+      "media_source_tweet_id": [
+        "2055464910113657082"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055727053492900295",
+    "created_at": "2026-05-16T19:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055727053492900295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "30794892",
+          "start": 3,
+          "username": "juicebvx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/101rsHONfF",
+          "end": 71,
+          "expanded_url": "https://x.com/juicebvx/status/2055464910113657082/photo/1",
+          "media_key": "3_2055464891486728192",
+          "start": 48,
+          "url": "https://t.co/101rsHONfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055727053492900295",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055464910113657082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juicebvx: met someone again today @ nijifes https://t.co/101rsHONfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055464891486728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ6bbFacAA-yfQ.jpg",
+        "width": 1942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055464891486728192"
+          ],
+          "media_source_tweet_id": [
+            "2055464910113657082"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055727053492900295",
+        "created_at": "2026-05-16T19:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055727053492900295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "30794892",
+              "start": 3,
+              "username": "juicebvx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/101rsHONfF",
+              "end": 71,
+              "expanded_url": "https://x.com/juicebvx/status/2055464910113657082/photo/1",
+              "media_key": "3_2055464891486728192",
+              "start": 48,
+              "url": "https://t.co/101rsHONfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055727053492900295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055464910113657082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juicebvx: met someone again today @ nijifes https://t.co/101rsHONfF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055464891486728192"
+          ]
+        },
+        "author_id": "30794892",
+        "conversation_id": "2055464910113657082",
+        "created_at": "2026-05-16T01:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055464910113657082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/101rsHONfF",
+              "end": 57,
+              "expanded_url": "https://x.com/juicebvx/status/2055464910113657082/photo/1",
+              "media_key": "3_2055464891486728192",
+              "start": 34,
+              "url": "https://t.co/101rsHONfF"
+            },
+            {
+              "display_url": "x.com/juicebvx/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/juicebvx/status/1893573813025284420",
+              "start": 58,
+              "url": "https://t.co/EipQc5V6iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055464910113657082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 88065,
+          "like_count": 2870,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893573813025284420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "met someone again today @ nijifes https://t.co/101rsHONfF https://t.co/EipQc5V6iv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 192,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 285
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-13T03:14:53.000Z",
+        "description": "a cephalopod on da puter\njenna | 30+ | twwatww\nbanner: @celocic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "celocic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "juicebvx.straw.page",
+                "end": 23,
+                "expanded_url": "http://juicebvx.straw.page",
+                "start": 0,
+                "url": "https://t.co/kvGRl3y0OF"
+              }
+            ]
+          }
+        },
+        "id": "30794892",
+        "location": "😎",
+        "name": "juice box @ NIJIFES 🌈🕒",
+        "pinned_tweet_id": "1953300191701852358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041651330855682048/4-ZLxPjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1398,
+          "like_count": 136477,
+          "listed_count": 2,
+          "media_count": 5772,
+          "tweet_count": 72652
+        },
+        "url": "https://t.co/kvGRl3y0OF",
+        "username": "juicebvx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059446838688923648"
+      ],
+      "media_source_tweet_id": [
+        "2059446862239957401"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059679111052976251",
+    "created_at": "2026-05-27T16:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059679111052976251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675334984931098631",
+          "start": 3,
+          "username": "qwq_7obii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6tQyqh55Pj",
+          "end": 43,
+          "expanded_url": "https://x.com/qwq_7obii/status/2059446862239957401/photo/1",
+          "media_key": "3_2059446838688923648",
+          "start": 20,
+          "url": "https://t.co/6tQyqh55Pj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059679111052976251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059446862239957401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwq_7obii: 讨厌世界 https://t.co/6tQyqh55Pj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059679111052976251].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059679111052976251",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059679111052976251"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059446838688923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSf_QXawAAOA9G.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059446838688923648"
+          ]
+        },
+        "author_id": "1675334984931098631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059446862239957401",
+        "created_at": "2026-05-27T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059446862239957401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tQyqh55Pj",
+              "end": 28,
+              "expanded_url": "https://x.com/qwq_7obii/status/2059446862239957401/photo/1",
+              "media_key": "3_2059446838688923648",
+              "start": 5,
+              "url": "https://t.co/6tQyqh55Pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059446862239957401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 247,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌世界 https://t.co/6tQyqh55Pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 197,
+          "like_count": 2671,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 363
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T02:46:12.000Z",
+        "description": "le｜08双相重焦OD｜男的滚\n二号机：@TuT_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "TuT_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/IxEnOF6L5c"
+              }
+            ]
+          }
+        },
+        "id": "1675334984931098631",
+        "location": "我的心为恐惧和欲望而跳动 ",
+        "name": "薄荷紙",
+        "pinned_tweet_id": "2057152538080924014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054321262621569024/SCe9J2Sn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 69,
+          "like_count": 902,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/IxEnOF6L5c",
+        "username": "qwq_7obii",
+        "verified": false
+      }
+    ]
+  }
+}

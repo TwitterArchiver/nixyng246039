@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062497712650780672",
+        "3_2062497712780767232"
+      ],
+      "media_source_tweet_id": [
+        "2062497783991710140",
+        "2062497783991710140"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062586181158621455",
+    "created_at": "2026-06-04T17:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062586181158621455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1322936189381349379",
+          "start": 3,
+          "username": "hx_xux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gvYfhlnGtW",
+          "end": 55,
+          "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+          "media_key": "3_2062497712650780672",
+          "start": 32,
+          "url": "https://t.co/gvYfhlnGtW"
+        },
+        {
+          "display_url": "pic.x.com/gvYfhlnGtW",
+          "end": 55,
+          "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+          "media_key": "3_2062497712780767232",
+          "start": 32,
+          "url": "https://t.co/gvYfhlnGtW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062586181158621455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062497783991710140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hx_xux: まってWWWWWWWWWWWWWWWW https://t.co/gvYfhlnGtW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3646,
+        "media_key": "3_2062497712650780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ92vfibAAAb4Sc.jpg",
+        "width": 2734
+      },
+      {
+        "height": 3519,
+        "media_key": "3_2062497712780767232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ92vgBacAAK2li.jpg",
+        "width": 2640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062497712650780672",
+            "3_2062497712780767232"
+          ],
+          "media_source_tweet_id": [
+            "2062497783991710140",
+            "2062497783991710140"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062586181158621455",
+        "created_at": "2026-06-04T17:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062586181158621455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1322936189381349379",
+              "start": 3,
+              "username": "hx_xux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvYfhlnGtW",
+              "end": 55,
+              "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+              "media_key": "3_2062497712650780672",
+              "start": 32,
+              "url": "https://t.co/gvYfhlnGtW"
+            },
+            {
+              "display_url": "pic.x.com/gvYfhlnGtW",
+              "end": 55,
+              "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+              "media_key": "3_2062497712780767232",
+              "start": 32,
+              "url": "https://t.co/gvYfhlnGtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062586181158621455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062497783991710140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hx_xux: まってWWWWWWWWWWWWWWWW https://t.co/gvYfhlnGtW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062497712650780672",
+            "3_2062497712780767232"
+          ]
+        },
+        "author_id": "1322936189381349379",
+        "conversation_id": "2062497783991710140",
+        "created_at": "2026-06-04T11:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062497783991710140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvYfhlnGtW",
+              "end": 43,
+              "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+              "media_key": "3_2062497712650780672",
+              "start": 20,
+              "url": "https://t.co/gvYfhlnGtW"
+            },
+            {
+              "display_url": "pic.x.com/gvYfhlnGtW",
+              "end": 43,
+              "expanded_url": "https://x.com/hx_xux/status/2062497783991710140/photo/1",
+              "media_key": "3_2062497712780767232",
+              "start": 20,
+              "url": "https://t.co/gvYfhlnGtW"
+            },
+            {
+              "display_url": "x.com/anochan_gekini…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/anochan_gekini/status/2062211969361543523",
+              "start": 44,
+              "url": "https://t.co/jIqD0HuAXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062497783991710140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 730,
+          "impression_count": 967977,
+          "like_count": 10409,
+          "quote_count": 24,
+          "reply_count": 55,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062211969361543523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まってWWWWWWWWWWWWWWWW https://t.co/gvYfhlnGtW https://t.co/jIqD0HuAXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 258,
+          "like_count": 3482,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 582
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-01T16:19:11.000Z",
+        "description": "心地良ヰ悪夢ヲ魅ｾマセｳ。 PRODUCE:@Sanctum404 SUB:@hx_snxz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Sanctum404"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "hx_snxz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hx_xux",
+                "end": 23,
+                "expanded_url": "https://lit.link/hx_xux",
+                "start": 0,
+                "url": "https://t.co/G85HNGigsz"
+              }
+            ]
+          }
+        },
+        "id": "1322936189381349379",
+        "location": " #酔教信者 🌫⚖️",
+        "name": "酔狂【Sanctum:404】",
+        "pinned_tweet_id": "2053104368938062002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998726331916533760/Hy-OKaIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18838,
+          "following_count": 416,
+          "like_count": 29273,
+          "listed_count": 85,
+          "media_count": 438,
+          "tweet_count": 5100
+        },
+        "url": "https://t.co/G85HNGigsz",
+        "username": "hx_xux",
+        "verified": false
+      }
+    ]
+  }
+}

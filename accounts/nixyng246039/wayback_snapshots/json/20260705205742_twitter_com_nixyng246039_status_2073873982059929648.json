@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073804681160380416"
+      ],
+      "media_source_tweet_id": [
+        "2073804692015231423"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2073873982059929648",
+    "created_at": "2026-07-05T20:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073873982059929648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443081692034449408",
+          "start": 3,
+          "username": "lifeisaugust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSYUz1RVFG",
+          "end": 51,
+          "expanded_url": "https://x.com/lifeisaugust/status/2073804692015231423/photo/1",
+          "media_key": "3_2073804681160380416",
+          "start": 28,
+          "url": "https://t.co/uSYUz1RVFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073873982059929648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073804692015231423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lifeisaugust: 没画过第二次的衣服 https://t.co/uSYUz1RVFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073804681160380416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeiXrobUAAtq8K.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073804681160380416"
+          ],
+          "media_source_tweet_id": [
+            "2073804692015231423"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2073873982059929648",
+        "created_at": "2026-07-05T20:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073873982059929648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443081692034449408",
+              "start": 3,
+              "username": "lifeisaugust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSYUz1RVFG",
+              "end": 51,
+              "expanded_url": "https://x.com/lifeisaugust/status/2073804692015231423/photo/1",
+              "media_key": "3_2073804681160380416",
+              "start": 28,
+              "url": "https://t.co/uSYUz1RVFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073873982059929648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073804692015231423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lifeisaugust: 没画过第二次的衣服 https://t.co/uSYUz1RVFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073804681160380416"
+          ]
+        },
+        "author_id": "1443081692034449408",
+        "conversation_id": "2073804692015231423",
+        "created_at": "2026-07-05T16:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073804692015231423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSYUz1RVFG",
+              "end": 33,
+              "expanded_url": "https://x.com/lifeisaugust/status/2073804692015231423/photo/1",
+              "media_key": "3_2073804681160380416",
+              "start": 10,
+              "url": "https://t.co/uSYUz1RVFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073804692015231423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 432,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "没画过第二次的衣服 https://t.co/uSYUz1RVFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 519,
+          "like_count": 7616,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T05:14:49.000Z",
+        "description": "=輪/rinko｜she/her｜froze/OC╳froze",
+        "id": "1443081692034449408",
+        "name": "忠于我和我",
+        "pinned_tweet_id": "2030847381210632327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871127206866944/GDRsuJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 87,
+          "like_count": 4116,
+          "listed_count": 1,
+          "media_count": 548,
+          "tweet_count": 2113
+        },
+        "url": "",
+        "username": "lifeisaugust",
+        "verified": false
+      }
+    ]
+  }
+}

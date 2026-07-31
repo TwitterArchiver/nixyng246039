@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054533812777086976"
+      ],
+      "media_source_tweet_id": [
+        "2054534074270937597"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054747722968879575",
+    "created_at": "2026-05-14T02:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054747722968879575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487298032844820481",
+          "start": 3,
+          "username": "pick1101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6AEiw6Xmp",
+          "end": 40,
+          "expanded_url": "https://x.com/pick1101/status/2054534074270937597/photo/1",
+          "media_key": "3_2054533812777086976",
+          "start": 17,
+          "url": "https://t.co/A6AEiw6Xmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054747722968879575",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054534074270937597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pick1101: 5! https://t.co/A6AEiw6Xmp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2054533812777086976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMrngmbcAAZbVT.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054533812777086976"
+          ],
+          "media_source_tweet_id": [
+            "2054534074270937597"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054747722968879575",
+        "created_at": "2026-05-14T02:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054747722968879575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487298032844820481",
+              "start": 3,
+              "username": "pick1101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6AEiw6Xmp",
+              "end": 40,
+              "expanded_url": "https://x.com/pick1101/status/2054534074270937597/photo/1",
+              "media_key": "3_2054533812777086976",
+              "start": 17,
+              "url": "https://t.co/A6AEiw6Xmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054747722968879575",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054534074270937597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pick1101: 5! https://t.co/A6AEiw6Xmp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054533812777086976"
+          ]
+        },
+        "author_id": "1487298032844820481",
+        "conversation_id": "2054534074270937597",
+        "created_at": "2026-05-13T12:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054534074270937597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6AEiw6Xmp",
+              "end": 26,
+              "expanded_url": "https://x.com/pick1101/status/2054534074270937597/photo/1",
+              "media_key": "3_2054533812777086976",
+              "start": 3,
+              "url": "https://t.co/A6AEiw6Xmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054534074270937597",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3812,
+          "like_count": 560,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "5! https://t.co/A6AEiw6Xmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 181,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 223
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T05:34:34.000Z",
+        "description": "🫠\n\nNot authorized for AI use or reproduction. \nOnly the person in the image can use this fan art(tagged or not). \nhttps://t.co/E3lz7qq5dQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/3127",
+                "end": 137,
+                "expanded_url": "https://lit.link/3127",
+                "start": 114,
+                "url": "https://t.co/E3lz7qq5dQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/3127",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/3127",
+                "start": 0,
+                "url": "https://t.co/9PRJWMKque"
+              }
+            ]
+          }
+        },
+        "id": "1487298032844820481",
+        "location": "20+",
+        "name": "3127",
+        "pinned_tweet_id": "2054042114808516663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955202456658522113/bPbfS22J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 14,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/9PRJWMKque",
+        "username": "pick1101",
+        "verified": false
+      }
+    ]
+  }
+}

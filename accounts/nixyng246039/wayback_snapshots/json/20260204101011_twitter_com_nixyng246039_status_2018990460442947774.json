@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018261203316101120"
+      ],
+      "media_source_tweet_id": [
+        "2018261219338276895"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2018990460442947774",
+    "created_at": "2026-02-04T10:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018990460442947774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788142705362825216",
+          "start": 3,
+          "username": "5858765O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJ1y4DyR0Z",
+          "end": 59,
+          "expanded_url": "https://x.com/5858765O/status/2018261219338276895/photo/1",
+          "media_key": "3_2018261203316101120",
+          "start": 36,
+          "url": "https://t.co/HJ1y4DyR0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018990460442947774",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1819
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018261219338276895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5858765O: schizophrenia mimicry https://t.co/HJ1y4DyR0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018261203316101120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJN3web0AANE7o.jpg",
+        "width": 1455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018261203316101120"
+          ],
+          "media_source_tweet_id": [
+            "2018261219338276895"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2018990460442947774",
+        "created_at": "2026-02-04T10:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018990460442947774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788142705362825216",
+              "start": 3,
+              "username": "5858765O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ1y4DyR0Z",
+              "end": 59,
+              "expanded_url": "https://x.com/5858765O/status/2018261219338276895/photo/1",
+              "media_key": "3_2018261203316101120",
+              "start": 36,
+              "url": "https://t.co/HJ1y4DyR0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018990460442947774",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1819
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018261219338276895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5858765O: schizophrenia mimicry https://t.co/HJ1y4DyR0Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018261203316101120"
+          ]
+        },
+        "author_id": "1788142705362825216",
+        "conversation_id": "2018261219338276895",
+        "created_at": "2026-02-02T09:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018261219338276895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ1y4DyR0Z",
+              "end": 45,
+              "expanded_url": "https://x.com/5858765O/status/2018261219338276895/photo/1",
+              "media_key": "3_2018261203316101120",
+              "start": 22,
+              "url": "https://t.co/HJ1y4DyR0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018261219338276895",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2271,
+          "impression_count": 168163,
+          "like_count": 16976,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 1819
+        },
+        "reply_settings": "everyone",
+        "text": "schizophrenia mimicry https://t.co/HJ1y4DyR0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 108,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T09:44:12.000Z",
+        "description": "https://t.co/NlL5ga4L7F  #schizophreniart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 25,
+                "tag": "schizophreniart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/schizophrenia",
+                "end": 23,
+                "expanded_url": "https://lit.link/schizophrenia",
+                "start": 0,
+                "url": "https://t.co/NlL5ga4L7F"
+              }
+            ]
+          }
+        },
+        "id": "1788142705362825216",
+        "name": "Schizophrenia",
+        "pinned_tweet_id": "1987818279638086066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996875940492939264/9eBjg6wl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 30,
+          "like_count": 200,
+          "listed_count": 9,
+          "media_count": 11,
+          "tweet_count": 27
+        },
+        "username": "5858765O",
+        "verified": false
+      }
+    ]
+  }
+}

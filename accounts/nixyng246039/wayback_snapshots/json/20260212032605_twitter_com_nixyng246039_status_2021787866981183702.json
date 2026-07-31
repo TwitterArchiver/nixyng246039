@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021601711006339072"
+      ],
+      "media_source_tweet_id": [
+        "2021601727401582948"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2021787866981183702",
+    "created_at": "2026-02-12T03:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021787866981183702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "Briskart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1507059221669433363",
+          "start": 3,
+          "username": "ma32500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XX0cVKBVy3",
+          "end": 48,
+          "expanded_url": "https://x.com/ma32500/status/2021601727401582948/photo/1",
+          "media_key": "3_2021601711006339072",
+          "start": 25,
+          "url": "https://t.co/XX0cVKBVy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021787866981183702",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021601727401582948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ma32500: 🎵\n#Briskart https://t.co/XX0cVKBVy3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021601711006339072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4sC5Xa0AAmFv0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021601711006339072"
+          ],
+          "media_source_tweet_id": [
+            "2021601727401582948"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2021787866981183702",
+        "created_at": "2026-02-12T03:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021787866981183702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "Briskart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1507059221669433363",
+              "start": 3,
+              "username": "ma32500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XX0cVKBVy3",
+              "end": 48,
+              "expanded_url": "https://x.com/ma32500/status/2021601727401582948/photo/1",
+              "media_key": "3_2021601711006339072",
+              "start": 25,
+              "url": "https://t.co/XX0cVKBVy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021787866981183702",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021601727401582948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ma32500: 🎵\n#Briskart https://t.co/XX0cVKBVy3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021601711006339072"
+          ]
+        },
+        "author_id": "1507059221669433363",
+        "conversation_id": "2021601727401582948",
+        "created_at": "2026-02-11T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021601727401582948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "Briskart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XX0cVKBVy3",
+              "end": 35,
+              "expanded_url": "https://x.com/ma32500/status/2021601727401582948/photo/1",
+              "media_key": "3_2021601711006339072",
+              "start": 12,
+              "url": "https://t.co/XX0cVKBVy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021601727401582948",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5197,
+          "like_count": 926,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "🎵\n#Briskart https://t.co/XX0cVKBVy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 118,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T18:18:20.000Z",
+        "description": "I’mるに/台灣人/20↑/v垢/🌈🕒EN/🔗🤲/f外🔕 /Do not repost./✉️:runi1225555@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ma32500?utm_me…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ma32500?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oACqpcOJZX"
+              }
+            ]
+          }
+        },
+        "id": "1507059221669433363",
+        "location": "POG",
+        "name": "ま🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990483435975229440/zWoJ_PMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13997,
+          "following_count": 215,
+          "like_count": 49933,
+          "listed_count": 33,
+          "media_count": 774,
+          "tweet_count": 26737
+        },
+        "url": "https://t.co/oACqpcOJZX",
+        "username": "ma32500",
+        "verified": false
+      }
+    ]
+  }
+}

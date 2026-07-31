@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2059660698352013504",
+    "created_at": "2026-05-27T15:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059660698352013504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511270425258459140",
+          "start": 3,
+          "username": "hulixiaobai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059660698352013504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2431
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059306763741266196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hulixiaobai: I really didn’t want to post something like this on my account,  But why do people still use AI on my artwork even though…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2948,
+        "media_key": "3_2059306734989328384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQgkJabwAAi8Yn.jpg",
+        "width": 2211
+      },
+      {
+        "height": 2211,
+        "media_key": "3_2059306734993416192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQgkJbaIAA3LQs.jpg",
+        "width": 2948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2059660698352013504",
+        "created_at": "2026-05-27T15:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059660698352013504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511270425258459140",
+              "start": 3,
+              "username": "hulixiaobai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059660698352013504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2431
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059306763741266196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hulixiaobai: I really didn’t want to post something like this on my account,  But why do people still use AI on my artwork even though…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059306734989328384",
+            "3_2059306734993416192"
+          ]
+        },
+        "author_id": "1511270425258459140",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2059306763741266196",
+        "created_at": "2026-05-26T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059306763741266196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7MOMEu6pi",
+              "end": 266,
+              "expanded_url": "https://x.com/hulixiaobai/status/2059306763741266196/photo/1",
+              "media_key": "3_2059306734989328384",
+              "start": 243,
+              "url": "https://t.co/D7MOMEu6pi"
+            },
+            {
+              "display_url": "pic.x.com/D7MOMEu6pi",
+              "end": 266,
+              "expanded_url": "https://x.com/hulixiaobai/status/2059306763741266196/photo/1",
+              "media_key": "3_2059306734993416192",
+              "start": 243,
+              "url": "https://t.co/D7MOMEu6pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059306763741266196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2092,
+          "impression_count": 838877,
+          "like_count": 29272,
+          "quote_count": 55,
+          "reply_count": 85,
+          "retweet_count": 2431
+        },
+        "reply_settings": "everyone",
+        "text": "I really didn’t want to post something like this on my account,  But why do people still use AI on my artwork even though I’ve clearly stated “No AI” on every platform?\n\nIn this era, is creating with your own hands somehow considered a crime? https://t.co/D7MOMEu6pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 194,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 351
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T09:12:19.000Z",
+        "description": "I draw..😾🚫ai",
+        "id": "1511270425258459140",
+        "location": "Gojo",
+        "name": "好猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868184388980379648/ZAR0QaIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49728,
+          "following_count": 285,
+          "like_count": 5519,
+          "listed_count": 189,
+          "media_count": 119,
+          "tweet_count": 242
+        },
+        "username": "hulixiaobai",
+        "verified": false
+      }
+    ]
+  }
+}

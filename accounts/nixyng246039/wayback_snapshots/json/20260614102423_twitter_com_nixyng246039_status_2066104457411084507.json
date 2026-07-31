@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066097952440094789",
+    "created_at": "2026-06-14T10:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066104457411084507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863222669208100864",
+          "start": 0,
+          "username": "jiang_yi1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066104457411084507",
+    "in_reply_to_user_id": "1863222669208100864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066097952440094789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_yi1212 猫猫你好，申请摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066097952440094789",
+        "created_at": "2026-06-14T10:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104457411084507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863222669208100864",
+              "start": 0,
+              "username": "jiang_yi1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104457411084507",
+        "in_reply_to_user_id": "1863222669208100864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066097952440094789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_yi1212 猫猫你好，申请摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863222669208100864",
+        "conversation_id": "2066097952440094789",
+        "created_at": "2026-06-14T09:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066097952440094789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nixyng246039/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/nixyng246039/status/2066034077313200622",
+              "start": 140,
+              "url": "https://t.co/9QfrGS5PUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066097952440094789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066034077313200622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱人籍，重回猫籍。\n回望之前的物种焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同物种好好生活，祝我们都能用自己的方式生活 https://t.co/9QfrGS5PUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 480,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1780
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以叫我小溯 我磕 zc 欢迎互fo🚪52不开放朋友圈消息看到都会回\n重抑/精分/躁狂/焦虑……多种问题暂时停止治疗\n我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 114,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 91,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 51,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

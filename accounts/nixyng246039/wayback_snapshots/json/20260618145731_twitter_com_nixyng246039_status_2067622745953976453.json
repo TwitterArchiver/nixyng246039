@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067589695102685185"
+      ],
+      "media_source_tweet_id": [
+        "2067589700534321381"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2067622745953976453",
+    "created_at": "2026-06-18T14:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067622745953976453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954426904712536064",
+          "start": 3,
+          "username": "_14_ii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LdTDRv7SG",
+          "end": 41,
+          "expanded_url": "https://x.com/_14_ii/status/2067589700534321381/photo/1",
+          "media_key": "3_2067589695102685185",
+          "start": 18,
+          "url": "https://t.co/0LdTDRv7SG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067622745953976453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067589700534321381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_14_ii: 軍火展示😋 https://t.co/0LdTDRv7SG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067589695102685185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGN34XakAEASdl.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067589695102685185"
+          ],
+          "media_source_tweet_id": [
+            "2067589700534321381"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2067622745953976453",
+        "created_at": "2026-06-18T14:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067622745953976453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954426904712536064",
+              "start": 3,
+              "username": "_14_ii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LdTDRv7SG",
+              "end": 41,
+              "expanded_url": "https://x.com/_14_ii/status/2067589700534321381/photo/1",
+              "media_key": "3_2067589695102685185",
+              "start": 18,
+              "url": "https://t.co/0LdTDRv7SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067622745953976453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589700534321381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_14_ii: 軍火展示😋 https://t.co/0LdTDRv7SG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067589695102685185"
+          ]
+        },
+        "author_id": "1954426904712536064",
+        "conversation_id": "2067589700534321381",
+        "created_at": "2026-06-18T12:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067589700534321381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LdTDRv7SG",
+              "end": 29,
+              "expanded_url": "https://x.com/_14_ii/status/2067589700534321381/photo/1",
+              "media_key": "3_2067589695102685185",
+              "start": 6,
+              "url": "https://t.co/0LdTDRv7SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589700534321381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "軍火展示😋 https://t.co/0LdTDRv7SG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 501,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港/深圳/馬來-留學中|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En-oki |互fo/擴列 大歡迎|高強度上網［精神狀態偶爾不穩 很友好請放心撫摸］\n♡歡迎小窗互動 出來線下面基呀 ♡\n🚪52/88/188\n*ଘ 幸せが私に来ますように! ‧₊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_14_ii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_14_ii",
+                "start": 0,
+                "url": "https://t.co/JTbL0TBwP6"
+              }
+            ]
+          }
+        },
+        "id": "1954426904712536064",
+        "name": "好痛苦可能因为我们是青少年",
+        "pinned_tweet_id": "2063804916804825139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 135,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/JTbL0TBwP6",
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

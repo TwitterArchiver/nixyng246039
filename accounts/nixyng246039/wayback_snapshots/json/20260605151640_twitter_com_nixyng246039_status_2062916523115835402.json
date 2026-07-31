@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062916523115835402",
+    "created_at": "2026-06-05T15:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062916523115835402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047499889094123520",
+          "start": 3,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062916523115835402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062794771979223412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yn_xxxjkjk: 我在腿上弄了很多淤青，我觉得淤青很漂亮。\n我每次会夸别人的伤口好看的时候，我是真心这样觉得的。我真的觉得你们的疤痕很美丽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062916523115835402",
+        "created_at": "2026-06-05T15:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062916523115835402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047499889094123520",
+              "start": 3,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062916523115835402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062794771979223412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yn_xxxjkjk: 我在腿上弄了很多淤青，我觉得淤青很漂亮。\n我每次会夸别人的伤口好看的时候，我是真心这样觉得的。我真的觉得你们的疤痕很美丽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047499889094123520",
+        "conversation_id": "2062794771979223412",
+        "created_at": "2026-06-05T07:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062794771979223412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062794771979223412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 519,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在腿上弄了很多淤青，我觉得淤青很漂亮。\n我每次会夸别人的伤口好看的时候，我是真心这样觉得的。我真的觉得你们的疤痕很美丽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 296,
+          "like_count": 3742,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 674
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "我的日记本。\n@xxx_jjkk 的逃生舱\n都会回fol的\n3.0 @ynxxx_jjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "ynxxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "旖旎2.0",
+        "pinned_tweet_id": "2060247040177943030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 156,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 75
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

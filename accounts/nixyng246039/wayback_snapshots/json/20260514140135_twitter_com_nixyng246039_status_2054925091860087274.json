@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054925091860087274",
+    "created_at": "2026-05-14T14:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054925091860087274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751595389562822657",
+          "start": 3,
+          "username": "ijia522218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054925091860087274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054801114554622226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijia522218: 《药物从夯到拉排名》《这个也能o你知道吗？》《这个也能飞飞哦！》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054925091860087274",
+        "created_at": "2026-05-14T14:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054925091860087274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751595389562822657",
+              "start": 3,
+              "username": "ijia522218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054925091860087274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054801114554622226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ijia522218: 《药物从夯到拉排名》《这个也能o你知道吗？》《这个也能飞飞哦！》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2054801114554622226",
+        "created_at": "2026-05-14T05:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054801114554622226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2054544053468033186",
+              "start": 33,
+              "url": "https://t.co/wrpe4aoTtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054801114554622226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1567,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054544053468033186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《药物从夯到拉排名》《这个也能o你知道吗？》《这个也能飞飞哦！》 https://t.co/wrpe4aoTtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 186,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 248
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2052273263284494785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 235,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 633
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

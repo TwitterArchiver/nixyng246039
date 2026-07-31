@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061092729967509504"
+      ],
+      "media_source_tweet_id": [
+        "2061092733536890929"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061601492726128967",
+    "created_at": "2026-06-02T00:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061601492726128967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531972372240093184",
+          "start": 3,
+          "username": "carbo_xy1ic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ngDIem9zZ",
+          "end": 46,
+          "expanded_url": "https://x.com/carbo_xy1ic/status/2061092733536890929/photo/1",
+          "media_key": "3_2061092729967509504",
+          "start": 23,
+          "url": "https://t.co/9ngDIem9zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061601492726128967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061092733536890929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carbo_xy1ic: お誘い…？ https://t.co/9ngDIem9zZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2061092729967509504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp46vLagAAim-5.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061092729967509504"
+          ],
+          "media_source_tweet_id": [
+            "2061092733536890929"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061601492726128967",
+        "created_at": "2026-06-02T00:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061601492726128967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531972372240093184",
+              "start": 3,
+              "username": "carbo_xy1ic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ngDIem9zZ",
+              "end": 46,
+              "expanded_url": "https://x.com/carbo_xy1ic/status/2061092733536890929/photo/1",
+              "media_key": "3_2061092729967509504",
+              "start": 23,
+              "url": "https://t.co/9ngDIem9zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061601492726128967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061092733536890929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carbo_xy1ic: お誘い…？ https://t.co/9ngDIem9zZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061092729967509504"
+          ]
+        },
+        "author_id": "1531972372240093184",
+        "conversation_id": "2061092733536890929",
+        "created_at": "2026-05-31T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061092733536890929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ngDIem9zZ",
+              "end": 29,
+              "expanded_url": "https://x.com/carbo_xy1ic/status/2061092733536890929/photo/1",
+              "media_key": "3_2061092729967509504",
+              "start": 6,
+              "url": "https://t.co/9ngDIem9zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061092733536890929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 14367,
+          "like_count": 1964,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "お誘い…？ https://t.co/9ngDIem9zZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 217,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 445
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:14:22.000Z",
+        "description": "ギ酸です。最近→リバース1999",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/DoOFoFiwdhPF…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/DoOFoFiwdhPFgIhysk8FAWKllMz2",
+                "start": 0,
+                "url": "https://t.co/GGAZ8EZls8"
+              }
+            ]
+          }
+        },
+        "id": "1531972372240093184",
+        "location": "ギ酸（ぎさん）",
+        "name": "ギ酸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951593816672350208/q9AWIw5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 66,
+          "like_count": 9464,
+          "listed_count": 13,
+          "media_count": 100,
+          "tweet_count": 2433
+        },
+        "url": "https://t.co/GGAZ8EZls8",
+        "username": "carbo_xy1ic",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082126363163807744"
+      ],
+      "media_source_tweet_id": [
+        "2082126388593828098"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082230181159436362",
+    "created_at": "2026-07-28T22:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082230181159436362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443081692034449408",
+          "start": 3,
+          "username": "lifeisaugust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTwdR2HXc1",
+          "end": 75,
+          "expanded_url": "https://x.com/lifeisaugust/status/2082126388593828098/photo/1",
+          "media_key": "3_2082126363163807744",
+          "start": 52,
+          "url": "https://t.co/kTwdR2HXc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082230181159436362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082126388593828098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lifeisaugust: 噢噢画完了，，都是第一次画，跟角色性格有出入的地方还请包容。。。🤧 https://t.co/kTwdR2HXc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2082126363163807744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUy5U3a0AA9-f0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082126363163807744"
+          ]
+        },
+        "author_id": "1443081692034449408",
+        "conversation_id": "2082126388593828098",
+        "created_at": "2026-07-28T15:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082126388593828098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTwdR2HXc1",
+              "end": 57,
+              "expanded_url": "https://x.com/lifeisaugust/status/2082126388593828098/photo/1",
+              "media_key": "3_2082126363163807744",
+              "start": 34,
+              "url": "https://t.co/kTwdR2HXc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082126388593828098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 375,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "噢噢画完了，，都是第一次画，跟角色性格有出入的地方还请包容。。。🤧 https://t.co/kTwdR2HXc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082126363163807744"
+          ],
+          "media_source_tweet_id": [
+            "2082126388593828098"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082230181159436362",
+        "created_at": "2026-07-28T22:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082230181159436362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443081692034449408",
+              "start": 3,
+              "username": "lifeisaugust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTwdR2HXc1",
+              "end": 75,
+              "expanded_url": "https://x.com/lifeisaugust/status/2082126388593828098/photo/1",
+              "media_key": "3_2082126363163807744",
+              "start": 52,
+              "url": "https://t.co/kTwdR2HXc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082230181159436362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082126388593828098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lifeisaugust: 噢噢画完了，，都是第一次画，跟角色性格有出入的地方还请包容。。。🤧 https://t.co/kTwdR2HXc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 517,
+          "like_count": 7961,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2486
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T05:14:49.000Z",
+        "description": "=輪/rinko｜she/her｜froze/OC╳froze",
+        "id": "1443081692034449408",
+        "name": "忠于我和我",
+        "pinned_tweet_id": "2030847381210632327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871127206866944/GDRsuJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 89,
+          "like_count": 4274,
+          "listed_count": 2,
+          "media_count": 566,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "lifeisaugust",
+        "verified": false
+      }
+    ]
+  }
+}

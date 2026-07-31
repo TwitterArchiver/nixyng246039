@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064892093357854865",
+    "created_at": "2026-06-11T11:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065030261528502526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303254224101285894",
+          "start": 0,
+          "username": "shengzhoujie"
+        },
+        {
+          "end": 24,
+          "id": "2022999593995370496",
+          "start": 14,
+          "username": "suanyun77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065030261528502526",
+    "in_reply_to_user_id": "1303254224101285894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064967146237768155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengzhoujie @suanyun77 谢谢小宝呀！希望我不会挂科吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064892093357854865",
+        "created_at": "2026-06-11T11:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065030261528502526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303254224101285894",
+              "start": 0,
+              "username": "shengzhoujie"
+            },
+            {
+              "end": 24,
+              "id": "2022999593995370496",
+              "start": 14,
+              "username": "suanyun77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065030261528502526",
+        "in_reply_to_user_id": "1303254224101285894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064967146237768155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengzhoujie @suanyun77 谢谢小宝呀！希望我不会挂科吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303254224101285894",
+        "conversation_id": "2064892093357854865",
+        "created_at": "2026-06-11T07:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064967146237768155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022999593995370496",
+              "start": 0,
+              "username": "suanyun77"
+            },
+            {
+              "end": 24,
+              "id": "1720098116601532416",
+              "start": 11,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064967146237768155",
+        "in_reply_to_user_id": "2022999593995370496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064893673725468698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanyun77 @nixyng246039 学考吗，摸摸你，辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 418,
+          "like_count": 5728,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1397
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T08:50:03.000Z",
+        "description": "无……",
+        "id": "1303254224101285894",
+        "location": "Ikeda-cho, Fukui",
+        "name": "城南の花はもう咲きました",
+        "pinned_tweet_id": "1822679364015960557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303254370771853312/gSQaC9AL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 839,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1024
+        },
+        "username": "shengzhoujie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T11:42:03.000Z",
+        "description": "|isfp-t | 碎碎念|OD&自残|负面情绪|\n#不登校\n#メンヘラ\n#精神不安定\n想要和萌女子扩列聊天...",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "不登校"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "精神不安定"
+              }
+            ]
+          }
+        },
+        "id": "2022999593995370496",
+        "location": "四川",
+        "name": "芏芏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023001576399589376/Cava4z-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 22,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 628
+        },
+        "username": "suanyun77",
+        "verified": false
+      }
+    ]
+  }
+}

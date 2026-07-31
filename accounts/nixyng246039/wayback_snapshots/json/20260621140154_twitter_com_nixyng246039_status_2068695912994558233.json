@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068333049063084032"
+      ],
+      "media_source_tweet_id": [
+        "2068333055157407887"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2068695912994558233",
+    "created_at": "2026-06-21T14:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068695912994558233"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 20,
+          "tag": "APHワンドロツードロ"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "Aph"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624652510685466624",
+          "start": 3,
+          "username": "HP62665"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYDZ8fQh8m",
+          "end": 61,
+          "expanded_url": "https://x.com/HP62665/status/2068333055157407887/photo/1",
+          "media_key": "3_2068333049063084032",
+          "start": 38,
+          "url": "https://t.co/lYDZ8fQh8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068695912994558233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068333055157407887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HP62665: APH2P\n #APHワンドロツードロ #Aph https://t.co/lYDZ8fQh8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068333049063084032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQx8xqbEAABIrb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068333049063084032"
+          ],
+          "media_source_tweet_id": [
+            "2068333055157407887"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2068695912994558233",
+        "created_at": "2026-06-21T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068695912994558233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "APHワンドロツードロ"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "Aph"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624652510685466624",
+              "start": 3,
+              "username": "HP62665"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYDZ8fQh8m",
+              "end": 61,
+              "expanded_url": "https://x.com/HP62665/status/2068333055157407887/photo/1",
+              "media_key": "3_2068333049063084032",
+              "start": 38,
+              "url": "https://t.co/lYDZ8fQh8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695912994558233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068333055157407887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HP62665: APH2P\n #APHワンドロツードロ #Aph https://t.co/lYDZ8fQh8m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068333049063084032"
+          ]
+        },
+        "author_id": "1624652510685466624",
+        "conversation_id": "2068333055157407887",
+        "created_at": "2026-06-20T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068333055157407887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "APHワンドロツードロ"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "Aph"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYDZ8fQh8m",
+              "end": 48,
+              "expanded_url": "https://x.com/HP62665/status/2068333055157407887/photo/1",
+              "media_key": "3_2068333049063084032",
+              "start": 25,
+              "url": "https://t.co/lYDZ8fQh8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068333055157407887",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 8862,
+          "like_count": 843,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "APH2P\n #APHワンドロツードロ #Aph https://t.co/lYDZ8fQh8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 503,
+          "like_count": 7183,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2122
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T06:12:07.000Z",
+        "description": "I like fantasizing and drawing cute things!٩(˃̶͈̀௰˂̶͈́)و",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com",
+                "start": 0,
+                "url": "https://t.co/W7zQYE1hUr"
+              }
+            ]
+          }
+        },
+        "id": "1624652510685466624",
+        "location": "兵庫県",
+        "name": "名前",
+        "pinned_tweet_id": "2066520877454459117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062868484942708736/rZbQJFAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 51,
+          "like_count": 9559,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/W7zQYE1hUr",
+        "username": "HP62665",
+        "verified": false
+      }
+    ]
+  }
+}

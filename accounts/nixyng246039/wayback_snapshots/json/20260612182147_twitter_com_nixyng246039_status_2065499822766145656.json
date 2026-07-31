@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065458524491022716",
+    "created_at": "2026-06-12T18:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065499822766145656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1954426904712536064",
+          "start": 0,
+          "username": "_14_ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065499822766145656",
+    "in_reply_to_user_id": "1954426904712536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065458524491022716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_14_ii 我在内圈诶！内圈贴贴~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2065458514424668160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn7k1qWoAAh6Lb.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065458524491022716",
+        "created_at": "2026-06-12T18:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065499822766145656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1954426904712536064",
+              "start": 0,
+              "username": "_14_ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065499822766145656",
+        "in_reply_to_user_id": "1954426904712536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065458524491022716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_14_ii 我在内圈诶！内圈贴贴~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065458514424668160"
+          ]
+        },
+        "author_id": "1954426904712536064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065458524491022716",
+        "created_at": "2026-06-12T15:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065458524491022716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/CRoDlUQ01k"
+            },
+            {
+              "display_url": "pic.x.com/un0y6RI0OF",
+              "end": 64,
+              "expanded_url": "https://x.com/_14_ii/status/2065458524491022716/photo/1",
+              "media_key": "3_2065458514424668160",
+              "start": 41,
+              "url": "https://t.co/un0y6RI0OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065458524491022716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/CRoDlUQ01k https://t.co/un0y6RI0OF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 453,
+          "like_count": 6186,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1574
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港/深圳/馬來-留學中|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En-oki |互fo/擴列 大歡迎|高強度上網［精神狀態偶爾不穩 很友好請放心撫摸］\n♡歡迎小窗互動 出來線下面基呀 ♡\n🚪52/88/188\n*ଘ 幸せが私に来ますように! ‧₊",
+        "id": "1954426904712536064",
+        "name": "幸福是什麼",
+        "pinned_tweet_id": "2063804916804825139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 146,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 327
+        },
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

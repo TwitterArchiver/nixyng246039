@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063701327923048448"
+      ],
+      "media_source_tweet_id": [
+        "2063701332687729076"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063920073262145639",
+    "created_at": "2026-06-08T09:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063920073262145639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1216673743784644608",
+          "start": 3,
+          "username": "hisato_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOJd8rJ9tK",
+          "end": 51,
+          "expanded_url": "https://x.com/hisato_00/status/2063701332687729076/photo/1",
+          "media_key": "3_2063701327923048448",
+          "start": 28,
+          "url": "https://t.co/UOJd8rJ9tK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063920073262145639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3927
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063701332687729076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hisato_00: サブカルコーデ篠澤さん🎧 https://t.co/UOJd8rJ9tK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063701327923048448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKO9bH1a8AA-8ZW.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063701327923048448"
+          ],
+          "media_source_tweet_id": [
+            "2063701332687729076"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063920073262145639",
+        "created_at": "2026-06-08T09:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063920073262145639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1216673743784644608",
+              "start": 3,
+              "username": "hisato_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOJd8rJ9tK",
+              "end": 51,
+              "expanded_url": "https://x.com/hisato_00/status/2063701332687729076/photo/1",
+              "media_key": "3_2063701327923048448",
+              "start": 28,
+              "url": "https://t.co/UOJd8rJ9tK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063920073262145639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3927
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063701332687729076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hisato_00: サブカルコーデ篠澤さん🎧 https://t.co/UOJd8rJ9tK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063701327923048448"
+          ]
+        },
+        "author_id": "1216673743784644608",
+        "conversation_id": "2063701332687729076",
+        "created_at": "2026-06-07T19:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063701332687729076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOJd8rJ9tK",
+              "end": 36,
+              "expanded_url": "https://x.com/hisato_00/status/2063701332687729076/photo/1",
+              "media_key": "3_2063701327923048448",
+              "start": 13,
+              "url": "https://t.co/UOJd8rJ9tK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063701332687729076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3850,
+          "impression_count": 325076,
+          "like_count": 35910,
+          "quote_count": 71,
+          "reply_count": 11,
+          "retweet_count": 3927
+        },
+        "reply_settings": "everyone",
+        "text": "サブカルコーデ篠澤さん🎧 https://t.co/UOJd8rJ9tK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 366,
+          "like_count": 4727,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1025
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T10:52:04.000Z",
+        "description": "絵がすき。 🌈🕒、学マス他もろもろすきです 18↑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hisato_00",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hisato_00",
+                "start": 0,
+                "url": "https://t.co/SVo2eAfWM3"
+              }
+            ]
+          }
+        },
+        "id": "1216673743784644608",
+        "location": "AI学習🚫",
+        "name": "日里@GSF03 【11組41番】",
+        "pinned_tweet_id": "2014335517052281299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883490877802463232/xYJ99F7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8041,
+          "following_count": 152,
+          "like_count": 13406,
+          "listed_count": 67,
+          "media_count": 121,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/SVo2eAfWM3",
+        "username": "hisato_00",
+        "verified": false
+      }
+    ]
+  }
+}

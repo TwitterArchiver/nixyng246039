@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060027863655411715"
+      ],
+      "media_source_tweet_id": [
+        "2060029050446393544"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060034750719639558",
+    "created_at": "2026-05-28T16:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060034750719639558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465851881180348425",
+          "start": 3,
+          "username": "Vox_Akuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yppUaObOsN",
+          "end": 48,
+          "expanded_url": "https://x.com/Vox_Akuma/status/2060029050446393544/photo/1",
+          "media_key": "3_2060027863655411715",
+          "start": 25,
+          "url": "https://t.co/yppUaObOsN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060034750719639558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060029050446393544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vox_Akuma: 热死了给我降降温嘛 https://t.co/yppUaObOsN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2060027863655411715",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJawbXCWcAMtQ1H.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060027863655411715"
+          ],
+          "media_source_tweet_id": [
+            "2060029050446393544"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060034750719639558",
+        "created_at": "2026-05-28T16:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060034750719639558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465851881180348425",
+              "start": 3,
+              "username": "Vox_Akuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yppUaObOsN",
+              "end": 48,
+              "expanded_url": "https://x.com/Vox_Akuma/status/2060029050446393544/photo/1",
+              "media_key": "3_2060027863655411715",
+              "start": 25,
+              "url": "https://t.co/yppUaObOsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060034750719639558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060029050446393544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vox_Akuma: 热死了给我降降温嘛 https://t.co/yppUaObOsN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060027863655411715"
+          ]
+        },
+        "author_id": "1465851881180348425",
+        "conversation_id": "2060029050446393544",
+        "created_at": "2026-05-28T16:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060029050446393544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yppUaObOsN",
+              "end": 33,
+              "expanded_url": "https://x.com/Vox_Akuma/status/2060029050446393544/photo/1",
+              "media_key": "3_2060027863655411715",
+              "start": 10,
+              "url": "https://t.co/yppUaObOsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060029050446393544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5999,
+          "like_count": 862,
+          "quote_count": 16,
+          "reply_count": 80,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "热死了给我降降温嘛 https://t.co/yppUaObOsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 197,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 369
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T01:15:33.000Z",
+        "description": "Nijisanji EN's Demon from the Past.\n#Luxiem にじさんじENのヴォックス・アクマ | ママ @ramdayo1122\nbanner by @defonotcheng_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "Luxiem"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "ramdayo1122"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "defonotcheng_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCckdf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA",
+                "start": 0,
+                "url": "https://t.co/vKNOC3NYVq"
+              }
+            ]
+          }
+        },
+        "id": "1465851881180348425",
+        "name": "Vox Akuma 👹🧧NIJISANJI EN",
+        "pinned_tweet_id": "2059429209534026005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041036705554137088/sKDkz16u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283341,
+          "following_count": 596,
+          "like_count": 25293,
+          "listed_count": 8295,
+          "media_count": 2659,
+          "tweet_count": 11230
+        },
+        "url": "https://t.co/vKNOC3NYVq",
+        "username": "Vox_Akuma",
+        "verified": true
+      }
+    ]
+  }
+}

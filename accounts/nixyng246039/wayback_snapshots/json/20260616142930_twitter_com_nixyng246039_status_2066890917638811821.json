@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066584282945175552"
+      ],
+      "media_source_tweet_id": [
+        "2066584287416344959"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066890917638811821",
+    "created_at": "2026-06-16T14:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066890917638811821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619592232692236288",
+          "start": 3,
+          "username": "kuka_0928"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AizNM7uh3M",
+          "end": 62,
+          "expanded_url": "https://x.com/kuka_0928/status/2066584287416344959/photo/1",
+          "media_key": "3_2066584282945175552",
+          "start": 39,
+          "url": "https://t.co/AizNM7uh3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066890917638811821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066584287416344959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuka_0928: やっぱこの時期になったら\n描きますよね…⚽️✨ https://t.co/AizNM7uh3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1813,
+        "media_key": "3_2066584282945175552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK37dMNaQAAcLun.jpg",
+        "width": 1433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066584282945175552"
+          ],
+          "media_source_tweet_id": [
+            "2066584287416344959"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066890917638811821",
+        "created_at": "2026-06-16T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066890917638811821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619592232692236288",
+              "start": 3,
+              "username": "kuka_0928"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AizNM7uh3M",
+              "end": 62,
+              "expanded_url": "https://x.com/kuka_0928/status/2066584287416344959/photo/1",
+              "media_key": "3_2066584282945175552",
+              "start": 39,
+              "url": "https://t.co/AizNM7uh3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066890917638811821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066584287416344959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuka_0928: やっぱこの時期になったら\n描きますよね…⚽️✨ https://t.co/AizNM7uh3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066584282945175552"
+          ]
+        },
+        "author_id": "1619592232692236288",
+        "conversation_id": "2066584287416344959",
+        "created_at": "2026-06-15T18:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066584287416344959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AizNM7uh3M",
+              "end": 47,
+              "expanded_url": "https://x.com/kuka_0928/status/2066584287416344959/photo/1",
+              "media_key": "3_2066584282945175552",
+              "start": 24,
+              "url": "https://t.co/AizNM7uh3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066584287416344959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 61769,
+          "like_count": 9775,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱこの時期になったら\n描きますよね…⚽️✨ https://t.co/AizNM7uh3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 496,
+          "like_count": 7075,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2060
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T07:04:45.000Z",
+        "description": "APH垢/基本Tiktokにいます🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nrlkynipxbmt23…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nrlkynipxbmt23h?t=CfT1kP&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cKo1ECxo0R"
+              }
+            ]
+          }
+        },
+        "id": "1619592232692236288",
+        "name": "KUKA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755562375640723456/Lbl0MEOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 50,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/cKo1ECxo0R",
+        "username": "kuka_0928",
+        "verified": false
+      }
+    ]
+  }
+}

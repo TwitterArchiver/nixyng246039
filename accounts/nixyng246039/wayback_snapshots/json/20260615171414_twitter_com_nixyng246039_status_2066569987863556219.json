@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066515514495746461",
+    "created_at": "2026-06-15T17:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066569987863556219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991520340250681345",
+          "start": 0,
+          "username": "pray444peace_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066569987863556219",
+    "in_reply_to_user_id": "1991520340250681345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066569024486687184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pray444peace_ 噢噢噢哦哦！哪个该死的撞你我去砍死它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066515514495746461",
+        "created_at": "2026-06-15T17:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066569987863556219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991520340250681345",
+              "start": 0,
+              "username": "pray444peace_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066569987863556219",
+        "in_reply_to_user_id": "1991520340250681345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066569024486687184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pray444peace_ 噢噢噢哦哦！哪个该死的撞你我去砍死它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991520340250681345",
+        "conversation_id": "2066515514495746461",
+        "created_at": "2026-06-15T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066569024486687184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066569024486687184",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066568088997306704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 嘿嘿对吧没关系没关系已经这个已经是第三天了好了很多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 493,
+          "like_count": 6843,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1939
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T14:53:55.000Z",
+        "description": "馬孔多在下雨",
+        "id": "1991520340250681345",
+        "location": "mazel tov",
+        "name": "和平天使不會死",
+        "pinned_tweet_id": "2065870111651856666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063286188199600128/d5Q9iImS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 43,
+          "like_count": 1931,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 837
+        },
+        "username": "pray444peace_",
+        "verified": false
+      }
+    ]
+  }
+}

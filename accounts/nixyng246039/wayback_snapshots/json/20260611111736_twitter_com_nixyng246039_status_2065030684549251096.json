@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-11T11:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065030684549251096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980194235275206657",
+          "start": 0,
+          "username": "ZzzzZzz0320"
+        },
+        {
+          "end": 20,
+          "id": "1572190381093318656",
+          "start": 13,
+          "username": "m0rxtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065030684549251096",
+    "in_reply_to_user_id": "1980194235275206657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064989847719395421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzzzZzz0320 @m0rxtl 我去谢谢建议呀，小宝宝我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-11T11:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065030684549251096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980194235275206657",
+              "start": 0,
+              "username": "ZzzzZzz0320"
+            },
+            {
+              "end": 20,
+              "id": "1572190381093318656",
+              "start": 13,
+              "username": "m0rxtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065030684549251096",
+        "in_reply_to_user_id": "1980194235275206657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064989847719395421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzzzZzz0320 @m0rxtl 我去谢谢建议呀，小宝宝我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980194235275206657",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-11T08:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064989847719395421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            },
+            {
+              "end": 21,
+              "id": "1572190381093318656",
+              "start": 14,
+              "username": "m0rxtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064989847719395421",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062523420785643779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 @m0rxtl 醒了难受可以多喝一点热水代谢出去，非常管用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 419,
+          "like_count": 5730,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1399
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T08:48:09.000Z",
+        "description": "",
+        "id": "1980194235275206657",
+        "name": "ZzzZz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061975283889258496/7VKcVl8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "ZzzzZzz0320",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T11:46:26.000Z",
+        "description": "家族遗传精神病人耐活史",
+        "id": "1572190381093318656",
+        "name": "绝对零度可乐鸡翅包饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860784148283392/yHmGK7Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 89,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 148
+        },
+        "username": "m0rxtl",
+        "verified": false
+      }
+    ]
+  }
+}

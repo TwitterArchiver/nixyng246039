@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2063952693874335845",
+    "created_at": "2026-06-08T11:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063952693874335845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1526488490623782912",
+          "start": 3,
+          "username": "Rchan0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063952693874335845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063698548764639541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rchan0511: 自殺ってある意味寿命だと思う。\n \n心が寿命を迎えてしまったんだよ。\n\n体だけが健康だからって人生を\n生きられる訳ではないから。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063952693874335845",
+        "created_at": "2026-06-08T11:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063952693874335845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1526488490623782912",
+              "start": 3,
+              "username": "Rchan0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063952693874335845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063698548764639541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rchan0511: 自殺ってある意味寿命だと思う。\n \n心が寿命を迎えてしまったんだよ。\n\n体だけが健康だからって人生を\n生きられる訳ではないから。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526488490623782912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063698548764639541",
+        "created_at": "2026-06-07T19:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063698548764639541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063698548764639541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 280718,
+          "like_count": 4958,
+          "quote_count": 40,
+          "reply_count": 51,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "自殺ってある意味寿命だと思う。\n \n心が寿命を迎えてしまったんだよ。\n\n体だけが健康だからって人生を\n生きられる訳ではないから。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 368,
+          "like_count": 4891,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1061
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T09:03:54.000Z",
+        "description": "生きる記録でしかない。病み垢。♡https://t.co/ZxHTHsF75G♡ ️️️️あるᒼᑋªⁿマーク️️️🍼🫧♡︎︎ᕷ·͜· ︎︎彼氏さん@_rkun_123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "_rkun_123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 39,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MZSQJA29PJS?ref_=wl_share",
+                "start": 16,
+                "url": "https://t.co/ZxHTHsF75G"
+              }
+            ]
+          }
+        },
+        "id": "1526488490623782912",
+        "location": "れんᵏ ᵘ ⁿ の隣。",
+        "name": "あるᒼᑋªⁿ️🍼🫧（くそがき）",
+        "pinned_tweet_id": "1898989367450116190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062122614085267456/rE5TKvtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1315,
+          "like_count": 134572,
+          "listed_count": 24,
+          "media_count": 2673,
+          "tweet_count": 37970
+        },
+        "username": "Rchan0511",
+        "verified": false
+      }
+    ]
+  }
+}

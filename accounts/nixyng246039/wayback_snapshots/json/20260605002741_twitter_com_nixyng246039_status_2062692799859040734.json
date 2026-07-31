@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062586405876846593"
+      ],
+      "media_source_tweet_id": [
+        "2062586641395458514"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062692799859040734",
+    "created_at": "2026-06-05T00:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062692799859040734"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "血图"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054302816446115840",
+          "start": 3,
+          "username": "YueYe91062"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yKxeX2zCT",
+          "end": 43,
+          "expanded_url": "https://x.com/YueYe91062/status/2062586641395458514/video/1",
+          "media_key": "7_2062586405876846593",
+          "start": 20,
+          "url": "https://t.co/3yKxeX2zCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062692799859040734",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062586641395458514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YueYe91062: #血图 https://t.co/3yKxeX2zCT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062692799859040734].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062692799859040734",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062692799859040734"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8591,
+        "height": 1280,
+        "media_key": "7_2062586405876846593",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062586405876846593/pu/img/QsSm9TTqG62-8qLT.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062586405876846593/pu/vid/avc1/320x568/HsrFPrj7M_QWKMwH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062586405876846593/pu/vid/avc1/480x852/k3gbjAv2enD0ZlUb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062586405876846593/pu/vid/avc1/720x1280/JX_gh015cvDRrRgW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062586405876846593/pu/pl/hKyNBY8Mm43HaT5g.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062586405876846593"
+          ]
+        },
+        "author_id": "2054302816446115840",
+        "conversation_id": "2062586641395458514",
+        "created_at": "2026-06-04T17:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062586641395458514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "血图"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yKxeX2zCT",
+              "end": 27,
+              "expanded_url": "https://x.com/YueYe91062/status/2062586641395458514/video/1",
+              "media_key": "7_2062586405876846593",
+              "start": 4,
+              "url": "https://t.co/3yKxeX2zCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062586641395458514",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#血图 https://t.co/3yKxeX2zCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 274,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 621
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T20:49:05.000Z",
+        "description": "",
+        "id": "2054302816446115840",
+        "name": "夜神月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055882160494575616/gv5BhGaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "username": "YueYe91062",
+        "verified": false
+      }
+    ]
+  }
+}

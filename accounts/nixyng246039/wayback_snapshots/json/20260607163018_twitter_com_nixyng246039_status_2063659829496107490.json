@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063505775738155008"
+      ],
+      "media_source_tweet_id": [
+        "2063505779500462523"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063659829496107490",
+    "created_at": "2026-06-07T16:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063659829496107490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLE5Xwqeg3",
+          "end": 46,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2063505779500462523/photo/1",
+          "media_key": "3_2063505775738155008",
+          "start": 23,
+          "url": "https://t.co/FLE5Xwqeg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063659829496107490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063505779500462523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 为高考镜音 https://t.co/FLE5Xwqeg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2063505775738155008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMLkfLW8AADBlr.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063505775738155008"
+          ],
+          "media_source_tweet_id": [
+            "2063505779500462523"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063659829496107490",
+        "created_at": "2026-06-07T16:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063659829496107490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLE5Xwqeg3",
+              "end": 46,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2063505779500462523/photo/1",
+              "media_key": "3_2063505775738155008",
+              "start": 23,
+              "url": "https://t.co/FLE5Xwqeg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063659829496107490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063505779500462523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 为高考镜音 https://t.co/FLE5Xwqeg3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063505775738155008"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2063505779500462523",
+        "created_at": "2026-06-07T06:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063505779500462523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLE5Xwqeg3",
+              "end": 29,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2063505779500462523/photo/1",
+              "media_key": "3_2063505775738155008",
+              "start": 6,
+              "url": "https://t.co/FLE5Xwqeg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063505779500462523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1129,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为高考镜音 https://t.co/FLE5Xwqeg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 344,
+          "like_count": 4439,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 929
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  互fo留言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 57,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん🫪",
+        "pinned_tweet_id": "2063204311287370062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057121282508881920/u148AFSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 2274,
+          "like_count": 44907,
+          "listed_count": 8,
+          "media_count": 2431,
+          "tweet_count": 21854
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

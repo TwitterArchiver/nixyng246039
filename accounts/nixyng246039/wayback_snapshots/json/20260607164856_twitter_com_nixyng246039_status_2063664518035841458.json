@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063633035191607296"
+      ],
+      "media_source_tweet_id": [
+        "2063633178544484479"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063664518035841458",
+    "created_at": "2026-06-07T16:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063664518035841458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634944403872833536",
+          "start": 3,
+          "username": "wmy072011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwZoBLmgCk",
+          "end": 38,
+          "expanded_url": "https://x.com/wmy072011/status/2063633178544484479/video/1",
+          "media_key": "13_2063633035191607296",
+          "start": 15,
+          "url": "https://t.co/hwZoBLmgCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063664518035841458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063633178544484479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmy072011: https://t.co/hwZoBLmgCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9377,
+        "height": 1280,
+        "media_key": "13_2063633035191607296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063633035191607296/img/gfT1Xg_5Vc9_sLny.jpg",
+        "public_metrics": {
+          "view_count": 128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063633035191607296/vid/avc1/320x568/vjZVDCiwWSmZwfa4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063633035191607296/vid/avc1/480x852/O78_xN-LgeEFgBe0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063633035191607296/vid/avc1/720x1280/UMniUhjXI6mdGGdb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063633035191607296/pl/yPnSAbPeKxAu18jX.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063633035191607296"
+          ],
+          "media_source_tweet_id": [
+            "2063633178544484479"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063664518035841458",
+        "created_at": "2026-06-07T16:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063664518035841458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634944403872833536",
+              "start": 3,
+              "username": "wmy072011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwZoBLmgCk",
+              "end": 38,
+              "expanded_url": "https://x.com/wmy072011/status/2063633178544484479/video/1",
+              "media_key": "13_2063633035191607296",
+              "start": 15,
+              "url": "https://t.co/hwZoBLmgCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063664518035841458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063633178544484479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmy072011: https://t.co/hwZoBLmgCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063633035191607296"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2063633178544484479",
+        "created_at": "2026-06-07T14:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063633178544484479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwZoBLmgCk",
+              "end": 23,
+              "expanded_url": "https://x.com/wmy072011/status/2063633178544484479/video/1",
+              "media_key": "13_2063633035191607296",
+              "start": 0,
+              "url": "https://t.co/hwZoBLmgCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063633178544484479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hwZoBLmgCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 346,
+          "like_count": 4452,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 933
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 472,
+          "like_count": 51018,
+          "listed_count": 1,
+          "media_count": 1627,
+          "tweet_count": 15928
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

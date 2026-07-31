@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063558093913673728"
+      ],
+      "media_source_tweet_id": [
+        "2063558102209958264"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063613165452026232",
+    "created_at": "2026-06-07T13:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063613165452026232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761608169393135616",
+          "start": 3,
+          "username": "sumi_n00k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypaQ1y8x6t",
+          "end": 43,
+          "expanded_url": "https://x.com/sumi_n00k/status/2063558102209958264/photo/1",
+          "media_key": "3_2063558093913673728",
+          "start": 20,
+          "url": "https://t.co/ypaQ1y8x6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063613165452026232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063558102209958264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumi_n00k: 捏造衣装 https://t.co/ypaQ1y8x6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3618,
+        "media_key": "3_2063558093913673728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM7JzkbUAAAYB1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063558093913673728"
+          ],
+          "media_source_tweet_id": [
+            "2063558102209958264"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063613165452026232",
+        "created_at": "2026-06-07T13:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063613165452026232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761608169393135616",
+              "start": 3,
+              "username": "sumi_n00k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypaQ1y8x6t",
+              "end": 43,
+              "expanded_url": "https://x.com/sumi_n00k/status/2063558102209958264/photo/1",
+              "media_key": "3_2063558093913673728",
+              "start": 20,
+              "url": "https://t.co/ypaQ1y8x6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063613165452026232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063558102209958264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumi_n00k: 捏造衣装 https://t.co/ypaQ1y8x6t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063558093913673728"
+          ]
+        },
+        "author_id": "1761608169393135616",
+        "conversation_id": "2063558102209958264",
+        "created_at": "2026-06-07T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063558102209958264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypaQ1y8x6t",
+              "end": 28,
+              "expanded_url": "https://x.com/sumi_n00k/status/2063558102209958264/photo/1",
+              "media_key": "3_2063558093913673728",
+              "start": 5,
+              "url": "https://t.co/ypaQ1y8x6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063558102209958264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 36029,
+          "like_count": 5398,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "捏造衣装 https://t.co/ypaQ1y8x6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 333,
+          "like_count": 4316,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 891
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T04:28:27.000Z",
+        "description": "オタク垢FAイラストたまに漫画/ 🌈🕒 ⚔️周辺 /\n何かありましたらDMまたは\nこちらへ▶✉️sumi041728@gmail.com \n別垢▶︎@usumi0922",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "usumi0922"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y6u9wxzp7qoezxa",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y6u9wxzp7qoezxa",
+                "start": 0,
+                "url": "https://t.co/oHivQh8BBU"
+              }
+            ]
+          }
+        },
+        "id": "1761608169393135616",
+        "location": "禁止事項:無断転載 /無駄使用/AI学習 /編集",
+        "name": "スミ",
+        "pinned_tweet_id": "2052765657037709344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030020255591079936/J1iIUhsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17501,
+          "following_count": 83,
+          "like_count": 16039,
+          "listed_count": 84,
+          "media_count": 553,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/oHivQh8BBU",
+        "username": "sumi_n00k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062548808882684268",
+    "created_at": "2026-06-04T16:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570805062746349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570805062746349",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548808882684268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AcboxLiu 里面穿一个安全裤呢？薄一点的，会有自信一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062548802503069697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lNUEaUAER6lf.jpg",
+        "width": 1044
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062548802494689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lNUCacAAEcMT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062548808882684268",
+        "created_at": "2026-06-04T16:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570805062746349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570805062746349",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548808882684268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AcboxLiu 里面穿一个安全裤呢？薄一点的，会有自信一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548802503069697",
+            "3_2062548802494689280"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2062548808882684268",
+        "created_at": "2026-06-04T14:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548808882684268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cJVOqzo36",
+              "end": 53,
+              "expanded_url": "https://x.com/AcboxLiu/status/2062548808882684268/photo/1",
+              "media_key": "3_2062548802503069697",
+              "start": 30,
+              "url": "https://t.co/7cJVOqzo36"
+            },
+            {
+              "display_url": "pic.x.com/7cJVOqzo36",
+              "end": 53,
+              "expanded_url": "https://x.com/AcboxLiu/status/2062548808882684268/photo/1",
+              "media_key": "3_2062548802494689280",
+              "start": 30,
+              "url": "https://t.co/7cJVOqzo36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548808882684268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1660,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "短裙只敢在家穿，不敢穿出去，不知道怎么克服对穿短裙的恐惧🥹 https://t.co/7cJVOqzo36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 239,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 537
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / https://t.co/hUTrNHa19i / 💖现实中是一个很可爱的人 / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 31,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 8,
+                "url": "https://t.co/hUTrNHa19i"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12106,
+          "following_count": 2965,
+          "like_count": 3379,
+          "listed_count": 60,
+          "media_count": 1097,
+          "tweet_count": 6187
+        },
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053896324010102784"
+      ],
+      "media_source_tweet_id": [
+        "2053896332646219781"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054409429626609752",
+    "created_at": "2026-05-13T03:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054409429626609752"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "描いた晴"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "絵ンコくん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870343563969806336",
+          "start": 3,
+          "username": "ame__otk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6lQX9jgY1",
+          "end": 56,
+          "expanded_url": "https://x.com/ame__otk/status/2053896332646219781/photo/1",
+          "media_key": "3_2053896324010102784",
+          "start": 33,
+          "url": "https://t.co/G6lQX9jgY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054409429626609752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 561
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053896332646219781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame__otk: おそろい🦊 #描いた晴 #絵ンコくん https://t.co/G6lQX9jgY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3700,
+        "media_key": "3_2053896324010102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDn0x4aUAARk4F.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053896324010102784"
+          ],
+          "media_source_tweet_id": [
+            "2053896332646219781"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054409429626609752",
+        "created_at": "2026-05-13T03:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054409429626609752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "描いた晴"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "絵ンコくん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870343563969806336",
+              "start": 3,
+              "username": "ame__otk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6lQX9jgY1",
+              "end": 56,
+              "expanded_url": "https://x.com/ame__otk/status/2053896332646219781/photo/1",
+              "media_key": "3_2053896324010102784",
+              "start": 33,
+              "url": "https://t.co/G6lQX9jgY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054409429626609752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 561
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053896332646219781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame__otk: おそろい🦊 #描いた晴 #絵ンコくん https://t.co/G6lQX9jgY1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053896324010102784"
+          ]
+        },
+        "author_id": "1870343563969806336",
+        "conversation_id": "2053896332646219781",
+        "created_at": "2026-05-11T17:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053896332646219781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "描いた晴"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "絵ンコくん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6lQX9jgY1",
+              "end": 42,
+              "expanded_url": "https://x.com/ame__otk/status/2053896332646219781/photo/1",
+              "media_key": "3_2053896324010102784",
+              "start": 19,
+              "url": "https://t.co/G6lQX9jgY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053896332646219781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 62719,
+          "like_count": 7790,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "おそろい🦊 #描いた晴 #絵ンコくん https://t.co/G6lQX9jgY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 171,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 191
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:40:53.000Z",
+        "description": "✤ 🌈🕒 配信者さんFAとお仕事中心  ✤ FF外通知OFF  ✤ お見積もりはお気軽にDM又は✉️まで\n▶ 〚 amenodootk@gmail.com 〛⁡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amenodootk",
+                "end": 23,
+                "expanded_url": "https://lit.link/amenodootk",
+                "start": 0,
+                "url": "https://t.co/qSOjP7RPe5"
+              }
+            ]
+          }
+        },
+        "id": "1870343563969806336",
+        "location": "ご依頼 ポートフォリオ ▶",
+        "name": "のど飴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873579404519215104/mh1UlQv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 11,
+          "like_count": 246,
+          "listed_count": 7,
+          "media_count": 66,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/qSOjP7RPe5",
+        "username": "ame__otk",
+        "verified": false
+      }
+    ]
+  }
+}

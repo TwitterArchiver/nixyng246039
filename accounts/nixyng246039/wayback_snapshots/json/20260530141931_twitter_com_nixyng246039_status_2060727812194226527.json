@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060727042086453248"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060727812194226527",
+    "created_at": "2026-05-30T14:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060727812194226527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p6u4hIYgpK",
+          "end": 40,
+          "expanded_url": "https://x.com/nixyng246039/status/2060727812194226527/video/1",
+          "media_key": "7_2060727042086453248",
+          "start": 17,
+          "url": "https://t.co/p6u4hIYgpK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060727812194226527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跳的好丑好呆啊，但是我真的没招了 https://t.co/p6u4hIYgpK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31229,
+        "height": 1280,
+        "media_key": "7_2060727042086453248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060727042086453248/pu/img/Fd4TO-UMJnjxUih2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060727042086453248/pu/vid/avc1/320x568/k3fo3_YVrYKNdpDz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060727042086453248/pu/vid/avc1/480x852/mCtD-kP5QHH4RuCp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060727042086453248/pu/vid/avc1/720x1280/RdY3K5xxHQGwnjvk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060727042086453248/pu/pl/47aPP_f6uFJ5kV_U.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060727042086453248"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060727812194226527",
+        "created_at": "2026-05-30T14:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060727812194226527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6u4hIYgpK",
+              "end": 40,
+              "expanded_url": "https://x.com/nixyng246039/status/2060727812194226527/video/1",
+              "media_key": "7_2060727042086453248",
+              "start": 17,
+              "url": "https://t.co/p6u4hIYgpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060727812194226527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳的好丑好呆啊，但是我真的没招了 https://t.co/p6u4hIYgpK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 199,
+          "like_count": 2758,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 387
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

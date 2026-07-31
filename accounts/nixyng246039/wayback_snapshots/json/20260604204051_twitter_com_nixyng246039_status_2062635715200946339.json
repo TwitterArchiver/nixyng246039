@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062330766403801088",
+        "3_2062330766437326848"
+      ],
+      "media_source_tweet_id": [
+        "2062330774708494526",
+        "2062330774708494526"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062635715200946339",
+    "created_at": "2026-06-04T20:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T21:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062635715200946339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1J7amLIOG",
+          "end": 43,
+          "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+          "media_key": "3_2062330766403801088",
+          "start": 20,
+          "url": "https://t.co/U1J7amLIOG"
+        },
+        {
+          "display_url": "pic.x.com/U1J7amLIOG",
+          "end": 43,
+          "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+          "media_key": "3_2062330766437326848",
+          "start": 20,
+          "url": "https://t.co/U1J7amLIOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062635715200946339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062330774708494526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: 我天。 https://t.co/U1J7amLIOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2062330766403801088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7e58TbkAAJvL-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2062330766437326848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7e58bbIAAg1ca.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062330766403801088",
+            "3_2062330766437326848"
+          ],
+          "media_source_tweet_id": [
+            "2062330774708494526",
+            "2062330774708494526"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062635715200946339",
+        "created_at": "2026-06-04T20:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062635715200946339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1J7amLIOG",
+              "end": 43,
+              "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+              "media_key": "3_2062330766403801088",
+              "start": 20,
+              "url": "https://t.co/U1J7amLIOG"
+            },
+            {
+              "display_url": "pic.x.com/U1J7amLIOG",
+              "end": 43,
+              "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+              "media_key": "3_2062330766437326848",
+              "start": 20,
+              "url": "https://t.co/U1J7amLIOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062635715200946339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062330774708494526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: 我天。 https://t.co/U1J7amLIOG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062330766403801088",
+            "3_2062330766437326848"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062330774708494526",
+        "created_at": "2026-06-04T00:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062330774708494526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1J7amLIOG",
+              "end": 27,
+              "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+              "media_key": "3_2062330766403801088",
+              "start": 4,
+              "url": "https://t.co/U1J7amLIOG"
+            },
+            {
+              "display_url": "pic.x.com/U1J7amLIOG",
+              "end": 27,
+              "expanded_url": "https://x.com/DouBao8964/status/2062330774708494526/photo/1",
+              "media_key": "3_2062330766437326848",
+              "start": 4,
+              "url": "https://t.co/U1J7amLIOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062330774708494526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5546,
+          "like_count": 388,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我天。 https://t.co/U1J7amLIOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 265,
+          "like_count": 3526,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 603
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 小号@callme_doubi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "callme_doubi"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11927,
+          "following_count": 76,
+          "like_count": 14397,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 6561
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

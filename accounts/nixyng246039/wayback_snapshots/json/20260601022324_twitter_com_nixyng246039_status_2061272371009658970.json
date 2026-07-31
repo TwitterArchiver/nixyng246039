@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061082538307981313"
+      ],
+      "media_source_tweet_id": [
+        "2061082540778393896"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061272371009658970",
+    "created_at": "2026-06-01T02:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061272371009658970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1750153409938997248",
+          "start": 3,
+          "username": "Nhymoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajtrxIoKjU",
+          "end": 51,
+          "expanded_url": "https://x.com/Nhymoo/status/2061082540778393896/photo/1",
+          "media_key": "3_2061082538307981313",
+          "start": 28,
+          "url": "https://t.co/ajtrxIoKjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061272371009658970",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061082540778393896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nhymoo: 😭😭😭😭 xỉu luôn á https://t.co/ajtrxIoKjU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2061082538307981313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpvpgSbkAEzVOB.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061082538307981313"
+          ],
+          "media_source_tweet_id": [
+            "2061082540778393896"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061272371009658970",
+        "created_at": "2026-06-01T02:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061272371009658970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1750153409938997248",
+              "start": 3,
+              "username": "Nhymoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajtrxIoKjU",
+              "end": 51,
+              "expanded_url": "https://x.com/Nhymoo/status/2061082540778393896/photo/1",
+              "media_key": "3_2061082538307981313",
+              "start": 28,
+              "url": "https://t.co/ajtrxIoKjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061272371009658970",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061082540778393896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nhymoo: 😭😭😭😭 xỉu luôn á https://t.co/ajtrxIoKjU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061082538307981313"
+          ]
+        },
+        "author_id": "1750153409938997248",
+        "conversation_id": "2061082540778393896",
+        "created_at": "2026-05-31T13:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061082540778393896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajtrxIoKjU",
+              "end": 39,
+              "expanded_url": "https://x.com/Nhymoo/status/2061082540778393896/photo/1",
+              "media_key": "3_2061082538307981313",
+              "start": 16,
+              "url": "https://t.co/ajtrxIoKjU"
+            },
+            {
+              "display_url": "x.com/Nhymoo/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Nhymoo/status/2060959038511440142",
+              "start": 40,
+              "url": "https://t.co/y1v9bJ525I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061082540778393896",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 8271,
+          "like_count": 452,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060959038511440142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭😭 xỉu luôn á https://t.co/ajtrxIoKjU https://t.co/y1v9bJ525I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 216,
+          "like_count": 2981,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 441
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T13:47:59.000Z",
+        "description": "chim đứa nào to hơn chả được.\n\nyms vs e Marcus bất diệt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nhymo2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nhymo2",
+                "start": 0,
+                "url": "https://t.co/HQQtf8Pvek"
+              }
+            ]
+          }
+        },
+        "id": "1750153409938997248",
+        "location": "🇻🇳",
+        "name": "Marcus ơi bao giờ em có skin tiếp zậy🥺😚😋",
+        "pinned_tweet_id": "2047994607037026803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047137325122256896/RNpb5gkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 305,
+          "like_count": 18412,
+          "listed_count": 8,
+          "media_count": 440,
+          "tweet_count": 12285
+        },
+        "url": "https://t.co/HQQtf8Pvek",
+        "username": "Nhymoo",
+        "verified": false
+      }
+    ]
+  }
+}

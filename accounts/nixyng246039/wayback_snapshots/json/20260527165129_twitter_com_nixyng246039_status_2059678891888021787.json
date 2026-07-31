@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2059678891888021787",
+    "created_at": "2026-05-27T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059678891888021787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026999095664275457",
+          "start": 3,
+          "username": "meilitutu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059678891888021787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059205346024157553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meilitutu111: 坐在我前面的爷们儿，能不犯骚吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2059678891888021787",
+        "created_at": "2026-05-27T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059678891888021787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026999095664275457",
+              "start": 3,
+              "username": "meilitutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059678891888021787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059205346024157553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meilitutu111: 坐在我前面的爷们儿，能不犯骚吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026999095664275457",
+        "conversation_id": "2059205346024157553",
+        "created_at": "2026-05-26T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059205346024157553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059205346024157553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 89424,
+          "like_count": 2794,
+          "quote_count": 13,
+          "reply_count": 125,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "坐在我前面的爷们儿，能不犯骚吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 197,
+          "like_count": 2669,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 362
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T12:34:07.000Z",
+        "description": "我会稳稳地时刻准备向幸福伸出手\nhttps://t.co/NHzWYo1PbG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh83139",
+                "end": 39,
+                "expanded_url": "https://ngl.link/hhh83139",
+                "start": 16,
+                "url": "https://t.co/NHzWYo1PbG"
+              }
+            ]
+          }
+        },
+        "id": "2026999095664275457",
+        "name": "8964枝",
+        "pinned_tweet_id": "2056801364144218190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051297170566066176/SuzbGcwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 12,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1309
+        },
+        "username": "meilitutu111",
+        "verified": false
+      }
+    ]
+  }
+}

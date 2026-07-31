@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066189982134607872"
+      ],
+      "media_source_tweet_id": [
+        "2066189991190114731"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066229605023777186",
+    "created_at": "2026-06-14T18:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066229605023777186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057425772198215680",
+          "start": 3,
+          "username": "boqiaoahm4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKq3xFL5W5",
+          "end": 39,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2066189991190114731/photo/1",
+          "media_key": "3_2066189982134607872",
+          "start": 16,
+          "url": "https://t.co/DKq3xFL5W5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066229605023777186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066189991190114731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boqiaoahm4: https://t.co/DKq3xFL5W5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066229605023777186].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066229605023777186",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066229605023777186"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2066189982134607872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyU13OaoAAs7Eh.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066189982134607872"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066189991190114731",
+        "created_at": "2026-06-14T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066189991190114731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKq3xFL5W5",
+              "end": 23,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2066189991190114731/photo/1",
+              "media_key": "3_2066189982134607872",
+              "start": 0,
+              "url": "https://t.co/DKq3xFL5W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066189991190114731",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 138,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DKq3xFL5W5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 486,
+          "like_count": 6729,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1895
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 366,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

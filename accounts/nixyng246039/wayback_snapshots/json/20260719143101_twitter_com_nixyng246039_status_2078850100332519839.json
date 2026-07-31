@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078850097350389760"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2078850100332519839",
+    "created_at": "2026-07-19T14:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078850100332519839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b0JmWOC6cT",
+          "end": 46,
+          "expanded_url": "https://x.com/nixyng246039/status/2078850100332519839/photo/1",
+          "media_key": "3_2078850097350389760",
+          "start": 23,
+          "url": "https://t.co/b0JmWOC6cT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078850100332519839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我离开的时候msk关掉了我十几个互关的推特 https://t.co/b0JmWOC6cT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078850097350389760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmPJjnbMAAST5_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078850097350389760"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2078850100332519839",
+        "created_at": "2026-07-19T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078850100332519839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0JmWOC6cT",
+              "end": 46,
+              "expanded_url": "https://x.com/nixyng246039/status/2078850100332519839/photo/1",
+              "media_key": "3_2078850097350389760",
+              "start": 23,
+              "url": "https://t.co/b0JmWOC6cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078850100332519839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我离开的时候msk关掉了我十几个互关的推特 https://t.co/b0JmWOC6cT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 505,
+          "like_count": 7609,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

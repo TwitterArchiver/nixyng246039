@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062156175895122365",
+    "created_at": "2026-06-03T12:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062156175895122365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031040584714960896",
+          "start": 3,
+          "username": "6meperdoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062156175895122365",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061787044561424886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6meperdoa: tenho inveja de quem se senta para estudar e realmente estuda"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062156175895122365",
+        "created_at": "2026-06-03T12:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062156175895122365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031040584714960896",
+              "start": 3,
+              "username": "6meperdoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062156175895122365",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061787044561424886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6meperdoa: tenho inveja de quem se senta para estudar e realmente estuda"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031040584714960896",
+        "conversation_id": "2061787044561424886",
+        "created_at": "2026-06-02T12:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061787044561424886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061787044561424886",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 152627,
+          "like_count": 18405,
+          "quote_count": 82,
+          "reply_count": 84,
+          "retweet_count": 4253
+        },
+        "reply_settings": "everyone",
+        "text": "tenho inveja de quem se senta para estudar e realmente estuda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 221,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 489
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T16:14:15.000Z",
+        "description": "Life is more than that.❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/privsxhugo",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/privsxhugo",
+                "start": 0,
+                "url": "https://t.co/sYaJKFDgV5"
+              }
+            ]
+          }
+        },
+        "id": "2031040584714960896",
+        "location": "Vancouver, WA",
+        "name": "𝕳",
+        "pinned_tweet_id": "2061075190704906485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052457223209553929/-6svsX4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 37,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/sYaJKFDgV5",
+        "username": "6meperdoa",
+        "verified": false
+      }
+    ]
+  }
+}

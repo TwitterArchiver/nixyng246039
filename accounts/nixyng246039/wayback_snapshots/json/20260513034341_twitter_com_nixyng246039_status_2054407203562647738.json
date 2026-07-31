@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054407194054213632"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054405403111514165",
+    "created_at": "2026-05-13T03:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054407203562647738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OzgUoDzK9y",
+          "end": 29,
+          "expanded_url": "https://x.com/nixyng246039/status/2054407203562647738/photo/1",
+          "media_key": "3_2054407194054213632",
+          "start": 6,
+          "url": "https://t.co/OzgUoDzK9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054407203562647738",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054405403111514165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天上路 https://t.co/OzgUoDzK9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_2054407194054213632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK4dVGbwAAz0xq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054407194054213632"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054405403111514165",
+        "created_at": "2026-05-13T03:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054407203562647738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzgUoDzK9y",
+              "end": 29,
+              "expanded_url": "https://x.com/nixyng246039/status/2054407203562647738/photo/1",
+              "media_key": "3_2054407194054213632",
+              "start": 6,
+              "url": "https://t.co/OzgUoDzK9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054407203562647738",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054405403111514165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天上路 https://t.co/OzgUoDzK9y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054405403111514165",
+        "created_at": "2026-05-13T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054405403111514165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054405403111514165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象一个旅游城市，妈路上全踏马是三轮车老头乐，不禁吗？天天在路上走都踏马想把这条路的人全炸飞靠嫩娘了几把蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 186
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

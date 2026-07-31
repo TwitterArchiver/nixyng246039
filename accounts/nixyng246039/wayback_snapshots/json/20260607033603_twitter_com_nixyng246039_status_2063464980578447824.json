@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062804829333053440",
+        "3_2062804836819808256"
+      ],
+      "media_source_tweet_id": [
+        "2062804867140432026",
+        "2062804867140432026"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063464980578447824",
+    "created_at": "2026-06-07T03:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063464980578447824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3018975387",
+          "start": 3,
+          "username": "hanawa_hinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hK9Y71FPz0",
+          "end": 47,
+          "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+          "media_key": "3_2062804829333053440",
+          "start": 24,
+          "url": "https://t.co/hK9Y71FPz0"
+        },
+        {
+          "display_url": "pic.x.com/hK9Y71FPz0",
+          "end": 47,
+          "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+          "media_key": "3_2062804836819808256",
+          "start": 24,
+          "url": "https://t.co/hK9Y71FPz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063464980578447824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062804867140432026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanawa_hinata: 不是哥们 https://t.co/hK9Y71FPz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062804829333053440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOECVbYAAgu3i.jpg",
+        "width": 872
+      },
+      {
+        "height": 809,
+        "media_key": "3_2062804836819808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOEeOaMAApvey.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062804829333053440",
+            "3_2062804836819808256"
+          ],
+          "media_source_tweet_id": [
+            "2062804867140432026",
+            "2062804867140432026"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063464980578447824",
+        "created_at": "2026-06-07T03:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063464980578447824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3018975387",
+              "start": 3,
+              "username": "hanawa_hinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 47,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804829333053440",
+              "start": 24,
+              "url": "https://t.co/hK9Y71FPz0"
+            },
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 47,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804836819808256",
+              "start": 24,
+              "url": "https://t.co/hK9Y71FPz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063464980578447824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062804867140432026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanawa_hinata: 不是哥们 https://t.co/hK9Y71FPz0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062804829333053440",
+            "3_2062804836819808256"
+          ]
+        },
+        "author_id": "3018975387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062804867140432026",
+        "created_at": "2026-06-05T07:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062804867140432026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 28,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804829333053440",
+              "start": 5,
+              "url": "https://t.co/hK9Y71FPz0"
+            },
+            {
+              "display_url": "pic.x.com/hK9Y71FPz0",
+              "end": 28,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2062804867140432026/photo/1",
+              "media_key": "3_2062804836819808256",
+              "start": 5,
+              "url": "https://t.co/hK9Y71FPz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062804867140432026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 208966,
+          "like_count": 997,
+          "quote_count": 5,
+          "reply_count": 131,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们 https://t.co/hK9Y71FPz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 325,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 823
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "万达广场",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13113,
+          "following_count": 2060,
+          "like_count": 133909,
+          "listed_count": 48,
+          "media_count": 6868,
+          "tweet_count": 44290
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907204504153436160"
+      ],
+      "media_source_tweet_id": [
+        "1907204615285686510"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1907308953756954941",
+    "created_at": "2025-04-02T05:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T06:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907308953756954941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390620618001838086",
+          "start": 3,
+          "username": "EliraPendora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/12dMZvRXWY",
+          "end": 44,
+          "expanded_url": "https://x.com/EliraPendora/status/1907204615285686510/photo/1",
+          "media_key": "3_1907204504153436160",
+          "start": 21,
+          "url": "https://t.co/12dMZvRXWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907308953756954941",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907204615285686510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EliraPendora: ☺️ https://t.co/12dMZvRXWY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_1907204504153436160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnfAZEgXMAAy0v6.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907204504153436160"
+          ],
+          "media_source_tweet_id": [
+            "1907204615285686510"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1907308953756954941",
+        "created_at": "2025-04-02T05:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T06:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907308953756954941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390620618001838086",
+              "start": 3,
+              "username": "EliraPendora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/12dMZvRXWY",
+              "end": 44,
+              "expanded_url": "https://x.com/EliraPendora/status/1907204615285686510/photo/1",
+              "media_key": "3_1907204504153436160",
+              "start": 21,
+              "url": "https://t.co/12dMZvRXWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907308953756954941",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907204615285686510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EliraPendora: ☺️ https://t.co/12dMZvRXWY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907204504153436160"
+          ]
+        },
+        "author_id": "1390620618001838086",
+        "conversation_id": "1907204615285686510",
+        "created_at": "2025-04-01T22:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T23:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907204615285686510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12dMZvRXWY",
+              "end": 26,
+              "expanded_url": "https://x.com/EliraPendora/status/1907204615285686510/photo/1",
+              "media_key": "3_1907204504153436160",
+              "start": 3,
+              "url": "https://t.co/12dMZvRXWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907204615285686510",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 80024,
+          "like_count": 10890,
+          "quote_count": 61,
+          "reply_count": 155,
+          "retweet_count": 1288
+        },
+        "reply_settings": "everyone",
+        "text": "☺️ https://t.co/12dMZvRXWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "鸮隼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T10:53:48.000Z",
+        "description": "NIJISANJI EN's solar sky dragon here to brighten up your day🌤️\nにじさんじEN所属エリーラ・ペンドラだよん🌈🕒 #LazuLight 💛🩵💚\nまま♡@kamamesigogo123 | I: @gahara411 & H: @Yutaka_Ema",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 87,
+                "tag": "LazuLight"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "kamamesigogo123"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "gahara411"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Yutaka_Ema"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@elirapendora",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@elirapendora",
+                "start": 0,
+                "url": "https://t.co/ijM5qIQHVb"
+              }
+            ]
+          }
+        },
+        "id": "1390620618001838086",
+        "name": "Elira Pendora 🌤️ NIJISANJI EN",
+        "pinned_tweet_id": "1906479502500270105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893494948982595587/cWzu6S7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631132,
+          "following_count": 546,
+          "like_count": 20927,
+          "listed_count": 5293,
+          "media_count": 3466,
+          "tweet_count": 27046
+        },
+        "url": "https://t.co/ijM5qIQHVb",
+        "username": "EliraPendora",
+        "verified": false
+      }
+    ]
+  }
+}

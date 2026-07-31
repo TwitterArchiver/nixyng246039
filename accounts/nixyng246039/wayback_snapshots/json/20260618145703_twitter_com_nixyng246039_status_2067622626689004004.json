@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2067622626689004004",
+    "created_at": "2026-06-18T14:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067622626689004004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863222669208100864",
+          "start": 3,
+          "username": "jiang_yi1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067622626689004004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067281424160591899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiang_yi1212: 老天你是不是搞错了，我不应该是阳光活泼的日本女高中生，每天早早放学然后跟朋友一起逛街拍大头贴，每年都能参加烟火大会穿上可爱的浴衣跟恋人手拉手捞金鱼吃苹果糖吗，怎么让我投胎到这个死人身上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2067622626689004004",
+        "created_at": "2026-06-18T14:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067622626689004004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863222669208100864",
+              "start": 3,
+              "username": "jiang_yi1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067622626689004004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067281424160591899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiang_yi1212: 老天你是不是搞错了，我不应该是阳光活泼的日本女高中生，每天早早放学然后跟朋友一起逛街拍大头贴，每年都能参加烟火大会穿上可爱的浴衣跟恋人手拉手捞金鱼吃苹果糖吗，怎么让我投胎到这个死人身上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863222669208100864",
+        "conversation_id": "2067281424160591899",
+        "created_at": "2026-06-17T16:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067281424160591899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067281424160591899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老天你是不是搞错了，我不应该是阳光活泼的日本女高中生，每天早早放学然后跟朋友一起逛街拍大头贴，每年都能参加烟火大会穿上可爱的浴衣跟恋人手拉手捞金鱼吃苹果糖吗，怎么让我投胎到这个死人身上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 501,
+          "like_count": 7065,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2063
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以叫我小溯 我磕 zc 欢迎互fo🚪52不开放朋友圈消息看到都会回\n重抑/精分/躁狂/焦虑……多种问题暂时停止治疗\n我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 114,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 91,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 62,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 247
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

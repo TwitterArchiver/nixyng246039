@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063328528498671719",
+    "created_at": "2026-06-06T18:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063328528498671719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545351225293426688",
+          "start": 3,
+          "username": "MariaMari0nette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063328528498671719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063179324606616012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MariaMari0nette: Mariring~✨New shorts up ⬆️ \nI boom boom boom boom boom boom b-b-b-b-boom boom bee today 🐝💃\n\nBoooooom Boooooom Bee!! /…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "16_2063179303417004032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKHipTAbwAA5Q-7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKHipTAbwAA5Q-7.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063328528498671719",
+        "created_at": "2026-06-06T18:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063328528498671719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1545351225293426688",
+              "start": 3,
+              "username": "MariaMari0nette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063328528498671719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063179324606616012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MariaMari0nette: Mariring~✨New shorts up ⬆️ \nI boom boom boom boom boom boom b-b-b-b-boom boom bee today 🐝💃\n\nBoooooom Boooooom Bee!! /…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063179303417004032"
+          ]
+        },
+        "author_id": "1545351225293426688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2063179324606616012",
+        "created_at": "2026-06-06T08:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063179324606616012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/shorts/wM4K2Oa…",
+              "end": 192,
+              "expanded_url": "https://youtube.com/shorts/wM4K2OamJoA?si=II8NV1KzdL2DTafE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2063179329392308224/CDW1O7sW?format=jpg&name=orig",
+                  "width": 405
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063179329392308224/CDW1O7sW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 169,
+              "status": 200,
+              "title": "Boooooom Boooooom Bee!! #踊ってみた💃🐝 #mariamarionette #vtuber #nijisanji",
+              "unwound_url": "https://www.youtube.com/shorts/wM4K2OamJoA?si=II8NV1KzdL2DTafE",
+              "url": "https://t.co/PBnMbTQzk3"
+            },
+            {
+              "display_url": "pic.x.com/X6fn3lyLul",
+              "end": 216,
+              "expanded_url": "https://x.com/MariaMari0nette/status/2063179324606616012/photo/1",
+              "media_key": "16_2063179303417004032",
+              "start": 193,
+              "url": "https://t.co/X6fn3lyLul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063179324606616012",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9748,
+          "like_count": 547,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "Mariring~✨New shorts up ⬆️ \nI boom boom boom boom boom boom b-b-b-b-boom boom bee today 🐝💃\n\nBoooooom Boooooom Bee!! / Nijigasaki\nDon’t forget to like and comment~\n❤️‍🩹🐰 https://t.co/PBnMbTQzk3 https://t.co/X6fn3lyLul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 316,
+          "like_count": 3947,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 763
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T10:18:00.000Z",
+        "description": "Mariring! Ur Chuuni iDoll #MariaMarionette from #ILUNA❤️‍🩹🐰 にじさんじEN所属厨二病人形のマリアマリオネットです！🌈🕒 #MariArtte #NIJISANJI_EN 🧍: @ji__mag 👤: @mugimugigo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 26,
+                "tag": "MariaMarionette"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "ILUNA"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "MariArtte"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "tag": "NIJISANJI_EN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "ji__mag"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "mugimugigo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwaS8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+                "start": 0,
+                "url": "https://t.co/rTSi7OhuU8"
+              }
+            ]
+          }
+        },
+        "id": "1545351225293426688",
+        "location": "Institute of Mystics",
+        "name": "Maria Marionette ❤️‍🩹🐰 NIJISANJI EN",
+        "pinned_tweet_id": "2061860718375555227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777257199724888064/RMWXkkgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510366,
+          "following_count": 542,
+          "like_count": 27863,
+          "listed_count": 3621,
+          "media_count": 2937,
+          "tweet_count": 25437
+        },
+        "url": "https://t.co/rTSi7OhuU8",
+        "username": "MariaMari0nette",
+        "verified": true
+      }
+    ]
+  }
+}

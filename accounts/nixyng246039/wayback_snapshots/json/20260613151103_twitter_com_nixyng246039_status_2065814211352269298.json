@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065689630377439538",
+    "created_at": "2026-06-13T15:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065814211352269298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018742198356131840",
+          "start": 0,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065814211352269298",
+    "in_reply_to_user_id": "2018742198356131840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065689630377439538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidihv 其实发出来说不定大家会帮你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065689630377439538",
+        "created_at": "2026-06-13T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065814211352269298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018742198356131840",
+              "start": 0,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065814211352269298",
+        "in_reply_to_user_id": "2018742198356131840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065689630377439538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidihv 其实发出来说不定大家会帮你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2065689630377439538",
+        "created_at": "2026-06-13T06:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065689630377439538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065689630377439538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1028,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我现在人际关系就是我连一个可以倾诉的人都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 459,
+          "like_count": 6277,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1619
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow｜09 宁性恋 \n\n在这里每天自言自语过的好幸福",
+        "id": "2018742198356131840",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2045187335147622701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062424314507649025/UO3td5Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 61,
+          "like_count": 3035,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 5365
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068215444142731264",
+        "3_2068215453055643648",
+        "3_2068215451294076928"
+      ],
+      "media_source_tweet_id": [
+        "2068215472152301835",
+        "2068215472152301835",
+        "2068215472152301835"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2068695942685974580",
+    "created_at": "2026-06-21T14:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068695942685974580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2040857309073547264",
+          "start": 3,
+          "username": "okidokiumiushi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aJT9Ndtmm",
+          "end": 53,
+          "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+          "media_key": "3_2068215444142731264",
+          "start": 30,
+          "url": "https://t.co/7aJT9Ndtmm"
+        },
+        {
+          "display_url": "pic.x.com/7aJT9Ndtmm",
+          "end": 53,
+          "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+          "media_key": "3_2068215453055643648",
+          "start": 30,
+          "url": "https://t.co/7aJT9Ndtmm"
+        },
+        {
+          "display_url": "pic.x.com/7aJT9Ndtmm",
+          "end": 53,
+          "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+          "media_key": "3_2068215451294076928",
+          "start": 30,
+          "url": "https://t.co/7aJT9Ndtmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068695942685974580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068215472152301835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okidokiumiushi: 絵🍵でかいてたやつ https://t.co/7aJT9Ndtmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2068215444142731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPG_RMasAAUz2i.jpg",
+        "width": 499
+      },
+      {
+        "height": 580,
+        "media_key": "3_2068215453055643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPG_yZa8AAgTu7.jpg",
+        "width": 662
+      },
+      {
+        "height": 844,
+        "media_key": "3_2068215451294076928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPG_r1bkAA6H24.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068215444142731264",
+            "3_2068215453055643648",
+            "3_2068215451294076928"
+          ],
+          "media_source_tweet_id": [
+            "2068215472152301835",
+            "2068215472152301835",
+            "2068215472152301835"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2068695942685974580",
+        "created_at": "2026-06-21T14:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068695942685974580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2040857309073547264",
+              "start": 3,
+              "username": "okidokiumiushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 53,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215444142731264",
+              "start": 30,
+              "url": "https://t.co/7aJT9Ndtmm"
+            },
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 53,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215453055643648",
+              "start": 30,
+              "url": "https://t.co/7aJT9Ndtmm"
+            },
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 53,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215451294076928",
+              "start": 30,
+              "url": "https://t.co/7aJT9Ndtmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695942685974580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068215472152301835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okidokiumiushi: 絵🍵でかいてたやつ https://t.co/7aJT9Ndtmm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068215444142731264",
+            "3_2068215453055643648",
+            "3_2068215451294076928"
+          ]
+        },
+        "author_id": "2040857309073547264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2068215472152301835",
+        "created_at": "2026-06-20T06:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068215472152301835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 33,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215444142731264",
+              "start": 10,
+              "url": "https://t.co/7aJT9Ndtmm"
+            },
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 33,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215453055643648",
+              "start": 10,
+              "url": "https://t.co/7aJT9Ndtmm"
+            },
+            {
+              "display_url": "pic.x.com/7aJT9Ndtmm",
+              "end": 33,
+              "expanded_url": "https://x.com/okidokiumiushi/status/2068215472152301835/photo/1",
+              "media_key": "3_2068215451294076928",
+              "start": 10,
+              "url": "https://t.co/7aJT9Ndtmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068215472152301835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 7663,
+          "like_count": 1057,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "絵🍵でかいてたやつ https://t.co/7aJT9Ndtmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 503,
+          "like_count": 7185,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T18:21:34.000Z",
+        "description": "aph ┊︎成人済み┊︎アル菊中心┊︎\n絵🍵にいる┊︎\nフォロバお気遣いなく！",
+        "id": "2040857309073547264",
+        "name": "パオーン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062467358929940480/iSDg_GQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 14,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "okidokiumiushi",
+        "verified": false
+      }
+    ]
+  }
+}

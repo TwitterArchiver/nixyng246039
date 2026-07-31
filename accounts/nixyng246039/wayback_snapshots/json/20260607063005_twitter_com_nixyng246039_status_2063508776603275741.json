@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063428623491534922",
+    "created_at": "2026-06-07T06:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063508776603275741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050286443000463361",
+          "start": 0,
+          "username": "scarasitas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063508776603275741",
+    "in_reply_to_user_id": "2050286443000463361",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063428623491534922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarasitas 6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2063428621855760385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLFZikWIAE4tqR.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063428623491534922",
+        "created_at": "2026-06-07T06:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063508776603275741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050286443000463361",
+              "start": 0,
+              "username": "scarasitas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063508776603275741",
+        "in_reply_to_user_id": "2050286443000463361",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063428623491534922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarasitas 6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063428621855760385"
+          ]
+        },
+        "author_id": "2050286443000463361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063428623491534922",
+        "created_at": "2026-06-07T01:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063428623491534922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyZgAt7FPu",
+              "end": 42,
+              "expanded_url": "https://x.com/scarasitas/status/2063428623491534922/photo/1",
+              "media_key": "3_2063428621855760385",
+              "start": 19,
+              "url": "https://t.co/wyZgAt7FPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063428623491534922",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 108249,
+          "like_count": 2818,
+          "quote_count": 1054,
+          "reply_count": 121,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "dónde se sentarian https://t.co/wyZgAt7FPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 327,
+          "like_count": 4172,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 849
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T18:49:29.000Z",
+        "description": "#whitney  es el sahur de mi tung",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "whitney"
+              }
+            ]
+          }
+        },
+        "id": "2050286443000463361",
+        "name": "ki de whitney",
+        "pinned_tweet_id": "2063428623491534922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964937195352064/iEqTAMGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 45,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 7242
+        },
+        "username": "scarasitas",
+        "verified": false
+      }
+    ]
+  }
+}

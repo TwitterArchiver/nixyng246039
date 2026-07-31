@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028657713836863488"
+      ],
+      "media_source_tweet_id": [
+        "2028657721684512821"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062458792063967647",
+    "created_at": "2026-06-04T08:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062458792063967647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025931057099649024",
+          "start": 3,
+          "username": "yuanyemian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ses1U8pn0B",
+          "end": 39,
+          "expanded_url": "https://x.com/yuanyemian/status/2028657721684512821/photo/1",
+          "media_key": "3_2028657713836863488",
+          "start": 16,
+          "url": "https://t.co/Ses1U8pn0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062458792063967647",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 419
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028657721684512821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyemian: https://t.co/Ses1U8pn0B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062458792063967647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062458792063967647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062458792063967647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028657713836863488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc9cUQaMAA2eYP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028657713836863488"
+          ]
+        },
+        "author_id": "2025931057099649024",
+        "conversation_id": "2028657721684512821",
+        "created_at": "2026-03-03T02:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028657721684512821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ses1U8pn0B",
+              "end": 23,
+              "expanded_url": "https://x.com/yuanyemian/status/2028657721684512821/photo/1",
+              "media_key": "3_2028657713836863488",
+              "start": 0,
+              "url": "https://t.co/Ses1U8pn0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028657721684512821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 18161,
+          "like_count": 2270,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 419
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ses1U8pn0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 220,
+          "like_count": 3218,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 497
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T13:49:44.000Z",
+        "description": "关注列表第一个是大号 这个号是 废片小号 我图太多了，",
+        "id": "2025931057099649024",
+        "name": "hurt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028157723045666816/XZRVS4jH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 47
+        },
+        "username": "yuanyemian",
+        "verified": false
+      }
+    ]
+  }
+}

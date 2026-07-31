@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066021858135474422",
+    "created_at": "2026-06-14T05:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066033781409276092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066033781409276092",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066021858135474422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple 这么萌我买了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 1280,
+        "media_key": "13_2066021763818127360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066021763818127360/img/VCZShY9BjaiOw7zM.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066021763818127360/vid/avc1/320x568/LZC1vGAIljjL7Uvl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066021763818127360/vid/avc1/480x852/6VFn784vQKKQldfI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066021763818127360/vid/avc1/720x1280/le7clL7ALFCfxego.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066021763818127360/pl/abYwr4m969R1Aphd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066021858135474422",
+        "created_at": "2026-06-14T05:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066033781409276092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033781409276092",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066021858135474422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 这么萌我买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066021763818127360"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066021858135474422",
+        "created_at": "2026-06-14T04:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066021858135474422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "les"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "wlw"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KuXe8h7Qb",
+              "end": 44,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2066021858135474422/video/1",
+              "media_key": "13_2066021763818127360",
+              "start": 21,
+              "url": "https://t.co/2KuXe8h7Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066021858135474422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卖萌从未出错 #les #wlw #女同 https://t.co/2KuXe8h7Qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 475,
+          "like_count": 6503,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1720
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 28,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

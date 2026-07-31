@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066024328408293843",
+    "created_at": "2026-06-14T05:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066024328408293843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1437963160544284675",
+          "start": 3,
+          "username": "EnnaAlouette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066024328408293843",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066002022051283424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnnaAlouette: 50YRS GUYS 50YRSSSSSSSSS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066024328408293843",
+        "created_at": "2026-06-14T05:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066024328408293843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1437963160544284675",
+              "start": 3,
+              "username": "EnnaAlouette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066024328408293843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066002022051283424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnnaAlouette: 50YRS GUYS 50YRSSSSSSSSS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437963160544284675",
+        "conversation_id": "2066002022051283424",
+        "created_at": "2026-06-14T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066002022051283424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066002022051283424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8468,
+          "like_count": 611,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "50YRS GUYS 50YRSSSSSSSSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 474,
+          "like_count": 6472,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1702
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T02:15:30.000Z",
+        "description": "NIJISANJI EN's 3rd wave #Ethyria ❤️🧡🩶💜 Your songbird Enna Alouette ♪ にじさんじENエナー アールウェットです！ ♡ まま: @gahara411 | icon: @mimichausson | header: @momorinella",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Ethyria"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "gahara411"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "mimichausson"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "momorinella"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCR6qh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow/sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/I13MlMnlQp"
+              }
+            ]
+          }
+        },
+        "id": "1437963160544284675",
+        "name": "Enna Alouette 🕊️🎐 NIJISANJI EN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034419938119630848/NEh9sClP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660075,
+          "following_count": 479,
+          "like_count": 30588,
+          "listed_count": 4543,
+          "media_count": 2999,
+          "tweet_count": 44524
+        },
+        "url": "https://t.co/I13MlMnlQp",
+        "username": "EnnaAlouette",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061026084330815488"
+      ],
+      "media_source_tweet_id": [
+        "2061026090584539542"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2061077226179965055",
+    "created_at": "2026-05-31T13:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061077226179965055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935612891065200640",
+          "start": 3,
+          "username": "aki_ha_kaede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPOwtfsznY",
+          "end": 60,
+          "expanded_url": "https://x.com/aki_ha_kaede/status/2061026090584539542/photo/1",
+          "media_key": "3_2061026084330815488",
+          "start": 37,
+          "url": "https://t.co/zPOwtfsznY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061077226179965055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 984
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061026090584539542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aki_ha_kaede: 今夜は魔界で𝒑𝒂𝒓𝒕𝒚 𝒏𝒊𝒈𝒉𝒕🌕 https://t.co/zPOwtfsznY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_2061026084330815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo8Tc1aQAAAXT-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061026084330815488"
+          ],
+          "media_source_tweet_id": [
+            "2061026090584539542"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061077226179965055",
+        "created_at": "2026-05-31T13:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061077226179965055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935612891065200640",
+              "start": 3,
+              "username": "aki_ha_kaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPOwtfsznY",
+              "end": 60,
+              "expanded_url": "https://x.com/aki_ha_kaede/status/2061026090584539542/photo/1",
+              "media_key": "3_2061026084330815488",
+              "start": 37,
+              "url": "https://t.co/zPOwtfsznY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077226179965055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061026090584539542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aki_ha_kaede: 今夜は魔界で𝒑𝒂𝒓𝒕𝒚 𝒏𝒊𝒈𝒉𝒕🌕 https://t.co/zPOwtfsznY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061026084330815488"
+          ]
+        },
+        "author_id": "1935612891065200640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061026090584539542",
+        "created_at": "2026-05-31T10:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061026090584539542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPOwtfsznY",
+              "end": 42,
+              "expanded_url": "https://x.com/aki_ha_kaede/status/2061026090584539542/photo/1",
+              "media_key": "3_2061026084330815488",
+              "start": 19,
+              "url": "https://t.co/zPOwtfsznY"
+            },
+            {
+              "display_url": "x.com/aki_ha_kaede/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/aki_ha_kaede/status/2052342106346377643",
+              "start": 43,
+              "url": "https://t.co/qZYUrEZpEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061026090584539542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 774,
+          "impression_count": 232292,
+          "like_count": 9721,
+          "quote_count": 16,
+          "reply_count": 5,
+          "retweet_count": 984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052342106346377643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今夜は魔界で𝒑𝒂𝒓𝒕𝒚 𝒏𝒊𝒈𝒉𝒕🌕 https://t.co/zPOwtfsznY https://t.co/qZYUrEZpEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 215,
+          "like_count": 2932,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 422
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T08:17:46.000Z",
+        "description": "基本は🌈🕒。出戻りオタク🔑🐍/⚔️/🦉🎻/🤣🐝/なんかもう全て/3L/面食い/好きなものを好きに描く/熱しやすく冷めやすく、そして再熱もしやすいオタクpkmn,⚡️⚽️,👹⚔️,dcst,🥷🥚 ,etc...20↑",
+        "id": "1935612891065200640",
+        "location": "無断転載・AI学習禁止🈲",
+        "name": "秋はかえで",
+        "pinned_tweet_id": "2054144279736725754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049038361479028736/X2Xvg8Xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 68,
+          "like_count": 40593,
+          "listed_count": 14,
+          "media_count": 145,
+          "tweet_count": 723
+        },
+        "username": "aki_ha_kaede",
+        "verified": false
+      }
+    ]
+  }
+}

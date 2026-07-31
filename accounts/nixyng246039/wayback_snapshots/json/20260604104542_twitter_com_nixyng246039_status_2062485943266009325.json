@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1103042720212246528",
+          "name": "ONE PIECE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1103042720212246528",
+          "name": "ONE PIECE"
+        }
+      }
+    ],
+    "conversation_id": "2062485943266009325",
+    "created_at": "2026-06-04T10:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062485943266009325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1196968535311835137",
+          "start": 3,
+          "username": "dearmylove_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062485943266009325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062464655315112372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearmylove_yume: DearMyLove\n新作予告\n6月9日朝11時発売START♡\n発売から24時間は10%OFF🎀\n\n♡フレアスリーブヨークワンピース\n￥9,990taxin\nM/L/3L\n\n♡【Whip】フレアスリーブヨークワンピース\n￥10,990…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2062464440805777408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9Ye0QaYAARegQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2062464593247776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9YnsJasAA_iI-.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          }
+        ],
+        "conversation_id": "2062485943266009325",
+        "created_at": "2026-06-04T10:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062485943266009325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1196968535311835137",
+              "start": 3,
+              "username": "dearmylove_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062485943266009325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062464655315112372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearmylove_yume: DearMyLove\n新作予告\n6月9日朝11時発売START♡\n発売から24時間は10%OFF🎀\n\n♡フレアスリーブヨークワンピース\n￥9,990taxin\nM/L/3L\n\n♡【Whip】フレアスリーブヨークワンピース\n￥10,990…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062464440805777408",
+            "3_2062464593247776768"
+          ]
+        },
+        "author_id": "1196968535311835137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          }
+        ],
+        "conversation_id": "2062464655315112372",
+        "created_at": "2026-06-04T09:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062464655315112372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DW7vou675p",
+              "end": 153,
+              "expanded_url": "https://x.com/dearmylove_yume/status/2062464655315112372/photo/1",
+              "media_key": "3_2062464440805777408",
+              "start": 130,
+              "url": "https://t.co/DW7vou675p"
+            },
+            {
+              "display_url": "pic.x.com/DW7vou675p",
+              "end": 153,
+              "expanded_url": "https://x.com/dearmylove_yume/status/2062464655315112372/photo/1",
+              "media_key": "3_2062464593247776768",
+              "start": 130,
+              "url": "https://t.co/DW7vou675p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062464655315112372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3816,
+          "like_count": 94,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "DearMyLove\n新作予告\n6月9日朝11時発売START♡\n発売から24時間は10%OFF🎀\n\n♡フレアスリーブヨークワンピース\n￥9,990taxin\nM/L/3L\n\n♡【Whip】フレアスリーブヨークワンピース\n￥10,990taxin\n4L/5L https://t.co/DW7vou675p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 226,
+          "like_count": 3273,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 517
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T01:48:50.000Z",
+        "description": "𓊆S~6Lサイズまで展開𓊇 ONLINE限定ブランド 「DEARMYLOVE」の公式アカウントです🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yumetenbox",
+                "end": 23,
+                "expanded_url": "https://lit.link/yumetenbox",
+                "start": 0,
+                "url": "https://t.co/tdvDbYOkXh"
+              }
+            ]
+          }
+        },
+        "id": "1196968535311835137",
+        "name": "DearMyLove All Sister Brands",
+        "pinned_tweet_id": "2059832039239553445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348898799603785728/6WZuNrWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39542,
+          "following_count": 5,
+          "like_count": 2444,
+          "listed_count": 588,
+          "media_count": 4173,
+          "tweet_count": 5522
+        },
+        "url": "https://t.co/tdvDbYOkXh",
+        "username": "dearmylove_yume",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064645608749638069",
+    "created_at": "2026-06-10T09:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064645608749638069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1760227849146191872",
+          "start": 3,
+          "username": "chnchn1051161"
+        },
+        {
+          "end": 29,
+          "id": "1634944403872833536",
+          "start": 19,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064645608749638069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064626910215450689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chnchn1051161: @wmy072011 就是这样的，觉得莫名烦躁的时候就看看自己是不是没吃饱，是不是没睡好，是不是没把自己捯饬干净。基本上吃点甜的，洗头洗澡，然后睡一个饱觉，就会好很多！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064645608749638069",
+        "created_at": "2026-06-10T09:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064645608749638069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1760227849146191872",
+              "start": 3,
+              "username": "chnchn1051161"
+            },
+            {
+              "end": 29,
+              "id": "1634944403872833536",
+              "start": 19,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064645608749638069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064626910215450689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chnchn1051161: @wmy072011 就是这样的，觉得莫名烦躁的时候就看看自己是不是没吃饱，是不是没睡好，是不是没把自己捯饬干净。基本上吃点甜的，洗头洗澡，然后睡一个饱觉，就会好很多！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760227849146191872",
+        "conversation_id": "2064386450418987512",
+        "created_at": "2026-06-10T08:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064626910215450689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064626910215450689",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064386450418987512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 就是这样的，觉得莫名烦躁的时候就看看自己是不是没吃饱，是不是没睡好，是不是没把自己捯饬干净。基本上吃点甜的，洗头洗澡，然后睡一个饱觉，就会好很多！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 401,
+          "like_count": 5447,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1261
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T09:00:08.000Z",
+        "description": "07/les🌈/sub\n男的关注我会直接被我拉黑。女孩子们互fo直接私信我呀。很熟的互关可以加微叉。\n讲些乱七八糟的碎碎念。",
+        "id": "1760227849146191872",
+        "name": "木春目民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002374885277102080/jan0wEAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 161,
+          "like_count": 3531,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 577
+        },
+        "username": "chnchn1051161",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "恋人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 472,
+          "like_count": 51377,
+          "listed_count": 1,
+          "media_count": 1630,
+          "tweet_count": 15989
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

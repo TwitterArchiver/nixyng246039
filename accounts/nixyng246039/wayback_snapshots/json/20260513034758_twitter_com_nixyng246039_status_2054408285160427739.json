@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054408285160427739",
+    "created_at": "2026-05-13T03:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054408285160427739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2050397827268808704",
+          "start": 3,
+          "username": "cctalkingchile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054408285160427739",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054333985170334057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cctalkingchile: esa amiga q twitea y tdo tiene 0 likes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054408285160427739",
+        "created_at": "2026-05-13T03:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054408285160427739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2050397827268808704",
+              "start": 3,
+              "username": "cctalkingchile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054408285160427739",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054333985170334057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cctalkingchile: esa amiga q twitea y tdo tiene 0 likes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050397827268808704",
+        "conversation_id": "2054333985170334057",
+        "created_at": "2026-05-12T22:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054333985170334057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054333985170334057",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 157247,
+          "like_count": 9829,
+          "quote_count": 1449,
+          "reply_count": 361,
+          "retweet_count": 1666
+        },
+        "reply_settings": "everyone",
+        "text": "esa amiga q twitea y tdo tiene 0 likes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1901,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 189
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T02:12:07.000Z",
+        "description": "ֺּׅ𓏽⑅ la religión es el opio del pueblo",
+        "id": "2050397827268808704",
+        "location": "she/her",
+        "name": "yanny ℘",
+        "pinned_tweet_id": "2054333985170334057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053297529106673664/fIOmgWjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 86,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 279
+        },
+        "username": "cctalkingchile",
+        "verified": false
+      }
+    ]
+  }
+}

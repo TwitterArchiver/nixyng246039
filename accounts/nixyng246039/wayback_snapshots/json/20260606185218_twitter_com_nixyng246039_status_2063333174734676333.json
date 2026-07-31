@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063333174734676333",
+    "created_at": "2026-06-06T18:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063333174734676333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1568430640428875776",
+          "start": 3,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063333174734676333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063133385107902816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesStrayPuppy: 我初一的妹妹玩光遇玩快手处网恋女友搞le剪狼尾看男同追时代少年团，追潮流开始割手，被我妈发现之后已经坐那轻声细语唠几个小时了，还切果盘边吃边唠我妹好不耐烦的态度，撒谎说是愁学习愁的。唉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063333174734676333",
+        "created_at": "2026-06-06T18:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063333174734676333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1568430640428875776",
+              "start": 3,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333174734676333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063133385107902816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesStrayPuppy: 我初一的妹妹玩光遇玩快手处网恋女友搞le剪狼尾看男同追时代少年团，追潮流开始割手，被我妈发现之后已经坐那轻声细语唠几个小时了，还切果盘边吃边唠我妹好不耐烦的态度，撒谎说是愁学习愁的。唉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "2063133385107902816",
+        "created_at": "2026-06-06T05:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063133385107902816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063133385107902816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4463,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我初一的妹妹玩光遇玩快手处网恋女友搞le剪狼尾看男同追时代少年团，追潮流开始割手，被我妈发现之后已经坐那轻声细语唠几个小时了，还切果盘边吃边唠我妹好不耐烦的态度，撒谎说是愁学习愁的。唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 320,
+          "like_count": 3997,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 784
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|取关随意一切随意！不用礼貌回关！！！💃🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "辛巴巴巴拉贝拉",
+        "name": "小夜野耶椰也",
+        "pinned_tweet_id": "2007046154253746348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 487,
+          "like_count": 26955,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 7940
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

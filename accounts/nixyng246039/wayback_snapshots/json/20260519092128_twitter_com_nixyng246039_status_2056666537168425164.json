@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056493451961683968"
+      ],
+      "media_source_tweet_id": [
+        "2056494470841958691"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2056666537168425164",
+    "created_at": "2026-05-19T09:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056666537168425164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033816243514572800",
+          "start": 3,
+          "username": "musycmotyon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lw2FVp2x3F",
+          "end": 53,
+          "expanded_url": "https://x.com/musycmotyon/status/2056494470841958691/photo/1",
+          "media_key": "3_2056493451961683968",
+          "start": 30,
+          "url": "https://t.co/lw2FVp2x3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056666537168425164",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056494470841958691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musycmotyon: dry vs wet 🚿 https://t.co/lw2FVp2x3F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_2056493451961683968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoh5hcX0AAK4zq.png",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056493451961683968"
+          ],
+          "media_source_tweet_id": [
+            "2056494470841958691"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2056666537168425164",
+        "created_at": "2026-05-19T09:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056666537168425164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033816243514572800",
+              "start": 3,
+              "username": "musycmotyon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lw2FVp2x3F",
+              "end": 53,
+              "expanded_url": "https://x.com/musycmotyon/status/2056494470841958691/photo/1",
+              "media_key": "3_2056493451961683968",
+              "start": 30,
+              "url": "https://t.co/lw2FVp2x3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056666537168425164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056494470841958691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musycmotyon: dry vs wet 🚿 https://t.co/lw2FVp2x3F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056493451961683968"
+          ]
+        },
+        "author_id": "2033816243514572800",
+        "conversation_id": "2056494470841958691",
+        "created_at": "2026-05-18T21:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056494470841958691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lw2FVp2x3F",
+              "end": 36,
+              "expanded_url": "https://x.com/musycmotyon/status/2056494470841958691/photo/1",
+              "media_key": "3_2056493451961683968",
+              "start": 13,
+              "url": "https://t.co/lw2FVp2x3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056494470841958691",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5536,
+          "impression_count": 689453,
+          "like_count": 92590,
+          "quote_count": 197,
+          "reply_count": 17,
+          "retweet_count": 5679
+        },
+        "reply_settings": "everyone",
+        "text": "dry vs wet 🚿 https://t.co/lw2FVp2x3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 197,
+          "like_count": 2560,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 337
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T08:02:47.000Z",
+        "description": "",
+        "id": "2033816243514572800",
+        "name": "MUSYCMOTYON©",
+        "pinned_tweet_id": "2055441108574900707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035034358034440195/Zi-THQpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13644,
+          "following_count": 267,
+          "like_count": 852,
+          "listed_count": 82,
+          "media_count": 405,
+          "tweet_count": 481
+        },
+        "username": "musycmotyon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066751154512678912"
+      ],
+      "media_source_tweet_id": [
+        "2066751163811459221"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066822886904701268",
+    "created_at": "2026-06-16T09:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066822886904701268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720585683184857088",
+          "start": 3,
+          "username": "xiaoqi3377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpHHGDZ0ma",
+          "end": 51,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2066751163811459221/photo/1",
+          "media_key": "3_2066751154512678912",
+          "start": 28,
+          "url": "https://t.co/tpHHGDZ0ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066822886904701268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066751163811459221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi3377: 跳完这支舞 我们就离别 https://t.co/tpHHGDZ0ma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066751154512678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6TOZPbUAA2rEc.jpg",
+        "width": 1485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066751154512678912"
+          ],
+          "media_source_tweet_id": [
+            "2066751163811459221"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066822886904701268",
+        "created_at": "2026-06-16T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066822886904701268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720585683184857088",
+              "start": 3,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpHHGDZ0ma",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2066751163811459221/photo/1",
+              "media_key": "3_2066751154512678912",
+              "start": 28,
+              "url": "https://t.co/tpHHGDZ0ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066822886904701268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751163811459221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi3377: 跳完这支舞 我们就离别 https://t.co/tpHHGDZ0ma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066751154512678912"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2066751163811459221",
+        "created_at": "2026-06-16T05:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066751163811459221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpHHGDZ0ma",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2066751163811459221/photo/1",
+              "media_key": "3_2066751154512678912",
+              "start": 12,
+              "url": "https://t.co/tpHHGDZ0ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066751163811459221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 264,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "跳完这支舞 我们就离别 https://t.co/tpHHGDZ0ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 493,
+          "like_count": 6989,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2022
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 165,
+          "like_count": 649,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 537
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

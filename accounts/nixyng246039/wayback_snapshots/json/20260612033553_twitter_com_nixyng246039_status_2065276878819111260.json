@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065042781769453568"
+      ],
+      "media_source_tweet_id": [
+        "2065042789990351178"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065276878819111260",
+    "created_at": "2026-06-12T03:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065276878819111260"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954426904712536064",
+          "start": 3,
+          "username": "_14_ii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kCkBZnj3Gc",
+          "end": 58,
+          "expanded_url": "https://x.com/_14_ii/status/2065042789990351178/photo/1",
+          "media_key": "3_2065042781769453568",
+          "start": 35,
+          "url": "https://t.co/kCkBZnj3Gc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065276878819111260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065042789990351178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_14_ii: 兔子 #门槛妹 \n有点想念粉色头发＞&lt; https://t.co/kCkBZnj3Gc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2065042781769453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiBeA1aUAAGNxt.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065042781769453568"
+          ],
+          "media_source_tweet_id": [
+            "2065042789990351178"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065276878819111260",
+        "created_at": "2026-06-12T03:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065276878819111260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954426904712536064",
+              "start": 3,
+              "username": "_14_ii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCkBZnj3Gc",
+              "end": 58,
+              "expanded_url": "https://x.com/_14_ii/status/2065042789990351178/photo/1",
+              "media_key": "3_2065042781769453568",
+              "start": 35,
+              "url": "https://t.co/kCkBZnj3Gc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065276878819111260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065042789990351178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_14_ii: 兔子 #门槛妹 \n有点想念粉色头发＞&lt; https://t.co/kCkBZnj3Gc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065042781769453568"
+          ]
+        },
+        "author_id": "1954426904712536064",
+        "conversation_id": "2065042789990351178",
+        "created_at": "2026-06-11T12:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065042789990351178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCkBZnj3Gc",
+              "end": 46,
+              "expanded_url": "https://x.com/_14_ii/status/2065042789990351178/photo/1",
+              "media_key": "3_2065042781769453568",
+              "start": 23,
+              "url": "https://t.co/kCkBZnj3Gc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065042789990351178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兔子 #门槛妹 \n有点想念粉色头发＞&lt; https://t.co/kCkBZnj3Gc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 446,
+          "like_count": 6011,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1510
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港/深圳/馬來-留學中|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En-oki |互fo/擴列 大歡迎|高強度上網［精神狀態偶爾不穩 很友好請放心撫摸］\n♡歡迎小窗互動 出來線下面基呀 ♡\n🚪52/88/120 \n*ଘ 幸せが私に来ますように! ‧₊",
+        "id": "1954426904712536064",
+        "name": "幸福是什麼",
+        "pinned_tweet_id": "2063804916804825139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 145,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 318
+        },
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

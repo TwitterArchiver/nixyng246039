@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054191498632290304"
+      ],
+      "media_source_tweet_id": [
+        "2054191504122675423"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      }
+    ],
+    "conversation_id": "2054387743187464598",
+    "created_at": "2026-05-13T02:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054387743187464598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "サロメ百万展"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1332597551443234817",
+          "start": 3,
+          "username": "TTeriBoom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7nSIr5ZwBq",
+          "end": 59,
+          "expanded_url": "https://x.com/TTeriBoom/status/2054191504122675423/photo/1",
+          "media_key": "3_2054191498632290304",
+          "start": 36,
+          "url": "https://t.co/7nSIr5ZwBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054387743187464598",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054191504122675423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTeriBoom: *OHoHoHoHoHo\n#サロメ百万展 https://t.co/7nSIr5ZwBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_2054191498632290304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH0SNCa4AAPl4_.jpg",
+        "width": 1231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054191498632290304"
+          ],
+          "media_source_tweet_id": [
+            "2054191504122675423"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          }
+        ],
+        "conversation_id": "2054387743187464598",
+        "created_at": "2026-05-13T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054387743187464598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "サロメ百万展"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1332597551443234817",
+              "start": 3,
+              "username": "TTeriBoom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nSIr5ZwBq",
+              "end": 59,
+              "expanded_url": "https://x.com/TTeriBoom/status/2054191504122675423/photo/1",
+              "media_key": "3_2054191498632290304",
+              "start": 36,
+              "url": "https://t.co/7nSIr5ZwBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054387743187464598",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054191504122675423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTeriBoom: *OHoHoHoHoHo\n#サロメ百万展 https://t.co/7nSIr5ZwBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054191498632290304"
+          ]
+        },
+        "author_id": "1332597551443234817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          }
+        ],
+        "conversation_id": "2054191504122675423",
+        "created_at": "2026-05-12T13:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054191504122675423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "サロメ百万展"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nSIr5ZwBq",
+              "end": 44,
+              "expanded_url": "https://x.com/TTeriBoom/status/2054191504122675423/photo/1",
+              "media_key": "3_2054191498632290304",
+              "start": 21,
+              "url": "https://t.co/7nSIr5ZwBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054191504122675423",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 11499,
+          "like_count": 1162,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "*OHoHoHoHoHo\n#サロメ百万展 https://t.co/7nSIr5ZwBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 169,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 157
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T08:09:55.000Z",
+        "description": "咪",
+        "id": "1332597551443234817",
+        "location": "mi",
+        "name": "🔋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898794860678946816/CHciZhtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 820,
+          "like_count": 1759,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 94
+        },
+        "username": "TTeriBoom",
+        "verified": false
+      }
+    ]
+  }
+}

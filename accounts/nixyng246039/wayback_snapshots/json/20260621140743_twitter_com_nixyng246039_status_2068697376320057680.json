@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2068305023923278076",
+    "created_at": "2026-06-21T14:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068697376320057680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766669368396574720",
+          "start": 0,
+          "username": "kanono167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068697376320057680",
+    "in_reply_to_user_id": "1766669368396574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068305023923278076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanono167 虽然来晚了但是还是生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9500,
+        "height": 1280,
+        "media_key": "13_2068304961373683713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068304961373683713/img/QeKKDRfd7KBfeUra.jpg",
+        "public_metrics": {
+          "view_count": 535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068304961373683713/vid/avc1/320x568/XmP4_JCUpmxa4TB7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068304961373683713/vid/avc1/480x852/2A9ke00Zd_1M2HB1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068304961373683713/vid/avc1/720x1280/eYjlpuGI47hp3AvV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068304961373683713/pl/Pe-TP2pLG_aalanY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2068305023923278076",
+        "created_at": "2026-06-21T14:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068697376320057680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766669368396574720",
+              "start": 0,
+              "username": "kanono167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068697376320057680",
+        "in_reply_to_user_id": "1766669368396574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068305023923278076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanono167 虽然来晚了但是还是生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068304961373683713"
+          ]
+        },
+        "author_id": "1766669368396574720",
+        "conversation_id": "2068305023923278076",
+        "created_at": "2026-06-20T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068305023923278076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzYbwBzcXN",
+              "end": 31,
+              "expanded_url": "https://x.com/kanono167/status/2068305023923278076/video/1",
+              "media_key": "13_2068304961373683713",
+              "start": 8,
+              "url": "https://t.co/MzYbwBzcXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068305023923278076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1836,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐🎂 https://t.co/MzYbwBzcXN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 504,
+          "like_count": 7193,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2129
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ/前世@KISSnoyume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "KISSnoyume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "location": "外星🛜",
+        "name": "可丽饼",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064091713782849536/5MPSeq0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 493,
+          "like_count": 4133,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063142214033899521"
+      ],
+      "media_source_tweet_id": [
+        "2063142221021630494"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265664739276763136",
+          "name": "Beach life"
+        }
+      }
+    ],
+    "conversation_id": "2063328558898876441",
+    "created_at": "2026-06-06T18:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063328558898876441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "MariArtte"
+        },
+        {
+          "end": 60,
+          "start": 51,
+          "tag": "PetraArt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "742208654615576576",
+          "start": 3,
+          "username": "parasouladia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbWojTjqDv",
+          "end": 84,
+          "expanded_url": "https://x.com/parasouladia/status/2063142221021630494/photo/1",
+          "media_key": "3_2063142214033899521",
+          "start": 61,
+          "url": "https://t.co/zbWojTjqDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063328558898876441",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063142221021630494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parasouladia: Beach episode 🐧x🐰!!!! #MariArtte #PetraArt https://t.co/zbWojTjqDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Please do not repost or use for AI purposes. All rights reserved to parasouladia",
+        "height": 2264,
+        "media_key": "3_2063142214033899521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHA6aSagAEUNfX.jpg",
+        "width": 2264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063142214033899521"
+          ],
+          "media_source_tweet_id": [
+            "2063142221021630494"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "2063328558898876441",
+        "created_at": "2026-06-06T18:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063328558898876441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "MariArtte"
+            },
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "PetraArt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "742208654615576576",
+              "start": 3,
+              "username": "parasouladia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbWojTjqDv",
+              "end": 84,
+              "expanded_url": "https://x.com/parasouladia/status/2063142221021630494/photo/1",
+              "media_key": "3_2063142214033899521",
+              "start": 61,
+              "url": "https://t.co/zbWojTjqDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063328558898876441",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063142221021630494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parasouladia: Beach episode 🐧x🐰!!!! #MariArtte #PetraArt https://t.co/zbWojTjqDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063142214033899521"
+          ]
+        },
+        "author_id": "742208654615576576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "2063142221021630494",
+        "created_at": "2026-06-06T06:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063142221021630494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "MariArtte"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "PetraArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbWojTjqDv",
+              "end": 66,
+              "expanded_url": "https://x.com/parasouladia/status/2063142221021630494/photo/1",
+              "media_key": "3_2063142214033899521",
+              "start": 43,
+              "url": "https://t.co/zbWojTjqDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063142221021630494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 6446,
+          "like_count": 691,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "Beach episode 🐧x🐰!!!! #MariArtte #PetraArt https://t.co/zbWojTjqDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 316,
+          "like_count": 3948,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 764
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-13T04:15:07.000Z",
+        "description": "soul maid🩸🎀Twitch Affiliate | she/her | 20+ pfp: me banner: @doodroq | pfp/wallpaper use: OK! Donut reupload art! 🚫NFTS/AI/MD https://t.co/IUzUz3rDmv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "doodroq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "parasouladia.carrd.co",
+                "end": 149,
+                "expanded_url": "https://parasouladia.carrd.co/",
+                "start": 126,
+                "url": "https://t.co/IUzUz3rDmv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/parasouladia",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/parasouladia",
+                "start": 0,
+                "url": "https://t.co/8IcGhrIaMx"
+              }
+            ]
+          }
+        },
+        "id": "742208654615576576",
+        "location": "maraschino manor",
+        "name": "soula 𐙚 | VGEN",
+        "pinned_tweet_id": "2057620280823128215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043580255152291840/aY-DTHQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 438,
+          "like_count": 80208,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 12327
+        },
+        "url": "https://t.co/8IcGhrIaMx",
+        "username": "parasouladia",
+        "verified": false
+      }
+    ]
+  }
+}

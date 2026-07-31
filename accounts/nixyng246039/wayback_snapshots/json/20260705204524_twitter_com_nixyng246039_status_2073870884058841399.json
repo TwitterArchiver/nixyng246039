@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073870818875154432"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2073870884058841399",
+    "created_at": "2026-07-05T20:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073870884058841399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9Sfm1QyPz",
+          "end": 23,
+          "expanded_url": "https://x.com/nixyng246039/status/2073870884058841399/video/1",
+          "media_key": "13_2073870818875154432",
+          "start": 0,
+          "url": "https://t.co/N9Sfm1QyPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073870884058841399",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/N9Sfm1QyPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59744,
+        "height": 1576,
+        "media_key": "13_2073870818875154432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073870818875154432/img/8v86z-HHNpFVfmdm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073870818875154432/vid/avc1/320x466/kbsTgXwOIK8HeI7Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073870818875154432/vid/avc1/480x700/xifSOFUsCvzbatv-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073870818875154432/vid/avc1/720x1050/_4cEcyH1mNHQa9W3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073870818875154432/pl/K_acpgW3x0coLXaC.m3u8?tag=14"
+          }
+        ],
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073870818875154432"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2073870884058841399",
+        "created_at": "2026-07-05T20:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073870884058841399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9Sfm1QyPz",
+              "end": 23,
+              "expanded_url": "https://x.com/nixyng246039/status/2073870884058841399/video/1",
+              "media_key": "13_2073870818875154432",
+              "start": 0,
+              "url": "https://t.co/N9Sfm1QyPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073870884058841399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/N9Sfm1QyPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 519,
+          "like_count": 7607,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2346
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

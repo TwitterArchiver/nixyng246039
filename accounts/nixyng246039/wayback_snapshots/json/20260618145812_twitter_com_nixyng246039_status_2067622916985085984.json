@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067252517017468928"
+      ],
+      "media_source_tweet_id": [
+        "2067252521199087698"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2067622916985085984",
+    "created_at": "2026-06-18T14:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067622916985085984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1279695724100247552",
+          "start": 3,
+          "username": "gtyu_cb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJkfhv7TmQ",
+          "end": 48,
+          "expanded_url": "https://x.com/gtyu_cb/status/2067252521199087698/photo/1",
+          "media_key": "3_2067252517017468928",
+          "start": 25,
+          "url": "https://t.co/qJkfhv7TmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067622916985085984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 698
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067252521199087698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @gtyu_cb: smile     ？ https://t.co/qJkfhv7TmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_2067252517017468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBbNiHbwAATt0A.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067252517017468928"
+          ],
+          "media_source_tweet_id": [
+            "2067252521199087698"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2067622916985085984",
+        "created_at": "2026-06-18T14:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067622916985085984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1279695724100247552",
+              "start": 3,
+              "username": "gtyu_cb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJkfhv7TmQ",
+              "end": 48,
+              "expanded_url": "https://x.com/gtyu_cb/status/2067252521199087698/photo/1",
+              "media_key": "3_2067252517017468928",
+              "start": 25,
+              "url": "https://t.co/qJkfhv7TmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067622916985085984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 698
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067252521199087698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @gtyu_cb: smile     ？ https://t.co/qJkfhv7TmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067252517017468928"
+          ]
+        },
+        "author_id": "1279695724100247552",
+        "conversation_id": "2067252521199087698",
+        "created_at": "2026-06-17T14:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067252521199087698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJkfhv7TmQ",
+              "end": 35,
+              "expanded_url": "https://x.com/gtyu_cb/status/2067252521199087698/photo/1",
+              "media_key": "3_2067252517017468928",
+              "start": 12,
+              "url": "https://t.co/qJkfhv7TmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067252521199087698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 43010,
+          "like_count": 7798,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 698
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "smile     ？ https://t.co/qJkfhv7TmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 501,
+          "like_count": 7071,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T08:37:28.000Z",
+        "description": "成人済のへたりゃが好きな奴（CP朝菊/どくい/にしロマ好き）⚠︎雑食⚠︎ ......責任を放棄しての退場だけはなしだ",
+        "id": "1279695724100247552",
+        "name": "なも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525821140626997249/uqBjMJWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 98,
+          "like_count": 8691,
+          "listed_count": 43,
+          "media_count": 131,
+          "tweet_count": 6640
+        },
+        "url": "",
+        "username": "gtyu_cb",
+        "verified": false
+      }
+    ]
+  }
+}

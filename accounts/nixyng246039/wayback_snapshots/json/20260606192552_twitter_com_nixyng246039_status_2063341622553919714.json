@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063105543775158272"
+      ],
+      "media_source_tweet_id": [
+        "2063105555041010010"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063341622553919714",
+    "created_at": "2026-06-06T19:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063341622553919714"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 13,
+          "tag": "Reverse1999"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653224878806556672",
+          "start": 3,
+          "username": "xueyu31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XK0EjipUCc",
+          "end": 49,
+          "expanded_url": "https://x.com/xueyu31/status/2063105555041010010/photo/1",
+          "media_key": "3_2063105543775158272",
+          "start": 26,
+          "url": "https://t.co/XK0EjipUCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063341622553919714",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063105555041010010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xueyu31: #Reverse1999 https://t.co/XK0EjipUCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063105543775158272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGfj67bgAAHxHx.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063105543775158272"
+          ],
+          "media_source_tweet_id": [
+            "2063105555041010010"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063341622553919714",
+        "created_at": "2026-06-06T19:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063341622553919714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "Reverse1999"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653224878806556672",
+              "start": 3,
+              "username": "xueyu31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XK0EjipUCc",
+              "end": 49,
+              "expanded_url": "https://x.com/xueyu31/status/2063105555041010010/photo/1",
+              "media_key": "3_2063105543775158272",
+              "start": 26,
+              "url": "https://t.co/XK0EjipUCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063341622553919714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063105555041010010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xueyu31: #Reverse1999 https://t.co/XK0EjipUCc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063105543775158272"
+          ]
+        },
+        "author_id": "1653224878806556672",
+        "conversation_id": "2063105555041010010",
+        "created_at": "2026-06-06T03:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063105555041010010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "Reverse1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XK0EjipUCc",
+              "end": 36,
+              "expanded_url": "https://x.com/xueyu31/status/2063105555041010010/photo/1",
+              "media_key": "3_2063105543775158272",
+              "start": 13,
+              "url": "https://t.co/XK0EjipUCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063105555041010010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 29356,
+          "like_count": 3395,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "#Reverse1999 https://t.co/XK0EjipUCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 320,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 789
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T02:28:34.000Z",
+        "description": "",
+        "id": "1653224878806556672",
+        "name": "！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056748215094120448/nUSm5-_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11628,
+          "following_count": 250,
+          "like_count": 3003,
+          "listed_count": 55,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "xueyu31",
+        "verified": false
+      }
+    ]
+  }
+}

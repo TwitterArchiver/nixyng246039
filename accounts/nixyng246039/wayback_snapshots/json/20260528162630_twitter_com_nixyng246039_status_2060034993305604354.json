@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059939100359344128",
+        "3_2059939100355141632"
+      ],
+      "media_source_tweet_id": [
+        "2059939104482357358",
+        "2059939104482357358"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060034993305604354",
+    "created_at": "2026-05-28T16:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060034993305604354"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 27,
+          "tag": "funamuseum"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584024273160503296",
+          "start": 3,
+          "username": "kigihara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KaW1rdOnEj",
+          "end": 62,
+          "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+          "media_key": "3_2059939100359344128",
+          "start": 39,
+          "url": "https://t.co/KaW1rdOnEj"
+        },
+        {
+          "display_url": "pic.x.com/KaW1rdOnEj",
+          "end": 62,
+          "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+          "media_key": "3_2059939100355141632",
+          "start": 39,
+          "url": "https://t.co/KaW1rdOnEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060034993305604354",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059939104482357358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kigihara: NORMAL ENDs\n #funamuseum https://t.co/KaW1rdOnEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2059939100359344128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZfsp_bQAAXovG.jpg",
+        "width": 1141
+      },
+      {
+        "height": 633,
+        "media_key": "3_2059939100355141632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZfsp-bIAAq-oq.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059939100359344128",
+            "3_2059939100355141632"
+          ],
+          "media_source_tweet_id": [
+            "2059939104482357358",
+            "2059939104482357358"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060034993305604354",
+        "created_at": "2026-05-28T16:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060034993305604354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 27,
+              "tag": "funamuseum"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584024273160503296",
+              "start": 3,
+              "username": "kigihara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaW1rdOnEj",
+              "end": 62,
+              "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+              "media_key": "3_2059939100359344128",
+              "start": 39,
+              "url": "https://t.co/KaW1rdOnEj"
+            },
+            {
+              "display_url": "pic.x.com/KaW1rdOnEj",
+              "end": 62,
+              "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+              "media_key": "3_2059939100355141632",
+              "start": 39,
+              "url": "https://t.co/KaW1rdOnEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060034993305604354",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939104482357358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kigihara: NORMAL ENDs\n #funamuseum https://t.co/KaW1rdOnEj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059939100359344128",
+            "3_2059939100355141632"
+          ]
+        },
+        "author_id": "1584024273160503296",
+        "conversation_id": "2059939104482357358",
+        "created_at": "2026-05-28T10:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059939104482357358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "funamuseum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaW1rdOnEj",
+              "end": 48,
+              "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+              "media_key": "3_2059939100359344128",
+              "start": 25,
+              "url": "https://t.co/KaW1rdOnEj"
+            },
+            {
+              "display_url": "pic.x.com/KaW1rdOnEj",
+              "end": 48,
+              "expanded_url": "https://x.com/kigihara/status/2059939104482357358/photo/1",
+              "media_key": "3_2059939100355141632",
+              "start": 25,
+              "url": "https://t.co/KaW1rdOnEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939104482357358",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 2396,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "NORMAL ENDs\n #funamuseum https://t.co/KaW1rdOnEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 197,
+          "like_count": 2691,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 372
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T03:30:18.000Z",
+        "description": "女の子が好き\n主に海底囚人作品とゆめにっき描くよ",
+        "id": "1584024273160503296",
+        "name": "きぎはら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049841189445402624/U9mxBBrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 58,
+          "like_count": 34967,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 46
+        },
+        "username": "kigihara",
+        "verified": false
+      }
+    ]
+  }
+}

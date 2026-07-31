@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054732446873362432"
+      ],
+      "media_source_tweet_id": [
+        "2054732455610142756"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054924148510797973",
+    "created_at": "2026-05-14T13:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054924148510797973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gsjd8LnCGK",
+          "end": 56,
+          "expanded_url": "https://x.com/Miiharukawa/status/2054732455610142756/photo/1",
+          "media_key": "3_2054732446873362432",
+          "start": 33,
+          "url": "https://t.co/gsjd8LnCGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054924148510797973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054732455610142756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我操谁来懂我一下我真的笑尿了。 https://t.co/gsjd8LnCGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2054732446873362432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPgRiRbIAAvDCf.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054732446873362432"
+          ],
+          "media_source_tweet_id": [
+            "2054732455610142756"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054924148510797973",
+        "created_at": "2026-05-14T13:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054924148510797973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsjd8LnCGK",
+              "end": 56,
+              "expanded_url": "https://x.com/Miiharukawa/status/2054732455610142756/photo/1",
+              "media_key": "3_2054732446873362432",
+              "start": 33,
+              "url": "https://t.co/gsjd8LnCGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054924148510797973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054732455610142756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我操谁来懂我一下我真的笑尿了。 https://t.co/gsjd8LnCGK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054732446873362432"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2054732455610142756",
+        "created_at": "2026-05-14T01:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054732455610142756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsjd8LnCGK",
+              "end": 39,
+              "expanded_url": "https://x.com/Miiharukawa/status/2054732455610142756/photo/1",
+              "media_key": "3_2054732446873362432",
+              "start": 16,
+              "url": "https://t.co/gsjd8LnCGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054732455610142756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 186047,
+          "like_count": 2198,
+          "quote_count": 6,
+          "reply_count": 144,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我操谁来懂我一下我真的笑尿了。 https://t.co/gsjd8LnCGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 186,
+          "like_count": 2111,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 243
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 215,
+          "like_count": 7329,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 2853
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

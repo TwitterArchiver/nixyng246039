@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060358239360024576"
+      ],
+      "media_source_tweet_id": [
+        "2060358245634740423"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2060662548672979059",
+    "created_at": "2026-05-30T10:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060662548672979059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985850541533224960",
+          "start": 3,
+          "username": "Rx_440x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouI1HfE9GW",
+          "end": 36,
+          "expanded_url": "https://x.com/Rx_440x/status/2060358245634740423/photo/1",
+          "media_key": "3_2060358239360024576",
+          "start": 13,
+          "url": "https://t.co/ouI1HfE9GW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060662548672979059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1010
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060358245634740423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Rx_440x: https://t.co/ouI1HfE9GW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2060358239360024576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfc5wcagAAYJST.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060358239360024576"
+          ],
+          "media_source_tweet_id": [
+            "2060358245634740423"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2060662548672979059",
+        "created_at": "2026-05-30T10:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060662548672979059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985850541533224960",
+              "start": 3,
+              "username": "Rx_440x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouI1HfE9GW",
+              "end": 36,
+              "expanded_url": "https://x.com/Rx_440x/status/2060358245634740423/photo/1",
+              "media_key": "3_2060358239360024576",
+              "start": 13,
+              "url": "https://t.co/ouI1HfE9GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060662548672979059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1010
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060358245634740423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Rx_440x: https://t.co/ouI1HfE9GW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060358239360024576"
+          ]
+        },
+        "author_id": "1985850541533224960",
+        "conversation_id": "2060358245634740423",
+        "created_at": "2026-05-29T13:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060358245634740423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouI1HfE9GW",
+              "end": 23,
+              "expanded_url": "https://x.com/Rx_440x/status/2060358245634740423/photo/1",
+              "media_key": "3_2060358239360024576",
+              "start": 0,
+              "url": "https://t.co/ouI1HfE9GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060358245634740423",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 48450,
+          "like_count": 8641,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 1010
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/ouI1HfE9GW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 199,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 381
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T23:24:16.000Z",
+        "description": "˙ᵕ˙",
+        "id": "1985850541533224960",
+        "name": "047x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523101337096192/vu97DmB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Rx_440x",
+        "verified": false
+      }
+    ]
+  }
+}

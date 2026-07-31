@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053788857779576832"
+      ],
+      "media_source_tweet_id": [
+        "2053788862699426063"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054389066133860453",
+    "created_at": "2026-05-13T02:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054389066133860453"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "MEIKO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983460544251301888",
+          "start": 3,
+          "username": "meiko_only"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtfufzRctv",
+          "end": 46,
+          "expanded_url": "https://x.com/meiko_only/status/2053788862699426063/photo/1",
+          "media_key": "3_2053788857779576832",
+          "start": 23,
+          "url": "https://t.co/TtfufzRctv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054389066133860453",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053788862699426063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @meiko_only: #MEIKO https://t.co/TtfufzRctv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_2053788857779576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICGFa-bYAAkuir.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053788857779576832"
+          ],
+          "media_source_tweet_id": [
+            "2053788862699426063"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054389066133860453",
+        "created_at": "2026-05-13T02:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054389066133860453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "MEIKO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983460544251301888",
+              "start": 3,
+              "username": "meiko_only"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtfufzRctv",
+              "end": 46,
+              "expanded_url": "https://x.com/meiko_only/status/2053788862699426063/photo/1",
+              "media_key": "3_2053788857779576832",
+              "start": 23,
+              "url": "https://t.co/TtfufzRctv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389066133860453",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053788862699426063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @meiko_only: #MEIKO https://t.co/TtfufzRctv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053788857779576832"
+          ]
+        },
+        "author_id": "1983460544251301888",
+        "conversation_id": "2053788862699426063",
+        "created_at": "2026-05-11T10:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053788862699426063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "MEIKO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtfufzRctv",
+              "end": 30,
+              "expanded_url": "https://x.com/meiko_only/status/2053788862699426063/photo/1",
+              "media_key": "3_2053788857779576832",
+              "start": 7,
+              "url": "https://t.co/TtfufzRctv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053788862699426063",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 12535,
+          "like_count": 1466,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 260
+        },
+        "reply_settings": "following",
+        "text": "#MEIKO https://t.co/TtfufzRctv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 169,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 159
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T09:07:16.000Z",
+        "description": "18 | ♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/12M",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/12M",
+                "start": 0,
+                "url": "https://t.co/U3wLAFCcAe"
+              }
+            ]
+          }
+        },
+        "id": "1983460544251301888",
+        "location": "韓国人 i 해사님",
+        "name": "❥",
+        "pinned_tweet_id": "1985723813653594195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053790309910495232/wbAO6ryU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 193,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/U3wLAFCcAe",
+        "username": "meiko_only",
+        "verified": false
+      }
+    ]
+  }
+}

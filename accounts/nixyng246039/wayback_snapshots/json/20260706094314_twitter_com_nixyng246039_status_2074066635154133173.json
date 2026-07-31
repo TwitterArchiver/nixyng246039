@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074006370253467648"
+      ],
+      "media_source_tweet_id": [
+        "2074006373164372134"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2074066635154133173",
+    "created_at": "2026-07-06T09:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074066635154133173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053892249851998208",
+          "start": 3,
+          "username": "iiq1427276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HsKdUlcDwV",
+          "end": 39,
+          "expanded_url": "https://x.com/iiq1427276/status/2074006373164372134/photo/1",
+          "media_key": "3_2074006370253467648",
+          "start": 16,
+          "url": "https://t.co/HsKdUlcDwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074066635154133173",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074006373164372134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiq1427276: https://t.co/HsKdUlcDwV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2074006370253467648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhZziDa8AAmNKv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074006370253467648"
+          ],
+          "media_source_tweet_id": [
+            "2074006373164372134"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2074066635154133173",
+        "created_at": "2026-07-06T09:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074066635154133173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053892249851998208",
+              "start": 3,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsKdUlcDwV",
+              "end": 39,
+              "expanded_url": "https://x.com/iiq1427276/status/2074006373164372134/photo/1",
+              "media_key": "3_2074006370253467648",
+              "start": 16,
+              "url": "https://t.co/HsKdUlcDwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066635154133173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074006373164372134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiq1427276: https://t.co/HsKdUlcDwV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074006370253467648"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "conversation_id": "2074006373164372134",
+        "created_at": "2026-07-06T05:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074006373164372134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsKdUlcDwV",
+              "end": 23,
+              "expanded_url": "https://x.com/iiq1427276/status/2074006373164372134/photo/1",
+              "media_key": "3_2074006370253467648",
+              "start": 0,
+              "url": "https://t.co/HsKdUlcDwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074006373164372134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HsKdUlcDwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 518,
+          "like_count": 7625,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|infp|双相|ADHD|双性恋|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|水上由岐重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 127,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 104,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "全世界最萌的夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2068297602161054201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 184,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

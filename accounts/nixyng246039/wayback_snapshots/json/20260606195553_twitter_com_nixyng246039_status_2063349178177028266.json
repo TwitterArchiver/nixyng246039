@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062858314518835200"
+      ],
+      "media_source_tweet_id": [
+        "2062858321342976075"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063349178177028266",
+    "created_at": "2026-06-06T19:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063349178177028266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515248415592321027",
+          "start": 3,
+          "username": "_Liu_Qi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRTtgHJbXF",
+          "end": 40,
+          "expanded_url": "https://x.com/_Liu_Qi/status/2062858321342976075/photo/1",
+          "media_key": "3_2062858314518835200",
+          "start": 17,
+          "url": "https://t.co/BRTtgHJbXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063349178177028266",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062858321342976075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Liu_Qi: wip https://t.co/BRTtgHJbXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2062858314518835200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC-tSLbMAADhnw.jpg",
+        "width": 1453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062858314518835200"
+          ],
+          "media_source_tweet_id": [
+            "2062858321342976075"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063349178177028266",
+        "created_at": "2026-06-06T19:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063349178177028266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515248415592321027",
+              "start": 3,
+              "username": "_Liu_Qi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRTtgHJbXF",
+              "end": 40,
+              "expanded_url": "https://x.com/_Liu_Qi/status/2062858321342976075/photo/1",
+              "media_key": "3_2062858314518835200",
+              "start": 17,
+              "url": "https://t.co/BRTtgHJbXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063349178177028266",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062858321342976075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Liu_Qi: wip https://t.co/BRTtgHJbXF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062858314518835200"
+          ]
+        },
+        "author_id": "1515248415592321027",
+        "conversation_id": "2062858321342976075",
+        "created_at": "2026-06-05T11:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062858321342976075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRTtgHJbXF",
+              "end": 27,
+              "expanded_url": "https://x.com/_Liu_Qi/status/2062858321342976075/photo/1",
+              "media_key": "3_2062858314518835200",
+              "start": 4,
+              "url": "https://t.co/BRTtgHJbXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062858321342976075",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 39936,
+          "like_count": 5399,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 584
+        },
+        "reply_settings": "everyone",
+        "text": "wip https://t.co/BRTtgHJbXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 320,
+          "like_count": 4023,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 802
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T08:39:21.000Z",
+        "description": "20y￤zzz🏹￤Genshin🍄￤\n\n🚫不授權任何無料印製/repost with credit 🆗️",
+        "id": "1515248415592321027",
+        "name": "六七六｜HoYoFEST VN",
+        "pinned_tweet_id": "2054543257678520689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046117996348010496/X93tLdPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13657,
+          "following_count": 276,
+          "like_count": 1826,
+          "listed_count": 54,
+          "media_count": 344,
+          "tweet_count": 572
+        },
+        "username": "_Liu_Qi",
+        "verified": false
+      }
+    ]
+  }
+}

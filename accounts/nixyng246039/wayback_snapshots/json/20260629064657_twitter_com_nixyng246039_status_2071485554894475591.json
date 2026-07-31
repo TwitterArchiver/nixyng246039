@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071441901987725312"
+      ],
+      "media_source_tweet_id": [
+        "2071442294809485468"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2071485554894475591",
+    "created_at": "2026-06-29T06:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071485554894475591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1390209302120394754",
+          "start": 3,
+          "username": "FinanaRyugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h9EeN5YCXM",
+          "end": 55,
+          "expanded_url": "https://x.com/FinanaRyugu/status/2071442294809485468/photo/1",
+          "media_key": "3_2071441901987725312",
+          "start": 32,
+          "url": "https://t.co/h9EeN5YCXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071485554894475591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071442294809485468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FinanaRyugu: meow ฅ₍^•⩊ •マⳊ https://t.co/h9EeN5YCXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071441901987725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL89b1TWgAAL1xi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071441901987725312"
+          ],
+          "media_source_tweet_id": [
+            "2071442294809485468"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2071485554894475591",
+        "created_at": "2026-06-29T06:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071485554894475591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1390209302120394754",
+              "start": 3,
+              "username": "FinanaRyugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9EeN5YCXM",
+              "end": 55,
+              "expanded_url": "https://x.com/FinanaRyugu/status/2071442294809485468/photo/1",
+              "media_key": "3_2071441901987725312",
+              "start": 32,
+              "url": "https://t.co/h9EeN5YCXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071485554894475591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071442294809485468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FinanaRyugu: meow ฅ₍^•⩊ •マⳊ https://t.co/h9EeN5YCXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071441901987725312"
+          ]
+        },
+        "author_id": "1390209302120394754",
+        "conversation_id": "2071442294809485468",
+        "created_at": "2026-06-29T03:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071442294809485468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9EeN5YCXM",
+              "end": 38,
+              "expanded_url": "https://x.com/FinanaRyugu/status/2071442294809485468/photo/1",
+              "media_key": "3_2071441901987725312",
+              "start": 15,
+              "url": "https://t.co/h9EeN5YCXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071442294809485468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12690,
+          "like_count": 1007,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "meow ฅ₍^•⩊ •マⳊ https://t.co/h9EeN5YCXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 525,
+          "like_count": 7621,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T07:42:37.000Z",
+        "description": "Tropical Mermaid from #NIJISANJI_EN! 🌊✨ にじさんじEN所属のフィナーナ竜宮です！ ♡ ママ: @Gilse1024 | Sub: @RyuguFinana ♡ I: @shu__bii | B: @mugimugigo\n #FinanaRyugu #LazuLight",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 22,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "tag": "FinanaRyugu"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "tag": "LazuLight"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Gilse1024"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "RyuguFinana"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "shu__bii"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "mugimugigo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/FinanaRyugu-…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/FinanaRyugu-NIJISANJIEN",
+                "start": 0,
+                "url": "https://t.co/2CU1wjpPRL"
+              }
+            ]
+          }
+        },
+        "id": "1390209302120394754",
+        "location": "#Finanart #FinanaLive",
+        "name": "Finana Ryugu 🐠 NIJISANJI EN",
+        "pinned_tweet_id": "2068961121092960642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066423383483453440/YFLhLW-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518174,
+          "following_count": 1045,
+          "like_count": 99977,
+          "listed_count": 4285,
+          "media_count": 3291,
+          "tweet_count": 48126
+        },
+        "url": "https://t.co/2CU1wjpPRL",
+        "username": "FinanaRyugu",
+        "verified": false
+      }
+    ]
+  }
+}

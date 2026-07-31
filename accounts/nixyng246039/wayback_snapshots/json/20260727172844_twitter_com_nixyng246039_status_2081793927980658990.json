@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2081793927980658990",
+    "created_at": "2026-07-27T17:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081793927980658990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiq1427276/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/iiq1427276/status/2080351931315425711",
+          "start": 8,
+          "url": "https://t.co/3lNqVJcVGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081793927980658990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080351931315425711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦很美妙哦 https://t.co/3lNqVJcVGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080351925414035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7lDdIagAAeJPc.jpg",
+        "width": 1598
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080351927444140032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7lDksbcAAwx0b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080351926462582784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7lDhCaEAAOQEu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080351927918055424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7lDmda0AA7HvV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2081793927980658990",
+        "created_at": "2026-07-27T17:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081793927980658990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiq1427276/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/iiq1427276/status/2080351931315425711",
+              "start": 8,
+              "url": "https://t.co/3lNqVJcVGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081793927980658990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080351931315425711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦很美妙哦 https://t.co/3lNqVJcVGZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080351925414035456",
+            "3_2080351927444140032",
+            "3_2080351926462582784",
+            "3_2080351927918055424"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080351931315425711",
+        "created_at": "2026-07-23T17:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080351931315425711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9vF1YdPvD",
+              "end": 35,
+              "expanded_url": "https://x.com/iiq1427276/status/2080351931315425711/photo/1",
+              "media_key": "3_2080351925414035456",
+              "start": 12,
+              "url": "https://t.co/e9vF1YdPvD"
+            },
+            {
+              "display_url": "pic.x.com/e9vF1YdPvD",
+              "end": 35,
+              "expanded_url": "https://x.com/iiq1427276/status/2080351931315425711/photo/1",
+              "media_key": "3_2080351927444140032",
+              "start": 12,
+              "url": "https://t.co/e9vF1YdPvD"
+            },
+            {
+              "display_url": "pic.x.com/e9vF1YdPvD",
+              "end": 35,
+              "expanded_url": "https://x.com/iiq1427276/status/2080351931315425711/photo/1",
+              "media_key": "3_2080351926462582784",
+              "start": 12,
+              "url": "https://t.co/e9vF1YdPvD"
+            },
+            {
+              "display_url": "pic.x.com/e9vF1YdPvD",
+              "end": 35,
+              "expanded_url": "https://x.com/iiq1427276/status/2080351931315425711/photo/1",
+              "media_key": "3_2080351927918055424",
+              "start": 12,
+              "url": "https://t.co/e9vF1YdPvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080351931315425711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐b生活经营中。。。。 https://t.co/e9vF1YdPvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 501,
+          "like_count": 7695,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|超高p线下无此人|我是神经病臭疯狗别攻击我🤲|日语学习中|水上由岐重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 98,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 75,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "全世界最萌的夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2078468598591627498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 179,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

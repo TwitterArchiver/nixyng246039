@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054457857022812160"
+      ],
+      "media_source_tweet_id": [
+        "2054458012799221874"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054478027388784691",
+    "created_at": "2026-05-13T08:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054478027388784691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799943071746170881",
+          "start": 3,
+          "username": "iSea_seAi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c3axXQFLux",
+          "end": 38,
+          "expanded_url": "https://x.com/iSea_seAi/status/2054458012799221874/photo/1",
+          "media_key": "3_2054457857022812160",
+          "start": 15,
+          "url": "https://t.co/c3axXQFLux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054478027388784691",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054458012799221874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iSea_seAi: https://t.co/c3axXQFLux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3496,
+        "media_key": "3_2054457857022812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILmiTXa4AAKgsy.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054457857022812160"
+          ],
+          "media_source_tweet_id": [
+            "2054458012799221874"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054478027388784691",
+        "created_at": "2026-05-13T08:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054478027388784691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799943071746170881",
+              "start": 3,
+              "username": "iSea_seAi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3axXQFLux",
+              "end": 38,
+              "expanded_url": "https://x.com/iSea_seAi/status/2054458012799221874/photo/1",
+              "media_key": "3_2054457857022812160",
+              "start": 15,
+              "url": "https://t.co/c3axXQFLux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054478027388784691",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054458012799221874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iSea_seAi: https://t.co/c3axXQFLux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054457857022812160"
+          ]
+        },
+        "author_id": "1799943071746170881",
+        "conversation_id": "2054458012799221874",
+        "created_at": "2026-05-13T07:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054458012799221874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3axXQFLux",
+              "end": 23,
+              "expanded_url": "https://x.com/iSea_seAi/status/2054458012799221874/photo/1",
+              "media_key": "3_2054457857022812160",
+              "start": 0,
+              "url": "https://t.co/c3axXQFLux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458012799221874",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c3axXQFLux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 172,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 200
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T23:14:23.000Z",
+        "description": "FAの使用はご本人様のみです!! ︎ ︎ ︎ ︎ ︎ ︎ ︎ \n絵の無断転載、AI学習、自作発言、トレス等✘です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iSea-seAi",
+                "end": 23,
+                "expanded_url": "https://lit.link/iSea-seAi",
+                "start": 0,
+                "url": "https://t.co/vWqn5J4ISB"
+              }
+            ]
+          }
+        },
+        "id": "1799943071746170881",
+        "location": "👟☯/🔗🤲",
+        "name": "海ﾟ",
+        "pinned_tweet_id": "2050123056396292407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986954041352757248/bNuKyZD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 30,
+          "like_count": 4219,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/vWqn5J4ISB",
+        "username": "iSea_seAi",
+        "verified": false
+      }
+    ]
+  }
+}

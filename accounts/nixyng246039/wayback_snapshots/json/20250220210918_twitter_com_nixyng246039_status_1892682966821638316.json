@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891440842935771136"
+      ],
+      "media_source_tweet_id": [
+        "1891440850309181923"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1892682966821638316",
+    "created_at": "2025-02-20T21:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T22:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892682966821638316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "ポケミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "162625616",
+          "start": 3,
+          "username": "key_999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f05SWj1hPB",
+          "end": 54,
+          "expanded_url": "https://x.com/key_999/status/1891440850309181923/photo/1",
+          "media_key": "3_1891440842935771136",
+          "start": 31,
+          "url": "https://t.co/f05SWj1hPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892682966821638316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9711
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891440850309181923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @key_999: むげんのチケット一周年 #ポケミク https://t.co/f05SWj1hPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_1891440842935771136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj-_bOTaIAAzWzQ.jpg",
+        "width": 1723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891440842935771136"
+          ],
+          "media_source_tweet_id": [
+            "1891440850309181923"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1892682966821638316",
+        "created_at": "2025-02-20T21:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T22:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892682966821638316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ポケミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "162625616",
+              "start": 3,
+              "username": "key_999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f05SWj1hPB",
+              "end": 54,
+              "expanded_url": "https://x.com/key_999/status/1891440850309181923/photo/1",
+              "media_key": "3_1891440842935771136",
+              "start": 31,
+              "url": "https://t.co/f05SWj1hPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892682966821638316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9711
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891440850309181923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @key_999: むげんのチケット一周年 #ポケミク https://t.co/f05SWj1hPB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891440842935771136"
+          ]
+        },
+        "author_id": "162625616",
+        "conversation_id": "1891440850309181923",
+        "created_at": "2025-02-17T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891440850309181923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ポケミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f05SWj1hPB",
+              "end": 41,
+              "expanded_url": "https://x.com/key_999/status/1891440850309181923/photo/1",
+              "media_key": "3_1891440842935771136",
+              "start": 18,
+              "url": "https://t.co/f05SWj1hPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891440850309181923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3415,
+          "impression_count": 1525462,
+          "like_count": 70330,
+          "quote_count": 236,
+          "reply_count": 18,
+          "retweet_count": 9711
+        },
+        "reply_settings": "everyone",
+        "text": "むげんのチケット一周年 #ポケミク https://t.co/f05SWj1hPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "鸮隼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-04T06:27:57.000Z",
+        "description": "kei Mochizuki / Illustrator アニメと絵が好きです ▶︎ LOOPERS / Project:;COLDシリーズ / 第四境界 / レーミク2025 / FGO「バーヴァンシー」/ 刀剣乱舞「京極正宗」/ サンリオ「シエロモート」キャラデザ ▶︎https://t.co/qeDmYyDhAf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/key_999",
+                "end": 159,
+                "expanded_url": "http://pixiv.me/key_999",
+                "start": 136,
+                "url": "https://t.co/qeDmYyDhAf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keymmm.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://keymmm.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/snDLfyuuKS"
+              }
+            ]
+          }
+        },
+        "id": "162625616",
+        "location": "お仕事のご連絡▶︎mochikei999@gmail.com",
+        "name": "望月けい",
+        "pinned_tweet_id": "1878025665968017413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643237593436160/dH20w4Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983380,
+          "following_count": 705,
+          "like_count": 13945,
+          "listed_count": 7598,
+          "media_count": 2146,
+          "tweet_count": 67594
+        },
+        "url": "https://t.co/snDLfyuuKS",
+        "username": "key_999",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064669977987481600"
+      ],
+      "media_source_tweet_id": [
+        "2064669989932867871"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065090925798314384",
+    "created_at": "2026-06-11T15:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065090925798314384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986760052955652096",
+          "start": 3,
+          "username": "ZhaXia123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYpnLKgiai",
+          "end": 60,
+          "expanded_url": "https://x.com/ZhaXia123/status/2064669989932867871/photo/1",
+          "media_key": "3_2064669977987481600",
+          "start": 37,
+          "url": "https://t.co/fYpnLKgiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065090925798314384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064669989932867871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhaXia123: 某些男的是不是疯了？至于这么恨一个小姑娘吗 https://t.co/fYpnLKgiai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064669977987481600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcuZ-hbgAAvZMq.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064669977987481600"
+          ],
+          "media_source_tweet_id": [
+            "2064669989932867871"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065090925798314384",
+        "created_at": "2026-06-11T15:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065090925798314384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986760052955652096",
+              "start": 3,
+              "username": "ZhaXia123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYpnLKgiai",
+              "end": 60,
+              "expanded_url": "https://x.com/ZhaXia123/status/2064669989932867871/photo/1",
+              "media_key": "3_2064669977987481600",
+              "start": 37,
+              "url": "https://t.co/fYpnLKgiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065090925798314384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064669989932867871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhaXia123: 某些男的是不是疯了？至于这么恨一个小姑娘吗 https://t.co/fYpnLKgiai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064669977987481600"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2064669989932867871",
+        "created_at": "2026-06-10T11:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064669989932867871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYpnLKgiai",
+              "end": 45,
+              "expanded_url": "https://x.com/ZhaXia123/status/2064669989932867871/photo/1",
+              "media_key": "3_2064669977987481600",
+              "start": 22,
+              "url": "https://t.co/fYpnLKgiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064669989932867871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 1147822,
+          "like_count": 11254,
+          "quote_count": 79,
+          "reply_count": 1069,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "某些男的是不是疯了？至于这么恨一个小姑娘吗 https://t.co/fYpnLKgiai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 434,
+          "like_count": 5866,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1455
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子。\n主页许多内容都是我转载的比较认可的",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2065080725268021413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 52,
+          "like_count": 9877,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 4479
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

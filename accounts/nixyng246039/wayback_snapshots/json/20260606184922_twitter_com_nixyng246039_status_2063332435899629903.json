@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063332435899629903",
+    "created_at": "2026-06-06T18:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063332435899629903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1857471601454768128",
+          "start": 3,
+          "username": "ScreamButSilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063332435899629903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062803251909804310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScreamButSilent: 《送给所有丑男的一封情书》\n\n 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063332435899629903",
+        "created_at": "2026-06-06T18:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063332435899629903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1857471601454768128",
+              "start": 3,
+              "username": "ScreamButSilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063332435899629903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062803251909804310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScreamButSilent: 《送给所有丑男的一封情书》\n\n 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "2062803251909804310",
+        "created_at": "2026-06-05T07:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062803251909804310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062803251909804310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 49534,
+          "like_count": 3042,
+          "quote_count": 3,
+          "reply_count": 138,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "《送给所有丑男的一封情书》\n\n 滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 320,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 778
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "别再叹息皱眉头",
+        "id": "1857471601454768128",
+        "name": "梨从",
+        "pinned_tweet_id": "1931283850761830468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060358433245904896/P3CkZcFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 260,
+          "like_count": 757,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 3752
+        },
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

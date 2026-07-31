@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066015850797133954",
+    "created_at": "2026-06-14T18:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066225099758264335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060405833721094144",
+          "start": 0,
+          "username": "wse114477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066225099758264335",
+    "in_reply_to_user_id": "2060405833721094144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066041551516823960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wse114477 扣死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066015850797133954",
+        "created_at": "2026-06-14T18:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066225099758264335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060405833721094144",
+              "start": 0,
+              "username": "wse114477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066225099758264335",
+        "in_reply_to_user_id": "2060405833721094144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066041551516823960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wse114477 扣死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060405833721094144",
+        "conversation_id": "2066015850797133954",
+        "created_at": "2026-06-14T06:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066041551516823960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066041551516823960",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066015850797133954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 好扣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 486,
+          "like_count": 6693,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1876
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T17:01:36.000Z",
+        "description": "加v加q私聊说声就行，额反正就是随便聊聊，打游戏啥的也能行，借一两块钱也行还不还无所谓了",
+        "id": "2060405833721094144",
+        "location": "中国陕西",
+        "name": "张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065619926568808448/lq2nkCAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 270
+        },
+        "username": "wse114477",
+        "verified": false
+      }
+    ]
+  }
+}

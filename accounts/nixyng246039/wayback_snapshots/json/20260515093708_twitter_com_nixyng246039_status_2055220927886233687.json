@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055205838760128512"
+      ],
+      "media_source_tweet_id": [
+        "2055205845835903034"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055220927886233687",
+    "created_at": "2026-05-15T09:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055220927886233687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1614642831829925888",
+          "start": 3,
+          "username": "enekororo6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jDOAROSGFs",
+          "end": 44,
+          "expanded_url": "https://x.com/enekororo6/status/2055205845835903034/photo/1",
+          "media_key": "3_2055205838760128512",
+          "start": 21,
+          "url": "https://t.co/jDOAROSGFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055220927886233687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055205845835903034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enekororo6: 髪重そう https://t.co/jDOAROSGFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055205838760128512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWO0kebMAAs20X.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055205838760128512"
+          ],
+          "media_source_tweet_id": [
+            "2055205845835903034"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055220927886233687",
+        "created_at": "2026-05-15T09:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055220927886233687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1614642831829925888",
+              "start": 3,
+              "username": "enekororo6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDOAROSGFs",
+              "end": 44,
+              "expanded_url": "https://x.com/enekororo6/status/2055205845835903034/photo/1",
+              "media_key": "3_2055205838760128512",
+              "start": 21,
+              "url": "https://t.co/jDOAROSGFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055220927886233687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055205845835903034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enekororo6: 髪重そう https://t.co/jDOAROSGFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055205838760128512"
+          ]
+        },
+        "author_id": "1614642831829925888",
+        "conversation_id": "2055205845835903034",
+        "created_at": "2026-05-15T08:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055205845835903034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDOAROSGFs",
+              "end": 28,
+              "expanded_url": "https://x.com/enekororo6/status/2055205845835903034/photo/1",
+              "media_key": "3_2055205838760128512",
+              "start": 5,
+              "url": "https://t.co/jDOAROSGFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055205845835903034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2271,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "髪重そう https://t.co/jDOAROSGFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 187,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 272
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T15:17:23.000Z",
+        "description": "えねこです ご依頼 ▶︎（https://t.co/myfDxOlmPe)\n FAタグ #えねこみて",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "えねこみて"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@eneko_666",
+                "end": 36,
+                "expanded_url": "https://skeb.jp/@eneko_666",
+                "start": 13,
+                "url": "https://t.co/myfDxOlmPe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/enekon2i",
+                "end": 23,
+                "expanded_url": "https://lit.link/enekon2i",
+                "start": 0,
+                "url": "https://t.co/XglIdJG1xa"
+              }
+            ]
+          }
+        },
+        "id": "1614642831829925888",
+        "location": "AI ×",
+        "name": "ヱﾈ子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264906131308544/CSiKPHdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6696,
+          "following_count": 288,
+          "like_count": 1977,
+          "listed_count": 22,
+          "media_count": 112,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/XglIdJG1xa",
+        "username": "enekororo6",
+        "verified": false
+      }
+    ]
+  }
+}

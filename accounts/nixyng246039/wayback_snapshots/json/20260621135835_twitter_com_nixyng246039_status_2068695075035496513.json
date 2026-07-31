@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068492532804435968",
+        "3_2068492532812791808",
+        "3_2068492532829630464",
+        "3_2068492533647511552"
+      ],
+      "media_source_tweet_id": [
+        "2068492555315240972",
+        "2068492555315240972",
+        "2068492555315240972",
+        "2068492555315240972"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068695075035496513",
+    "created_at": "2026-06-21T13:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068695075035496513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1422249668960919592",
+          "start": 3,
+          "username": "whitesaucep9968"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDa7qLa6Un",
+          "end": 98,
+          "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+          "media_key": "3_2068492532804435968",
+          "start": 75,
+          "url": "https://t.co/DDa7qLa6Un"
+        },
+        {
+          "display_url": "pic.x.com/DDa7qLa6Un",
+          "end": 98,
+          "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+          "media_key": "3_2068492532812791808",
+          "start": 75,
+          "url": "https://t.co/DDa7qLa6Un"
+        },
+        {
+          "display_url": "pic.x.com/DDa7qLa6Un",
+          "end": 98,
+          "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+          "media_key": "3_2068492532829630464",
+          "start": 75,
+          "url": "https://t.co/DDa7qLa6Un"
+        },
+        {
+          "display_url": "pic.x.com/DDa7qLa6Un",
+          "end": 98,
+          "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+          "media_key": "3_2068492533647511552",
+          "start": 75,
+          "url": "https://t.co/DDa7qLa6Un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068695075035496513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068492555315240972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitesaucep9968: 这个做完之后拍了几秒就扔了，我竟有点舍不得，毕竟也是我的一个孩子（看起来像橡皮泥捏的，其实是铁丝+锡纸做的 https://t.co/DDa7qLa6Un"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068492532804435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_85bQAA20lK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068492532812791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_87awAACZJM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068492532829630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTC_8_bsAA7NKZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 784,
+        "media_key": "3_2068492533647511552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTDAACbkAAS3x8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068492532804435968",
+            "3_2068492532812791808",
+            "3_2068492532829630464",
+            "3_2068492533647511552"
+          ],
+          "media_source_tweet_id": [
+            "2068492555315240972",
+            "2068492555315240972",
+            "2068492555315240972",
+            "2068492555315240972"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068695075035496513",
+        "created_at": "2026-06-21T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068695075035496513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1422249668960919592",
+              "start": 3,
+              "username": "whitesaucep9968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 98,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532804435968",
+              "start": 75,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 98,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532812791808",
+              "start": 75,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 98,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532829630464",
+              "start": 75,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 98,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492533647511552",
+              "start": 75,
+              "url": "https://t.co/DDa7qLa6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695075035496513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068492555315240972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitesaucep9968: 这个做完之后拍了几秒就扔了，我竟有点舍不得，毕竟也是我的一个孩子（看起来像橡皮泥捏的，其实是铁丝+锡纸做的 https://t.co/DDa7qLa6Un"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068492532804435968",
+            "3_2068492532812791808",
+            "3_2068492532829630464",
+            "3_2068492533647511552"
+          ]
+        },
+        "author_id": "1422249668960919592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068492555315240972",
+        "created_at": "2026-06-21T00:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068492555315240972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532804435968",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532812791808",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492532829630464",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            },
+            {
+              "display_url": "pic.x.com/DDa7qLa6Un",
+              "end": 77,
+              "expanded_url": "https://x.com/whitesaucep9968/status/2068492555315240972/photo/1",
+              "media_key": "3_2068492533647511552",
+              "start": 54,
+              "url": "https://t.co/DDa7qLa6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068492555315240972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 134220,
+          "like_count": 2417,
+          "quote_count": 29,
+          "reply_count": 45,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "这个做完之后拍了几秒就扔了，我竟有点舍不得，毕竟也是我的一个孩子（看起来像橡皮泥捏的，其实是铁丝+锡纸做的 https://t.co/DDa7qLa6Un"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 501,
+          "like_count": 7168,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2110
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Feline Rehab,ER",
+        "name": "紀念品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067224687604834304/11QVWK_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 3132,
+          "like_count": 51541,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 21911
+        },
+        "url": "",
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065437409756725249"
+      ],
+      "media_source_tweet_id": [
+        "2065438692576248285"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066072028348600581",
+    "created_at": "2026-06-14T08:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066072028348600581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991795014163382272",
+          "start": 3,
+          "username": "fortearsidie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wfp5YoGWNh",
+          "end": 57,
+          "expanded_url": "https://x.com/fortearsidie/status/2065438692576248285/photo/1",
+          "media_key": "3_2065437409756725249",
+          "start": 34,
+          "url": "https://t.co/Wfp5YoGWNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066072028348600581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065438692576248285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fortearsidie: 孩子 你是不是想开普瑞巴林呢？ https://t.co/Wfp5YoGWNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2065437409756725249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnoYYpaQAE_SaA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065437409756725249"
+          ],
+          "media_source_tweet_id": [
+            "2065438692576248285"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066072028348600581",
+        "created_at": "2026-06-14T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072028348600581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991795014163382272",
+              "start": 3,
+              "username": "fortearsidie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wfp5YoGWNh",
+              "end": 57,
+              "expanded_url": "https://x.com/fortearsidie/status/2065438692576248285/photo/1",
+              "media_key": "3_2065437409756725249",
+              "start": 34,
+              "url": "https://t.co/Wfp5YoGWNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072028348600581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065438692576248285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fortearsidie: 孩子 你是不是想开普瑞巴林呢？ https://t.co/Wfp5YoGWNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065437409756725249"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065438692576248285",
+        "created_at": "2026-06-12T14:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:13:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065437421538578516",
+          "2065438692576248285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wfp5YoGWNh",
+              "end": 39,
+              "expanded_url": "https://x.com/fortearsidie/status/2065438692576248285/photo/1",
+              "media_key": "3_2065437409756725249",
+              "start": 16,
+              "url": "https://t.co/Wfp5YoGWNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065438692576248285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4490,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "孩子 你是不是想开普瑞巴林呢？ https://t.co/Wfp5YoGWNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 477,
+          "like_count": 6559,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1759
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 459,
+          "like_count": 7556,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 195
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

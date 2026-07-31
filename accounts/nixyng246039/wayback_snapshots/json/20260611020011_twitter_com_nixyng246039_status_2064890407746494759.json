@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064739067225391104",
+        "3_2064739067229552640",
+        "3_2064739067242205185",
+        "3_2064739067225378816"
+      ],
+      "media_source_tweet_id": [
+        "2064739127514279967",
+        "2064739127514279967",
+        "2064739127514279967",
+        "2064739127514279967"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064890407746494759",
+    "created_at": "2026-06-11T02:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064890407746494759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063285995487834112",
+          "start": 3,
+          "username": "HarukoKazama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTRY5gp7wS",
+          "end": 44,
+          "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+          "media_key": "3_2064739067225391104",
+          "start": 21,
+          "url": "https://t.co/eTRY5gp7wS"
+        },
+        {
+          "display_url": "pic.x.com/eTRY5gp7wS",
+          "end": 44,
+          "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+          "media_key": "3_2064739067229552640",
+          "start": 21,
+          "url": "https://t.co/eTRY5gp7wS"
+        },
+        {
+          "display_url": "pic.x.com/eTRY5gp7wS",
+          "end": 44,
+          "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+          "media_key": "3_2064739067242205185",
+          "start": 21,
+          "url": "https://t.co/eTRY5gp7wS"
+        },
+        {
+          "display_url": "pic.x.com/eTRY5gp7wS",
+          "end": 44,
+          "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+          "media_key": "3_2064739067225378816",
+          "start": 21,
+          "url": "https://t.co/eTRY5gp7wS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064890407746494759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064739127514279967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarukoKazama: 今日 https://t.co/eTRY5gp7wS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2064739067225391104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdtPf_XQAAhQR6.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2064739067229552640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdtPgAWwAAMuA1.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064739067242205185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdtPgDX0AEnoo-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2064739067225378816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdtPf_XEAAf2cW.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064739067225391104",
+            "3_2064739067229552640",
+            "3_2064739067242205185",
+            "3_2064739067225378816"
+          ],
+          "media_source_tweet_id": [
+            "2064739127514279967",
+            "2064739127514279967",
+            "2064739127514279967",
+            "2064739127514279967"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064890407746494759",
+        "created_at": "2026-06-11T02:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064890407746494759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063285995487834112",
+              "start": 3,
+              "username": "HarukoKazama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 44,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067225391104",
+              "start": 21,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 44,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067229552640",
+              "start": 21,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 44,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067242205185",
+              "start": 21,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 44,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067225378816",
+              "start": 21,
+              "url": "https://t.co/eTRY5gp7wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064890407746494759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064739127514279967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarukoKazama: 今日 https://t.co/eTRY5gp7wS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064739067225391104",
+            "3_2064739067229552640",
+            "3_2064739067242205185",
+            "3_2064739067225378816"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2064739127514279967",
+        "created_at": "2026-06-10T15:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064739127514279967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 26,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067225391104",
+              "start": 3,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 26,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067229552640",
+              "start": 3,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 26,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067242205185",
+              "start": 3,
+              "url": "https://t.co/eTRY5gp7wS"
+            },
+            {
+              "display_url": "pic.x.com/eTRY5gp7wS",
+              "end": 26,
+              "expanded_url": "https://x.com/HarukoKazama/status/2064739127514279967/photo/1",
+              "media_key": "3_2064739067225378816",
+              "start": 3,
+              "url": "https://t.co/eTRY5gp7wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064739127514279967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日 https://t.co/eTRY5gp7wS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 419,
+          "like_count": 5699,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1383
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2063643842222391364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

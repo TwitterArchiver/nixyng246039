@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066824036173377537",
+    "created_at": "2026-06-16T10:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066824036173377537"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 97,
+          "tag": "Finanart"
+        },
+        {
+          "end": 119,
+          "start": 107,
+          "tag": "FinanaRyugu"
+        },
+        {
+          "end": 130,
+          "start": 120,
+          "tag": "Ryuguards"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671317811665440768",
+          "start": 3,
+          "username": "BaLayeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824036173377537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066760138829246549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaLayeeeee: Birthday Billboard Support Project now on screen! \nCheck out the screen designs\n\n#Finanart #FinanaRyugu #Ryuguards https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2066760131308924928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bY6absAAlWyZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066760131313082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bY6bbIAA5L7i.jpg",
+        "width": 597
+      },
+      {
+        "height": 579,
+        "media_key": "3_2066760131317239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bY6cakAACckz.jpg",
+        "width": 1024
+      },
+      {
+        "height": 222,
+        "media_key": "3_2066760131300503553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bY6YbMAEm2vR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066824036173377537",
+        "created_at": "2026-06-16T10:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824036173377537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 97,
+              "tag": "Finanart"
+            },
+            {
+              "end": 119,
+              "start": 107,
+              "tag": "FinanaRyugu"
+            },
+            {
+              "end": 130,
+              "start": 120,
+              "tag": "Ryuguards"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671317811665440768",
+              "start": 3,
+              "username": "BaLayeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824036173377537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066760138829246549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaLayeeeee: Birthday Billboard Support Project now on screen! \nCheck out the screen designs\n\n#Finanart #FinanaRyugu #Ryuguards https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066760131308924928",
+            "3_2066760131313082368",
+            "3_2066760131317239808",
+            "3_2066760131300503553"
+          ]
+        },
+        "author_id": "1671317811665440768",
+        "conversation_id": "2066760138829246549",
+        "created_at": "2026-06-16T05:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066760138829246549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "Finanart"
+            },
+            {
+              "end": 103,
+              "start": 91,
+              "tag": "FinanaRyugu"
+            },
+            {
+              "end": 114,
+              "start": 104,
+              "tag": "Ryuguards"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSJs5uln48",
+              "end": 138,
+              "expanded_url": "https://x.com/BaLayeeeee/status/2066760138829246549/photo/1",
+              "media_key": "3_2066760131308924928",
+              "start": 115,
+              "url": "https://t.co/aSJs5uln48"
+            },
+            {
+              "display_url": "pic.x.com/aSJs5uln48",
+              "end": 138,
+              "expanded_url": "https://x.com/BaLayeeeee/status/2066760138829246549/photo/1",
+              "media_key": "3_2066760131313082368",
+              "start": 115,
+              "url": "https://t.co/aSJs5uln48"
+            },
+            {
+              "display_url": "pic.x.com/aSJs5uln48",
+              "end": 138,
+              "expanded_url": "https://x.com/BaLayeeeee/status/2066760138829246549/photo/1",
+              "media_key": "3_2066760131317239808",
+              "start": 115,
+              "url": "https://t.co/aSJs5uln48"
+            },
+            {
+              "display_url": "pic.x.com/aSJs5uln48",
+              "end": 138,
+              "expanded_url": "https://x.com/BaLayeeeee/status/2066760138829246549/photo/1",
+              "media_key": "3_2066760131300503553",
+              "start": 115,
+              "url": "https://t.co/aSJs5uln48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066760138829246549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2384,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Birthday Billboard Support Project now on screen! \nCheck out the screen designs\n\n#Finanart #FinanaRyugu #Ryuguards https://t.co/aSJs5uln48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 493,
+          "like_count": 7003,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2032
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T00:43:26.000Z",
+        "description": "💚🐠💜｜中文OK  English/日本語勉強中 |All art works posted are commissions from other artists",
+        "id": "1671317811665440768",
+        "name": "BaLa",
+        "pinned_tweet_id": "2064954301982871954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011439384386818048/bQC6dtTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 60,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 44
+        },
+        "username": "BaLayeeeee",
+        "verified": false
+      }
+    ]
+  }
+}

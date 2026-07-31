@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063291166540570624",
+        "3_2063291166498729984",
+        "3_2063291166486040576",
+        "3_2063291166494441472"
+      ],
+      "media_source_tweet_id": [
+        "2063291178569887908",
+        "2063291178569887908",
+        "2063291178569887908",
+        "2063291178569887908"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064694004470428108",
+    "created_at": "2026-06-10T12:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064694004470428108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1991520340250681345",
+          "start": 3,
+          "username": "pray444peace_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxsvkfLBZi",
+          "end": 56,
+          "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+          "media_key": "3_2063291166540570624",
+          "start": 33,
+          "url": "https://t.co/nxsvkfLBZi"
+        },
+        {
+          "display_url": "pic.x.com/nxsvkfLBZi",
+          "end": 56,
+          "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+          "media_key": "3_2063291166498729984",
+          "start": 33,
+          "url": "https://t.co/nxsvkfLBZi"
+        },
+        {
+          "display_url": "pic.x.com/nxsvkfLBZi",
+          "end": 56,
+          "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+          "media_key": "3_2063291166486040576",
+          "start": 33,
+          "url": "https://t.co/nxsvkfLBZi"
+        },
+        {
+          "display_url": "pic.x.com/nxsvkfLBZi",
+          "end": 56,
+          "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+          "media_key": "3_2063291166494441472",
+          "start": 33,
+          "url": "https://t.co/nxsvkfLBZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064694004470428108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063291178569887908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pray444peace_: 求你们再宠幸我一下👉🏻👈🏻 https://t.co/nxsvkfLBZi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064694004470428108].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064694004470428108",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064694004470428108"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2063291166540570624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIYlnaIAAFL9D.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063291166498729984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIYldbsAA7ip7.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1911,
+        "media_key": "3_2063291166486040576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIYlaaEAAiAuc.jpg",
+        "width": 809
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2063291166494441472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIYlcaQAAJ5TH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063291166540570624",
+            "3_2063291166498729984",
+            "3_2063291166486040576",
+            "3_2063291166494441472"
+          ]
+        },
+        "author_id": "1991520340250681345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063291178569887908",
+        "created_at": "2026-06-06T16:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063291178569887908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxsvkfLBZi",
+              "end": 37,
+              "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+              "media_key": "3_2063291166540570624",
+              "start": 14,
+              "url": "https://t.co/nxsvkfLBZi"
+            },
+            {
+              "display_url": "pic.x.com/nxsvkfLBZi",
+              "end": 37,
+              "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+              "media_key": "3_2063291166498729984",
+              "start": 14,
+              "url": "https://t.co/nxsvkfLBZi"
+            },
+            {
+              "display_url": "pic.x.com/nxsvkfLBZi",
+              "end": 37,
+              "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+              "media_key": "3_2063291166486040576",
+              "start": 14,
+              "url": "https://t.co/nxsvkfLBZi"
+            },
+            {
+              "display_url": "pic.x.com/nxsvkfLBZi",
+              "end": 37,
+              "expanded_url": "https://x.com/pray444peace_/status/2063291178569887908/photo/1",
+              "media_key": "3_2063291166494441472",
+              "start": 14,
+              "url": "https://t.co/nxsvkfLBZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063291178569887908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 770,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求你们再宠幸我一下👉🏻👈🏻 https://t.co/nxsvkfLBZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 404,
+          "like_count": 5505,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1289
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T14:53:55.000Z",
+        "description": "馬孔多在下雨",
+        "id": "1991520340250681345",
+        "location": "mazel tov",
+        "name": "和平天使不會死",
+        "pinned_tweet_id": "2063291178569887908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063286188199600128/d5Q9iImS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 33,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 677
+        },
+        "username": "pray444peace_",
+        "verified": false
+      }
+    ]
+  }
+}

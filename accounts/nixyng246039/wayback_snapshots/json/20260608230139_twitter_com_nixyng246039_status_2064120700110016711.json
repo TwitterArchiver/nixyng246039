@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064041852626763776"
+      ],
+      "media_source_tweet_id": [
+        "2064041919278448910"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064120700110016711",
+    "created_at": "2026-06-08T23:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064120700110016711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829867271592026112",
+          "start": 3,
+          "username": "Shivam3228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/03agDpFFWR",
+          "end": 44,
+          "expanded_url": "https://x.com/Shivam3228/status/2064041919278448910/video/1",
+          "media_key": "13_2064041852626763776",
+          "start": 21,
+          "url": "https://t.co/03agDpFFWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064120700110016711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064041919278448910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shivam3228: 高考加油 https://t.co/03agDpFFWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15036,
+        "height": 1280,
+        "media_key": "13_2064041852626763776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064041852626763776/img/KEmdyX5H3q1z88t4.jpg",
+        "public_metrics": {
+          "view_count": 103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041852626763776/vid/avc1/320x568/zZJsBf5WE9GtWhz5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041852626763776/vid/avc1/480x852/lJ3cI73leY1ZeJdT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041852626763776/vid/avc1/720x1280/x-EBrWOhfCk7FNra.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064041852626763776/pl/6gv_MuwuxUzsxsRE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064041852626763776"
+          ],
+          "media_source_tweet_id": [
+            "2064041919278448910"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064120700110016711",
+        "created_at": "2026-06-08T23:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064120700110016711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03agDpFFWR",
+              "end": 44,
+              "expanded_url": "https://x.com/Shivam3228/status/2064041919278448910/video/1",
+              "media_key": "13_2064041852626763776",
+              "start": 21,
+              "url": "https://t.co/03agDpFFWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064120700110016711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064041919278448910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shivam3228: 高考加油 https://t.co/03agDpFFWR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064041852626763776"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2064041919278448910",
+        "created_at": "2026-06-08T17:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064041919278448910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03agDpFFWR",
+              "end": 28,
+              "expanded_url": "https://x.com/Shivam3228/status/2064041919278448910/video/1",
+              "media_key": "13_2064041852626763776",
+              "start": 5,
+              "url": "https://t.co/03agDpFFWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064041919278448910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 280,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "高考加油 https://t.co/03agDpFFWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 387,
+          "like_count": 5032,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1109
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号双炸了（申诉中）【寻回推u。】\n此号幽灵ban🚬\n精分 双向 ADHD 无不良嗜好\n很温良的一个人，欢迎互动🤤🤤\n我的麻麻呀@BeckfordBl61271🙏🏻🥺\n此为社交号🥺期待大家和我互动呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "BeckfordBl61271"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064006964024385892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 397,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

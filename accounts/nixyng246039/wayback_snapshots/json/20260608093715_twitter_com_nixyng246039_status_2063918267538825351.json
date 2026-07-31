@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063918267538825351",
+    "created_at": "2026-06-08T09:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063918267538825351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060006148087181312",
+          "start": 3,
+          "username": "tristeza226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063918267538825351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063915153993990222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tristeza226: 找不到之前的互关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063918267538825351",
+        "created_at": "2026-06-08T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063918267538825351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060006148087181312",
+              "start": 3,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063918267538825351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063915153993990222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tristeza226: 找不到之前的互关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060006148087181312",
+        "conversation_id": "2063915153993990222",
+        "created_at": "2026-06-08T09:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063915153993990222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063915153993990222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找不到之前的互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 365,
+          "like_count": 4697,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1018
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2063537080979059147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 85,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054170857371783168"
+      ],
+      "media_source_tweet_id": [
+        "2054170864757944453"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054456361560469591",
+    "created_at": "2026-05-13T06:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054456361560469591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977017203187912704",
+          "start": 3,
+          "username": "ten_kasu23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RSiAlm9CRu",
+          "end": 58,
+          "expanded_url": "https://x.com/ten_kasu23/status/2054170864757944453/photo/1",
+          "media_key": "3_2054170857371783168",
+          "start": 35,
+          "url": "https://t.co/RSiAlm9CRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054456361560469591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054170864757944453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ten_kasu23: cos 🌈🕒  🌞\n\n「魔」の研究者 https://t.co/RSiAlm9CRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2054170857371783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHhguWa0AAy-Na.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170857371783168"
+          ],
+          "media_source_tweet_id": [
+            "2054170864757944453"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054456361560469591",
+        "created_at": "2026-05-13T06:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054456361560469591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977017203187912704",
+              "start": 3,
+              "username": "ten_kasu23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSiAlm9CRu",
+              "end": 58,
+              "expanded_url": "https://x.com/ten_kasu23/status/2054170864757944453/photo/1",
+              "media_key": "3_2054170857371783168",
+              "start": 35,
+              "url": "https://t.co/RSiAlm9CRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054456361560469591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054170864757944453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ten_kasu23: cos 🌈🕒  🌞\n\n「魔」の研究者 https://t.co/RSiAlm9CRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170857371783168"
+          ]
+        },
+        "author_id": "1977017203187912704",
+        "conversation_id": "2054170864757944453",
+        "created_at": "2026-05-12T12:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054170864757944453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSiAlm9CRu",
+              "end": 42,
+              "expanded_url": "https://x.com/ten_kasu23/status/2054170864757944453/photo/1",
+              "media_key": "3_2054170857371783168",
+              "start": 19,
+              "url": "https://t.co/RSiAlm9CRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054170864757944453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3223,
+          "like_count": 315,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "cos 🌈🕒  🌞\n\n「魔」の研究者 https://t.co/RSiAlm9CRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 171,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 197
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T14:23:36.000Z",
+        "description": "20↑ ︴よく一緒にいる人▶︎@idhr_315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "idhr_315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yayo033",
+                "end": 23,
+                "expanded_url": "http://lit.link/yayo033",
+                "start": 0,
+                "url": "https://t.co/cTwncMNELm"
+              }
+            ]
+          }
+        },
+        "id": "1977017203187912704",
+        "name": "天",
+        "pinned_tweet_id": "2033873060940615695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047535871709396993/Sb15pUjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 121,
+          "like_count": 545,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/cTwncMNELm",
+        "username": "ten_kasu23",
+        "verified": false
+      }
+    ]
+  }
+}

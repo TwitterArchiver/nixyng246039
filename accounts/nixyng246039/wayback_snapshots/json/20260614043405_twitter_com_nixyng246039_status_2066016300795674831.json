@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065869183326224772",
+    "created_at": "2026-06-14T04:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066016300795674831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1667156388869550084",
+          "start": 0,
+          "username": "Moyun_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066016300795674831",
+    "in_reply_to_user_id": "1667156388869550084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065883932294582332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyun_OwO 鬼来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065869183326224772",
+        "created_at": "2026-06-14T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066016300795674831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1667156388869550084",
+              "start": 0,
+              "username": "Moyun_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066016300795674831",
+        "in_reply_to_user_id": "1667156388869550084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065883932294582332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyun_OwO 鬼来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667156388869550084",
+        "conversation_id": "2065869183326224772",
+        "created_at": "2026-06-13T19:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065883932294582332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065883932294582332",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065869183326224772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 我操闹鬼了😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 469,
+          "like_count": 6420,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1683
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T13:07:28.000Z",
+        "description": "「 愿与愁 」\n\ndm开放 欢迎互fo！⬇️我的主页⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/m0yvn",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/m0yvn",
+                "start": 0,
+                "url": "https://t.co/lvV4voyDZW"
+              }
+            ]
+          }
+        },
+        "id": "1667156388869550084",
+        "location": "你心里",
+        "name": "朋友圈你被我毕业了你知道吗",
+        "pinned_tweet_id": "2065907876984721453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886644300458708992/pApJsolJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2150,
+          "like_count": 18647,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/lvV4voyDZW",
+        "username": "Moyun_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

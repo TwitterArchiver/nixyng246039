@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064159525574496256",
+        "3_2064159525574438912"
+      ],
+      "media_source_tweet_id": [
+        "2064159527994523793",
+        "2064159527994523793"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064284962099273742",
+    "created_at": "2026-06-09T09:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064284962099273742"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "tginr"
+        },
+        {
+          "end": 52,
+          "start": 34,
+          "tag": "ThisGameIsNotReal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979165982401925120",
+          "start": 3,
+          "username": "iwaiwa1212"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3VsAqoLahv",
+          "end": 76,
+          "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+          "media_key": "3_2064159525574496256",
+          "start": 53,
+          "url": "https://t.co/3VsAqoLahv"
+        },
+        {
+          "display_url": "pic.x.com/3VsAqoLahv",
+          "end": 76,
+          "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+          "media_key": "3_2064159525574438912",
+          "start": 53,
+          "url": "https://t.co/3VsAqoLahv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064284962099273742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064159527994523793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwaiwa1212: 变成玩偶的对方，，，\n#tginr\n#ThisGameIsNotReal https://t.co/3VsAqoLahv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064159525574496256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVeJvGbUAAwdA7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064159525574438912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVeJvGacAADeM-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064159525574496256",
+            "3_2064159525574438912"
+          ],
+          "media_source_tweet_id": [
+            "2064159527994523793",
+            "2064159527994523793"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064284962099273742",
+        "created_at": "2026-06-09T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064284962099273742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "tginr"
+            },
+            {
+              "end": 52,
+              "start": 34,
+              "tag": "ThisGameIsNotReal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979165982401925120",
+              "start": 3,
+              "username": "iwaiwa1212"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VsAqoLahv",
+              "end": 76,
+              "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+              "media_key": "3_2064159525574496256",
+              "start": 53,
+              "url": "https://t.co/3VsAqoLahv"
+            },
+            {
+              "display_url": "pic.x.com/3VsAqoLahv",
+              "end": 76,
+              "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+              "media_key": "3_2064159525574438912",
+              "start": 53,
+              "url": "https://t.co/3VsAqoLahv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064284962099273742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064159527994523793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwaiwa1212: 变成玩偶的对方，，，\n#tginr\n#ThisGameIsNotReal https://t.co/3VsAqoLahv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064159525574496256",
+            "3_2064159525574438912"
+          ]
+        },
+        "author_id": "1979165982401925120",
+        "conversation_id": "2064159527994523793",
+        "created_at": "2026-06-09T01:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064159527994523793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "tginr"
+            },
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "ThisGameIsNotReal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VsAqoLahv",
+              "end": 60,
+              "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+              "media_key": "3_2064159525574496256",
+              "start": 37,
+              "url": "https://t.co/3VsAqoLahv"
+            },
+            {
+              "display_url": "pic.x.com/3VsAqoLahv",
+              "end": 60,
+              "expanded_url": "https://x.com/iwaiwa1212/status/2064159527994523793/photo/1",
+              "media_key": "3_2064159525574438912",
+              "start": 37,
+              "url": "https://t.co/3VsAqoLahv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064159527994523793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1480,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "变成玩偶的对方，，，\n#tginr\n#ThisGameIsNotReal https://t.co/3VsAqoLahv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 392,
+          "like_count": 5284,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1185
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T12:42:21.000Z",
+        "description": "18↑  高卒済み  /❄️💔🔁  さいはて駅  prsk tginr  zato omori，，，还有很多/中⭕️ 英⭕️ 其他语言就几乎不会了\n感谢所有喜欢我作品的朋友🥰",
+        "id": "1979165982401925120",
+        "location": "中国",
+        "name": "iwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061610408197373952/eqUQv6wp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 82,
+          "like_count": 6036,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 385
+        },
+        "username": "iwaiwa1212",
+        "verified": false
+      }
+    ]
+  }
+}

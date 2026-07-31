@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2061803346529509673",
+    "created_at": "2026-06-02T13:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061803346529509673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ryotastream/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Ryotastream/status/2059634866359259254",
+          "start": 21,
+          "url": "https://t.co/vEfrsYTArI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061803346529509673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059634866359259254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说真的，主播这个衣服有一种少女革命的感觉 https://t.co/vEfrsYTArI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059634301554274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVKfB9aMAAH14d.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2061803346529509673",
+        "created_at": "2026-06-02T13:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061803346529509673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ryotastream/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Ryotastream/status/2059634866359259254",
+              "start": 21,
+              "url": "https://t.co/vEfrsYTArI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061803346529509673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059634866359259254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说真的，主播这个衣服有一种少女革命的感觉 https://t.co/vEfrsYTArI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059634301554274304"
+          ]
+        },
+        "author_id": "1767840240029552640",
+        "conversation_id": "2059634866359259254",
+        "created_at": "2026-05-27T13:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059634866359259254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "AiaDay2026"
+            },
+            {
+              "end": 67,
+              "start": 54,
+              "tag": "AmareAtelier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3PzGAdTxB",
+              "end": 91,
+              "expanded_url": "https://x.com/Ryotastream/status/2059634866359259254/photo/1",
+              "media_key": "3_2059634301554274304",
+              "start": 68,
+              "url": "https://t.co/W3PzGAdTxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059634866359259254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 17786,
+          "like_count": 1927,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "HAPPY BIRTHDAYYY TO THE QUEEN HERSELFF 🌹🩷\n#AiaDay2026 #AmareAtelier https://t.co/W3PzGAdTxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 220,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 463
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T09:09:16.000Z",
+        "description": "khmmmm, i'm still learn to draw DnD!! very love to read the book! 😍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/ryotaryu",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/ryotaryu",
+                "start": 0,
+                "url": "https://t.co/wKMSFl8qDc"
+              }
+            ]
+          }
+        },
+        "id": "1767840240029552640",
+        "location": "DC RYOTARYU",
+        "name": "Ryota Ryu ᝰ.ᐟ✦",
+        "pinned_tweet_id": "2059679045407891804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022568324274806784/jHJUKnx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 358,
+          "like_count": 9620,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7099
+        },
+        "url": "https://t.co/wKMSFl8qDc",
+        "username": "Ryotastream",
+        "verified": true
+      }
+    ]
+  }
+}

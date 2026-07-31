@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065404832874131719",
+    "created_at": "2026-06-12T12:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065406313727689171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012048367845822464",
+          "start": 0,
+          "username": "souomaoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065406313727689171",
+    "in_reply_to_user_id": "2012048367845822464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065404832874131719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@souomaoxo 帮你捶捶腿~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065404832874131719",
+        "created_at": "2026-06-12T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065406313727689171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012048367845822464",
+              "start": 0,
+              "username": "souomaoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065406313727689171",
+        "in_reply_to_user_id": "2012048367845822464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065404832874131719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@souomaoxo 帮你捶捶腿~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012048367845822464",
+        "conversation_id": "2065404832874131719",
+        "created_at": "2026-06-12T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065404832874131719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065404832874131719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天没怎么发推 因为我刚刚到家 我累虚脱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 449,
+          "like_count": 6048,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1526
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T06:24:57.000Z",
+        "description": "💕@王馬小吉\n🇨🇳|精神不穩定|OD |自傷\n想和各種各樣的人們友好互動",
+        "id": "2012048367845822464",
+        "location": "🚪52",
+        "name": "所有人都死了",
+        "pinned_tweet_id": "2057266630741143696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064016601490305024/Mb6TDe3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 111,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 193
+        },
+        "username": "souomaoxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055212973233516983",
+    "created_at": "2026-05-15T09:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055220838178476458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055220838178476458",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055212973233516983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 我狠狠亲上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055212959731986433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWVTEKasAEYvsx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055212973233516983",
+        "created_at": "2026-05-15T09:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055220838178476458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055220838178476458",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055212973233516983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 我狠狠亲上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055212959731986433"
+          ]
+        },
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055212973233516983",
+        "created_at": "2026-05-15T09:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055212973233516983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuCYdLrI9A",
+              "end": 29,
+              "expanded_url": "https://x.com/lyxtd3s/status/2055212973233516983/photo/1",
+              "media_key": "3_2055212959731986433",
+              "start": 6,
+              "url": "https://t.co/SuCYdLrI9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055212973233516983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当男人时 https://t.co/SuCYdLrI9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 187,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 271
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "10｜重抑｜od 割手｜intp｜喜欢我的妹子和我互fo｜男的好友位🚪52 ｜纯绿🚪188 ｜不接线下",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2046681872424657078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 180,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 324
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

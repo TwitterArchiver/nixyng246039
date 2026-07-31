@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066748997809922447",
+    "created_at": "2026-06-16T10:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066830792563843308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036089955835920384",
+          "start": 0,
+          "username": "youyous2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066830792563843308",
+    "in_reply_to_user_id": "2036089955835920384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066748997809922447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyous2v 我的日语水平只能让我在日本街头当一个流口水智障要饭的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066748997809922447",
+        "created_at": "2026-06-16T10:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066830792563843308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036089955835920384",
+              "start": 0,
+              "username": "youyous2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830792563843308",
+        "in_reply_to_user_id": "2036089955835920384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066748997809922447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyous2v 我的日语水平只能让我在日本街头当一个流口水智障要饭的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036089955835920384",
+        "conversation_id": "2066748997809922447",
+        "created_at": "2026-06-16T05:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066748997809922447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066748997809922447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1026,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的日语熟练度堪比日本街头一条通人性的狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 495,
+          "like_count": 7040,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2053
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T14:38:05.000Z",
+        "description": "一个精神病",
+        "id": "2036089955835920384",
+        "name": "yy",
+        "pinned_tweet_id": "2060380307304456703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063995480816926720/PJ8c-aW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 37,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 113
+        },
+        "username": "youyous2v",
+        "verified": false
+      }
+    ]
+  }
+}

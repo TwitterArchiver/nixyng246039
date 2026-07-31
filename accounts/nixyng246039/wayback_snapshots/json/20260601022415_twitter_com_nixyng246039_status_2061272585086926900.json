@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060973955058671616",
+        "3_2060973935131533312",
+        "3_2060973935177711616",
+        "3_2060973955029311489"
+      ],
+      "media_source_tweet_id": [
+        "2060973982971773208",
+        "2060973982971773208",
+        "2060973982971773208",
+        "2060973982971773208"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061272585086926900",
+    "created_at": "2026-06-01T02:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061272585086926900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4123179914",
+          "start": 3,
+          "username": "Tatzelwurm56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t8HAHsh9oJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+          "media_key": "3_2060973955058671616",
+          "start": 50,
+          "url": "https://t.co/t8HAHsh9oJ"
+        },
+        {
+          "display_url": "pic.x.com/t8HAHsh9oJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+          "media_key": "3_2060973935131533312",
+          "start": 50,
+          "url": "https://t.co/t8HAHsh9oJ"
+        },
+        {
+          "display_url": "pic.x.com/t8HAHsh9oJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+          "media_key": "3_2060973935177711616",
+          "start": 50,
+          "url": "https://t.co/t8HAHsh9oJ"
+        },
+        {
+          "display_url": "pic.x.com/t8HAHsh9oJ",
+          "end": 73,
+          "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+          "media_key": "3_2060973955029311489",
+          "start": 50,
+          "url": "https://t.co/t8HAHsh9oJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061272585086926900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060973982971773208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tatzelwurm56: 中国美術学院×リバース1999のコラボ展覧にて学生達の同人作品 https://t.co/t8HAHsh9oJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060973955058671616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoM5IKaoAA05XM.jpg",
+        "width": 750
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060973935131533312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoM397aoAAspW2.jpg",
+        "width": 750
+      },
+      {
+        "height": 1936,
+        "media_key": "3_2060973935177711616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoM3-GbQAA58Ut.jpg",
+        "width": 750
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2060973955029311489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoM5IDaoAEOULg.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060973955058671616",
+            "3_2060973935131533312",
+            "3_2060973935177711616",
+            "3_2060973955029311489"
+          ],
+          "media_source_tweet_id": [
+            "2060973982971773208",
+            "2060973982971773208",
+            "2060973982971773208",
+            "2060973982971773208"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061272585086926900",
+        "created_at": "2026-06-01T02:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061272585086926900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4123179914",
+              "start": 3,
+              "username": "Tatzelwurm56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973955058671616",
+              "start": 50,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973935131533312",
+              "start": 50,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973935177711616",
+              "start": 50,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 73,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973955029311489",
+              "start": 50,
+              "url": "https://t.co/t8HAHsh9oJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061272585086926900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060973982971773208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tatzelwurm56: 中国美術学院×リバース1999のコラボ展覧にて学生達の同人作品 https://t.co/t8HAHsh9oJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060973955058671616",
+            "3_2060973935131533312",
+            "3_2060973935177711616",
+            "3_2060973955029311489"
+          ]
+        },
+        "author_id": "4123179914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060973982971773208",
+        "created_at": "2026-05-31T06:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060973982971773208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 55,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973955058671616",
+              "start": 32,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 55,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973935131533312",
+              "start": 32,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 55,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973935177711616",
+              "start": 32,
+              "url": "https://t.co/t8HAHsh9oJ"
+            },
+            {
+              "display_url": "pic.x.com/t8HAHsh9oJ",
+              "end": 55,
+              "expanded_url": "https://x.com/Tatzelwurm56/status/2060973982971773208/photo/1",
+              "media_key": "3_2060973955029311489",
+              "start": 32,
+              "url": "https://t.co/t8HAHsh9oJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060973982971773208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1050,
+          "impression_count": 245320,
+          "like_count": 4443,
+          "quote_count": 308,
+          "reply_count": 5,
+          "retweet_count": 1182
+        },
+        "reply_settings": "everyone",
+        "text": "中国美術学院×リバース1999のコラボ展覧にて学生達の同人作品 https://t.co/t8HAHsh9oJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 216,
+          "like_count": 2984,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 443
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-04T10:59:57.000Z",
+        "description": "世界一のライブ（諸説あり）\nヰ世界情緒　キャンディライブ 1",
+        "id": "4123179914",
+        "location": "Montevideo, Uruguay",
+        "name": "Tatzel",
+        "pinned_tweet_id": "1872550974600224877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983922228615155712/Mpbu4pBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 56,
+          "like_count": 231,
+          "listed_count": 16,
+          "media_count": 814,
+          "tweet_count": 1948
+        },
+        "username": "Tatzelwurm56",
+        "verified": false
+      }
+    ]
+  }
+}

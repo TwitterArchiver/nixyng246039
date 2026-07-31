@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063666122914963456"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2063666125645443555",
+    "created_at": "2026-06-07T16:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063666125645443555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth",
+          "end": 56,
+          "expanded_url": "https://infinitetweet.me/account-worth",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2061455467230949376/CVreyLU-?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061455467230949376/CVreyLU-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth",
+          "url": "https://t.co/JjjTuHtIJd"
+        },
+        {
+          "display_url": "pic.x.com/mLpt7CMlPW",
+          "end": 80,
+          "expanded_url": "https://x.com/nixyng246039/status/2063666125645443555/photo/1",
+          "media_key": "3_2063666122914963456",
+          "start": 57,
+          "url": "https://t.co/mLpt7CMlPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063666125645443555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "My Twitter worth is: $125.60\n\n➡️ https://t.co/JjjTuHtIJd https://t.co/mLpt7CMlPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2063666122914963456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOdZ69aoAA-mXZ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063666122914963456"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2063666125645443555",
+        "created_at": "2026-06-07T16:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063666125645443555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/account-worth",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2061455467230949376/CVreyLU-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061455467230949376/CVreyLU-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth",
+              "url": "https://t.co/JjjTuHtIJd"
+            },
+            {
+              "display_url": "pic.x.com/mLpt7CMlPW",
+              "end": 80,
+              "expanded_url": "https://x.com/nixyng246039/status/2063666125645443555/photo/1",
+              "media_key": "3_2063666122914963456",
+              "start": 57,
+              "url": "https://t.co/mLpt7CMlPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063666125645443555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter worth is: $125.60\n\n➡️ https://t.co/JjjTuHtIJd https://t.co/mLpt7CMlPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 346,
+          "like_count": 4452,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 935
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

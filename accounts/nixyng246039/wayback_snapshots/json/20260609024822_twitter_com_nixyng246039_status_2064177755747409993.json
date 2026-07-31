@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064177752664666112"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064177755747409993",
+    "created_at": "2026-06-09T02:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064177755747409993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJcdv6RjnJ",
+          "end": 37,
+          "expanded_url": "https://x.com/nixyng246039/status/2064177755747409993/photo/1",
+          "media_key": "3_2064177752664666112",
+          "start": 14,
+          "url": "https://t.co/mJcdv6RjnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064177755747409993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没剪指甲写字一直在抵着…… https://t.co/mJcdv6RjnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2064177752664666112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVuusTXcAAfmPm.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064177752664666112"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064177755747409993",
+        "created_at": "2026-06-09T02:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064177755747409993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJcdv6RjnJ",
+              "end": 37,
+              "expanded_url": "https://x.com/nixyng246039/status/2064177755747409993/photo/1",
+              "media_key": "3_2064177752664666112",
+              "start": 14,
+              "url": "https://t.co/mJcdv6RjnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064177755747409993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没剪指甲写字一直在抵着…… https://t.co/mJcdv6RjnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 388,
+          "like_count": 5141,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1141
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

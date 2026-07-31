@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052687247158505472"
+      ],
+      "media_source_tweet_id": [
+        "2052687258839564670"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066073030749512138",
+    "created_at": "2026-06-14T08:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066073030749512138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032152441685491714",
+          "start": 3,
+          "username": "Sqdqge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TolJ0k9Xp2",
+          "end": 64,
+          "expanded_url": "https://x.com/Sqdqge/status/2052687258839564670/photo/1",
+          "media_key": "3_2052687247158505472",
+          "start": 41,
+          "url": "https://t.co/TolJ0k9Xp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066073030749512138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052687258839564670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sqdqge: 10｜163/88｜顺女｜欢迎来和我互fo！大号被举报了 https://t.co/TolJ0k9Xp2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052687247158505472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHycLPnbcAAN3yA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052687247158505472"
+          ],
+          "media_source_tweet_id": [
+            "2052687258839564670"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066073030749512138",
+        "created_at": "2026-06-14T08:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066073030749512138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032152441685491714",
+              "start": 3,
+              "username": "Sqdqge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TolJ0k9Xp2",
+              "end": 64,
+              "expanded_url": "https://x.com/Sqdqge/status/2052687258839564670/photo/1",
+              "media_key": "3_2052687247158505472",
+              "start": 41,
+              "url": "https://t.co/TolJ0k9Xp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066073030749512138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052687258839564670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sqdqge: 10｜163/88｜顺女｜欢迎来和我互fo！大号被举报了 https://t.co/TolJ0k9Xp2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052687247158505472"
+          ]
+        },
+        "author_id": "2032152441685491714",
+        "conversation_id": "2052687258839564670",
+        "created_at": "2026-05-08T09:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052687258839564670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TolJ0k9Xp2",
+              "end": 52,
+              "expanded_url": "https://x.com/Sqdqge/status/2052687258839564670/photo/1",
+              "media_key": "3_2052687247158505472",
+              "start": 29,
+              "url": "https://t.co/TolJ0k9Xp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052687258839564670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1757,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "10｜163/88｜顺女｜欢迎来和我互fo！大号被举报了 https://t.co/TolJ0k9Xp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 478,
+          "like_count": 6566,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1765
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T17:53:30.000Z",
+        "description": "",
+        "id": "2032152441685491714",
+        "location": "🚪52/288/520/上不封顶（不退门",
+        "name": "。",
+        "pinned_tweet_id": "2052687258839564670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050135299729317888/LNiIvhY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 116,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 415
+        },
+        "username": "Sqdqge",
+        "verified": false
+      }
+    ]
+  }
+}

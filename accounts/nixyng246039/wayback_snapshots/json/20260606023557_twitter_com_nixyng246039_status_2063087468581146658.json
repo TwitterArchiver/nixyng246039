@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063084384865894750",
+    "created_at": "2026-06-06T02:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063087468581146658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063087468581146658",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063084384865894750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼玛推特你啥意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063084381950922752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGMUI_XUAA7i_t.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063084384865894750",
+        "created_at": "2026-06-06T02:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063087468581146658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063087468581146658",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063084384865894750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼玛推特你啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063084381950922752"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063084384865894750",
+        "created_at": "2026-06-06T02:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063084384865894750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvucZgwBp0",
+              "end": 29,
+              "expanded_url": "https://x.com/nixyng246039/status/2063084384865894750/photo/1",
+              "media_key": "3_2063084381950922752",
+              "start": 6,
+              "url": "https://t.co/qvucZgwBp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063084384865894750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶我草泥爹 https://t.co/qvucZgwBp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 300,
+          "like_count": 3791,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 695
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

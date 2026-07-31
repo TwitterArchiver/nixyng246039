@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2022011407110385792",
+    "created_at": "2026-02-12T18:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022011407110385792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Seible_2434/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Seible_2434/status/2021459825683747152",
+          "start": 18,
+          "url": "https://t.co/uuoRC5rPsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022011407110385792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021459825683747152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真笑了，就中间站着一个雷霆纸片人 https://t.co/uuoRC5rPsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2021456122104905737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2nogcaAAkoloZ.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2022011407110385792",
+        "created_at": "2026-02-12T18:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022011407110385792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Seible_2434/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Seible_2434/status/2021459825683747152",
+              "start": 18,
+              "url": "https://t.co/uuoRC5rPsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022011407110385792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021459825683747152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真笑了，就中间站着一个雷霆纸片人 https://t.co/uuoRC5rPsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021456122104905737"
+          ]
+        },
+        "author_id": "1894934445226127360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2021459825683747152",
+        "created_at": "2026-02-11T05:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021459825683747152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 141,
+              "normalized_text": "Claude",
+              "probability": 0.7216,
+              "start": 136,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "Doppio",
+              "probability": 0.7613,
+              "start": 144,
+              "type": "Other"
+            },
+            {
+              "end": 155,
+              "normalized_text": "Luca",
+              "probability": 0.7869,
+              "start": 152,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Maria",
+              "probability": 0.7512,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 170,
+              "normalized_text": "Meloco",
+              "probability": 0.7588,
+              "start": 165,
+              "type": "Other"
+            },
+            {
+              "end": 177,
+              "normalized_text": "Petra",
+              "probability": 0.7272,
+              "start": 173,
+              "type": "Other"
+            },
+            {
+              "end": 184,
+              "normalized_text": "Sonny",
+              "probability": 0.7188,
+              "start": 180,
+              "type": "Other"
+            },
+            {
+              "end": 189,
+              "normalized_text": "Uki",
+              "probability": 0.7707,
+              "start": 187,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "Vezalius",
+              "probability": 0.8383,
+              "start": 192,
+              "type": "Other"
+            },
+            {
+              "end": 211,
+              "normalized_text": "Wilson",
+              "probability": 0.6643,
+              "start": 206,
+              "type": "Other"
+            },
+            {
+              "end": 259,
+              "normalized_text": "Seiblebot",
+              "probability": 0.8282,
+              "start": 251,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1589531775058968576",
+              "start": 40,
+              "username": "D_Dropscythe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t57oG9o06Y",
+              "end": 284,
+              "expanded_url": "https://x.com/Seible_2434/status/2021459825683747152/photo/1",
+              "media_key": "3_2021456122104905737",
+              "start": 261,
+              "url": "https://t.co/t57oG9o06Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021459825683747152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 168130,
+          "like_count": 11478,
+          "quote_count": 87,
+          "reply_count": 48,
+          "retweet_count": 2092
+        },
+        "reply_settings": "everyone",
+        "text": "WEREWOLF IN 3D - 人狼3D🐺\nLet's go Captain @D_Dropscythe ! What a heart -pounding game in space! A big round of applause for our crewmates Claude, Doppio, Luca, Maria, Meloco, Petra, Sonny, Uki, Vezalius, and Wilson and thank YOU for watching!\n-Your MC, Seiblebot https://t.co/t57oG9o06Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 117,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T02:16:04.000Z",
+        "description": "No.1 Promoter of BY THE BEAT @NIJISANJI_World\nにじさんじEN所属！プロモーターのセイブルです！\nママ: @nana_tetra !\n#Seible #Seiblue #NIJISANJI_EN #BYTHEBEAT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "Seible"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "tag": "Seiblue"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "tag": "BYTHEBEAT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "NIJISANJI_World"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "nana_tetra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Seible_nijisa…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Seible_nijisanji?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SJ5z2M6jwC"
+              }
+            ]
+          }
+        },
+        "id": "1894934445226127360",
+        "location": "BY THE BEAT",
+        "name": "Seible 💎👔 NIJISANJI EN",
+        "pinned_tweet_id": "2021811520750202930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977418354089754624/XbLnQLS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129064,
+          "following_count": 249,
+          "like_count": 16002,
+          "listed_count": 824,
+          "media_count": 419,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/SJ5z2M6jwC",
+        "username": "Seible_2434",
+        "verified": true
+      }
+    ]
+  }
+}

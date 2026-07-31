@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2071190429740171554",
+    "created_at": "2026-06-28T15:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071249564535820748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 29,
+          "id": "1968940871660744705",
+          "start": 15,
+          "username": "guest07080279"
+        },
+        {
+          "end": 45,
+          "id": "1998718271856717826",
+          "start": 30,
+          "username": "PaulaRiver9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071249564535820748",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071190429740171554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 @guest07080279 @PaulaRiver9119 卧槽这么好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2445,
+        "media_key": "3_2071189940814381057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5YRwyagAE9epo.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2071189940814393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5YRwyasAA8OgH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2071190429740171554",
+        "created_at": "2026-06-28T15:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071249564535820748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 29,
+              "id": "1968940871660744705",
+              "start": 15,
+              "username": "guest07080279"
+            },
+            {
+              "end": 45,
+              "id": "1998718271856717826",
+              "start": 30,
+              "username": "PaulaRiver9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071249564535820748",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071190429740171554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @guest07080279 @PaulaRiver9119 卧槽这么好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071189940814381057",
+            "3_2071189940814393344"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071190429740171554",
+        "created_at": "2026-06-28T11:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071190429740171554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 132,
+              "id": "1968940871660744705",
+              "start": 118,
+              "username": "guest07080279"
+            },
+            {
+              "end": 152,
+              "id": "1998718271856717826",
+              "start": 137,
+              "username": "PaulaRiver9119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhsgFgkp5h",
+              "end": 176,
+              "expanded_url": "https://x.com/bisco91395061/status/2071190429740171554/photo/1",
+              "media_key": "3_2071189940814381057",
+              "start": 153,
+              "url": "https://t.co/NhsgFgkp5h"
+            },
+            {
+              "display_url": "pic.x.com/NhsgFgkp5h",
+              "end": 176,
+              "expanded_url": "https://x.com/bisco91395061/status/2071190429740171554/photo/1",
+              "media_key": "3_2071189940814393344",
+              "start": 153,
+              "url": "https://t.co/NhsgFgkp5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071190429740171554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了不是我女神来了所有人立刻跪拜！！！！！！\n😭😭😭😭😭😭😭😭😭😭😭😱😱😱😱😱😱😱太好吃了😱😱😱😱😱太美丽了wk我还要活一百年😱😱😱我生下来就是为了看砂女神画我女儿的。。。。。😭😭😭😭🥹🥹🥹🥹🥹💖💖💖💖💖💖👁️👅👁️\n伟大的画师→→→@guest07080279 \n→→→@PaulaRiver9119 https://t.co/NhsgFgkp5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（淡推因为手机坏了……）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 515,
+          "like_count": 7516,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2288
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 325,
+          "like_count": 8731,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！欢迎来和我玩🥺🥺！！\n                💖DM大欢迎！💖\n 无言关注失礼了！是超级喜欢的意思🥺！   碎碎念@PaulaRiver9119  负面预警😈⚠！\n🔥画🔥画🔥屌🔥丝🔥火🔥热🔥画🔥史🔥\n啥时候能从幽灵ban出来…😭😭😭✋️✋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 70,
+                "username": "PaulaRiver9119"
+              }
+            ]
+          }
+        },
+        "id": "1968940871660744705",
+        "name": "砂",
+        "pinned_tweet_id": "2063447096565662099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 37,
+          "like_count": 8520,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "guest07080279",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁\n一般发碎碎念有负面预警！！😈⚠\n/Eng&日本語 翻译器💖💖/\n被ban的时候也会在这里发点画😢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "name": "Vermilion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066463827311607809/Pt_Cicbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "PaulaRiver9119",
+        "verified": false
+      }
+    ]
+  }
+}

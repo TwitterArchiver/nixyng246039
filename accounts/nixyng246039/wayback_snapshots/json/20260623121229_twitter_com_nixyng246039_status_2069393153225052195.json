@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2069391463801094261",
+    "created_at": "2026-06-23T12:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069393153225052195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040055666799443968",
+          "start": 0,
+          "username": "MeguToge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069393153225052195",
+    "in_reply_to_user_id": "2040055666799443968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069391463801094261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeguToge hellohello！我上榜啦，贴贴~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2069391459803877376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf0kY7WUAA5_pP.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2069391463801094261",
+        "created_at": "2026-06-23T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069393153225052195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040055666799443968",
+              "start": 0,
+              "username": "MeguToge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069393153225052195",
+        "in_reply_to_user_id": "2040055666799443968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069391463801094261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeguToge hellohello！我上榜啦，贴贴~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069391459803877376"
+          ]
+        },
+        "author_id": "2040055666799443968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069391463801094261",
+        "created_at": "2026-06-23T12:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069391463801094261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIjlee5WBi",
+              "end": 80,
+              "expanded_url": "https://x.com/MeguToge/status/2069391463801094261/photo/1",
+              "media_key": "3_2069391459803877376",
+              "start": 57,
+              "url": "https://t.co/oIjlee5WBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069391463801094261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/oIjlee5WBi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 514,
+          "like_count": 7423,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:18:22.000Z",
+        "description": "你好我是零零 精神疾病有\n会自伤情绪不稳定 可以找我互fo查成分回",
+        "id": "2040055666799443968",
+        "name": "澪朽",
+        "pinned_tweet_id": "2068249644032029091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068555991839657984/puEUlU9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 86,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "MeguToge",
+        "verified": false
+      }
+    ]
+  }
+}

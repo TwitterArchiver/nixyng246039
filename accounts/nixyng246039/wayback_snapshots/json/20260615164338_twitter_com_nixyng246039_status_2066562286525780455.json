@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066138895805448192"
+      ],
+      "media_source_tweet_id": [
+        "2066138951732392126"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066562286525780455",
+    "created_at": "2026-06-15T16:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066562286525780455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "エナーアート"
+        },
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "palouette"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1594194144385433601",
+          "start": 3,
+          "username": "Pudding076100"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYEzLScBi1",
+          "end": 61,
+          "expanded_url": "https://x.com/Pudding076100/status/2066138951732392126/video/1",
+          "media_key": "13_2066138895805448192",
+          "start": 38,
+          "url": "https://t.co/JYEzLScBi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066562286525780455",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066138951732392126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pudding076100: #エナーアート #palouette https://t.co/JYEzLScBi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8591,
+        "height": 716,
+        "media_key": "13_2066138895805448192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066138895805448192/img/OATkzyHUxD5xOR7O.jpg",
+        "public_metrics": {
+          "view_count": 5037
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066138895805448192/vid/avc1/482x270/kwfOrlKXwuskbSHa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066138895805448192/vid/avc1/642x360/gVajc5HtmGpR4Q8_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066138895805448192/vid/avc1/1280x716/RrJ5Zbe8m608ukfS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066138895805448192/pl/Rlhi7ajpcwALJo5S.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066138895805448192"
+          ],
+          "media_source_tweet_id": [
+            "2066138951732392126"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066562286525780455",
+        "created_at": "2026-06-15T16:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066562286525780455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "エナーアート"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "palouette"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1594194144385433601",
+              "start": 3,
+              "username": "Pudding076100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYEzLScBi1",
+              "end": 61,
+              "expanded_url": "https://x.com/Pudding076100/status/2066138951732392126/video/1",
+              "media_key": "13_2066138895805448192",
+              "start": 38,
+              "url": "https://t.co/JYEzLScBi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066562286525780455",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066138951732392126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pudding076100: #エナーアート #palouette https://t.co/JYEzLScBi1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066138895805448192"
+          ]
+        },
+        "author_id": "1594194144385433601",
+        "conversation_id": "2066138951732392126",
+        "created_at": "2026-06-14T12:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066138951732392126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "エナーアート"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "palouette"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYEzLScBi1",
+              "end": 42,
+              "expanded_url": "https://x.com/Pudding076100/status/2066138951732392126/video/1",
+              "media_key": "13_2066138895805448192",
+              "start": 19,
+              "url": "https://t.co/JYEzLScBi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066138951732392126",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 11889,
+          "like_count": 1215,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "#エナーアート #palouette https://t.co/JYEzLScBi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 490,
+          "like_count": 6808,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1921
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T05:01:25.000Z",
+        "description": "Enna is the best 世一",
+        "id": "1594194144385433601",
+        "name": "Pudding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594194215000764416/pGU-qzSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "Pudding076100",
+        "verified": false
+      }
+    ]
+  }
+}

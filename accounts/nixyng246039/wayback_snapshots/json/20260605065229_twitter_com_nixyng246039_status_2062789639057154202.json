@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062789639057154202",
+    "created_at": "2026-06-05T06:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062789639057154202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545351225293426688",
+          "start": 3,
+          "username": "MariaMari0nette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062789639057154202",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062768290070761683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MariaMari0nette: Omg talking to my sister unlocked this crazy memory of a dollchildhood show I use to watch in china o:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062789639057154202",
+        "created_at": "2026-06-05T06:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062789639057154202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1545351225293426688",
+              "start": 3,
+              "username": "MariaMari0nette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062789639057154202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768290070761683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MariaMari0nette: Omg talking to my sister unlocked this crazy memory of a dollchildhood show I use to watch in china o:"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545351225293426688",
+        "conversation_id": "2062768290070761683",
+        "created_at": "2026-06-05T05:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062768290070761683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062768290070761683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5956,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Omg talking to my sister unlocked this crazy memory of a dollchildhood show I use to watch in china o:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 277,
+          "like_count": 3575,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 629
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T10:18:00.000Z",
+        "description": "Mariring! Ur Chuuni iDoll #MariaMarionette from #ILUNA❤️‍🩹🐰 にじさんじEN所属厨二病人形のマリアマリオネットです！🌈🕒 #MariArtte #NIJISANJI_EN 🧍: @ji__mag 👤: @mugimugigo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 26,
+                "tag": "MariaMarionette"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "ILUNA"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "MariArtte"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "tag": "NIJISANJI_EN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "ji__mag"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "mugimugigo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwaS8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+                "start": 0,
+                "url": "https://t.co/rTSi7OhuU8"
+              }
+            ]
+          }
+        },
+        "id": "1545351225293426688",
+        "location": "Institute of Mystics",
+        "name": "Maria Marionette ❤️‍🩹🐰 NIJISANJI EN",
+        "pinned_tweet_id": "2061860718375555227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777257199724888064/RMWXkkgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510112,
+          "following_count": 542,
+          "like_count": 27859,
+          "listed_count": 3621,
+          "media_count": 2933,
+          "tweet_count": 25418
+        },
+        "url": "https://t.co/rTSi7OhuU8",
+        "username": "MariaMari0nette",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062568869806698499",
+    "created_at": "2026-06-04T16:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062568869806698499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nixyng246039/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nixyng246039/status/2062483319154229299",
+          "start": 14,
+          "url": "https://t.co/yGU1shpQiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062568869806698499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062483319154229299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜女孩们都对我太好了🥺 https://t.co/yGU1shpQiN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062568869806698499",
+        "created_at": "2026-06-04T16:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062568869806698499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nixyng246039/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nixyng246039/status/2062483319154229299",
+              "start": 14,
+              "url": "https://t.co/yGU1shpQiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062568869806698499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜女孩们都对我太好了🥺 https://t.co/yGU1shpQiN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T10:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062483319154229299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062483319154229299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1682,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心，在思考要不要od，有人给建议吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 238,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 532
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

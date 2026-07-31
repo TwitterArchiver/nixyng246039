@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062061784929058857",
+    "created_at": "2026-06-04T16:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570434261033316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931699727059582976",
+          "start": 0,
+          "username": "LuvSweetillUdie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570434261033316",
+    "in_reply_to_user_id": "1931699727059582976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062061784929058857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSweetillUdie 那我是男的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2062061782144102400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3qQ_2bsAAbvMq.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062061784929058857",
+        "created_at": "2026-06-04T16:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570434261033316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931699727059582976",
+              "start": 0,
+              "username": "LuvSweetillUdie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570434261033316",
+        "in_reply_to_user_id": "1931699727059582976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062061784929058857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSweetillUdie 那我是男的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062061782144102400"
+          ]
+        },
+        "author_id": "1931699727059582976",
+        "conversation_id": "2062061784929058857",
+        "created_at": "2026-06-03T06:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061784929058857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fB31mcLNdP",
+              "end": 36,
+              "expanded_url": "https://x.com/LuvSweetillUdie/status/2062061784929058857/photo/1",
+              "media_key": "3_2062061782144102400",
+              "start": 13,
+              "url": "https://t.co/fB31mcLNdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061784929058857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 208242,
+          "like_count": 3357,
+          "quote_count": 32,
+          "reply_count": 901,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "？中推圈的女孩子们惹谁了 https://t.co/fB31mcLNdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 239,
+          "like_count": 3321,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 535
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T13:08:12.000Z",
+        "description": "06巨蟹♋🍒🐰ENFJ 玻璃心小猫🐈\n\n清水推/小猫日记/和👓🐶持续幸福中/典型窝里横/当朋友圈发/想看照片点媒体/不提供任何服务/🈚🚪请不要骚扰我/私信不太会回  被爱的时候是幸福小猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tiantiansweeth…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tiantiansweetheart",
+                "start": 0,
+                "url": "https://t.co/DDmv7RyFbG"
+              }
+            ]
+          }
+        },
+        "id": "1931699727059582976",
+        "location": "冰岛",
+        "name": "天才小甜ovo",
+        "pinned_tweet_id": "2048079686564221284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976472474515800065/uwNgm1lc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 410,
+          "like_count": 3925,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/DDmv7RyFbG",
+        "username": "LuvSweetillUdie",
+        "verified": false
+      }
+    ]
+  }
+}

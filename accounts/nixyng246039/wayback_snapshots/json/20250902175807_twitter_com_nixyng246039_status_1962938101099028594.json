@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962938097164812288"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "1962938101099028594",
+    "created_at": "2025-09-02T17:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962938101099028594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OC7hfPYzxl",
+          "end": 23,
+          "expanded_url": "https://x.com/nixyng246039/status/1962938101099028594/photo/1",
+          "media_key": "3_1962938097164812288",
+          "start": 0,
+          "url": "https://t.co/OC7hfPYzxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962938101099028594",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OC7hfPYzxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962938097164812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz3BzJ2XAAAq7cB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962938097164812288"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "1962938101099028594",
+        "created_at": "2025-09-02T17:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962938101099028594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OC7hfPYzxl",
+              "end": 23,
+              "expanded_url": "https://x.com/nixyng246039/status/1962938101099028594/photo/1",
+              "media_key": "3_1962938097164812288",
+              "start": 0,
+              "url": "https://t.co/OC7hfPYzxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962938101099028594",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OC7hfPYzxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 57,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

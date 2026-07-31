@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063998062612156493",
+    "created_at": "2026-06-08T14:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063998062612156493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1626412170337746944",
+          "start": 3,
+          "username": "moontidebemoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063998062612156493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063934575764783499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moontidebemoth: 那些文字写的比我好的人比我惨的同时通常还比我漂亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063998062612156493",
+        "created_at": "2026-06-08T14:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063998062612156493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1626412170337746944",
+              "start": 3,
+              "username": "moontidebemoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063998062612156493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063934575764783499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moontidebemoth: 那些文字写的比我好的人比我惨的同时通常还比我漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626412170337746944",
+        "conversation_id": "2063934575764783499",
+        "created_at": "2026-06-08T10:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063934575764783499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063934575764783499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些文字写的比我好的人比我惨的同时通常还比我漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 375,
+          "like_count": 4963,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1085
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女 kaiunRaido 恋人 @Fuyugumomizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Fuyugumomizuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaiun7773283479",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaiun7773283479",
+                "start": 0,
+                "url": "https://t.co/XPRlg8xWde"
+              }
+            ]
+          }
+        },
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "2053063715273277741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 156,
+          "like_count": 17626,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/XPRlg8xWde",
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063599588632854529"
+      ],
+      "media_source_tweet_id": [
+        "2063599595666722876"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063825456940376269",
+    "created_at": "2026-06-08T03:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063825456940376269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1984298385281859586",
+          "start": 3,
+          "username": "x_curse_d01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BEcHlqueII",
+          "end": 58,
+          "expanded_url": "https://x.com/x_curse_d01/status/2063599595666722876/photo/1",
+          "media_key": "3_2063599588632854529",
+          "start": 35,
+          "url": "https://t.co/BEcHlqueII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063825456940376269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063599595666722876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_curse_d01: 生命加速器 というものをTLで見た https://t.co/BEcHlqueII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063599588632854529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNg5HcagAE1KqP.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063599588632854529"
+          ],
+          "media_source_tweet_id": [
+            "2063599595666722876"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063825456940376269",
+        "created_at": "2026-06-08T03:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063825456940376269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1984298385281859586",
+              "start": 3,
+              "username": "x_curse_d01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEcHlqueII",
+              "end": 58,
+              "expanded_url": "https://x.com/x_curse_d01/status/2063599595666722876/photo/1",
+              "media_key": "3_2063599588632854529",
+              "start": 35,
+              "url": "https://t.co/BEcHlqueII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063825456940376269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063599595666722876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_curse_d01: 生命加速器 というものをTLで見た https://t.co/BEcHlqueII"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063599588632854529"
+          ]
+        },
+        "author_id": "1984298385281859586",
+        "conversation_id": "2063599595666722876",
+        "created_at": "2026-06-07T12:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063599595666722876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEcHlqueII",
+              "end": 41,
+              "expanded_url": "https://x.com/x_curse_d01/status/2063599595666722876/photo/1",
+              "media_key": "3_2063599588632854529",
+              "start": 18,
+              "url": "https://t.co/BEcHlqueII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599595666722876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 108262,
+          "like_count": 5471,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "生命加速器 というものをTLで見た https://t.co/BEcHlqueII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 348,
+          "like_count": 4502,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 955
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T16:38:00.000Z",
+        "description": "絵を描きます │ 雑多 │ https://t.co/sAeAkzwJFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kei_fumei__",
+                "end": 37,
+                "expanded_url": "http://lit.link/kei_fumei__",
+                "start": 14,
+                "url": "https://t.co/sAeAkzwJFm"
+              }
+            ]
+          }
+        },
+        "id": "1984298385281859586",
+        "location": "AI× reupload× use×",
+        "name": "けい ふめい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027912131459616771/Y8NULt3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 3,
+          "like_count": 917,
+          "listed_count": 27,
+          "media_count": 110,
+          "tweet_count": 171
+        },
+        "username": "x_curse_d01",
+        "verified": false
+      }
+    ]
+  }
+}

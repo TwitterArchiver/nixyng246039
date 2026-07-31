@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064704764269519292",
+    "created_at": "2026-06-10T13:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064704764269519292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545562635650957312",
+          "start": 3,
+          "username": "AiaAmare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064704764269519292",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064698024647893470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AiaAmare: My coworkers don’t understand that I am emotionally vulnerable right now because last night on stream my cop buddy/guardian a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064704764269519292",
+        "created_at": "2026-06-10T13:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064704764269519292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545562635650957312",
+              "start": 3,
+              "username": "AiaAmare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704764269519292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064698024647893470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AiaAmare: My coworkers don’t understand that I am emotionally vulnerable right now because last night on stream my cop buddy/guardian a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545562635650957312",
+        "conversation_id": "2064698024647893470",
+        "created_at": "2026-06-10T13:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064698024647893470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064698024647893470",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2798,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "My coworkers don’t understand that I am emotionally vulnerable right now because last night on stream my cop buddy/guardian angel truly trusted me to save his life and is healing the broken man I am, showing that anyone is capable of redemption and deserving of love UEEEEEEE😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 413,
+          "like_count": 5585,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1331
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:17:56.000Z",
+        "description": "I'm Aia Amare, the Angelic Maiden of NIJISANJI EN!👼⭐ にじさんじEN所属天界の少女アイア・アマレです。| ママ: @Noy_0_0\n \n🎨: #AmareAtelier\n#ILUNA\nBanner: sunsetlcc\nPFP: mayurikaichou",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 97,
+                "tag": "AmareAtelier"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "ILUNA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Noy_0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCN68L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+                "start": 0,
+                "url": "https://t.co/JtqUOwZIqX"
+              }
+            ]
+          }
+        },
+        "id": "1545562635650957312",
+        "location": "Institute of Mystics",
+        "name": "Aia Amare 👼⭐NIJISANJI EN",
+        "pinned_tweet_id": "2063848441889878463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064076582528897024/dr7yWLJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386859,
+          "following_count": 564,
+          "like_count": 15494,
+          "listed_count": 2993,
+          "media_count": 2142,
+          "tweet_count": 9176
+        },
+        "url": "https://t.co/JtqUOwZIqX",
+        "username": "AiaAmare",
+        "verified": true
+      }
+    ]
+  }
+}

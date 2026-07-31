@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064010477496062237",
+    "created_at": "2026-06-08T15:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010477496062237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631836864483328",
+          "start": 3,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010477496062237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063966455197266102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuT_1Apple: 我不能自残，不能吸毒，不能磕药，不能抽烟，不能哭。老天爷你不想对我宽容就快放我走。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064010477496062237",
+        "created_at": "2026-06-08T15:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064010477496062237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631836864483328",
+              "start": 3,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064010477496062237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063966455197266102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuT_1Apple: 我不能自残，不能吸毒，不能磕药，不能抽烟，不能哭。老天爷你不想对我宽容就快放我走。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2063966455197266102",
+        "created_at": "2026-06-08T12:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063966455197266102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063966455197266102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不能自残，不能吸毒，不能磕药，不能抽烟，不能哭。老天爷你不想对我宽容就快放我走。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 380,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1097
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 17,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

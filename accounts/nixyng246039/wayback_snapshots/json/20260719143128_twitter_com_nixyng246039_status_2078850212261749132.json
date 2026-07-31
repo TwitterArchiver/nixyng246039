@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078823104927637504"
+      ],
+      "media_source_tweet_id": [
+        "2078823165526962586"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2078850212261749132",
+    "created_at": "2026-07-19T14:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078850212261749132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409516495571501066",
+          "start": 3,
+          "username": "DrankghostU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MMFGVUTlBD",
+          "end": 53,
+          "expanded_url": "https://x.com/DrankghostU/status/2078823165526962586/photo/1",
+          "media_key": "3_2078823104927637504",
+          "start": 30,
+          "url": "https://t.co/MMFGVUTlBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078850212261749132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078823165526962586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrankghostU: 有人想来死目莉的家吗？😼 https://t.co/MMFGVUTlBD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078823104927637504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl2mZAWIAAZhsZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078823104927637504"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2078823165526962586",
+        "created_at": "2026-07-19T12:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078823165526962586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMFGVUTlBD",
+              "end": 36,
+              "expanded_url": "https://x.com/DrankghostU/status/2078823165526962586/photo/1",
+              "media_key": "3_2078823104927637504",
+              "start": 13,
+              "url": "https://t.co/MMFGVUTlBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078823165526962586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人想来死目莉的家吗？😼 https://t.co/MMFGVUTlBD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078823104927637504"
+          ],
+          "media_source_tweet_id": [
+            "2078823165526962586"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2078850212261749132",
+        "created_at": "2026-07-19T14:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078850212261749132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409516495571501066",
+              "start": 3,
+              "username": "DrankghostU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMFGVUTlBD",
+              "end": 53,
+              "expanded_url": "https://x.com/DrankghostU/status/2078823165526962586/photo/1",
+              "media_key": "3_2078823104927637504",
+              "start": 30,
+              "url": "https://t.co/MMFGVUTlBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078850212261749132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078823165526962586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrankghostU: 有人想来死目莉的家吗？😼 https://t.co/MMFGVUTlBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 505,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 209,
+          "like_count": 224,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

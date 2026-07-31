@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063277325081628672"
+      ],
+      "media_source_tweet_id": [
+        "2063277340105625657"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063316325791936824",
+    "created_at": "2026-06-06T17:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063316325791936824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "963305708560179201",
+          "start": 3,
+          "username": "yowaiinudasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFeIqQ83cA",
+          "end": 47,
+          "expanded_url": "https://x.com/yowaiinudasi/status/2063277340105625657/photo/1",
+          "media_key": "3_2063277325081628672",
+          "start": 24,
+          "url": "https://t.co/yFeIqQ83cA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063316325791936824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063277340105625657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yowaiinudasi: 集中力ない https://t.co/yFeIqQ83cA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2063277325081628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI7y6Kb0AAUZ65.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063277325081628672"
+          ],
+          "media_source_tweet_id": [
+            "2063277340105625657"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063316325791936824",
+        "created_at": "2026-06-06T17:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063316325791936824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "963305708560179201",
+              "start": 3,
+              "username": "yowaiinudasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFeIqQ83cA",
+              "end": 47,
+              "expanded_url": "https://x.com/yowaiinudasi/status/2063277340105625657/photo/1",
+              "media_key": "3_2063277325081628672",
+              "start": 24,
+              "url": "https://t.co/yFeIqQ83cA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063316325791936824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063277340105625657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yowaiinudasi: 集中力ない https://t.co/yFeIqQ83cA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063277325081628672"
+          ]
+        },
+        "author_id": "963305708560179201",
+        "conversation_id": "2063277340105625657",
+        "created_at": "2026-06-06T15:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063277340105625657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFeIqQ83cA",
+              "end": 29,
+              "expanded_url": "https://x.com/yowaiinudasi/status/2063277340105625657/photo/1",
+              "media_key": "3_2063277325081628672",
+              "start": 6,
+              "url": "https://t.co/yFeIqQ83cA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063277340105625657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 22478,
+          "like_count": 2147,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "集中力ない https://t.co/yFeIqQ83cA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 303,
+          "like_count": 3802,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 705
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-13T06:55:53.000Z",
+        "description": "イラストレーター。▼ホロスターズ/荒咬オウガ▼にじさんじ/闇ノシュウ，ROF-MAO▼ホエール・テイラー▼ゆにれいど！/黒花蘭，▼FGO，プロセカ，チュウニズム，アズレン等 🐕仕事受付停止中",
+        "id": "963305708560179201",
+        "location": "犬鳴",
+        "name": "吠L",
+        "pinned_tweet_id": "1479025714892795913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451334573225218054/Rf0JtVL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233242,
+          "following_count": 554,
+          "like_count": 2180,
+          "listed_count": 1028,
+          "media_count": 142,
+          "tweet_count": 3670
+        },
+        "username": "yowaiinudasi",
+        "verified": false
+      }
+    ]
+  }
+}

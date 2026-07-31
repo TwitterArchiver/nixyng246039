@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063319491270848706",
+    "created_at": "2026-06-06T17:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063319491270848706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KfirC10SRC/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/KfirC10SRC/status/2063254831238873160",
+          "start": 14,
+          "url": "https://t.co/y6ETxQRPOa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063319491270848706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063254831238873160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸好我来推特前就踏马不正常 https://t.co/y6ETxQRPOa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063319491270848706",
+        "created_at": "2026-06-06T17:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063319491270848706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2063254831238873160",
+              "start": 14,
+              "url": "https://t.co/y6ETxQRPOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063319491270848706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063254831238873160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸好我来推特前就踏马不正常 https://t.co/y6ETxQRPOa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689095384956633088",
+        "conversation_id": "2063254831238873160",
+        "created_at": "2026-06-06T13:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063254831238873160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063254831238873160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16612,
+          "like_count": 169,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得应该严打16岁以下使用VPN的，推特让许多原本正常的人变得不正常了，精神病化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 308,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 725
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的小南梁，双相/ADHD，  战雷空战大手子   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2054139256382394384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 282,
+          "like_count": 465,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 619
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

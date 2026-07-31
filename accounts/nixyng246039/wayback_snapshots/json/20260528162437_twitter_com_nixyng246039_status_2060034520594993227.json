@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2060034520594993227",
+    "created_at": "2026-05-28T16:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060034520594993227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "970692564096499712",
+          "start": 3,
+          "username": "rei_Toya_rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060034520594993227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060021310122827876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rei_Toya_rei: ろふまおでの4年半、本当にありがとうございました！！！！\n楽しくて濃い、宝物のような時間でした！！！\n愛すべき仲間達との冒険はここで一区切りですが、我々のVTuber人生はこれからもどんどん進みます！！\n\nろふまお、もう全員カッコイイオトナだ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2060021305974689792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaqdpxbkAAuq4x.jpg",
+        "width": 2011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2060034520594993227",
+        "created_at": "2026-05-28T16:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060034520594993227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "970692564096499712",
+              "start": 3,
+              "username": "rei_Toya_rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060034520594993227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021310122827876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rei_Toya_rei: ろふまおでの4年半、本当にありがとうございました！！！！\n楽しくて濃い、宝物のような時間でした！！！\n愛すべき仲間達との冒険はここで一区切りですが、我々のVTuber人生はこれからもどんどん進みます！！\n\nろふまお、もう全員カッコイイオトナだ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060021305974689792"
+          ]
+        },
+        "author_id": "970692564096499712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2060021310122827876",
+        "created_at": "2026-05-28T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060021310122827876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbE9KW6kcC",
+              "end": 168,
+              "expanded_url": "https://x.com/rei_Toya_rei/status/2060021310122827876/photo/1",
+              "media_key": "3_2060021305974689792",
+              "start": 145,
+              "url": "https://t.co/kbE9KW6kcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060021310122827876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5147,
+          "impression_count": 486299,
+          "like_count": 64183,
+          "quote_count": 494,
+          "reply_count": 1863,
+          "retweet_count": 25247
+        },
+        "reply_settings": "everyone",
+        "text": "ろふまおでの4年半、本当にありがとうございました！！！！\n楽しくて濃い、宝物のような時間でした！！！\n愛すべき仲間達との冒険はここで一区切りですが、我々のVTuber人生はこれからもどんどん進みます！！\n\nろふまお、もう全員カッコイイオトナだったぞ！！！\nまた交わる時までお元気で！！！！ https://t.co/kbE9KW6kcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n账号有转极多同人",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 197,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 367
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T16:08:36.000Z",
+        "description": "にじさんじ所属のバーチャルライバー剣持刀也です あなたは誰ですか？ お問合わせ先はこちら https://t.co/7Jbr2sljbY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nijisanji.jp/contact",
+                "end": 68,
+                "expanded_url": "http://nijisanji.jp/contact",
+                "start": 45,
+                "url": "https://t.co/7Jbr2sljbY"
+              }
+            ]
+          }
+        },
+        "id": "970692564096499712",
+        "name": "剣持刀也⚔にじさんじ",
+        "pinned_tweet_id": "1446464259278266373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642185352516612104/aB__Rgos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268249,
+          "following_count": 332,
+          "like_count": 44844,
+          "listed_count": 17922,
+          "media_count": 1373,
+          "tweet_count": 7926
+        },
+        "username": "rei_Toya_rei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1910519625193775104"
+      ],
+      "media_source_tweet_id": [
+        "1910519642776273077"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055920666608869711",
+    "created_at": "2026-05-17T07:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055920666608869711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753556247058472962",
+          "start": 3,
+          "username": "boillnes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hkdzR3Yi9",
+          "end": 94,
+          "expanded_url": "https://x.com/boillnes/status/1910519642776273077/video/1",
+          "media_key": "7_1910519625193775104",
+          "start": 71,
+          "url": "https://t.co/0hkdzR3Yi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055920666608869711",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910519642776273077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boillnes: #shtwt ts is the sharpest thing I've seen in my life wtf https://t.co/0hkdzR3Yi9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055920666608869711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055920666608869711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055920666608869711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10148,
+        "height": 360,
+        "media_key": "7_1910519625193775104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1910519625193775104/pu/img/g2uWk1vTLwj7kLJw.jpg",
+        "public_metrics": {
+          "view_count": 44147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910519625193775104/pu/vid/avc1/480x270/bJDPV7617R5iAQ2j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910519625193775104/pu/vid/avc1/640x360/_J_C5BFojjGRA6ya.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1910519625193775104/pu/pl/DNAbOn4dSz8rcPIp.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1910519625193775104"
+          ]
+        },
+        "author_id": "1753556247058472962",
+        "conversation_id": "1910519642776273077",
+        "created_at": "2025-04-11T02:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T03:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910519642776273077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hkdzR3Yi9",
+              "end": 80,
+              "expanded_url": "https://x.com/boillnes/status/1910519642776273077/video/1",
+              "media_key": "7_1910519625193775104",
+              "start": 57,
+              "url": "https://t.co/0hkdzR3Yi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910519642776273077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1596,
+          "impression_count": 112521,
+          "like_count": 6100,
+          "quote_count": 24,
+          "reply_count": 67,
+          "retweet_count": 1170
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt ts is the sharpest thing I've seen in my life wtf https://t.co/0hkdzR3Yi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 194,
+          "like_count": 2410,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 306
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T23:10:35.000Z",
+        "description": "*none of my post are mine.\n#shtwt #goretwt  ! follow @iboillness",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "iboillness"
+              }
+            ]
+          }
+        },
+        "id": "1753556247058472962",
+        "location": "confetti confetti confetti ",
+        "name": "iboi",
+        "pinned_tweet_id": "2041493076372267041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041311312257630208/ap5ozr1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8586,
+          "following_count": 69,
+          "like_count": 5734,
+          "listed_count": 12,
+          "media_count": 284,
+          "tweet_count": 1291
+        },
+        "username": "boillnes",
+        "verified": false
+      }
+    ]
+  }
+}

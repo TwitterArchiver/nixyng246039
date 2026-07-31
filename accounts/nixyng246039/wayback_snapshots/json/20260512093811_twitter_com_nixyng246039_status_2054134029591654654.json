@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054124010330525696",
+        "3_2054123804990046209",
+        "3_2054123804046262272"
+      ],
+      "media_source_tweet_id": [
+        "2054124024272433225",
+        "2054124024272433225",
+        "2054124024272433225"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054134029591654654",
+    "created_at": "2026-05-12T09:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054134029591654654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960348162616672256",
+          "start": 3,
+          "username": "rainw20100301"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rp1BImqWfz",
+          "end": 129,
+          "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+          "media_key": "3_2054124010330525696",
+          "start": 106,
+          "url": "https://t.co/Rp1BImqWfz"
+        },
+        {
+          "display_url": "pic.x.com/Rp1BImqWfz",
+          "end": 129,
+          "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+          "media_key": "3_2054123804990046209",
+          "start": 106,
+          "url": "https://t.co/Rp1BImqWfz"
+        },
+        {
+          "display_url": "pic.x.com/Rp1BImqWfz",
+          "end": 129,
+          "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+          "media_key": "3_2054123804046262272",
+          "start": 106,
+          "url": "https://t.co/Rp1BImqWfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054134029591654654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054124024272433225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainw20100301: 新置顶！🏷\n\n10┊♀┊情绪不安定┊自伤┊OD\n\n欢迎同类互fo！漏回fo请私信～喜欢和大家玩但有时精力有限抱歉！！负能的东西最近不太敢发…怕封(T^T) 门槛相关也私信哦 https://t.co/Rp1BImqWfz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054134029591654654].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054134029591654654",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054134029591654654"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054124010330525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG253haEAACA8Z.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054123804990046209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG2t6kbAAEx3Qr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 890,
+        "media_key": "3_2054123804046262272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG2t3DaAAAPv2C.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054124010330525696",
+            "3_2054123804990046209",
+            "3_2054123804046262272"
+          ]
+        },
+        "author_id": "1960348162616672256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054124024272433225",
+        "created_at": "2026-05-12T08:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054124024272433225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp1BImqWfz",
+              "end": 110,
+              "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+              "media_key": "3_2054124010330525696",
+              "start": 87,
+              "url": "https://t.co/Rp1BImqWfz"
+            },
+            {
+              "display_url": "pic.x.com/Rp1BImqWfz",
+              "end": 110,
+              "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+              "media_key": "3_2054123804990046209",
+              "start": 87,
+              "url": "https://t.co/Rp1BImqWfz"
+            },
+            {
+              "display_url": "pic.x.com/Rp1BImqWfz",
+              "end": 110,
+              "expanded_url": "https://x.com/rainw20100301/status/2054124024272433225/photo/1",
+              "media_key": "3_2054123804046262272",
+              "start": 87,
+              "url": "https://t.co/Rp1BImqWfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054124024272433225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶！🏷\n\n10┊♀┊情绪不安定┊自伤┊OD\n\n欢迎同类互fo！漏回fo请私信～喜欢和大家玩但有时精力有限抱歉！！负能的东西最近不太敢发…怕封(T^T) 门槛相关也私信哦 https://t.co/Rp1BImqWfz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 156,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon  \n10年丨♀️丨精神状态不稳定但温良丨od自伤丨碎碎念 | 喜欢聊天！同类互fo🫶没回fo是没看到，请一定要告诉我！|  喜欢和可爱的人玩 男孩子女孩子都可以找我玩！！",
+        "id": "1960348162616672256",
+        "location": "🚪52其它请私信 🉑线下",
+        "name": "uon",
+        "pinned_tweet_id": "2054124024272433225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 434,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 520
+        },
+        "username": "rainw20100301",
+        "verified": false
+      }
+    ]
+  }
+}

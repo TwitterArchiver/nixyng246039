@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055321771138748416"
+      ],
+      "media_source_tweet_id": [
+        "2055322021249323056"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055342402634977750",
+    "created_at": "2026-05-15T17:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055342402634977750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1850587533924876288",
+          "start": 3,
+          "username": "NewYear_NewYear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2wEgMzu7k",
+          "end": 78,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2055322021249323056/photo/1",
+          "media_key": "3_2055321771138748416",
+          "start": 55,
+          "url": "https://t.co/k2wEgMzu7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055342402634977750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055322021249323056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewYear_NewYear: 像在煎蛆\n（是之前用油煎增生发照片，少量血迹，感到不适不要点开w） https://t.co/k2wEgMzu7k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055342402634977750].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055342402634977750",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055342402634977750"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055321771138748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX4QuPaEAAmr7z.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055321771138748416"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055322021249323056",
+        "created_at": "2026-05-15T16:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055322021249323056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2wEgMzu7k",
+              "end": 57,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055322021249323056/photo/1",
+              "media_key": "3_2055321771138748416",
+              "start": 34,
+              "url": "https://t.co/k2wEgMzu7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055322021249323056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "像在煎蛆\n（是之前用油煎增生发照片，少量血迹，感到不适不要点开w） https://t.co/k2wEgMzu7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 189,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 274
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 360,
+          "like_count": 6471,
+          "listed_count": 1,
+          "media_count": 771,
+          "tweet_count": 4352
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

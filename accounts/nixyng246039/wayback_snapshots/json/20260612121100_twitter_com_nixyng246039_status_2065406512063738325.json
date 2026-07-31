@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065113471692484758",
+    "created_at": "2026-06-12T12:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065406512063738325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056307790264590336",
+          "start": 0,
+          "username": "dooaisuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065406512063738325",
+    "in_reply_to_user_id": "2056307790264590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065325241937907721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dooaisuan 原来这样，卧槽太厉害了吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065325241937907721].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065325241937907721",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065325241937907721"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065113471692484758",
+        "created_at": "2026-06-12T12:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065406512063738325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056307790264590336",
+              "start": 0,
+              "username": "dooaisuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065406512063738325",
+        "in_reply_to_user_id": "2056307790264590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325241937907721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dooaisuan 原来这样，卧槽太厉害了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 449,
+          "like_count": 6049,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1527
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "od 改花刀 地雷女 举报我你老母是我母狗",
+        "id": "2056307790264590336",
+        "name": "你的犬父酸酸3.0",
+        "pinned_tweet_id": "2064549416166621521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063123009821704193/FwAjI4Y5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 58,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 152
+        },
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

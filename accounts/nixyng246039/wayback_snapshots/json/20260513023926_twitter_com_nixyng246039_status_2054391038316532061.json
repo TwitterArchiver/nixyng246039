@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054126988974317568"
+      ],
+      "media_source_tweet_id": [
+        "2054127147984552122"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054391038316532061",
+    "created_at": "2026-05-13T02:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054391038316532061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1488351156535705600",
+          "start": 3,
+          "username": "tsz_ju2mao1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sp2yOdWEpx",
+          "end": 57,
+          "expanded_url": "https://x.com/tsz_ju2mao1/status/2054127147984552122/video/1",
+          "media_key": "13_2054126988974317568",
+          "start": 34,
+          "url": "https://t.co/Sp2yOdWEpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054391038316532061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054127147984552122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsz_ju2mao1: 之前的，原來這麼長的手書也能發嗎 https://t.co/Sp2yOdWEpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 202808,
+        "height": 720,
+        "media_key": "13_2054126988974317568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054126988974317568/img/Z4jthEIWMjP23wIu.jpg",
+        "public_metrics": {
+          "view_count": 1958
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054126988974317568/vid/avc1/480x270/uZnrbdcQMOLWyN5V.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054126988974317568/vid/avc1/640x360/ZPPVVjpOCGLewDhu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054126988974317568/vid/avc1/1280x720/HbKrhOfrnTVFzn1L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054126988974317568/pl/3-ctrVtw56dTyHsF.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054126988974317568"
+          ],
+          "media_source_tweet_id": [
+            "2054127147984552122"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054391038316532061",
+        "created_at": "2026-05-13T02:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054391038316532061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1488351156535705600",
+              "start": 3,
+              "username": "tsz_ju2mao1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sp2yOdWEpx",
+              "end": 57,
+              "expanded_url": "https://x.com/tsz_ju2mao1/status/2054127147984552122/video/1",
+              "media_key": "13_2054126988974317568",
+              "start": 34,
+              "url": "https://t.co/Sp2yOdWEpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054391038316532061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054127147984552122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsz_ju2mao1: 之前的，原來這麼長的手書也能發嗎 https://t.co/Sp2yOdWEpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054126988974317568"
+          ]
+        },
+        "author_id": "1488351156535705600",
+        "conversation_id": "2054127147984552122",
+        "created_at": "2026-05-12T09:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054127147984552122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sp2yOdWEpx",
+              "end": 40,
+              "expanded_url": "https://x.com/tsz_ju2mao1/status/2054127147984552122/video/1",
+              "media_key": "13_2054126988974317568",
+              "start": 17,
+              "url": "https://t.co/Sp2yOdWEpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054127147984552122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4122,
+          "like_count": 353,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "之前的，原來這麼長的手書也能發嗎 https://t.co/Sp2yOdWEpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 166
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T03:19:16.000Z",
+        "description": "橘貓or白色黑貓🐱社交苦手｜絕世邊緣人｜會突然很活躍然後消失個幾天｜實際上我是來吃飯的｜坑很多什麼都會畫點｜諗到再寫🇭🇰⋯⋯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ju2mao1",
+                "end": 23,
+                "expanded_url": "https://lit.link/ju2mao1",
+                "start": 0,
+                "url": "https://t.co/vUh2TfWUmS"
+              }
+            ]
+          }
+        },
+        "id": "1488351156535705600",
+        "location": "Hong Kong",
+        "name": "白色黑貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977340924310237184/AkNnz5ze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 292,
+          "like_count": 10741,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/vUh2TfWUmS",
+        "username": "tsz_ju2mao1",
+        "verified": false
+      }
+    ]
+  }
+}

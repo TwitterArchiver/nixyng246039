@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073035583992320000",
+        "3_2073035584013230080"
+      ],
+      "media_source_tweet_id": [
+        "2073035589721661746",
+        "2073035589721661746"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073871736039477324",
+    "created_at": "2026-07-05T20:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073871736039477324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1465858739970273281",
+          "start": 3,
+          "username": "luca_kaneshiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOclPI9ZUn",
+          "end": 69,
+          "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+          "media_key": "3_2073035583992320000",
+          "start": 46,
+          "url": "https://t.co/hOclPI9ZUn"
+        },
+        {
+          "display_url": "pic.x.com/hOclPI9ZUn",
+          "end": 69,
+          "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+          "media_key": "3_2073035584013230080",
+          "start": 46,
+          "url": "https://t.co/hOclPI9ZUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073871736039477324",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1738
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073035589721661746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luca_kaneshiro: I cooked food for once👨‍🍳 https://t.co/hOclPI9ZUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073035583992320000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTm4VabUAAjXxz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073035584013230080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTm4VfaYAAdrIh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073035583992320000",
+            "3_2073035584013230080"
+          ],
+          "media_source_tweet_id": [
+            "2073035589721661746",
+            "2073035589721661746"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073871736039477324",
+        "created_at": "2026-07-05T20:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073871736039477324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1465858739970273281",
+              "start": 3,
+              "username": "luca_kaneshiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOclPI9ZUn",
+              "end": 69,
+              "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+              "media_key": "3_2073035583992320000",
+              "start": 46,
+              "url": "https://t.co/hOclPI9ZUn"
+            },
+            {
+              "display_url": "pic.x.com/hOclPI9ZUn",
+              "end": 69,
+              "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+              "media_key": "3_2073035584013230080",
+              "start": 46,
+              "url": "https://t.co/hOclPI9ZUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073871736039477324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073035589721661746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luca_kaneshiro: I cooked food for once👨‍🍳 https://t.co/hOclPI9ZUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073035583992320000",
+            "3_2073035584013230080"
+          ]
+        },
+        "author_id": "1465858739970273281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073035589721661746",
+        "created_at": "2026-07-03T13:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073035589721661746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOclPI9ZUn",
+              "end": 49,
+              "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+              "media_key": "3_2073035583992320000",
+              "start": 26,
+              "url": "https://t.co/hOclPI9ZUn"
+            },
+            {
+              "display_url": "pic.x.com/hOclPI9ZUn",
+              "end": 49,
+              "expanded_url": "https://x.com/luca_kaneshiro/status/2073035589721661746/photo/1",
+              "media_key": "3_2073035584013230080",
+              "start": 26,
+              "url": "https://t.co/hOclPI9ZUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035589721661746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 702232,
+          "like_count": 23875,
+          "quote_count": 303,
+          "reply_count": 300,
+          "retweet_count": 1738
+        },
+        "reply_settings": "everyone",
+        "text": "I cooked food for once👨‍🍳 https://t.co/hOclPI9ZUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 519,
+          "like_count": 7611,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T01:42:30.000Z",
+        "description": "An EVIL and MEAN Mafia boss of #NIJISANJI_EN #lucakaneshiro 🦁 💰 にじさんじEN所属のマフィアのボスのルカ・カネシロです。🌈 🕒 ママ: @ohyg3 🎨 #drawluca pfp: @ohyg3 banner: @sazanaminn_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 31,
+                "tag": "NIJISANJI_EN"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "tag": "lucakaneshiro"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "tag": "drawluca"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 100,
+                "username": "ohyg3"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "username": "ohyg3"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "sazanaminn_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC7Gb7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA",
+                "start": 0,
+                "url": "https://t.co/3gtlv1ivYG"
+              }
+            ]
+          }
+        },
+        "id": "1465858739970273281",
+        "name": "Luca Kaneshiro 🦁 💰 NIJISANJI EN",
+        "pinned_tweet_id": "2062181153440981001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776021216094248960/LlIsqSfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192155,
+          "following_count": 284,
+          "like_count": 18474,
+          "listed_count": 8256,
+          "media_count": 1408,
+          "tweet_count": 7945
+        },
+        "url": "https://t.co/3gtlv1ivYG",
+        "username": "luca_kaneshiro",
+        "verified": true
+      }
+    ]
+  }
+}

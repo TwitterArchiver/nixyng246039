@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061374857917718528"
+      ],
+      "media_source_tweet_id": [
+        "2061374860648210810"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061803931660083426",
+    "created_at": "2026-06-02T13:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061803931660083426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "821730056305135616",
+          "start": 3,
+          "username": "dxnsd41a1i0k22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vUKmr3shrk",
+          "end": 48,
+          "expanded_url": "https://x.com/dxnsd41a1i0k22/status/2061374860648210810/photo/1",
+          "media_key": "3_2061374857917718528",
+          "start": 25,
+          "url": "https://t.co/vUKmr3shrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061803931660083426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 366
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061374860648210810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dxnsd41a1i0k22: 道尔顿症 https://t.co/vUKmr3shrk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2061374857917718528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt5gvsbYAAXMDe.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061374857917718528"
+          ],
+          "media_source_tweet_id": [
+            "2061374860648210810"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061803931660083426",
+        "created_at": "2026-06-02T13:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061803931660083426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "821730056305135616",
+              "start": 3,
+              "username": "dxnsd41a1i0k22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUKmr3shrk",
+              "end": 48,
+              "expanded_url": "https://x.com/dxnsd41a1i0k22/status/2061374860648210810/photo/1",
+              "media_key": "3_2061374857917718528",
+              "start": 25,
+              "url": "https://t.co/vUKmr3shrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061803931660083426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061374860648210810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dxnsd41a1i0k22: 道尔顿症 https://t.co/vUKmr3shrk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061374857917718528"
+          ]
+        },
+        "author_id": "821730056305135616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061374860648210810",
+        "created_at": "2026-06-01T09:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061374860648210810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUKmr3shrk",
+              "end": 28,
+              "expanded_url": "https://x.com/dxnsd41a1i0k22/status/2061374860648210810/photo/1",
+              "media_key": "3_2061374857917718528",
+              "start": 5,
+              "url": "https://t.co/vUKmr3shrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061374860648210810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 14518,
+          "like_count": 1788,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 366
+        },
+        "reply_settings": "following",
+        "text": "道尔顿症 https://t.co/vUKmr3shrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 220,
+          "like_count": 3096,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 466
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T14:44:47.000Z",
+        "description": "中文 /🏳️‍🌈💚🤍🩶🖤⚢only /\n🖨🔫🦋中心健全无差但是蝶嬷来的慎fo\n🦋⬇️⭕️🔄⭕️",
+        "id": "821730056305135616",
+        "location": "🔕",
+        "name": "ㄴ-",
+        "pinned_tweet_id": "1622509828039114759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058225840639680512/fp8VcM2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 184,
+          "like_count": 3534,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1067
+        },
+        "username": "dxnsd41a1i0k22",
+        "verified": false
+      }
+    ]
+  }
+}

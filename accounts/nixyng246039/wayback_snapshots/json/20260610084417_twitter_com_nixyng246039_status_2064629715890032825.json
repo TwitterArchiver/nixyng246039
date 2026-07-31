@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064420208757112832"
+      ],
+      "media_source_tweet_id": [
+        "2064420226654151135"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064629715890032825",
+    "created_at": "2026-06-10T08:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064629715890032825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1327942778534256640",
+          "start": 3,
+          "username": "Shoulaet_Yor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwrZ6VTcax",
+          "end": 53,
+          "expanded_url": "https://x.com/Shoulaet_Yor/status/2064420226654151135/photo/1",
+          "media_key": "16_2064420208757112832",
+          "start": 30,
+          "url": "https://t.co/PwrZ6VTcax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629715890032825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064420226654151135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shoulaet_Yor: 🐠🌤️Together https://t.co/PwrZ6VTcax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2064420208757112832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKZLPfobAAAKi78.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKZLPfobAAAKi78.mp4"
+          }
+        ],
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064420208757112832"
+          ],
+          "media_source_tweet_id": [
+            "2064420226654151135"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064629715890032825",
+        "created_at": "2026-06-10T08:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064629715890032825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1327942778534256640",
+              "start": 3,
+              "username": "Shoulaet_Yor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwrZ6VTcax",
+              "end": 53,
+              "expanded_url": "https://x.com/Shoulaet_Yor/status/2064420226654151135/photo/1",
+              "media_key": "16_2064420208757112832",
+              "start": 30,
+              "url": "https://t.co/PwrZ6VTcax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629715890032825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064420226654151135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shoulaet_Yor: 🐠🌤️Together https://t.co/PwrZ6VTcax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064420208757112832"
+          ]
+        },
+        "author_id": "1327942778534256640",
+        "conversation_id": "2064420226654151135",
+        "created_at": "2026-06-09T18:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064420226654151135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwrZ6VTcax",
+              "end": 35,
+              "expanded_url": "https://x.com/Shoulaet_Yor/status/2064420226654151135/photo/1",
+              "media_key": "16_2064420208757112832",
+              "start": 12,
+              "url": "https://t.co/PwrZ6VTcax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064420226654151135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 11763,
+          "like_count": 1491,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "🐠🌤️Together https://t.co/PwrZ6VTcax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 398,
+          "like_count": 5405,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1246
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T11:53:43.000Z",
+        "description": "中文👌| 👟☯️推 | 多坑雜食 | 英文機翻 | 雜繪 | 有開委託不咬人 | 可直稱我👉Shulae (修雷）or Yahime (夜姬）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2r83zguraqn2vl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2r83zguraqn2vlr?t=6TatR4&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ZnDTjyAXQK"
+              }
+            ]
+          }
+        },
+        "id": "1327942778534256640",
+        "name": "Shoulaet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052357528089198592/2NDZEtGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 146,
+          "like_count": 5584,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/ZnDTjyAXQK",
+        "username": "Shoulaet_Yor",
+        "verified": false
+      }
+    ]
+  }
+}

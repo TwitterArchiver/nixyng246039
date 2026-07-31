@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066061299717464064",
+        "3_2066061299721633792",
+        "3_2066061299788763136",
+        "3_2066061299797102592"
+      ],
+      "media_source_tweet_id": [
+        "2066061328632951203",
+        "2066061328632951203",
+        "2066061328632951203",
+        "2066061328632951203"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082202212877611369",
+    "created_at": "2026-07-28T20:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082202212877611369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2043043365705662464",
+          "start": 3,
+          "username": "life4dead1127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DK2A4mLpzv",
+          "end": 92,
+          "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+          "media_key": "3_2066061299717464064",
+          "start": 69,
+          "url": "https://t.co/DK2A4mLpzv"
+        },
+        {
+          "display_url": "pic.x.com/DK2A4mLpzv",
+          "end": 92,
+          "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+          "media_key": "3_2066061299721633792",
+          "start": 69,
+          "url": "https://t.co/DK2A4mLpzv"
+        },
+        {
+          "display_url": "pic.x.com/DK2A4mLpzv",
+          "end": 92,
+          "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+          "media_key": "3_2066061299788763136",
+          "start": 69,
+          "url": "https://t.co/DK2A4mLpzv"
+        },
+        {
+          "display_url": "pic.x.com/DK2A4mLpzv",
+          "end": 92,
+          "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+          "media_key": "3_2066061299797102592",
+          "start": 69,
+          "url": "https://t.co/DK2A4mLpzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082202212877611369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066061328632951203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @life4dead1127: 重新弄一个吧TT \n我是小璃请找我玩呀我很温良\n因为一些原因会直fo非常抱歉！\n想和可爱的宝贝玩🥺 https://t.co/DK2A4mLpzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2066061299717464064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwfzj3XYAAaptv.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066061299721633792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwfzj4XAAAm924.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066061299788763136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwfzkIXUAABIvo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066061299797102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwfzkKWkAAdEdd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066061299717464064",
+            "3_2066061299721633792",
+            "3_2066061299788763136",
+            "3_2066061299797102592"
+          ]
+        },
+        "author_id": "2043043365705662464",
+        "conversation_id": "2066061328632951203",
+        "created_at": "2026-06-14T07:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066061328632951203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 73,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299717464064",
+              "start": 50,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 73,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299721633792",
+              "start": 50,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 73,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299788763136",
+              "start": 50,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 73,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299797102592",
+              "start": 50,
+              "url": "https://t.co/DK2A4mLpzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066061328632951203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1520,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "重新弄一个吧TT \n我是小璃请找我玩呀我很温良\n因为一些原因会直fo非常抱歉！\n想和可爱的宝贝玩🥺 https://t.co/DK2A4mLpzv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066061299717464064",
+            "3_2066061299721633792",
+            "3_2066061299788763136",
+            "3_2066061299797102592"
+          ],
+          "media_source_tweet_id": [
+            "2066061328632951203",
+            "2066061328632951203",
+            "2066061328632951203",
+            "2066061328632951203"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082202212877611369",
+        "created_at": "2026-07-28T20:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082202212877611369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2043043365705662464",
+              "start": 3,
+              "username": "life4dead1127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 92,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299717464064",
+              "start": 69,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 92,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299721633792",
+              "start": 69,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 92,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299788763136",
+              "start": 69,
+              "url": "https://t.co/DK2A4mLpzv"
+            },
+            {
+              "display_url": "pic.x.com/DK2A4mLpzv",
+              "end": 92,
+              "expanded_url": "https://x.com/life4dead1127/status/2066061328632951203/photo/1",
+              "media_key": "3_2066061299797102592",
+              "start": 69,
+              "url": "https://t.co/DK2A4mLpzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082202212877611369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066061328632951203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @life4dead1127: 重新弄一个吧TT \n我是小璃请找我玩呀我很温良\n因为一些原因会直fo非常抱歉！\n想和可爱的宝贝玩🥺 https://t.co/DK2A4mLpzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 513,
+          "like_count": 7866,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:08:50.000Z",
+        "description": "Ruri/小璃=只互fo同类/餐券/自伤/LGBT友好/吃播\n～随时都会消失 欢迎和我交朋友\n我很温良可以找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruriri1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruriri1",
+                "start": 0,
+                "url": "https://t.co/XTSFP4qSBk"
+              }
+            ]
+          }
+        },
+        "id": "2043043365705662464",
+        "location": "现在",
+        "name": "RUriri",
+        "pinned_tweet_id": "2066061328632951203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081301174557220865/ucYBOIjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 160,
+          "like_count": 4984,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/XTSFP4qSBk",
+        "username": "life4dead1127",
+        "verified": false
+      }
+    ]
+  }
+}

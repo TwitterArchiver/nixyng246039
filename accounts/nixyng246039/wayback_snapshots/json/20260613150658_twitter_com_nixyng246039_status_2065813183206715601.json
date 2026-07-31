@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065667433424200027",
+    "created_at": "2026-06-13T15:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065813183206715601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780453601787133953",
+          "start": 0,
+          "username": "loveit_1369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065813183206715601",
+    "in_reply_to_user_id": "1780453601787133953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065707492311732274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveit_1369 然后闲暇时间把希腊奶抱出来和它玩耍一番"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065667433424200027",
+        "created_at": "2026-06-13T15:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065813183206715601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780453601787133953",
+              "start": 0,
+              "username": "loveit_1369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065813183206715601",
+        "in_reply_to_user_id": "1780453601787133953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065707492311732274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveit_1369 然后闲暇时间把希腊奶抱出来和它玩耍一番"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780453601787133953",
+        "conversation_id": "2065667433424200027",
+        "created_at": "2026-06-13T08:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065707492311732274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065707492311732274",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065667433424200027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 带我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 458,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1612
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T04:30:04.000Z",
+        "description": "也许我是会是个很好相处的人？试着和我交流一下吧？喜欢你哦！",
+        "id": "1780453601787133953",
+        "name": "知らない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844405856215134208/U9oYBdq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 29,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "username": "loveit_1369",
+        "verified": false
+      }
+    ]
+  }
+}

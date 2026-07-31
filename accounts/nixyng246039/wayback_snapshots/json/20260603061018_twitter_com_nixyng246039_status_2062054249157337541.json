@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062021779875672064"
+      ],
+      "media_source_tweet_id": [
+        "2062021806140400088"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062054249157337541",
+    "created_at": "2026-06-03T06:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062054249157337541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1773273164422017024",
+          "start": 3,
+          "username": "otama_ikazoruk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RU7sLET2tz",
+          "end": 51,
+          "expanded_url": "https://x.com/otama_ikazoruk/status/2062021806140400088/photo/1",
+          "media_key": "3_2062021779875672064",
+          "start": 28,
+          "url": "https://t.co/RU7sLET2tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062054249157337541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062021806140400088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otama_ikazoruk: ドライフラワー https://t.co/RU7sLET2tz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1958,
+        "media_key": "3_2062021779875672064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3F4jybsAAZSji.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062021779875672064"
+          ],
+          "media_source_tweet_id": [
+            "2062021806140400088"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062054249157337541",
+        "created_at": "2026-06-03T06:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062054249157337541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1773273164422017024",
+              "start": 3,
+              "username": "otama_ikazoruk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RU7sLET2tz",
+              "end": 51,
+              "expanded_url": "https://x.com/otama_ikazoruk/status/2062021806140400088/photo/1",
+              "media_key": "3_2062021779875672064",
+              "start": 28,
+              "url": "https://t.co/RU7sLET2tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062054249157337541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062021806140400088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otama_ikazoruk: ドライフラワー https://t.co/RU7sLET2tz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062021779875672064"
+          ]
+        },
+        "author_id": "1773273164422017024",
+        "conversation_id": "2062021806140400088",
+        "created_at": "2026-06-03T04:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062021806140400088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RU7sLET2tz",
+              "end": 31,
+              "expanded_url": "https://x.com/otama_ikazoruk/status/2062021806140400088/photo/1",
+              "media_key": "3_2062021779875672064",
+              "start": 8,
+              "url": "https://t.co/RU7sLET2tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062021806140400088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6032,
+          "like_count": 713,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "ドライフラワー https://t.co/RU7sLET2tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 220,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 476
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T08:59:37.000Z",
+        "description": "🔰Sorry my bad english.🔰日本語すら怪しいインターネットお絵描きマン🤤\nପ(꒪ˊ꒳ˋ꒪)ଓ\n\nDon't use my art for AI training.\n\nskebはミニキャラのみ：https://t.co/JBvXaLLv4P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@otama_ikazoruk",
+                "end": 128,
+                "expanded_url": "https://skeb.jp/@otama_ikazoruk",
+                "start": 105,
+                "url": "https://t.co/JBvXaLLv4P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/13532hjtl…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/13532hjtlvo2osxh/",
+                "start": 0,
+                "url": "https://t.co/XeOREWYSEN"
+              }
+            ]
+          }
+        },
+        "id": "1773273164422017024",
+        "name": "Amato.",
+        "pinned_tweet_id": "2058091130185785691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039257591092740096/Z5Kp4UJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12573,
+          "following_count": 603,
+          "like_count": 12181,
+          "listed_count": 29,
+          "media_count": 473,
+          "tweet_count": 3739
+        },
+        "url": "https://t.co/XeOREWYSEN",
+        "username": "otama_ikazoruk",
+        "verified": false
+      }
+    ]
+  }
+}

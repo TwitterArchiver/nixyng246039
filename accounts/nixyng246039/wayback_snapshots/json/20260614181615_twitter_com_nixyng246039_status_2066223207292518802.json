@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2066198809680789819",
+    "created_at": "2026-06-14T18:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066223207292518802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863222669208100864",
+          "start": 0,
+          "username": "jiang_yi1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066223207292518802",
+    "in_reply_to_user_id": "1863222669208100864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066198809680789819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_yi1212 主播我爱上你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066198806841237505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyc3h0boAEU44S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2066198809680789819",
+        "created_at": "2026-06-14T18:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066223207292518802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863222669208100864",
+              "start": 0,
+              "username": "jiang_yi1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066223207292518802",
+        "in_reply_to_user_id": "1863222669208100864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066198809680789819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_yi1212 主播我爱上你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066198806841237505"
+          ]
+        },
+        "author_id": "1863222669208100864",
+        "conversation_id": "2066198809680789819",
+        "created_at": "2026-06-14T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066198809680789819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osm0mugm1Z",
+              "end": 30,
+              "expanded_url": "https://x.com/jiang_yi1212/status/2066198809680789819/photo/1",
+              "media_key": "3_2066198806841237505",
+              "start": 7,
+              "url": "https://t.co/osm0mugm1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198809680789819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吹完头睡觉了 https://t.co/osm0mugm1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 486,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1860
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以叫我小溯 我磕 zc 欢迎互fo🚪52不开放朋友圈消息看到都会回\n重抑/精分/躁狂/焦虑……多种问题暂时停止治疗\n我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 114,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 91,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 55,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 170
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

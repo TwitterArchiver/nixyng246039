@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055553520838049792"
+      ],
+      "media_source_tweet_id": [
+        "2055553534863773924"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055727352957870193",
+    "created_at": "2026-05-16T19:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055727352957870193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1437963160544284675",
+          "start": 3,
+          "username": "EnnaAlouette"
+        },
+        {
+          "end": 30,
+          "id": "1491195742123397124",
+          "start": 18,
+          "username": "uki_violeta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHZuY8R17N",
+          "end": 54,
+          "expanded_url": "https://x.com/EnnaAlouette/status/2055553534863773924/photo/1",
+          "media_key": "3_2055553520838049792",
+          "start": 31,
+          "url": "https://t.co/IHZuY8R17N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055727352957870193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055553534863773924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnnaAlouette: @uki_violeta https://t.co/IHZuY8R17N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2055553520838049792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbLCVJbAAAJlpa.png",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055553520838049792"
+          ],
+          "media_source_tweet_id": [
+            "2055553534863773924"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055727352957870193",
+        "created_at": "2026-05-16T19:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055727352957870193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1437963160544284675",
+              "start": 3,
+              "username": "EnnaAlouette"
+            },
+            {
+              "end": 30,
+              "id": "1491195742123397124",
+              "start": 18,
+              "username": "uki_violeta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHZuY8R17N",
+              "end": 54,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2055553534863773924/photo/1",
+              "media_key": "3_2055553520838049792",
+              "start": 31,
+              "url": "https://t.co/IHZuY8R17N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055727352957870193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055553534863773924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnnaAlouette: @uki_violeta https://t.co/IHZuY8R17N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055553520838049792"
+          ]
+        },
+        "author_id": "1437963160544284675",
+        "conversation_id": "2055544364248785093",
+        "created_at": "2026-05-16T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055553534863773924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491195742123397124",
+              "start": 0,
+              "username": "uki_violeta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHZuY8R17N",
+              "end": 36,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2055553534863773924/photo/1",
+              "media_key": "3_2055553520838049792",
+              "start": 13,
+              "url": "https://t.co/IHZuY8R17N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055553534863773924",
+        "in_reply_to_user_id": "1491195742123397124",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19400,
+          "like_count": 1892,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055552861065376011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uki_violeta https://t.co/IHZuY8R17N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 192,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 288
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T02:15:30.000Z",
+        "description": "NIJISANJI EN's 3rd wave #Ethyria ❤️🧡🩶💜 Your songbird Enna Alouette ♪ にじさんじENエナー アールウェットです！ ♡ まま: @gahara411 | icon: @mimichausson | header: @momorinella",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Ethyria"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "gahara411"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "mimichausson"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "momorinella"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCR6qh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow/sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/I13MlMnlQp"
+              }
+            ]
+          }
+        },
+        "id": "1437963160544284675",
+        "name": "Enna Alouette 🕊️🎐 NIJISANJI EN",
+        "pinned_tweet_id": "2055557307883487467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034419938119630848/NEh9sClP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661395,
+          "following_count": 479,
+          "like_count": 30493,
+          "listed_count": 4559,
+          "media_count": 2987,
+          "tweet_count": 44424
+        },
+        "url": "https://t.co/I13MlMnlQp",
+        "username": "EnnaAlouette",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T23:43:04.000Z",
+        "description": "Psychic from NIJISANJI EN's NOCTYX 🌃 \nにじさんじEN所属の浮奇ヴィオレタです！💜 \n✧ ママ: @udon_118 / ✧ i: navy_itoama ✧ h: amikraamikra \n#UkiVioleta #NOCTYX #NIJISANJI_EN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 115,
+                "tag": "UkiVioleta"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "tag": "NOCTYX"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "tag": "NIJISANJI_EN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "udon_118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ukivioleta",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ukivioleta",
+                "start": 0,
+                "url": "https://t.co/AznHLtUEkg"
+              }
+            ]
+          }
+        },
+        "id": "1491195742123397124",
+        "name": "Uki Violeta 🔮🌌 NIJISANJI EN",
+        "pinned_tweet_id": "2048832305419243776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944843084174340096/Y-eORAJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967333,
+          "following_count": 1442,
+          "like_count": 84791,
+          "listed_count": 6405,
+          "media_count": 2278,
+          "tweet_count": 39598
+        },
+        "url": "https://t.co/AznHLtUEkg",
+        "username": "uki_violeta",
+        "verified": true
+      }
+    ]
+  }
+}

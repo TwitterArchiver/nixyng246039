@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-04T16:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062568611437494769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2051286947096829952",
+          "start": 0,
+          "username": "Xuese5ssy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062568611437494769",
+    "in_reply_to_user_id": "2051286947096829952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062553805145997740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuese5ssy ok收到！(｀•ω•´)ゞ感谢建议！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T16:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062568611437494769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2051286947096829952",
+              "start": 0,
+              "username": "Xuese5ssy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062568611437494769",
+        "in_reply_to_user_id": "2051286947096829952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062553805145997740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuese5ssy ok收到！(｀•ω•´)ゞ感谢建议！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051286947096829952",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062553805145997740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062553805145997740",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 思考就不用o了 还不如打两把游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 235,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 531
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T13:05:24.000Z",
+        "description": "普通人 喜欢互动",
+        "id": "2051286947096829952",
+        "name": "雪色2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051287677627228160/jetdt7zR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "Xuese5ssy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054925894117122063",
+    "created_at": "2026-05-14T14:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054925894117122063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987561311438610432",
+          "start": 3,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054925894117122063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054593170332430819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xrwi238646: 年下：自己养大的法着放心\n年上：养大自己的法着放心\n青梅竹马：一起长大的法着放心\n天降：老天爷赏的法着放心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054925894117122063",
+        "created_at": "2026-05-14T14:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054925894117122063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987561311438610432",
+              "start": 3,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054925894117122063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054593170332430819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xrwi238646: 年下：自己养大的法着放心\n年上：养大自己的法着放心\n青梅竹马：一起长大的法着放心\n天降：老天爷赏的法着放心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2054593170332430819",
+        "created_at": "2026-05-13T16:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054593170332430819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054593170332430819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "年下：自己养大的法着放心\n年上：养大自己的法着放心\n青梅竹马：一起长大的法着放心\n天降：老天爷赏的法着放心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 186,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 251
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互关｜互fo会查主页成分。｜很多废话吵到你们报意丝。",
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2054590311268311193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 59,
+          "like_count": 1163,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 980
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

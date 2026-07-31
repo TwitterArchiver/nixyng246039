@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2022509797980209518",
+    "created_at": "2026-02-14T04:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022526201060016586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397188291292708867",
+          "start": 0,
+          "username": "connieconnieba1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022526201060016586",
+    "in_reply_to_user_id": "1397188291292708867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022509797980209518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@connieconnieba1 我去老师太会画了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022509795442593798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFl8XgakAYXlrw.jpg",
+        "width": 1399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2022509797980209518",
+        "created_at": "2026-02-14T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022526201060016586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397188291292708867",
+              "start": 0,
+              "username": "connieconnieba1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022526201060016586",
+        "in_reply_to_user_id": "1397188291292708867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022509797980209518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@connieconnieba1 我去老师太会画了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022509795442593798"
+          ]
+        },
+        "author_id": "1397188291292708867",
+        "conversation_id": "2022509797980209518",
+        "created_at": "2026-02-14T03:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022509797980209518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "drawluca",
+              "probability": 0.4401,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Valentine",
+              "probability": 0.5773,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "drawluca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxMEVl78BD",
+              "end": 59,
+              "expanded_url": "https://x.com/connieconnieba1/status/2022509797980209518/photo/1",
+              "media_key": "3_2022509795442593798",
+              "start": 36,
+              "url": "https://t.co/GxMEVl78BD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022509797980209518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2833,
+          "like_count": 525,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "#drawluca \nHappy Valentine's Day🥺🌹！ https://t.co/GxMEVl78BD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 118,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T13:50:39.000Z",
+        "description": "20🇭🇰🌈🕒｜HK丨聯絡：jielijieli1024@gmail.com｜私印無盈利開團一律禁止丨有註名轉載可以丨BG BL注意丨主推：🦁🤟🕊️🃏⚡會畫：👟🦁//👟⛅//🛸🤟//🤟🕊️// 丨很吵會發瘋！丨慎fol❗真的很雜食\n丨很嗑鏡鳥對不起丨小號：@iloveyou123over",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 127,
+                "username": "iloveyou123over"
+              }
+            ]
+          }
+        },
+        "id": "1397188291292708867",
+        "name": "🦁JIELI啫喱🦁",
+        "pinned_tweet_id": "2006609758510547364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977100355692642306/FtPizg9r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59101,
+          "following_count": 2023,
+          "like_count": 15771,
+          "listed_count": 0,
+          "media_count": 856,
+          "tweet_count": 6839
+        },
+        "username": "connieconnieba1",
+        "verified": false
+      }
+    ]
+  }
+}

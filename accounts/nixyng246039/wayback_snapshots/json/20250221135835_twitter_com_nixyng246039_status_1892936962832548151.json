@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "1892936962832548151",
+    "created_at": "2025-02-21T13:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T14:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892936962832548151"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Aia Amare",
+          "probability": 0.705,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545562635650957312",
+          "start": 3,
+          "username": "AiaAmare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892936962832548151",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892431451494183164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AiaAmare: oh you like Aia Amare?\n\nname every random event stream"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "1892936962832548151",
+        "created_at": "2025-02-21T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892936962832548151"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Aia Amare",
+              "probability": 0.705,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545562635650957312",
+              "start": 3,
+              "username": "AiaAmare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892936962832548151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892431451494183164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AiaAmare: oh you like Aia Amare?\n\nname every random event stream"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545562635650957312",
+        "conversation_id": "1892431451494183164",
+        "created_at": "2025-02-20T04:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892431451494183164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Aia Amare",
+              "probability": 0.8505,
+              "start": 12,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892431451494183164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 17668,
+          "like_count": 1493,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "oh you like Aia Amare?\n\nname every random event stream"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "",
+        "id": "1720098116601532416",
+        "name": "鸮隼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762195958392311809/Gw1YuZge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:17:56.000Z",
+        "description": "I'm Aia Amare, the Angelic Maiden of NIJISANJI EN!👼⭐ にじさんじEN所属天界の少女アイア・アマレです。| ママ: @Noy_0_0\n \n🎨: #AmareAtelier\n#ILUNA\nBanner: @/Hearth_Light",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 97,
+                "tag": "AmareAtelier"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "ILUNA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Noy_0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCN68L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA",
+                "start": 0,
+                "url": "https://t.co/JtqUOwZaBp"
+              }
+            ]
+          }
+        },
+        "id": "1545562635650957312",
+        "location": "Institute of Mystics",
+        "name": "Aia Amare 👼⭐NIJISANJI EN",
+        "pinned_tweet_id": "1891504451141218769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881227086997704704/Am1TWYC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383304,
+          "following_count": 443,
+          "like_count": 10136,
+          "listed_count": 3060,
+          "media_count": 1408,
+          "tweet_count": 6313
+        },
+        "url": "https://t.co/JtqUOwZaBp",
+        "username": "AiaAmare",
+        "verified": true
+      }
+    ]
+  }
+}

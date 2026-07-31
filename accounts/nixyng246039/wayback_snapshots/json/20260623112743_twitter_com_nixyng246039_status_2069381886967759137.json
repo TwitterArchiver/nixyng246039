@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069342662159941632"
+      ],
+      "media_source_tweet_id": [
+        "2069342672435998919"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2069381886967759137",
+    "created_at": "2026-06-23T11:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069381886967759137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720852749330591744",
+          "start": 3,
+          "username": "Xuannnnn_oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liTvX9DThb",
+          "end": 91,
+          "expanded_url": "https://x.com/Xuannnnn_oxo/status/2069342672435998919/photo/1",
+          "media_key": "3_2069342662159941632",
+          "start": 68,
+          "url": "https://t.co/liTvX9DThb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069381886967759137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069342672435998919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuannnnn_oxo: 好骚啊我喜欢这个，就喜欢拍点骚的呵呵呵可惜和我卖cp的都太正经了要不然就是关系太好了拍不了一拍就笑 https://t.co/liTvX9DThb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069342662159941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfIL_iawAA1iWT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069342662159941632"
+          ],
+          "media_source_tweet_id": [
+            "2069342672435998919"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2069381886967759137",
+        "created_at": "2026-06-23T11:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381886967759137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720852749330591744",
+              "start": 3,
+              "username": "Xuannnnn_oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liTvX9DThb",
+              "end": 91,
+              "expanded_url": "https://x.com/Xuannnnn_oxo/status/2069342672435998919/photo/1",
+              "media_key": "3_2069342662159941632",
+              "start": 68,
+              "url": "https://t.co/liTvX9DThb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381886967759137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069342672435998919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuannnnn_oxo: 好骚啊我喜欢这个，就喜欢拍点骚的呵呵呵可惜和我卖cp的都太正经了要不然就是关系太好了拍不了一拍就笑 https://t.co/liTvX9DThb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069342662159941632"
+          ]
+        },
+        "author_id": "1720852749330591744",
+        "conversation_id": "2069342672435998919",
+        "created_at": "2026-06-23T08:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069342672435998919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liTvX9DThb",
+              "end": 73,
+              "expanded_url": "https://x.com/Xuannnnn_oxo/status/2069342672435998919/photo/1",
+              "media_key": "3_2069342662159941632",
+              "start": 50,
+              "url": "https://t.co/liTvX9DThb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069342672435998919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 505,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好骚啊我喜欢这个，就喜欢拍点骚的呵呵呵可惜和我卖cp的都太正经了要不然就是关系太好了拍不了一拍就笑 https://t.co/liTvX9DThb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 508,
+          "like_count": 7327,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2199
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T17:17:41.000Z",
+        "description": "精神病随便发发性取向为女不扩列不聊骚别骚扰我 不谈不约不收门槛专心经营唐氏生活",
+        "id": "1720852749330591744",
+        "name": "瑄瑄",
+        "pinned_tweet_id": "2067461776116179213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858663287992242176/wAA5qpC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 22,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "Xuannnnn_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

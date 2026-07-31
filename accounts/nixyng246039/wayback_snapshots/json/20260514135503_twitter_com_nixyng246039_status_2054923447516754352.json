@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2054923447516754352",
+    "created_at": "2026-05-14T13:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054923447516754352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1353694338643972097",
+          "start": 3,
+          "username": "xiaoyumama9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054923447516754352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054798674195304551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyumama9968: 最近vpn变好用了，不知道是不是因为特朗普来了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054923447516754352",
+        "created_at": "2026-05-14T13:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054923447516754352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1353694338643972097",
+              "start": 3,
+              "username": "xiaoyumama9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054923447516754352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054798674195304551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyumama9968: 最近vpn变好用了，不知道是不是因为特朗普来了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353694338643972097",
+        "conversation_id": "2054798674195304551",
+        "created_at": "2026-05-14T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054798674195304551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054798674195304551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 258341,
+          "like_count": 822,
+          "quote_count": 6,
+          "reply_count": 486,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "最近vpn变好用了，不知道是不是因为特朗普来了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 185,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 239
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T13:21:50.000Z",
+        "description": "杭州人，不搞黄色，不聊骚，广告自辨清楚！！！不会主动联系任何人！！！小号 @xiaoyumama9988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "xiaoyumama9988"
+              }
+            ]
+          }
+        },
+        "id": "1353694338643972097",
+        "name": "小宇妈妈",
+        "pinned_tweet_id": "2050093581604630854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457902448547274755/S8Sn15qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483475,
+          "following_count": 33,
+          "like_count": 15206,
+          "listed_count": 393,
+          "media_count": 3460,
+          "tweet_count": 33153
+        },
+        "username": "xiaoyumama9968",
+        "verified": true
+      }
+    ]
+  }
+}

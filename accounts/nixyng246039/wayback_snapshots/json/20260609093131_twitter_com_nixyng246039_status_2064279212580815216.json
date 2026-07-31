@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062420231578845184"
+      ],
+      "media_source_tweet_id": [
+        "2062420252193960259"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064279212580815216",
+    "created_at": "2026-06-09T09:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064279212580815216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1918956447523913728",
+          "start": 3,
+          "username": "miomiojing19687"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJF6Z5Cmly",
+          "end": 51,
+          "expanded_url": "https://x.com/miomiojing19687/status/2062420252193960259/photo/1",
+          "media_key": "3_2062420231578845184",
+          "start": 28,
+          "url": "https://t.co/xJF6Z5Cmly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064279212580815216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062420252193960259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomiojing19687: #自撮り界隈 https://t.co/xJF6Z5Cmly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062420231578845184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8wRgDWAAADXCD.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062420231578845184"
+          ],
+          "media_source_tweet_id": [
+            "2062420252193960259"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064279212580815216",
+        "created_at": "2026-06-09T09:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064279212580815216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1918956447523913728",
+              "start": 3,
+              "username": "miomiojing19687"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJF6Z5Cmly",
+              "end": 51,
+              "expanded_url": "https://x.com/miomiojing19687/status/2062420252193960259/photo/1",
+              "media_key": "3_2062420231578845184",
+              "start": 28,
+              "url": "https://t.co/xJF6Z5Cmly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064279212580815216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062420252193960259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomiojing19687: #自撮り界隈 https://t.co/xJF6Z5Cmly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062420231578845184"
+          ]
+        },
+        "author_id": "1918956447523913728",
+        "conversation_id": "2062420252193960259",
+        "created_at": "2026-06-04T06:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062420252193960259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJF6Z5Cmly",
+              "end": 30,
+              "expanded_url": "https://x.com/miomiojing19687/status/2062420252193960259/photo/1",
+              "media_key": "3_2062420231578845184",
+              "start": 7,
+              "url": "https://t.co/xJF6Z5Cmly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062420252193960259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 861,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/xJF6Z5Cmly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 387,
+          "like_count": 5189,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1162
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T09:10:52.000Z",
+        "description": "",
+        "id": "1918956447523913728",
+        "name": "Samidare",
+        "pinned_tweet_id": "2062420252193960259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062428322995310592/XH7NTFvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 55,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "miomiojing19687",
+        "verified": false
+      }
+    ]
+  }
+}

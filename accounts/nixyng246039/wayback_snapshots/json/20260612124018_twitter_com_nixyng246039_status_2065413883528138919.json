@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2065413883528138919",
+    "created_at": "2026-06-12T12:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065413883528138919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "西南（西北）’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dJrP…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1dJrPPYjvVkKX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2065413884987772928/q5IdAmOK?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065413884987772928/q5IdAmOK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 听我期末整理考点……",
+          "unwound_url": "https://twitter.com/i/spaces/1dJrPPYjvVkKX/peek",
+          "url": "https://t.co/FnjUlkisMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065413883528138919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FnjUlkisMH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2065413883528138919",
+        "created_at": "2026-06-12T12:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065413883528138919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "西南（西北）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dJrP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dJrPPYjvVkKX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2065413884987772928/q5IdAmOK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065413884987772928/q5IdAmOK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 听我期末整理考点……",
+              "unwound_url": "https://twitter.com/i/spaces/1dJrPPYjvVkKX/peek",
+              "url": "https://t.co/FnjUlkisMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065413883528138919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FnjUlkisMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 453,
+          "like_count": 6074,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1541
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

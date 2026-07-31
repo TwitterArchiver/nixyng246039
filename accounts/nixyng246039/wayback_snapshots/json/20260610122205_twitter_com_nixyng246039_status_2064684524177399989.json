@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064683462720667903",
+    "created_at": "2026-06-10T12:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064684524177399989"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064684524177399989",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064683462720667903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经习惯了，后盖屏幕都换过大概三遍了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064683445876305920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc6p6UWMAABWd2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064683462720667903",
+        "created_at": "2026-06-10T12:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064684524177399989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064684524177399989",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064683462720667903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经习惯了，后盖屏幕都换过大概三遍了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064683445876305920"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064683462720667903",
+        "created_at": "2026-06-10T12:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064683462720667903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TSldSo7xm",
+              "end": 28,
+              "expanded_url": "https://x.com/nixyng246039/status/2064683462720667903/photo/1",
+              "media_key": "3_2064683445876305920",
+              "start": 5,
+              "url": "https://t.co/8TSldSo7xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064683462720667903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次战损 https://t.co/8TSldSo7xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 403,
+          "like_count": 5480,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1280
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064613509061885952",
+        "3_2064613509951033344"
+      ],
+      "media_source_tweet_id": [
+        "2064613513172332651",
+        "2064613513172332651"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064629904155488275",
+    "created_at": "2026-06-10T08:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064629904155488275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1743330426985594881",
+          "start": 3,
+          "username": "jianggejiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tDzb5I08Pw",
+          "end": 137,
+          "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+          "media_key": "3_2064613509061885952",
+          "start": 114,
+          "url": "https://t.co/tDzb5I08Pw"
+        },
+        {
+          "display_url": "pic.x.com/tDzb5I08Pw",
+          "end": 137,
+          "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+          "media_key": "3_2064613509951033344",
+          "start": 114,
+          "url": "https://t.co/tDzb5I08Pw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629904155488275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064613513172332651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianggejiang: hi 我想要征集大家拍一张照片 因为我想要做一组贴纸图片 需要5~10双看上去不太一样的手\n这两种手势都可以 我只需要手势所以可以不露脸\n制作好后会发布原图 所有人均可印刷\n转发抽个5.2￥ https://t.co/tDzb5I08Pw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064613509061885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb7DDYbQAA4cNd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064613509951033344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb7DGsakAAZo1J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064613509061885952",
+            "3_2064613509951033344"
+          ],
+          "media_source_tweet_id": [
+            "2064613513172332651",
+            "2064613513172332651"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064629904155488275",
+        "created_at": "2026-06-10T08:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064629904155488275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1743330426985594881",
+              "start": 3,
+              "username": "jianggejiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDzb5I08Pw",
+              "end": 137,
+              "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+              "media_key": "3_2064613509061885952",
+              "start": 114,
+              "url": "https://t.co/tDzb5I08Pw"
+            },
+            {
+              "display_url": "pic.x.com/tDzb5I08Pw",
+              "end": 137,
+              "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+              "media_key": "3_2064613509951033344",
+              "start": 114,
+              "url": "https://t.co/tDzb5I08Pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629904155488275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064613513172332651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianggejiang: hi 我想要征集大家拍一张照片 因为我想要做一组贴纸图片 需要5~10双看上去不太一样的手\n这两种手势都可以 我只需要手势所以可以不露脸\n制作好后会发布原图 所有人均可印刷\n转发抽个5.2￥ https://t.co/tDzb5I08Pw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064613509061885952",
+            "3_2064613509951033344"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2064613513172332651",
+        "created_at": "2026-06-10T07:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064613513172332651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDzb5I08Pw",
+              "end": 119,
+              "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+              "media_key": "3_2064613509061885952",
+              "start": 96,
+              "url": "https://t.co/tDzb5I08Pw"
+            },
+            {
+              "display_url": "pic.x.com/tDzb5I08Pw",
+              "end": 119,
+              "expanded_url": "https://x.com/jianggejiang/status/2064613513172332651/photo/1",
+              "media_key": "3_2064613509951033344",
+              "start": 96,
+              "url": "https://t.co/tDzb5I08Pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064613513172332651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hi 我想要征集大家拍一张照片 因为我想要做一组贴纸图片 需要5~10双看上去不太一样的手\n这两种手势都可以 我只需要手势所以可以不露脸\n制作好后会发布原图 所有人均可印刷\n转发抽个5.2￥ https://t.co/tDzb5I08Pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 399,
+          "like_count": 5408,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1248
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2DNcJ"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2061207593213906975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 930,
+          "like_count": 7492,
+          "listed_count": 0,
+          "media_count": 577,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/VAA7v2DNcJ",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

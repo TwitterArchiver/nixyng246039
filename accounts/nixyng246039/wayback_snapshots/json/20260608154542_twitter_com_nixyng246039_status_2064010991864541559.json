@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064010991864541559",
+    "created_at": "2026-06-08T15:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010991864541559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558757725797986305",
+          "start": 3,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010991864541559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063997118331904055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hemlock_113: 我需要钱 需要很多很多钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064010991864541559",
+        "created_at": "2026-06-08T15:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064010991864541559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558757725797986305",
+              "start": 3,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064010991864541559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063997118331904055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hemlock_113: 我需要钱 需要很多很多钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2063997118331904055",
+        "created_at": "2026-06-08T14:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063997118331904055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063997118331904055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我需要钱 需要很多很多钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 380,
+          "like_count": 5021,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1103
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "HK 10 单机小透明\nod｜自伤｜碎碎念｜小作文\n社恐 低情商 查成分互fo",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "pinned_tweet_id": "2063871577591275690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 92,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 649
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

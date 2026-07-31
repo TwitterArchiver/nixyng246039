@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055551688317317120"
+      ],
+      "media_source_tweet_id": [
+        "2055551696693321769"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2055727852704940301",
+    "created_at": "2026-05-16T19:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055727852704940301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638922874487730176",
+          "start": 3,
+          "username": "Sweet_xst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LrTv0Ija9",
+          "end": 46,
+          "expanded_url": "https://x.com/Sweet_xst/status/2055551696693321769/photo/1",
+          "media_key": "3_2055551688317317120",
+          "start": 23,
+          "url": "https://t.co/0LrTv0Ija9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055727852704940301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055551696693321769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sweet_xst: 笑得我满地打滚 https://t.co/0LrTv0Ija9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2055551688317317120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbJXqebsAAwteC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055551688317317120"
+          ],
+          "media_source_tweet_id": [
+            "2055551696693321769"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2055727852704940301",
+        "created_at": "2026-05-16T19:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055727852704940301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638922874487730176",
+              "start": 3,
+              "username": "Sweet_xst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LrTv0Ija9",
+              "end": 46,
+              "expanded_url": "https://x.com/Sweet_xst/status/2055551696693321769/photo/1",
+              "media_key": "3_2055551688317317120",
+              "start": 23,
+              "url": "https://t.co/0LrTv0Ija9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055727852704940301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055551696693321769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sweet_xst: 笑得我满地打滚 https://t.co/0LrTv0Ija9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055551688317317120"
+          ]
+        },
+        "author_id": "1638922874487730176",
+        "conversation_id": "2055551696693321769",
+        "created_at": "2026-05-16T07:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055551696693321769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LrTv0Ija9",
+              "end": 31,
+              "expanded_url": "https://x.com/Sweet_xst/status/2055551696693321769/photo/1",
+              "media_key": "3_2055551688317317120",
+              "start": 8,
+              "url": "https://t.co/0LrTv0Ija9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055551696693321769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 182465,
+          "like_count": 2571,
+          "quote_count": 11,
+          "reply_count": 258,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "笑得我满地打滚 https://t.co/0LrTv0Ija9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 192,
+          "like_count": 2327,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 291
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "认证号：@tangchaoli40605\n愿你每天都有好心情~\n青年大学习系列已强势归来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "tangchaoli40605"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2052421780925768013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155791,
+          "following_count": 242,
+          "like_count": 4192,
+          "listed_count": 259,
+          "media_count": 1456,
+          "tweet_count": 2990
+        },
+        "username": "Sweet_xst",
+        "verified": true
+      }
+    ]
+  }
+}

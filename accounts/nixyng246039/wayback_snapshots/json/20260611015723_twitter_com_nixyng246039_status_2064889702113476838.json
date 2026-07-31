@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2064889702113476838",
+    "created_at": "2026-06-11T01:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064889702113476838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014859848899559427",
+          "start": 3,
+          "username": "xuen12011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064889702113476838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064710185353191808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuen12011: 为什么我一直掉fo 求同类宝宝互fo互转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064889702113476838",
+        "created_at": "2026-06-11T01:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064889702113476838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014859848899559427",
+              "start": 3,
+              "username": "xuen12011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064889702113476838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064710185353191808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuen12011: 为什么我一直掉fo 求同类宝宝互fo互转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014859848899559427",
+        "conversation_id": "2064710185353191808",
+        "created_at": "2026-06-10T14:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064710185353191808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064710185353191808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我一直掉fo 求同类宝宝互fo互转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 419,
+          "like_count": 5696,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1380
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T00:36:48.000Z",
+        "description": "｜小恩 entp｜od 重抑 重焦｜碎碎念 不键政｜\n｜只回同类fo｜刻薄 温良 一体机｜健人滚｜\n｜热恋中的老公@普瑞巴林｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enlyn5202",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enlyn5202",
+                "start": 0,
+                "url": "https://t.co/X3Za98WAcQ"
+              }
+            ]
+          }
+        },
+        "id": "2014859848899559427",
+        "location": "下次见",
+        "name": "不是说好下次见吗",
+        "pinned_tweet_id": "2030656519981961405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058258745893978112/UUso0Efx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 154,
+          "like_count": 4408,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/X3Za98WAcQ",
+        "username": "xuen12011",
+        "verified": false
+      }
+    ]
+  }
+}

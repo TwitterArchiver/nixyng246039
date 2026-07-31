@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2062483319154229299",
+    "created_at": "2026-06-04T16:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062568060456947759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786507901751930880",
+          "start": 0,
+          "username": "Im9635001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062568060456947759",
+    "in_reply_to_user_id": "1786507901751930880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062550030343668047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im9635001 卧槽了确实，还不如之前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T16:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062568060456947759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786507901751930880",
+              "start": 0,
+              "username": "Im9635001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062568060456947759",
+        "in_reply_to_user_id": "1786507901751930880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550030343668047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im9635001 卧槽了确实，还不如之前"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786507901751930880",
+        "conversation_id": "2062483319154229299",
+        "created_at": "2026-06-04T15:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062550030343668047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062550030343668047",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062483319154229299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 现在od好点的药也买不到了很麻烦。和49年入国军没区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 229,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 527
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T21:27:40.000Z",
+        "description": "只是充满抱怨的碎碎念",
+        "id": "1786507901751930880",
+        "name": "人",
+        "pinned_tweet_id": "2035803610727186912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007550126878003201/SYrq3B1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 57,
+          "like_count": 1693,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 958
+        },
+        "username": "Im9635001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063534266898903040"
+      ],
+      "media_source_tweet_id": [
+        "2063534297466982578"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2063557978762919941",
+    "created_at": "2026-06-07T09:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063557978762919941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727277830025973760",
+          "start": 3,
+          "username": "yuriano3479"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZHWVP5Zrm",
+          "end": 52,
+          "expanded_url": "https://x.com/yuriano3479/status/2063534297466982578/photo/1",
+          "media_key": "3_2063534266898903040",
+          "start": 29,
+          "url": "https://t.co/TZHWVP5Zrm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063557978762919941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063534297466982578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriano3479: 我今天真的努力了… ！ https://t.co/TZHWVP5Zrm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063534266898903040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMle5Ba8AANbVt.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063534266898903040"
+          ],
+          "media_source_tweet_id": [
+            "2063534297466982578"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2063557978762919941",
+        "created_at": "2026-06-07T09:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063557978762919941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727277830025973760",
+              "start": 3,
+              "username": "yuriano3479"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZHWVP5Zrm",
+              "end": 52,
+              "expanded_url": "https://x.com/yuriano3479/status/2063534297466982578/photo/1",
+              "media_key": "3_2063534266898903040",
+              "start": 29,
+              "url": "https://t.co/TZHWVP5Zrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063557978762919941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063534297466982578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriano3479: 我今天真的努力了… ！ https://t.co/TZHWVP5Zrm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063534266898903040"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2063534297466982578",
+        "created_at": "2026-06-07T08:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063534297466982578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZHWVP5Zrm",
+              "end": 35,
+              "expanded_url": "https://x.com/yuriano3479/status/2063534297466982578/photo/1",
+              "media_key": "3_2063534266898903040",
+              "start": 12,
+              "url": "https://t.co/TZHWVP5Zrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063534297466982578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我今天真的努力了… ！ https://t.co/TZHWVP5Zrm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 327,
+          "like_count": 4191,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 858
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "我是优理。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2061472896267300951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 372,
+          "like_count": 5600,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

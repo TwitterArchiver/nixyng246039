@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056316543978610688"
+      ],
+      "media_source_tweet_id": [
+        "2056316549053796757"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2056352157407027309",
+    "created_at": "2026-05-18T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056352157407027309"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 23,
+          "tag": "funamuseum"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584024273160503296",
+          "start": 3,
+          "username": "kigihara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9nLmj5jqZl",
+          "end": 58,
+          "expanded_url": "https://x.com/kigihara/status/2056316549053796757/photo/1",
+          "media_key": "3_2056316543978610688",
+          "start": 35,
+          "url": "https://t.co/9nLmj5jqZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056352157407027309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056316549053796757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kigihara: 誰が好きなの？\n #funamuseum https://t.co/9nLmj5jqZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2056316543978610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImBAH2aoAAMHgH.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056316543978610688"
+          ],
+          "media_source_tweet_id": [
+            "2056316549053796757"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2056352157407027309",
+        "created_at": "2026-05-18T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056352157407027309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "funamuseum"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584024273160503296",
+              "start": 3,
+              "username": "kigihara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nLmj5jqZl",
+              "end": 58,
+              "expanded_url": "https://x.com/kigihara/status/2056316549053796757/photo/1",
+              "media_key": "3_2056316543978610688",
+              "start": 35,
+              "url": "https://t.co/9nLmj5jqZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056352157407027309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056316549053796757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kigihara: 誰が好きなの？\n #funamuseum https://t.co/9nLmj5jqZl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056316543978610688"
+          ]
+        },
+        "author_id": "1584024273160503296",
+        "conversation_id": "2056316549053796757",
+        "created_at": "2026-05-18T10:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056316549053796757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 9,
+              "tag": "funamuseum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nLmj5jqZl",
+              "end": 44,
+              "expanded_url": "https://x.com/kigihara/status/2056316549053796757/photo/1",
+              "media_key": "3_2056316543978610688",
+              "start": 21,
+              "url": "https://t.co/9nLmj5jqZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056316549053796757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 933,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "誰が好きなの？\n #funamuseum https://t.co/9nLmj5jqZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 196,
+          "like_count": 2523,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 333
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T03:30:18.000Z",
+        "description": "女の子が好き\n主に海底囚人作品とゆめにっき描くよ",
+        "id": "1584024273160503296",
+        "name": "きぎはら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049841189445402624/U9mxBBrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 58,
+          "like_count": 34917,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 42
+        },
+        "username": "kigihara",
+        "verified": false
+      }
+    ]
+  }
+}

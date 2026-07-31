@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063958219412893696"
+      ],
+      "media_source_tweet_id": [
+        "2063958384748212278"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064010693045608890",
+    "created_at": "2026-06-08T15:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064010693045608890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846596976265326592",
+          "start": 3,
+          "username": "voidsama777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvVnfbL3oi",
+          "end": 64,
+          "expanded_url": "https://x.com/voidsama777/status/2063958384748212278/video/1",
+          "media_key": "13_2063958219412893696",
+          "start": 41,
+          "url": "https://t.co/HvVnfbL3oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064010693045608890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063958384748212278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voidsama777: 发点库存 🤤🥰🥰\n全都是血哦 注意谨慎观看喵♡ https://t.co/HvVnfbL3oi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064010693045608890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064010693045608890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064010693045608890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59958,
+        "height": 856,
+        "media_key": "13_2063958219412893696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063958219412893696/img/Nc-HZU0yoJ0lqBN7.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063958219412893696/vid/avc1/320x570/3N_9AWKV5r6jp96y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063958219412893696/vid/avc1/480x856/pFG9SbuVG8KhW0Ss.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063958219412893696/pl/yxsbV6_jBy-C-kq_.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063958219412893696"
+          ]
+        },
+        "author_id": "1846596976265326592",
+        "conversation_id": "2063958384748212278",
+        "created_at": "2026-06-08T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063958384748212278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvVnfbL3oi",
+              "end": 47,
+              "expanded_url": "https://x.com/voidsama777/status/2063958384748212278/video/1",
+              "media_key": "13_2063958219412893696",
+              "start": 24,
+              "url": "https://t.co/HvVnfbL3oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063958384748212278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发点库存 🤤🥰🥰\n全都是血哦 注意谨慎观看喵♡ https://t.co/HvVnfbL3oi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 380,
+          "like_count": 5017,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1099
+        },
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo♡ ✞ \n✟⛧✟ ᗜˬᗜ 東方 project ᗜˬᗜ ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "id": "1846596976265326592",
+        "location": "†　インターネット　†",
+        "name": "vk777",
+        "pinned_tweet_id": "2064006979509780715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 66,
+          "like_count": 3218,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 403
+        },
+        "username": "voidsama777",
+        "verified": false
+      }
+    ]
+  }
+}
