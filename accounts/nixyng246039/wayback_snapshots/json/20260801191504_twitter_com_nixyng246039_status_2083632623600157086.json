@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083392974856310784"
+      ],
+      "media_source_tweet_id": [
+        "2083393283775209963"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083632623600157086",
+    "created_at": "2026-08-01T19:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083632623600157086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992000255513268224",
+          "start": 3,
+          "username": "DiedraS6726"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WPavcwekCN",
+          "end": 57,
+          "expanded_url": "https://x.com/DiedraS6726/status/2083393283775209963/photo/1",
+          "media_key": "3_2083392974856310784",
+          "start": 34,
+          "url": "https://t.co/WPavcwekCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083632623600157086",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2027
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083393283775209963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DiedraS6726: Women in horror😈 https://t.co/WPavcwekCN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083392974856310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmy31Ha0AAXFGT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083392974856310784"
+          ]
+        },
+        "author_id": "1992000255513268224",
+        "conversation_id": "2083393283775209963",
+        "created_at": "2026-08-01T03:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083393283775209963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPavcwekCN",
+              "end": 40,
+              "expanded_url": "https://x.com/DiedraS6726/status/2083393283775209963/photo/1",
+              "media_key": "3_2083392974856310784",
+              "start": 17,
+              "url": "https://t.co/WPavcwekCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083393283775209963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1484,
+          "impression_count": 193218,
+          "like_count": 14347,
+          "quote_count": 103,
+          "reply_count": 4,
+          "retweet_count": 2027
+        },
+        "reply_settings": "everyone",
+        "text": "Women in horror😈 https://t.co/WPavcwekCN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083392974856310784"
+          ],
+          "media_source_tweet_id": [
+            "2083393283775209963"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083632623600157086",
+        "created_at": "2026-08-01T19:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083632623600157086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992000255513268224",
+              "start": 3,
+              "username": "DiedraS6726"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPavcwekCN",
+              "end": 57,
+              "expanded_url": "https://x.com/DiedraS6726/status/2083393283775209963/photo/1",
+              "media_key": "3_2083392974856310784",
+              "start": 34,
+              "url": "https://t.co/WPavcwekCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083632623600157086",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083393283775209963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DiedraS6726: Women in horror😈 https://t.co/WPavcwekCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 625,
+          "like_count": 8933,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T22:40:46.000Z",
+        "description": "𝐃𝐎 𝐍𝐎𝐓 𝐑𝐄𝐏𝐎𝐒𝐓‖禁止转载‖FUB free//～@532FFG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 30,
+                "username": "532FFG"
+              }
+            ]
+          }
+        },
+        "id": "1992000255513268224",
+        "name": "KODY",
+        "pinned_tweet_id": "2075065654332596488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065261265908543488/l7dwX58U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27652,
+          "following_count": 117,
+          "like_count": 306,
+          "listed_count": 54,
+          "media_count": 42,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "DiedraS6726",
+        "verified": false
+      }
+    ]
+  }
+}

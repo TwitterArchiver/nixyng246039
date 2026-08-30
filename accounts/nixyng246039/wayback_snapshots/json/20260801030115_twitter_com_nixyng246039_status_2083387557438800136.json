@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083085230903324803",
+    "created_at": "2026-08-01T03:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083387557438800136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1715624766571429888",
+          "start": 0,
+          "username": "nakuyoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083387557438800136",
+    "in_reply_to_user_id": "1715624766571429888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083085230903324803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakuyoo 好萌萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2083085224062451712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOia-YEbgAAJsd0.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2083085224041463808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOia-X_bQAAq_x2.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083085230903324803",
+        "created_at": "2026-08-01T03:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083387557438800136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715624766571429888",
+              "start": 0,
+              "username": "nakuyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083387557438800136",
+        "in_reply_to_user_id": "1715624766571429888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083085230903324803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakuyoo 好萌萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083085224062451712",
+            "3_2083085224041463808"
+          ]
+        },
+        "author_id": "1715624766571429888",
+        "conversation_id": "2083085230903324803",
+        "created_at": "2026-07-31T06:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083085230903324803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFTA1zfuMJ",
+              "end": 27,
+              "expanded_url": "https://x.com/nakuyoo/status/2083085230903324803/photo/1",
+              "media_key": "3_2083085224062451712",
+              "start": 4,
+              "url": "https://t.co/fFTA1zfuMJ"
+            },
+            {
+              "display_url": "pic.x.com/fFTA1zfuMJ",
+              "end": 27,
+              "expanded_url": "https://x.com/nakuyoo/status/2083085230903324803/photo/1",
+              "media_key": "3_2083085224041463808",
+              "start": 4,
+              "url": "https://t.co/fFTA1zfuMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085230903324803",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3714,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Woo https://t.co/fFTA1zfuMJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 600,
+          "like_count": 8570,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2688
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T07:03:32.000Z",
+        "description": "",
+        "id": "1715624766571429888",
+        "location": "🚪300聊天Hk",
+        "name": "骨仔Inane",
+        "pinned_tweet_id": "2078746097108054140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838019136647168/v9qJCyvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16660,
+          "following_count": 8,
+          "like_count": 31747,
+          "listed_count": 33,
+          "media_count": 224,
+          "tweet_count": 7815
+        },
+        "url": "",
+        "username": "nakuyoo",
+        "verified": false
+      }
+    ]
+  }
+}

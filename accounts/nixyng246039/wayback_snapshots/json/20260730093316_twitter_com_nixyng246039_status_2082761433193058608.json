@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082733924283781120",
+        "3_2082733924292186112",
+        "3_2082733924279521280"
+      ],
+      "media_source_tweet_id": [
+        "2082733972472148118",
+        "2082733972472148118",
+        "2082733972472148118"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082761433193058608",
+    "created_at": "2026-07-30T09:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082761433193058608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055365812660133888",
+          "start": 3,
+          "username": "Graysexuals7c1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6JchYB6rIg",
+          "end": 53,
+          "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+          "media_key": "3_2082733924283781120",
+          "start": 30,
+          "url": "https://t.co/6JchYB6rIg"
+        },
+        {
+          "display_url": "pic.x.com/6JchYB6rIg",
+          "end": 53,
+          "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+          "media_key": "3_2082733924292186112",
+          "start": 30,
+          "url": "https://t.co/6JchYB6rIg"
+        },
+        {
+          "display_url": "pic.x.com/6JchYB6rIg",
+          "end": 53,
+          "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+          "media_key": "3_2082733924279521280",
+          "start": 30,
+          "url": "https://t.co/6JchYB6rIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082761433193058608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082733972472148118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Graysexuals7c1: 女孩伤心地等待投喂 https://t.co/6JchYB6rIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082733924283781120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdbeCaXEAAh2Do.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082733924292186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdbeCcXUAAnwD-.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082733924279521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdbeCZWEAAVBtm.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082733924283781120",
+            "3_2082733924292186112",
+            "3_2082733924279521280"
+          ]
+        },
+        "author_id": "2055365812660133888",
+        "conversation_id": "2082733972472148118",
+        "created_at": "2026-07-30T07:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082733972472148118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 33,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924283781120",
+              "start": 10,
+              "url": "https://t.co/6JchYB6rIg"
+            },
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 33,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924292186112",
+              "start": 10,
+              "url": "https://t.co/6JchYB6rIg"
+            },
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 33,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924279521280",
+              "start": 10,
+              "url": "https://t.co/6JchYB6rIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082733972472148118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女孩伤心地等待投喂 https://t.co/6JchYB6rIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082733924283781120",
+            "3_2082733924292186112",
+            "3_2082733924279521280"
+          ],
+          "media_source_tweet_id": [
+            "2082733972472148118",
+            "2082733972472148118",
+            "2082733972472148118"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082761433193058608",
+        "created_at": "2026-07-30T09:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082761433193058608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055365812660133888",
+              "start": 3,
+              "username": "Graysexuals7c1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 53,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924283781120",
+              "start": 30,
+              "url": "https://t.co/6JchYB6rIg"
+            },
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 53,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924292186112",
+              "start": 30,
+              "url": "https://t.co/6JchYB6rIg"
+            },
+            {
+              "display_url": "pic.x.com/6JchYB6rIg",
+              "end": 53,
+              "expanded_url": "https://x.com/Graysexuals7c1/status/2082733972472148118/photo/1",
+              "media_key": "3_2082733924279521280",
+              "start": 30,
+              "url": "https://t.co/6JchYB6rIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082761433193058608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082733972472148118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Graysexuals7c1: 女孩伤心地等待投喂 https://t.co/6JchYB6rIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 582,
+          "like_count": 8236,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2592
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 45,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Graysexuals7c1",
+        "verified": false
+      }
+    ]
+  }
+}

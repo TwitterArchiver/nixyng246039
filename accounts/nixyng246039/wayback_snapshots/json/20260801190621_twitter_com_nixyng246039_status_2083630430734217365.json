@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083504996524711936"
+      ],
+      "media_source_tweet_id": [
+        "2083505001453015283"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083630430734217365",
+    "created_at": "2026-08-01T19:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083630430734217365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504045463338577920",
+          "start": 3,
+          "username": "2Angelina3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1HKO6bypE",
+          "end": 39,
+          "expanded_url": "https://x.com/2Angelina3/status/2083505001453015283/photo/1",
+          "media_key": "3_2083504996524711936",
+          "start": 16,
+          "url": "https://t.co/i1HKO6bypE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083630430734217365",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083505001453015283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2Angelina3: https://t.co/i1HKO6bypE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2083504996524711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoYwWWbYAA77VQ.jpg",
+        "width": 150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083504996524711936"
+          ]
+        },
+        "author_id": "1504045463338577920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083505001453015283",
+        "created_at": "2026-08-01T10:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083505001453015283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1HKO6bypE",
+              "end": 23,
+              "expanded_url": "https://x.com/2Angelina3/status/2083505001453015283/photo/1",
+              "media_key": "3_2083504996524711936",
+              "start": 0,
+              "url": "https://t.co/i1HKO6bypE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083505001453015283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2247,
+          "like_count": 100,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i1HKO6bypE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083504996524711936"
+          ],
+          "media_source_tweet_id": [
+            "2083505001453015283"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083630430734217365",
+        "created_at": "2026-08-01T19:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083630430734217365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504045463338577920",
+              "start": 3,
+              "username": "2Angelina3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1HKO6bypE",
+              "end": 39,
+              "expanded_url": "https://x.com/2Angelina3/status/2083505001453015283/photo/1",
+              "media_key": "3_2083504996524711936",
+              "start": 16,
+              "url": "https://t.co/i1HKO6bypE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083630430734217365",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083505001453015283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2Angelina3: https://t.co/i1HKO6bypE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 625,
+          "like_count": 8910,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2782
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:42:46.000Z",
+        "description": "시나노가 영업하길래 좀 봤어 i호로롭님",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6796895848/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6796895848/",
+                "start": 0,
+                "url": "https://t.co/X8iMifi7uG"
+              }
+            ]
+          }
+        },
+        "id": "1504045463338577920",
+        "location": "로제마리아",
+        "name": "제발디타검좀보자",
+        "pinned_tweet_id": "2083505001453015283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069029045178859521/WVrbFCxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 47,
+          "like_count": 4344,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/X8iMifi7uG",
+        "username": "2Angelina3",
+        "verified": false
+      }
+    ]
+  }
+}

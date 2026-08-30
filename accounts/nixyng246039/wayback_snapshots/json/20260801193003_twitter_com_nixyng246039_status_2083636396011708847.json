@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083167194146623488"
+      ],
+      "media_source_tweet_id": [
+        "2083167312203698664"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083636396011708847",
+    "created_at": "2026-08-01T19:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083636396011708847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "791333454956769281",
+          "start": 3,
+          "username": "shinonogi_1016"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7oG49BwMz8",
+          "end": 47,
+          "expanded_url": "https://x.com/shinonogi_1016/status/2083167312203698664/photo/1",
+          "media_key": "3_2083167194146623488",
+          "start": 24,
+          "url": "https://t.co/7oG49BwMz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083636396011708847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083167312203698664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinonogi_1016: 初と宇 https://t.co/7oG49BwMz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2083167194146623488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjlhqbbUAAZdO1.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083167194146623488"
+          ]
+        },
+        "author_id": "791333454956769281",
+        "conversation_id": "2083167312203698664",
+        "created_at": "2026-07-31T12:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083167312203698664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oG49BwMz8",
+              "end": 27,
+              "expanded_url": "https://x.com/shinonogi_1016/status/2083167312203698664/photo/1",
+              "media_key": "3_2083167194146623488",
+              "start": 4,
+              "url": "https://t.co/7oG49BwMz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167312203698664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5217,
+          "like_count": 256,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "初と宇 https://t.co/7oG49BwMz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083167194146623488"
+          ],
+          "media_source_tweet_id": [
+            "2083167312203698664"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083636396011708847",
+        "created_at": "2026-08-01T19:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083636396011708847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "791333454956769281",
+              "start": 3,
+              "username": "shinonogi_1016"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oG49BwMz8",
+              "end": 47,
+              "expanded_url": "https://x.com/shinonogi_1016/status/2083167312203698664/photo/1",
+              "media_key": "3_2083167194146623488",
+              "start": 24,
+              "url": "https://t.co/7oG49BwMz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083636396011708847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083167312203698664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinonogi_1016: 初と宇 https://t.co/7oG49BwMz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 625,
+          "like_count": 9013,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2792
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-26T17:39:32.000Z",
+        "description": "Japanese only",
+        "id": "791333454956769281",
+        "name": "篠ﾉ木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325762043132080129/q7DU2plv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 47,
+          "like_count": 5029,
+          "listed_count": 10,
+          "media_count": 710,
+          "tweet_count": 49128
+        },
+        "url": "",
+        "username": "shinonogi_1016",
+        "verified": false
+      }
+    ]
+  }
+}

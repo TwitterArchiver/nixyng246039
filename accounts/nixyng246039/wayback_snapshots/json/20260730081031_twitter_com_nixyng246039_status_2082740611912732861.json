@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082582951184007408",
+    "created_at": "2026-07-30T08:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082740611912732861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597251393592532995",
+          "start": 0,
+          "username": "mianmian0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082740611912732861",
+    "in_reply_to_user_id": "1597251393592532995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082582951184007408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mianmian0519 喜欢黑黑房间"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082582935954464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObSJXDbIAAdRXG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082582951184007408",
+        "created_at": "2026-07-30T08:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082740611912732861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597251393592532995",
+              "start": 0,
+              "username": "mianmian0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082740611912732861",
+        "in_reply_to_user_id": "1597251393592532995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082582951184007408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mianmian0519 喜欢黑黑房间"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082582935954464768"
+          ]
+        },
+        "author_id": "1597251393592532995",
+        "conversation_id": "2082582951184007408",
+        "created_at": "2026-07-29T21:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082582951184007408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAAaUQ06nB",
+              "end": 30,
+              "expanded_url": "https://x.com/mianmian0519/status/2082582951184007408/photo/1",
+              "media_key": "3_2082582935954464768",
+              "start": 7,
+              "url": "https://t.co/vAAaUQ06nB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082582951184007408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "谁懂这个感觉 https://t.co/vAAaUQ06nB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 574,
+          "like_count": 8166,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:29:51.000Z",
+        "description": "intp\n只回关同好",
+        "id": "1597251393592532995",
+        "name": "minaz",
+        "pinned_tweet_id": "2082123492582195367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063250363445137408/15-qQaZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 102,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "mianmian0519",
+        "verified": false
+      }
+    ]
+  }
+}

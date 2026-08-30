@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083685697228280248",
+    "created_at": "2026-08-02T09:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083851061689983257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772860258710622208",
+          "start": 0,
+          "username": "xxxixixmwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083851061689983257",
+    "in_reply_to_user_id": "1772860258710622208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083685697228280248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxixixmwt 我去，怎么怎么帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083685630345924608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq9Cnxa0AAJq7A.jpg",
+        "width": 1686
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083685649979437056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq9Dw6acAA_vZ2.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2083685665452240896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq9EqjasAA1Pgw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1388,
+        "media_key": "3_2083685682057519104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq9FoabIAA5gj3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083685697228280248",
+        "created_at": "2026-08-02T09:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083851061689983257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772860258710622208",
+              "start": 0,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083851061689983257",
+        "in_reply_to_user_id": "1772860258710622208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083685697228280248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxixixmwt 我去，怎么怎么帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083685630345924608",
+            "3_2083685649979437056",
+            "3_2083685665452240896",
+            "3_2083685682057519104"
+          ]
+        },
+        "author_id": "1772860258710622208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083685697228280248",
+        "created_at": "2026-08-01T22:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083685697228280248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhwnGFLR8S",
+              "end": 59,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083685697228280248/photo/1",
+              "media_key": "3_2083685630345924608",
+              "start": 36,
+              "url": "https://t.co/JhwnGFLR8S"
+            },
+            {
+              "display_url": "pic.x.com/JhwnGFLR8S",
+              "end": 59,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083685697228280248/photo/1",
+              "media_key": "3_2083685649979437056",
+              "start": 36,
+              "url": "https://t.co/JhwnGFLR8S"
+            },
+            {
+              "display_url": "pic.x.com/JhwnGFLR8S",
+              "end": 59,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083685697228280248/photo/1",
+              "media_key": "3_2083685665452240896",
+              "start": 36,
+              "url": "https://t.co/JhwnGFLR8S"
+            },
+            {
+              "display_url": "pic.x.com/JhwnGFLR8S",
+              "end": 59,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083685697228280248/photo/1",
+              "media_key": "3_2083685682057519104",
+              "start": 36,
+              "url": "https://t.co/JhwnGFLR8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083685697228280248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p3全是自设p4是oc我换手机了只能找到这些了网盘里也没找到唉😿我的钱 https://t.co/JhwnGFLR8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 639,
+          "like_count": 9224,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平｜od割手｜双相情感障碍｜沢田纲吉孝女｜同类互fo｜第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 180,
+          "like_count": 3847,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

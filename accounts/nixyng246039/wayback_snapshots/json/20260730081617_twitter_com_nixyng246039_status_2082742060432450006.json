@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082562725851623444",
+    "created_at": "2026-07-30T08:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082742060432450006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082742060432450006",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082562725851623444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 老大画技依旧巅峰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082562668704260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa_tpqbYAAm0G-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082562672059662336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa_t2KawAAq1Sz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082562668683218944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa_tplaUAAZUlI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082562668687446016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa_tpma0AADdPU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082562725851623444",
+        "created_at": "2026-07-30T08:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082742060432450006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082742060432450006",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082562725851623444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 老大画技依旧巅峰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082562668704260096",
+            "3_2082562672059662336",
+            "3_2082562668683218944",
+            "3_2082562668687446016"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "conversation_id": "2082562725851623444",
+        "created_at": "2026-07-29T20:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082562725851623444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fm2XD44hfv",
+              "end": 29,
+              "expanded_url": "https://x.com/iiq1427276/status/2082562725851623444/photo/1",
+              "media_key": "3_2082562668704260096",
+              "start": 6,
+              "url": "https://t.co/Fm2XD44hfv"
+            },
+            {
+              "display_url": "pic.x.com/Fm2XD44hfv",
+              "end": 29,
+              "expanded_url": "https://x.com/iiq1427276/status/2082562725851623444/photo/1",
+              "media_key": "3_2082562672059662336",
+              "start": 6,
+              "url": "https://t.co/Fm2XD44hfv"
+            },
+            {
+              "display_url": "pic.x.com/Fm2XD44hfv",
+              "end": 29,
+              "expanded_url": "https://x.com/iiq1427276/status/2082562725851623444/photo/1",
+              "media_key": "3_2082562668683218944",
+              "start": 6,
+              "url": "https://t.co/Fm2XD44hfv"
+            },
+            {
+              "display_url": "pic.x.com/Fm2XD44hfv",
+              "end": 29,
+              "expanded_url": "https://x.com/iiq1427276/status/2082562725851623444/photo/1",
+              "media_key": "3_2082562668687446016",
+              "start": 6,
+              "url": "https://t.co/Fm2XD44hfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082562725851623444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐b日记2 https://t.co/Fm2XD44hfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 574,
+          "like_count": 8183,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2571
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|超高p线下无此人|我是神经病臭疯狗别攻击我🤲|日语学习中|水上由岐重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 98,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 75,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "全世界最萌的夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2078468598591627498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 178,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

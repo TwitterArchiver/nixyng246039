@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082064466179690668",
+    "created_at": "2026-07-28T20:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082202039132848524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082202039132848524",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082064466179690668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 谁干的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082064441798250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6lBzbUAAJsuz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082064466179690668",
+        "created_at": "2026-07-28T20:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082202039132848524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082202039132848524",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082064466179690668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 谁干的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082064441798250496"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "2082064466179690668",
+        "created_at": "2026-07-28T11:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082064466179690668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODwfMNAHON",
+              "end": 39,
+              "expanded_url": "https://x.com/Chloris923/status/2082064466179690668/photo/1",
+              "media_key": "3_2082064441798250496",
+              "start": 16,
+              "url": "https://t.co/ODwfMNAHON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064466179690668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒來以後在被子裡發現了一顆蛋。 https://t.co/ODwfMNAHON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096 @ovolook215//互fo的话会查成分（还是想扩同类人……）男的大概率不过\n\n直fo是喜欢你呀！长得萌萌的还有说话萌萌的还有性格萌萌的都和我互fo呀（帅帅的也来来来🤤）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 513,
+          "like_count": 7861,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2462
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木头/09/高二/极北雪原上的隐居魔女/@chloris2026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "chloris2026"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2081321795895120313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080993589988147200/twbmvpmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 358,
+          "like_count": 42249,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 23920
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082478316536156345",
+    "created_at": "2026-07-29T18:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082533362648936708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056307790264590336",
+          "start": 0,
+          "username": "duoaisuana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082533362648936708",
+    "in_reply_to_user_id": "2056307790264590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082478316536156345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoaisuana 这是我妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2082478231987351553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZy6yYW8AEH9VH.jpg",
+        "width": 1095
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082478231983120384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZy6yXWYAAWSCg.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082478316536156345",
+        "created_at": "2026-07-29T18:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082533362648936708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056307790264590336",
+              "start": 0,
+              "username": "duoaisuana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082533362648936708",
+        "in_reply_to_user_id": "2056307790264590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082478316536156345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoaisuana 这是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082478231987351553",
+            "3_2082478231983120384"
+          ]
+        },
+        "author_id": "2056307790264590336",
+        "conversation_id": "2082478316536156345",
+        "created_at": "2026-07-29T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082478316536156345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkrAKmLkvq",
+              "end": 23,
+              "expanded_url": "https://x.com/duoaisuana/status/2082478316536156345/photo/1",
+              "media_key": "3_2082478231987351553",
+              "start": 0,
+              "url": "https://t.co/KkrAKmLkvq"
+            },
+            {
+              "display_url": "pic.x.com/KkrAKmLkvq",
+              "end": 23,
+              "expanded_url": "https://x.com/duoaisuana/status/2082478316536156345/photo/1",
+              "media_key": "3_2082478231983120384",
+              "start": 0,
+              "url": "https://t.co/KkrAKmLkvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082478316536156345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KkrAKmLkvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 554,
+          "like_count": 8097,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2546
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "又封号了  💊🔪🩸 最近爱发伤感文案\n爱人@c10n3_f\n老婆3.0 @lyxz738\n喜欢的人@xxxixixmwt @boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xxxixixmwt"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "boqiaoahm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDChqF"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2080218564511023143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 89,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/u5ZQlDChqF",
+        "username": "duoaisuana",
+        "verified": false
+      }
+    ]
+  }
+}

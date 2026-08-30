@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083529600286752769"
+      ],
+      "media_source_tweet_id": [
+        "2083529608486637803"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083650677855998148",
+    "created_at": "2026-08-01T20:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083650677855998148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082124926375649280",
+          "start": 3,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCRHFjVktp",
+          "end": 90,
+          "expanded_url": "https://x.com/Yuki281331/status/2083529608486637803/photo/1",
+          "media_key": "3_2083529600286752769",
+          "start": 67,
+          "url": "https://t.co/gCRHFjVktp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083650677855998148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083529608486637803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki281331: “小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼”\n——马斯克 https://t.co/gCRHFjVktp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2083529600286752769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOovIegagAEvxpq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083529600286752769"
+          ]
+        },
+        "author_id": "2082124926375649280",
+        "conversation_id": "2083529608486637803",
+        "created_at": "2026-08-01T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083529608486637803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCRHFjVktp",
+              "end": 74,
+              "expanded_url": "https://x.com/Yuki281331/status/2083529608486637803/photo/1",
+              "media_key": "3_2083529600286752769",
+              "start": 51,
+              "url": "https://t.co/gCRHFjVktp"
+            },
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2083529222065164725",
+              "start": 75,
+              "url": "https://t.co/BqRHRI8Fc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083529608486637803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083529222065164725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼”\n——马斯克 https://t.co/gCRHFjVktp https://t.co/BqRHRI8Fc6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083529600286752769"
+          ],
+          "media_source_tweet_id": [
+            "2083529608486637803"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083650677855998148",
+        "created_at": "2026-08-01T20:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083650677855998148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082124926375649280",
+              "start": 3,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCRHFjVktp",
+              "end": 90,
+              "expanded_url": "https://x.com/Yuki281331/status/2083529608486637803/photo/1",
+              "media_key": "3_2083529600286752769",
+              "start": 67,
+              "url": "https://t.co/gCRHFjVktp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083650677855998148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083529608486637803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki281331: “小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼”\n——马斯克 https://t.co/gCRHFjVktp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 630,
+          "like_count": 9114,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2802
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 117,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

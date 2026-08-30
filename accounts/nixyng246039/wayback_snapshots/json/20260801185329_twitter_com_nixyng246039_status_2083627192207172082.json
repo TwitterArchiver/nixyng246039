@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083625494105444352",
+        "3_2083625505983766528",
+        "3_2083625521385242624",
+        "3_2083625536249819136"
+      ],
+      "media_source_tweet_id": [
+        "2083625545234104578",
+        "2083625545234104578",
+        "2083625545234104578",
+        "2083625545234104578"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083627192207172082",
+    "created_at": "2026-08-01T18:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083627192207172082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2083608195587874816",
+          "start": 3,
+          "username": "OuOshize666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MMsR7xQrw",
+          "end": 59,
+          "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+          "media_key": "3_2083625494105444352",
+          "start": 36,
+          "url": "https://t.co/1MMsR7xQrw"
+        },
+        {
+          "display_url": "pic.x.com/1MMsR7xQrw",
+          "end": 59,
+          "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+          "media_key": "3_2083625505983766528",
+          "start": 36,
+          "url": "https://t.co/1MMsR7xQrw"
+        },
+        {
+          "display_url": "pic.x.com/1MMsR7xQrw",
+          "end": 59,
+          "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+          "media_key": "3_2083625521385242624",
+          "start": 36,
+          "url": "https://t.co/1MMsR7xQrw"
+        },
+        {
+          "display_url": "pic.x.com/1MMsR7xQrw",
+          "end": 59,
+          "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+          "media_key": "3_2083625536249819136",
+          "start": 36,
+          "url": "https://t.co/1MMsR7xQrw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083627192207172082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083625545234104578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OuOshize666: 老牧师msk给我大号爆了呀，求帮转。 https://t.co/1MMsR7xQrw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2083625494105444352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqGWO0aUAAR3XD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083625505983766528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqGW7EbIAA73K1.jpg",
+        "width": 3071
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2083625521385242624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqGX0cbAAANix_.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2083625536249819136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqGYr0acAAMP26.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083625494105444352",
+            "3_2083625505983766528",
+            "3_2083625521385242624",
+            "3_2083625536249819136"
+          ]
+        },
+        "author_id": "2083608195587874816",
+        "conversation_id": "2083625545234104578",
+        "created_at": "2026-08-01T18:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083625545234104578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 42,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625494105444352",
+              "start": 19,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 42,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625505983766528",
+              "start": 19,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 42,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625521385242624",
+              "start": 19,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 42,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625536249819136",
+              "start": 19,
+              "url": "https://t.co/1MMsR7xQrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083625545234104578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老牧师msk给我大号爆了呀，求帮转。 https://t.co/1MMsR7xQrw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083625494105444352",
+            "3_2083625505983766528",
+            "3_2083625521385242624",
+            "3_2083625536249819136"
+          ],
+          "media_source_tweet_id": [
+            "2083625545234104578",
+            "2083625545234104578",
+            "2083625545234104578",
+            "2083625545234104578"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083627192207172082",
+        "created_at": "2026-08-01T18:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083627192207172082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2083608195587874816",
+              "start": 3,
+              "username": "OuOshize666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 59,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625494105444352",
+              "start": 36,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 59,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625505983766528",
+              "start": 36,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 59,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625521385242624",
+              "start": 36,
+              "url": "https://t.co/1MMsR7xQrw"
+            },
+            {
+              "display_url": "pic.x.com/1MMsR7xQrw",
+              "end": 59,
+              "expanded_url": "https://x.com/OuOshize666/status/2083625545234104578/photo/1",
+              "media_key": "3_2083625536249819136",
+              "start": 36,
+              "url": "https://t.co/1MMsR7xQrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083627192207172082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083625545234104578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OuOshize666: 老牧师msk给我大号爆了呀，求帮转。 https://t.co/1MMsR7xQrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 625,
+          "like_count": 8896,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2776
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "",
+        "id": "2083608195587874816",
+        "location": "都灵街",
+        "name": "矢澤源義二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "OuOshize666",
+        "verified": false
+      }
+    ]
+  }
+}

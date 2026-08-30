@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087490517814931456",
+        "3_2087490517823348736",
+        "3_2087490517773000704",
+        "3_2087490517772955648"
+      ],
+      "media_source_tweet_id": [
+        "2087490530343330247",
+        "2087490530343330247",
+        "2087490530343330247",
+        "2087490530343330247"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087730973085684120",
+    "created_at": "2026-08-13T02:40:26.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087730973085684120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1675444856288870401",
+          "start": 3,
+          "username": "Maedarikuonly1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PoZyNqwDu4",
+          "end": 126,
+          "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+          "media_key": "3_2087490517814931456",
+          "start": 103,
+          "url": "https://t.co/PoZyNqwDu4"
+        },
+        {
+          "display_url": "pic.x.com/PoZyNqwDu4",
+          "end": 126,
+          "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+          "media_key": "3_2087490517823348736",
+          "start": 103,
+          "url": "https://t.co/PoZyNqwDu4"
+        },
+        {
+          "display_url": "pic.x.com/PoZyNqwDu4",
+          "end": 126,
+          "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+          "media_key": "3_2087490517773000704",
+          "start": 103,
+          "url": "https://t.co/PoZyNqwDu4"
+        },
+        {
+          "display_url": "pic.x.com/PoZyNqwDu4",
+          "end": 126,
+          "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+          "media_key": "3_2087490517772955648",
+          "start": 103,
+          "url": "https://t.co/PoZyNqwDu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087730973085684120",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087490517814931456"
+      },
+      {
+        "media_key": "3_2087490517823348736"
+      },
+      {
+        "media_key": "3_2087490517773000704"
+      },
+      {
+        "media_key": "3_2087490517772955648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087490530343330247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maedarikuonly1: 号主已成年/双相情感障碍/overdoes/🈹\n找我互fo吧，我需要小看一下成分，年龄特别小的宝宝我就不回了你懂的，我不放割图了我被马斯克盯上了别再封我了别赶我走… https://t.co/PoZyNqwDu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2087490517814931456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhBkOJa8AAOI-R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087490517823348736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhBkOLbYAAxdP-.jpg",
+        "width": 1707
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087490517773000704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhBkN_bIAASwPE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087490517772955648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhBkN_acAARsJV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087490517814931456",
+            "3_2087490517823348736",
+            "3_2087490517773000704",
+            "3_2087490517772955648"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087490530343330247",
+        "created_at": "2026-08-12T10:45:00.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087490530343330247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517814931456",
+              "start": 83,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517823348736",
+              "start": 83,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517773000704",
+              "start": 83,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517772955648",
+              "start": 83,
+              "url": "https://t.co/PoZyNqwDu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087490530343330247",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087490517814931456"
+          },
+          {
+            "media_key": "3_2087490517823348736"
+          },
+          {
+            "media_key": "3_2087490517773000704"
+          },
+          {
+            "media_key": "3_2087490517772955648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3671,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "号主已成年/双相情感障碍/overdoes/🈹\n找我互fo吧，我需要小看一下成分，年龄特别小的宝宝我就不回了你懂的，我不放割图了我被马斯克盯上了别再封我了别赶我走… https://t.co/PoZyNqwDu4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087490517814931456",
+            "3_2087490517823348736",
+            "3_2087490517773000704",
+            "3_2087490517772955648"
+          ],
+          "media_source_tweet_id": [
+            "2087490530343330247",
+            "2087490530343330247",
+            "2087490530343330247",
+            "2087490530343330247"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087730973085684120",
+        "created_at": "2026-08-13T02:40:26.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087730973085684120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1675444856288870401",
+              "start": 3,
+              "username": "Maedarikuonly1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 126,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517814931456",
+              "start": 103,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 126,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517823348736",
+              "start": 103,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 126,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517773000704",
+              "start": 103,
+              "url": "https://t.co/PoZyNqwDu4"
+            },
+            {
+              "display_url": "pic.x.com/PoZyNqwDu4",
+              "end": 126,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087490530343330247/photo/1",
+              "media_key": "3_2087490517772955648",
+              "start": 103,
+              "url": "https://t.co/PoZyNqwDu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087730973085684120",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087490517814931456"
+          },
+          {
+            "media_key": "3_2087490517823348736"
+          },
+          {
+            "media_key": "3_2087490517773000704"
+          },
+          {
+            "media_key": "3_2087490517772955648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087490530343330247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maedarikuonly1: 号主已成年/双相情感障碍/overdoes/🈹\n找我互fo吧，我需要小看一下成分，年龄特别小的宝宝我就不回了你懂的，我不放割图了我被马斯克盯上了别再封我了别赶我走… https://t.co/PoZyNqwDu4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087730973085684120",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 683,
+          "like_count": 10074,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3133
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "is_identity_verified": false,
+        "location": "Украина",
+        "most_recent_tweet_id": "2087554225031336249",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675444856288870401/1761213390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 259,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

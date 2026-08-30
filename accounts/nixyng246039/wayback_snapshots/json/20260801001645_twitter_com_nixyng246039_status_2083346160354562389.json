@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083031636070010880"
+      ],
+      "media_source_tweet_id": [
+        "2083046998278590685"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083346160354562389",
+    "created_at": "2026-08-01T00:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083346160354562389"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "Palouette"
+        },
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "エナーアート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313874847097778176",
+          "start": 3,
+          "username": "swyk_a4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mv5ljlJCSj",
+          "end": 81,
+          "expanded_url": "https://x.com/swyk_a4/status/2083046998278590685/photo/1",
+          "media_key": "3_2083031636070010880",
+          "start": 58,
+          "url": "https://t.co/mv5ljlJCSj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083346160354562389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083046998278590685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swyk_a4: Romantic Melancholia / 03\n#Palouette #エナーアート https://t.co/mv5ljlJCSj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2083031636070010880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhqPJPakAAFP0h.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083031636070010880"
+          ]
+        },
+        "author_id": "1313874847097778176",
+        "conversation_id": "2083046998278590685",
+        "created_at": "2026-07-31T04:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083046998278590685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "Palouette"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "エナーアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv5ljlJCSj",
+              "end": 68,
+              "expanded_url": "https://x.com/swyk_a4/status/2083046998278590685/photo/1",
+              "media_key": "3_2083031636070010880",
+              "start": 45,
+              "url": "https://t.co/mv5ljlJCSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083046998278590685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 8323,
+          "like_count": 736,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "Romantic Melancholia / 03\n#Palouette #エナーアート https://t.co/mv5ljlJCSj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083031636070010880"
+          ],
+          "media_source_tweet_id": [
+            "2083046998278590685"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083346160354562389",
+        "created_at": "2026-08-01T00:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083346160354562389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "Palouette"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "エナーアート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313874847097778176",
+              "start": 3,
+              "username": "swyk_a4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv5ljlJCSj",
+              "end": 81,
+              "expanded_url": "https://x.com/swyk_a4/status/2083046998278590685/photo/1",
+              "media_key": "3_2083031636070010880",
+              "start": 58,
+              "url": "https://t.co/mv5ljlJCSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083346160354562389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083046998278590685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swyk_a4: Romantic Melancholia / 03\n#Palouette #エナーアート https://t.co/mv5ljlJCSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 589,
+          "like_count": 8512,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2675
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T16:14:10.000Z",
+        "description": "Illustration ┊︎居心地のいい雰囲気が描きたい 🎡 \nご依頼・お仕事のご相談はメールまたはDMまで【 a4swykburg@gmail.com 】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/swyk-a4",
+                "end": 23,
+                "expanded_url": "https://potofu.me/swyk-a4",
+                "start": 0,
+                "url": "https://t.co/e1jiimYqIu"
+              }
+            ]
+          }
+        },
+        "id": "1313874847097778176",
+        "location": "無断転載、自作発言、AI学習への使用禁止🚫",
+        "name": "さわやか",
+        "pinned_tweet_id": "1920852512120172722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924683933339533312/OynhiZIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 58,
+          "like_count": 3137,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/e1jiimYqIu",
+        "username": "swyk_a4",
+        "verified": false
+      }
+    ]
+  }
+}

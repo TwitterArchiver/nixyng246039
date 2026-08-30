@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086991317293486080"
+      ],
+      "media_source_tweet_id": [
+        "2086991436638261533"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2087303525911130334",
+    "created_at": "2026-08-11T22:21:55.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087303525911130334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "鏡音リン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012261298814451712",
+          "start": 3,
+          "username": "nk_xxv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JXVPE9Vxjf",
+          "end": 41,
+          "expanded_url": "https://x.com/nk_xxv/status/2086991436638261533/photo/1",
+          "media_key": "3_2086991317293486080",
+          "start": 18,
+          "url": "https://t.co/JXVPE9Vxjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087303525911130334",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086991317293486080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086991436638261533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nk_xxv: #鏡音リン https://t.co/JXVPE9Vxjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2086991317293486080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ7i7SaUAAs8TI.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086991317293486080"
+          ]
+        },
+        "author_id": "2012261298814451712",
+        "conversation_id": "2086991436638261533",
+        "created_at": "2026-08-11T01:41:47.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086991436638261533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "鏡音リン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXVPE9Vxjf",
+              "end": 29,
+              "expanded_url": "https://x.com/nk_xxv/status/2086991436638261533/photo/1",
+              "media_key": "3_2086991317293486080",
+              "start": 6,
+              "url": "https://t.co/JXVPE9Vxjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086991436638261533",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086991317293486080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 12791,
+          "like_count": 1585,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "#鏡音リン https://t.co/JXVPE9Vxjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086991317293486080"
+          ],
+          "media_source_tweet_id": [
+            "2086991436638261533"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2087303525911130334",
+        "created_at": "2026-08-11T22:21:55.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087303525911130334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "鏡音リン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012261298814451712",
+              "start": 3,
+              "username": "nk_xxv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXVPE9Vxjf",
+              "end": 41,
+              "expanded_url": "https://x.com/nk_xxv/status/2086991436638261533/photo/1",
+              "media_key": "3_2086991317293486080",
+              "start": 18,
+              "url": "https://t.co/JXVPE9Vxjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087303525911130334",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086991317293486080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086991436638261533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nk_xxv: #鏡音リン https://t.co/JXVPE9Vxjf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087303525911130334",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 652,
+          "like_count": 9859,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3044
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-16T20:31:08.000Z",
+        "description": "🇨🇳 18↑ 无言フォロー失礼いします AI🚫\nvacoloid&utau好き",
+        "id": "2012261298814451712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086991436638261533",
+        "name": "鸟",
+        "pinned_tweet_id": "2050792258119549354",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012261427021836289/c4A-XDWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 55,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "nk_xxv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

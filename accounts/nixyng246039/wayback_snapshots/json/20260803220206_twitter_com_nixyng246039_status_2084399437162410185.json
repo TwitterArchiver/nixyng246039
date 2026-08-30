@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2084399437162410185",
+    "created_at": "2026-08-03T22:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T23:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084399437162410185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990120550881157122",
+          "start": 3,
+          "username": "stf_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084399437162410185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084270859896893471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @stf_cos: また、この場を借りますが、先日は応援タグにてご声援ありがとうございました！当時は切羽詰まっており（⋯）こちらに顔を出せませんでしたが、皆様のお言葉は拝見させていただいております。\n本当に長らくお付き合いくださり皆様重ねてになりますが、ありがとうございま…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2084399437162410185",
+        "created_at": "2026-08-03T22:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084399437162410185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990120550881157122",
+              "start": 3,
+              "username": "stf_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084399437162410185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084270859896893471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @stf_cos: また、この場を借りますが、先日は応援タグにてご声援ありがとうございました！当時は切羽詰まっており（⋯）こちらに顔を出せませんでしたが、皆様のお言葉は拝見させていただいております。\n本当に長らくお付き合いくださり皆様重ねてになりますが、ありがとうございま…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990120550881157122",
+        "conversation_id": "2084270859896893471",
+        "created_at": "2026-08-03T13:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084270859896893471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084270859896893471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7394,
+          "like_count": 262,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "following",
+        "text": "また、この場を借りますが、先日は応援タグにてご声援ありがとうございました！当時は切羽詰まっており（⋯）こちらに顔を出せませんでしたが、皆様のお言葉は拝見させていただいております。\n本当に長らくお付き合いくださり皆様重ねてになりますが、ありがとうございます。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 653,
+          "like_count": 9560,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2962
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T06:48:29.000Z",
+        "description": "ゲーム製作サークル、鱶尾工業(ふかおこうぎょう)です。System N.H発信「細胞神曲」シリーズの実機製作を担当。告知や修正報告など【細胞神曲-CoE-】【磯井実光の記録】【隠者の間】【幕間】→now→【細胞神曲2-CoM-】/お問い合わせはサイトメールフォームより（DM受付はしておりません）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamondocommedia8.wixsite.com/stf-cos",
+                "end": 23,
+                "expanded_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+                "start": 0,
+                "url": "https://t.co/D6YUdQaeHk"
+              }
+            ]
+          }
+        },
+        "id": "990120550881157122",
+        "location": "コミックジーン3月号（2/15発売）よりコミカライズ連載開始",
+        "name": "鱶尾工業-SharkTale Factory-",
+        "pinned_tweet_id": "1010149275412541441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124321972433723392/3qsBnPRI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20100,
+          "following_count": 6,
+          "like_count": 51,
+          "listed_count": 55,
+          "media_count": 178,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/D6YUdQaeHk",
+        "username": "stf_cos",
+        "verified": false
+      }
+    ]
+  }
+}

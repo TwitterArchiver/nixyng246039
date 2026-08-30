@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091873486558146560"
+      ],
+      "media_source_tweet_id": [
+        "2091873494787363004"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2092080346451882134",
+    "created_at": "2026-08-25T02:43:18.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092080346451882134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1335144118570217473",
+          "start": 3,
+          "username": "pan_2_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHg5rLLl8M",
+          "end": 47,
+          "expanded_url": "https://x.com/pan_2_jp/status/2091873494787363004/photo/1",
+          "media_key": "3_2091873486558146560",
+          "start": 24,
+          "url": "https://t.co/XHg5rLLl8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092080346451882134",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091873486558146560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091873494787363004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pan_2_jp: 難しいものですね、 https://t.co/XHg5rLLl8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091873486558146560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfT2lFbMAAUQyT.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091873486558146560"
+          ],
+          "media_source_tweet_id": [
+            "2091873494787363004"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2092080346451882134",
+        "created_at": "2026-08-25T02:43:18.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092080346451882134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1335144118570217473",
+              "start": 3,
+              "username": "pan_2_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHg5rLLl8M",
+              "end": 47,
+              "expanded_url": "https://x.com/pan_2_jp/status/2091873494787363004/photo/1",
+              "media_key": "3_2091873486558146560",
+              "start": 24,
+              "url": "https://t.co/XHg5rLLl8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092080346451882134",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091873486558146560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091873494787363004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pan_2_jp: 難しいものですね、 https://t.co/XHg5rLLl8M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091873486558146560"
+          ]
+        },
+        "author_id": "1335144118570217473",
+        "conversation_id": "2091873494787363004",
+        "created_at": "2026-08-24T13:01:20.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091873494787363004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHg5rLLl8M",
+              "end": 33,
+              "expanded_url": "https://x.com/pan_2_jp/status/2091873494787363004/photo/1",
+              "media_key": "3_2091873486558146560",
+              "start": 10,
+              "url": "https://t.co/XHg5rLLl8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091873494787363004",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091873486558146560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 620,
+          "impression_count": 74009,
+          "like_count": 9645,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "難しいものですね、 https://t.co/XHg5rLLl8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2092080346451882134",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 703,
+          "like_count": 10895,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-05T08:50:30.000Z",
+        "description": "成人済 / 🌈🕒⚔️",
+        "id": "1335144118570217473",
+        "is_identity_verified": false,
+        "location": "ご本人以外無断転載× AI学習× Do Not Repost",
+        "most_recent_tweet_id": "2092051178276483302",
+        "name": "東くるみ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335144118570217473/1781526805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074168181003018244/kodWbM3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27739,
+          "following_count": 263,
+          "like_count": 49423,
+          "listed_count": 143,
+          "media_count": 198,
+          "tweet_count": 7383
+        },
+        "url": "",
+        "username": "pan_2_jp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

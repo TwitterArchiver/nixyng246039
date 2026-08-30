@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082887085850288194",
+    "created_at": "2026-07-31T00:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082985050698867008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2080343820450066432",
+          "start": 0,
+          "username": "Pennynqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082985050698867008",
+    "in_reply_to_user_id": "2080343820450066432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082887085850288194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pennynqo 好漂亮，大美女呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2082887078279540736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfmwxgacAARwPJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082887085850288194",
+        "created_at": "2026-07-31T00:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082985050698867008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2080343820450066432",
+              "start": 0,
+              "username": "Pennynqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082985050698867008",
+        "in_reply_to_user_id": "2080343820450066432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082887085850288194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pennynqo 好漂亮，大美女呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082887078279540736"
+          ]
+        },
+        "author_id": "2080343820450066432",
+        "conversation_id": "2082887085850288194",
+        "created_at": "2026-07-30T17:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082887085850288194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDirplgFWk",
+              "end": 47,
+              "expanded_url": "https://x.com/Pennynqo/status/2082887085850288194/photo/1",
+              "media_key": "3_2082887078279540736",
+              "start": 24,
+              "url": "https://t.co/SDirplgFWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082887085850288194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这一张↖(^ω^)↗\n#小狗日记 #女大 https://t.co/SDirplgFWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 586,
+          "like_count": 8310,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2617
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-23T17:27:43.000Z",
+        "description": "06年在读女大 ｜172 49｜深夜发疯和看吃播选手｜现实朋友刷到我了请当做没看到谢谢🙏｜口嗨居多｜欢迎妹宝来找我玩｜能关注我我会很开心ww",
+        "id": "2080343820450066432",
+        "name": "Penny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080347632732606464/i4MUikSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 23,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Pennynqo",
+        "verified": false
+      }
+    ]
+  }
+}

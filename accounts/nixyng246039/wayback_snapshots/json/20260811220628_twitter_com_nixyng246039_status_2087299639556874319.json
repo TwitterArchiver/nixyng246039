@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2087033262850080768"
+      ],
+      "media_source_tweet_id": [
+        "2087033281506058406"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2087299639556874319",
+    "created_at": "2026-08-11T22:06:28.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087299639556874319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800072059214598144",
+          "start": 3,
+          "username": "bnli270777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOIUKp5mYb",
+          "end": 54,
+          "expanded_url": "https://x.com/bnli270777/status/2087033281506058406/photo/1",
+          "media_key": "16_2087033262850080768",
+          "start": 31,
+          "url": "https://t.co/wOIUKp5mYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087299639556874319",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2087033262850080768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087033281506058406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bnli270777: 真希望可以这样\n好轻爽的感觉 https://t.co/wOIUKp5mYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2087033262850080768",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPahseqagAAFvso.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPahseqagAAFvso.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087033262850080768"
+          ]
+        },
+        "author_id": "1800072059214598144",
+        "conversation_id": "2087033281506058406",
+        "created_at": "2026-08-11T04:28:04.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087033281506058406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOIUKp5mYb",
+              "end": 38,
+              "expanded_url": "https://x.com/bnli270777/status/2087033281506058406/photo/1",
+              "media_key": "16_2087033262850080768",
+              "start": 15,
+              "url": "https://t.co/wOIUKp5mYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087033281506058406",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2087033262850080768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 37071,
+          "like_count": 1660,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "真希望可以这样\n好轻爽的感觉 https://t.co/wOIUKp5mYb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087033262850080768"
+          ],
+          "media_source_tweet_id": [
+            "2087033281506058406"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2087299639556874319",
+        "created_at": "2026-08-11T22:06:28.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087299639556874319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800072059214598144",
+              "start": 3,
+              "username": "bnli270777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOIUKp5mYb",
+              "end": 54,
+              "expanded_url": "https://x.com/bnli270777/status/2087033281506058406/photo/1",
+              "media_key": "16_2087033262850080768",
+              "start": 31,
+              "url": "https://t.co/wOIUKp5mYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087299639556874319",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2087033262850080768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087033281506058406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bnli270777: 真希望可以这样\n好轻爽的感觉 https://t.co/wOIUKp5mYb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087299639556874319",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 652,
+          "like_count": 9826,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3036
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-10T07:47:09.000Z",
+        "description": "God Dammit//🇨🇳 🇺🇸 🇲🇲通用                    \n                     10后            \n                                                                 外语回复都是翻译器",
+        "id": "1800072059214598144",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2087237771509612918",
+        "name": "U-M",
+        "pinned_tweet_id": "2053865036775579942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800072059214598144/1778326370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 59,
+          "like_count": 2523,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "bnli270777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

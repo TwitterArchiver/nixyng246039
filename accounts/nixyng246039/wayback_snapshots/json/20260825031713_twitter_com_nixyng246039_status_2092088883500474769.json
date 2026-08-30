@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2091791293680926778",
+    "created_at": "2026-08-25T03:17:13.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092088883500474769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088823399493906433",
+          "start": 0,
+          "username": "QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092088883500474769",
+    "in_reply_to_user_id": "2088823399493906433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091791293680926778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_8964_ 太萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2091791287959891968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeJF_cbMAAguEv.jpg",
+        "width": 570
+      },
+      {
+        "height": 760,
+        "media_key": "3_2091791287964078081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeJF_dbEAETzAC.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2091791293680926778",
+        "created_at": "2026-08-25T03:17:13.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092088883500474769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088823399493906433",
+              "start": 0,
+              "username": "QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092088883500474769",
+        "in_reply_to_user_id": "2088823399493906433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091791293680926778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964_ 太萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091791287959891968",
+            "3_2091791287964078081"
+          ]
+        },
+        "author_id": "2088823399493906433",
+        "conversation_id": "2091791293680926778",
+        "created_at": "2026-08-24T07:34:42.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091791293680926778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nliEP6AJod",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2091791293680926778/photo/1",
+              "media_key": "3_2091791287959891968",
+              "start": 15,
+              "url": "https://t.co/nliEP6AJod"
+            },
+            {
+              "display_url": "pic.x.com/nliEP6AJod",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2091791293680926778/photo/1",
+              "media_key": "3_2091791287964078081",
+              "start": 15,
+              "url": "https://t.co/nliEP6AJod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091791293680926778",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091791287959891968"
+          },
+          {
+            "media_key": "3_2091791287964078081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 23768,
+          "like_count": 381,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你不吃這套嗎？那把套摘下來吃 https://t.co/nliEP6AJod"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2092088883500474769",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 707,
+          "like_count": 10963,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 3501
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MlUz"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "most_recent_tweet_id": "2091791293680926778",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2091134671627391117",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 8,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/mDDFP5MlUz",
+        "username": "QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

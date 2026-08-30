@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086642808233000960"
+      ],
+      "media_source_tweet_id": [
+        "2086642844387909753"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087009314317779229",
+    "created_at": "2026-08-11T02:52:49.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087009314317779229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1437963160544284675",
+          "start": 3,
+          "username": "EnnaAlouette"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/umpBUfZ1eQ",
+          "end": 65,
+          "expanded_url": "https://x.com/EnnaAlouette/status/2086642844387909753/photo/1",
+          "media_key": "3_2086642808233000960",
+          "start": 42,
+          "url": "https://t.co/umpBUfZ1eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087009314317779229",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086642808233000960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086642844387909753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnnaAlouette: me when i speak chinese https://t.co/umpBUfZ1eQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2086642808233000960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU-lB3aAAAzcl_.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086642808233000960"
+          ]
+        },
+        "author_id": "1437963160544284675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086642844387909753",
+        "created_at": "2026-08-10T02:36:36.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086642844387909753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umpBUfZ1eQ",
+              "end": 47,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2086642844387909753/photo/1",
+              "media_key": "3_2086642808233000960",
+              "start": 24,
+              "url": "https://t.co/umpBUfZ1eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086642844387909753",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086642808233000960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 44046,
+          "like_count": 3986,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "me when i speak chinese https://t.co/umpBUfZ1eQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086642808233000960"
+          ],
+          "media_source_tweet_id": [
+            "2086642844387909753"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087009314317779229",
+        "created_at": "2026-08-11T02:52:49.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087009314317779229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1437963160544284675",
+              "start": 3,
+              "username": "EnnaAlouette"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umpBUfZ1eQ",
+              "end": 65,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2086642844387909753/photo/1",
+              "media_key": "3_2086642808233000960",
+              "start": 42,
+              "url": "https://t.co/umpBUfZ1eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087009314317779229",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086642808233000960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086642844387909753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnnaAlouette: me when i speak chinese https://t.co/umpBUfZ1eQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087009314317779229",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 646,
+          "like_count": 9635,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 2995
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-15T02:15:30.000Z",
+        "description": "NIJISANJI EN's 3rd wave #Ethyria ❤️🧡🩶💜 Your songbird Enna Alouette ♪ にじさんじENエナー アールウェットです！ ♡ まま: @gahara411 | icon: KT MAMA !! | header: @mootecky",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Ethyria"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "gahara411"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "mootecky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCR6qh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow/sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/I13MlMnlQp"
+              }
+            ]
+          }
+        },
+        "id": "1437963160544284675",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086975177217478750",
+        "name": "Enna Alouette 🕊️🎐 NIJISANJI EN",
+        "pinned_tweet_id": "2086478982346862602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437963160544284675/1783828028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086713388315676672/VBRjbQLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657893,
+          "following_count": 480,
+          "like_count": 30856,
+          "listed_count": 4540,
+          "media_count": 3017,
+          "tweet_count": 44775
+        },
+        "url": "https://t.co/I13MlMnlQp",
+        "username": "EnnaAlouette",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

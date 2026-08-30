@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083911458438688768"
+      ],
+      "media_source_tweet_id": [
+        "2083911466797973884"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2084223768369717337",
+    "created_at": "2026-08-03T10:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084223768369717337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787883594159095808",
+          "start": 3,
+          "username": "hpshpis0_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jl6KnFmmjh",
+          "end": 38,
+          "expanded_url": "https://x.com/hpshpis0_/status/2083911466797973884/photo/1",
+          "media_key": "3_2083911458438688768",
+          "start": 15,
+          "url": "https://t.co/jl6KnFmmjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084223768369717337",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083911466797973884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hpshpis0_: https://t.co/jl6KnFmmjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3036,
+        "media_key": "3_2083911458438688768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuKbi-asAACxwb.jpg",
+        "width": 2468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083911458438688768"
+          ]
+        },
+        "author_id": "1787883594159095808",
+        "conversation_id": "2083911466797973884",
+        "created_at": "2026-08-02T13:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083911466797973884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jl6KnFmmjh",
+              "end": 23,
+              "expanded_url": "https://x.com/hpshpis0_/status/2083911466797973884/photo/1",
+              "media_key": "3_2083911458438688768",
+              "start": 0,
+              "url": "https://t.co/jl6KnFmmjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083911466797973884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 23107,
+          "like_count": 3316,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/jl6KnFmmjh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083911458438688768"
+          ],
+          "media_source_tweet_id": [
+            "2083911466797973884"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2084223768369717337",
+        "created_at": "2026-08-03T10:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084223768369717337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787883594159095808",
+              "start": 3,
+              "username": "hpshpis0_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jl6KnFmmjh",
+              "end": 38,
+              "expanded_url": "https://x.com/hpshpis0_/status/2083911466797973884/photo/1",
+              "media_key": "3_2083911458438688768",
+              "start": 15,
+              "url": "https://t.co/jl6KnFmmjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084223768369717337",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083911466797973884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hpshpis0_: https://t.co/jl6KnFmmjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 648,
+          "like_count": 9465,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2934
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T16:34:37.000Z",
+        "description": "JJBA｜🦖🥪左右相手固定｜디에팬츠만 그림",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hpshpis0.carrd.co",
+                "end": 23,
+                "expanded_url": "https://hpshpis0.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/uh18Xt8CDs"
+              }
+            ]
+          }
+        },
+        "id": "1787883594159095808",
+        "name": "໊",
+        "pinned_tweet_id": "2060241484583198916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053382336197300225/G-IG4gDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 34,
+          "like_count": 1692,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/uh18Xt8CDs",
+        "username": "hpshpis0_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083590266397638771",
+    "created_at": "2026-08-01T19:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083635789221745119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067535566535815168",
+          "start": 0,
+          "username": "yumumu_msknb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083635789221745119",
+    "in_reply_to_user_id": "2067535566535815168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083590266397638771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumumu_msknb （撕咬作业）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083590266397638771].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083590266397638771",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083590266397638771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083590266397638771",
+        "created_at": "2026-08-01T19:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083635789221745119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067535566535815168",
+              "start": 0,
+              "username": "yumumu_msknb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083635789221745119",
+        "in_reply_to_user_id": "2067535566535815168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083590266397638771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumumu_msknb （撕咬作业）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 625,
+          "like_count": 8983,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2790
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:11:58.000Z",
+        "description": "等到世界只有我们彼此\n兄弟们我是霖\n磕大药割大手吸大毒杀大人\n马斯克你继续封号我操你妈\n大号@NomfusiSetlhodi\n朱雨辰@woaiuai0721\n💊@AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "NomfusiSetlhodi"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "AminoXx_killer"
+              }
+            ]
+          }
+        },
+        "id": "2067535566535815168",
+        "location": "只想靠在你的肩膀",
+        "name": "这里只有小伊",
+        "pinned_tweet_id": "2075658366651613615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296124949938176/KIY_WS6A_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 89,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "yumumu_msknb",
+        "verified": false
+      }
+    ]
+  }
+}

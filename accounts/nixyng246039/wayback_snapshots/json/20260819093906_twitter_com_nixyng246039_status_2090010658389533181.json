@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090010568820150272"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2090010658389533181",
+    "created_at": "2026-08-19T09:39:06.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090010658389533181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E10PjYD0Yp",
+          "end": 31,
+          "expanded_url": "https://x.com/nixyng246039/status/2090010658389533181/video/1",
+          "media_key": "13_2090010568820150272",
+          "start": 8,
+          "url": "https://t.co/E10PjYD0Yp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090010658389533181",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090010568820150272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊。 https://t.co/E10PjYD0Yp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28666,
+        "height": 720,
+        "media_key": "13_2090010568820150272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090010568820150272/img/YrldYgHgJOVMMQhv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090010568820150272/vid/avc1/320x320/-_ohXM_aEomdIzXU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090010568820150272/vid/avc1/540x540/U0LpYCa5w4tApKaq.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090010568820150272/vid/avc1/720x720/ZSizjT32sYwu06Sj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090010568820150272/pl/GWQq0Zo_MazwLKg0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090010568820150272"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2090010658389533181",
+        "created_at": "2026-08-19T09:39:06.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090010658389533181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E10PjYD0Yp",
+              "end": 31,
+              "expanded_url": "https://x.com/nixyng246039/status/2090010658389533181/video/1",
+              "media_key": "13_2090010568820150272",
+              "start": 8,
+              "url": "https://t.co/E10PjYD0Yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090010658389533181",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090010568820150272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊。 https://t.co/E10PjYD0Yp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2090010667415707741",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 674,
+          "like_count": 10616,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

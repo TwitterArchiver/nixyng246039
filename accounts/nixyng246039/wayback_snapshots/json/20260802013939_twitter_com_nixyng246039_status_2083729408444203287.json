@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082223878370427345",
+    "created_at": "2026-08-02T01:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083729408444203287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569644888513454081",
+          "start": 0,
+          "username": "kuilwfnno11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083729408444203287",
+    "in_reply_to_user_id": "1569644888513454081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082629015203192887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuilwfnno11 望天狼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082223878370427345",
+        "created_at": "2026-08-02T01:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083729408444203287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569644888513454081",
+              "start": 0,
+              "username": "kuilwfnno11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083729408444203287",
+        "in_reply_to_user_id": "1569644888513454081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082629015203192887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuilwfnno11 望天狼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569644888513454081",
+        "conversation_id": "2082223878370427345",
+        "created_at": "2026-07-30T00:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082629015203192887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082629015203192887",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082223878370427345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 西北王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 637,
+          "like_count": 9223,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T11:11:33.000Z",
+        "description": "成分比较复杂什么都吃",
+        "id": "1569644888513454081",
+        "name": "充电桃子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026886792088293376/pdeFwz2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 5,
+          "like_count": 895,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 4390
+        },
+        "url": "",
+        "username": "kuilwfnno11",
+        "verified": false
+      }
+    ]
+  }
+}

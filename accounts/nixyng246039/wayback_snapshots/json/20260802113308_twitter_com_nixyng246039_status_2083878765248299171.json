@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083645371830689792"
+      ],
+      "media_source_tweet_id": [
+        "2083645384828850288"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083878765248299171",
+    "created_at": "2026-08-02T11:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083878765248299171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736637151876669440",
+          "start": 3,
+          "username": "AEFTS_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aixCBEE5tR",
+          "end": 35,
+          "expanded_url": "https://x.com/AEFTS_/status/2083645384828850288/photo/1",
+          "media_key": "3_2083645371830689792",
+          "start": 12,
+          "url": "https://t.co/aixCBEE5tR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083878765248299171",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083645384828850288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AEFTS_: https://t.co/aixCBEE5tR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2083645371830689792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqYbRHa4AAoq3g.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083645371830689792"
+          ]
+        },
+        "author_id": "1736637151876669440",
+        "conversation_id": "2083645384828850288",
+        "created_at": "2026-08-01T20:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083645384828850288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aixCBEE5tR",
+              "end": 23,
+              "expanded_url": "https://x.com/AEFTS_/status/2083645384828850288/photo/1",
+              "media_key": "3_2083645371830689792",
+              "start": 0,
+              "url": "https://t.co/aixCBEE5tR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083645384828850288",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3712,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aixCBEE5tR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083645371830689792"
+          ],
+          "media_source_tweet_id": [
+            "2083645384828850288"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083878765248299171",
+        "created_at": "2026-08-02T11:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083878765248299171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736637151876669440",
+              "start": 3,
+              "username": "AEFTS_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aixCBEE5tR",
+              "end": 35,
+              "expanded_url": "https://x.com/AEFTS_/status/2083645384828850288/photo/1",
+              "media_key": "3_2083645371830689792",
+              "start": 12,
+              "url": "https://t.co/aixCBEE5tR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083878765248299171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083645384828850288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AEFTS_: https://t.co/aixCBEE5tR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 645,
+          "like_count": 9396,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T06:39:15.000Z",
+        "description": "堆堆图",
+        "id": "1736637151876669440",
+        "name": "鎂.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937473068458557440/LZKcC-N1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 154,
+          "like_count": 10058,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 4211
+        },
+        "url": "",
+        "username": "AEFTS_",
+        "verified": false
+      }
+    ]
+  }
+}

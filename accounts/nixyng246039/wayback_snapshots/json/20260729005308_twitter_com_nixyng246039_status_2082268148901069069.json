@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082268144757088256"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082268148901069069",
+    "created_at": "2026-07-29T00:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082268148901069069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ApgkZRHnGh",
+          "end": 38,
+          "expanded_url": "https://x.com/nixyng246039/status/2082268148901069069/photo/1",
+          "media_key": "3_2082268144757088256",
+          "start": 15,
+          "url": "https://t.co/ApgkZRHnGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082268148901069069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⭕米子⭕米子，助力啥子买药片 https://t.co/ApgkZRHnGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2082268144757088256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWz2GdboAAw38G.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082268144757088256"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082268148901069069",
+        "created_at": "2026-07-29T00:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082268148901069069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ApgkZRHnGh",
+              "end": 38,
+              "expanded_url": "https://x.com/nixyng246039/status/2082268148901069069/photo/1",
+              "media_key": "3_2082268144757088256",
+              "start": 15,
+              "url": "https://t.co/ApgkZRHnGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082268148901069069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⭕米子⭕米子，助力啥子买药片 https://t.co/ApgkZRHnGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 517,
+          "like_count": 7968,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083440605116653835",
+    "created_at": "2026-08-01T09:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083481398489596326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "befriendsyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083481398489596326",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083440605116653835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befriendsyep 击中我的心吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083440605116653835",
+        "created_at": "2026-08-01T09:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083481398489596326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "befriendsyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083481398489596326",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083440605116653835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befriendsyep 击中我的心吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2083440605116653835",
+        "created_at": "2026-08-01T06:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083440605116653835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083440605116653835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长得像杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 604,
+          "like_count": 8732,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2735
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的，找我闲聊也可以哦 ' ֊'",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tk41898",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tk41898",
+                "start": 0,
+                "url": "https://t.co/GAKS0AuHNd"
+              }
+            ]
+          }
+        },
+        "id": "1814688236398166016",
+        "location": "伊甸园",
+        "name": "TK",
+        "pinned_tweet_id": "2069745633905549553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 779,
+          "like_count": 8981,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/GAKS0AuHNd",
+        "username": "befriendsyep",
+        "verified": false
+      }
+    ]
+  }
+}

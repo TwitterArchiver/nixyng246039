@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087930332372959232"
+      ],
+      "media_source_tweet_id": [
+        "2087930371434512532"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2088021466327687478",
+    "created_at": "2026-08-13T21:54:45.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088021466327687478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2083576169077817344",
+          "start": 3,
+          "username": "toyokokidslarp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DWPEaXHBH",
+          "end": 57,
+          "expanded_url": "https://x.com/toyokokidslarp/status/2087930371434512532/video/1",
+          "media_key": "13_2087930332372959232",
+          "start": 34,
+          "url": "https://t.co/8DWPEaXHBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088021466327687478",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087930332372959232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087930371434512532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toyokokidslarp: 禰智禍ほんとに好きすぎる… https://t.co/8DWPEaXHBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14550,
+        "height": 1280,
+        "media_key": "13_2087930332372959232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087930332372959232/img/secP7jo_as5x7s_-.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087930332372959232/vid/avc1/320x568/e-b1YiOzmmXgY3pm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087930332372959232/vid/avc1/480x852/B5fEQ_Xv6XRRSFnH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087930332372959232/vid/avc1/720x1280/YceJBVTIpTw3hTAw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087930332372959232/pl/r3na3Vohqf2RsKcl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087930332372959232"
+          ]
+        },
+        "author_id": "2083576169077817344",
+        "conversation_id": "2087930371434512532",
+        "created_at": "2026-08-13T15:52:47.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087930371434512532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DWPEaXHBH",
+              "end": 37,
+              "expanded_url": "https://x.com/toyokokidslarp/status/2087930371434512532/video/1",
+              "media_key": "13_2087930332372959232",
+              "start": 14,
+              "url": "https://t.co/8DWPEaXHBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087930371434512532",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087930332372959232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "禰智禍ほんとに好きすぎる… https://t.co/8DWPEaXHBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087930332372959232"
+          ],
+          "media_source_tweet_id": [
+            "2087930371434512532"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2088021466327687478",
+        "created_at": "2026-08-13T21:54:45.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088021466327687478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2083576169077817344",
+              "start": 3,
+              "username": "toyokokidslarp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DWPEaXHBH",
+              "end": 57,
+              "expanded_url": "https://x.com/toyokokidslarp/status/2087930371434512532/video/1",
+              "media_key": "13_2087930332372959232",
+              "start": 34,
+              "url": "https://t.co/8DWPEaXHBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088021466327687478",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087930332372959232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087930371434512532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toyokokidslarp: 禰智禍ほんとに好きすぎる… https://t.co/8DWPEaXHBH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088021466327687478",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 684,
+          "like_count": 10114,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T15:31:21.000Z",
+        "description": "我下海了，请大家多多支持。",
+        "id": "2083576169077817344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087967669240922311",
+        "name": "Lin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083576169077817344/1786208702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086135444014878720/cLJNabLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 86,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "toyokokidslarp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

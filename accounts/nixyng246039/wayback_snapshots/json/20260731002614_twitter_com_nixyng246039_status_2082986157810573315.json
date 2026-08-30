@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082869022505504768"
+      ],
+      "media_source_tweet_id": [
+        "2082869030554349857"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082986157810573315",
+    "created_at": "2026-07-31T00:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082986157810573315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443081692034449408",
+          "start": 3,
+          "username": "lifeisaugust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwbKZmZBb1",
+          "end": 48,
+          "expanded_url": "https://x.com/lifeisaugust/status/2082869030554349857/photo/1",
+          "media_key": "3_2082869022505504768",
+          "start": 25,
+          "url": "https://t.co/PwbKZmZBb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082986157810573315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082869030554349857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lifeisaugust: 粉蓝压抑了， https://t.co/PwbKZmZBb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2082869022505504768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfWVygbEAAMPup.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082869022505504768"
+          ]
+        },
+        "author_id": "1443081692034449408",
+        "conversation_id": "2082869030554349857",
+        "created_at": "2026-07-30T16:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082869030554349857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwbKZmZBb1",
+              "end": 30,
+              "expanded_url": "https://x.com/lifeisaugust/status/2082869030554349857/photo/1",
+              "media_key": "3_2082869022505504768",
+              "start": 7,
+              "url": "https://t.co/PwbKZmZBb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082869030554349857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 243,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "粉蓝压抑了， https://t.co/PwbKZmZBb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082869022505504768"
+          ],
+          "media_source_tweet_id": [
+            "2082869030554349857"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082986157810573315",
+        "created_at": "2026-07-31T00:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082986157810573315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443081692034449408",
+              "start": 3,
+              "username": "lifeisaugust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwbKZmZBb1",
+              "end": 48,
+              "expanded_url": "https://x.com/lifeisaugust/status/2082869030554349857/photo/1",
+              "media_key": "3_2082869022505504768",
+              "start": 25,
+              "url": "https://t.co/PwbKZmZBb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082986157810573315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082869030554349857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lifeisaugust: 粉蓝压抑了， https://t.co/PwbKZmZBb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 587,
+          "like_count": 8331,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2625
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T05:14:49.000Z",
+        "description": "=輪/rinko｜she/her｜froze/OC╳froze",
+        "id": "1443081692034449408",
+        "name": "忠于我和我",
+        "pinned_tweet_id": "2030847381210632327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871127206866944/GDRsuJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 89,
+          "like_count": 4306,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 2163
+        },
+        "url": "",
+        "username": "lifeisaugust",
+        "verified": false
+      }
+    ]
+  }
+}

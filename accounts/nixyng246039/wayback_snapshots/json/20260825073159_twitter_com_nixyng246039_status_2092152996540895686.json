@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2092100772230291550",
+    "created_at": "2026-08-25T07:31:59.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092152996540895686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "H_galgame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092152996540895686",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092100772230291550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H_galgame 我去我去，拍这么美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2092100729628696577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiih3faoAE4qmc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2092100772230291550",
+        "created_at": "2026-08-25T07:31:59.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092152996540895686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "H_galgame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092152996540895686",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092100772230291550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H_galgame 我去我去，拍这么美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092100729628696577"
+          ]
+        },
+        "author_id": "1547020655740080128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092100772230291550",
+        "created_at": "2026-08-25T04:04:28.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092100772230291550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGJM1gRRsZ",
+              "end": 63,
+              "expanded_url": "https://x.com/H_galgame/status/2092100772230291550/photo/1",
+              "media_key": "3_2092100729628696577",
+              "start": 40,
+              "url": "https://t.co/dGJM1gRRsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092100772230291550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092100729628696577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火腿鸡蛋炒饭，\n其实我想吃那个加了黄瓜和胡萝卜丁的那种炒饭，但是不知道叫什么。 https://t.co/dGJM1gRRsZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2092152996540895686",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 724,
+          "like_count": 11034,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "男，怨世的伪善者，健忘的家伙。\n想要朋友？大概是个笨蛋傲娇。\n希望大家都能找到属于自己的真爱呢。\n\n问答箱https://t.co/qFhVEYT5L7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 76,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 53,
+                "url": "https://t.co/qFhVEYT5L7"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "is_identity_verified": false,
+        "location": "哈尔滨",
+        "most_recent_tweet_id": "2092120011091624273",
+        "name": "阿輝先生",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547020655740080128/1730608887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977243309082083328/Vbn7lhde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 710,
+          "like_count": 21309,
+          "listed_count": 2,
+          "media_count": 5851,
+          "tweet_count": 13406
+        },
+        "url": "",
+        "username": "H_galgame",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

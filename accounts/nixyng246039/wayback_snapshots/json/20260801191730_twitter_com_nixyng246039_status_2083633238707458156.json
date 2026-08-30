@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083633238707458156",
+    "created_at": "2026-08-01T19:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083633238707458156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1976155423771418624",
+          "start": 3,
+          "username": "watarua73143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083633238707458156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083515475997364498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watarua73143: 找代活 活不下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083633238707458156",
+        "created_at": "2026-08-01T19:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083633238707458156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1976155423771418624",
+              "start": 3,
+              "username": "watarua73143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083633238707458156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515475997364498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watarua73143: 找代活 活不下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976155423771418624",
+        "conversation_id": "2083515475997364498",
+        "created_at": "2026-08-01T11:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083515475997364498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083515475997364498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找代活 活不下去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 625,
+          "like_count": 8956,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2785
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:24:06.000Z",
+        "description": "07年 神奈川在住",
+        "id": "1976155423771418624",
+        "name": "平和人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982762080198426624/WNOgPtpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 77,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "watarua73143",
+        "verified": true
+      }
+    ]
+  }
+}

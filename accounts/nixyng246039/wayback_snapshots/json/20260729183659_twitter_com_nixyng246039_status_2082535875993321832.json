@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082526307158561217",
+    "created_at": "2026-07-29T18:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082535875993321832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4448513841",
+          "start": 0,
+          "username": "wg4hmd5UJ9Qw1hH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082535875993321832",
+    "in_reply_to_user_id": "4448513841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082535515065290919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wg4hmd5UJ9Qw1hH 谢谢呀，你也早些睡哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082526307158561217",
+        "created_at": "2026-07-29T18:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082535875993321832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4448513841",
+              "start": 0,
+              "username": "wg4hmd5UJ9Qw1hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082535875993321832",
+        "in_reply_to_user_id": "4448513841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082535515065290919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wg4hmd5UJ9Qw1hH 谢谢呀，你也早些睡哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4448513841",
+        "conversation_id": "2082526307158561217",
+        "created_at": "2026-07-29T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082535515065290919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082535515065290919",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082526307158561217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 好 主播早點睡～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 554,
+          "like_count": 8108,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2551
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-11T12:58:54.000Z",
+        "description": "",
+        "id": "4448513841",
+        "name": "四代( ^^)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783462360705101824/OAfHaH-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 3969,
+          "like_count": 68963,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "wg4hmd5UJ9Qw1hH",
+        "verified": false
+      }
+    ]
+  }
+}

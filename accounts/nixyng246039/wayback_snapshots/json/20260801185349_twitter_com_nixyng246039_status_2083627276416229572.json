@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083388461562920960",
+        "3_2083388459138568192"
+      ],
+      "media_source_tweet_id": [
+        "2083388618664763885",
+        "2083388618664763885"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083627276416229572",
+    "created_at": "2026-08-01T18:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083627276416229572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "705087107849703424",
+          "start": 3,
+          "username": "NomfusiSetlhodi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLnCSYxK6a",
+          "end": 64,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+          "media_key": "3_2083388461562920960",
+          "start": 41,
+          "url": "https://t.co/fLnCSYxK6a"
+        },
+        {
+          "display_url": "pic.x.com/fLnCSYxK6a",
+          "end": 64,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+          "media_key": "3_2083388459138568192",
+          "start": 41,
+          "url": "https://t.co/fLnCSYxK6a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083627276416229572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083388618664763885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NomfusiSetlhodi: 伊井瀮，阿巴阿巴（前面忘了后面忘了）～ https://t.co/fLnCSYxK6a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2083388461562920960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmuxHybAAAuKyQ.jpg",
+        "width": 1823
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2083388459138568192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmuw-waUAAd2Ch.jpg",
+        "width": 1825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083388461562920960",
+            "3_2083388459138568192"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2083388618664763885",
+        "created_at": "2026-08-01T03:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083388618664763885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLnCSYxK6a",
+              "end": 43,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+              "media_key": "3_2083388461562920960",
+              "start": 20,
+              "url": "https://t.co/fLnCSYxK6a"
+            },
+            {
+              "display_url": "pic.x.com/fLnCSYxK6a",
+              "end": 43,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+              "media_key": "3_2083388459138568192",
+              "start": 20,
+              "url": "https://t.co/fLnCSYxK6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083388618664763885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "伊井瀮，阿巴阿巴（前面忘了后面忘了）～ https://t.co/fLnCSYxK6a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083388461562920960",
+            "3_2083388459138568192"
+          ],
+          "media_source_tweet_id": [
+            "2083388618664763885",
+            "2083388618664763885"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083627276416229572",
+        "created_at": "2026-08-01T18:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083627276416229572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "705087107849703424",
+              "start": 3,
+              "username": "NomfusiSetlhodi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLnCSYxK6a",
+              "end": 64,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+              "media_key": "3_2083388461562920960",
+              "start": 41,
+              "url": "https://t.co/fLnCSYxK6a"
+            },
+            {
+              "display_url": "pic.x.com/fLnCSYxK6a",
+              "end": 64,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083388618664763885/photo/1",
+              "media_key": "3_2083388459138568192",
+              "start": 41,
+              "url": "https://t.co/fLnCSYxK6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083627276416229572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083388618664763885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NomfusiSetlhodi: 伊井瀮，阿巴阿巴（前面忘了后面忘了）～ https://t.co/fLnCSYxK6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 625,
+          "like_count": 8897,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2777
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 55,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

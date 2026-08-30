@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2091873586529337536",
+    "created_at": "2026-08-24T13:01:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091873586529337536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "734578911778988032",
+          "start": 3,
+          "username": "marui_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091873586529337536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091800768802373995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marui_anime: 【NIJISANJI EN Welcome home, boys!】\n／\nマルイ３店舗にて開催決定✨\n＼\nVTuberグループ「NIJISANJI EN」所属の撮り下ろしビジュアルを使用した新商品やオリジナルルームウェア、日本限定オリジナルグッ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2091800761802067968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeRtcQakAA13mi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2091873586529337536",
+        "created_at": "2026-08-24T13:01:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091873586529337536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "734578911778988032",
+              "start": 3,
+              "username": "marui_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091873586529337536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091800768802373995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marui_anime: 【NIJISANJI EN Welcome home, boys!】\n／\nマルイ３店舗にて開催決定✨\n＼\nVTuberグループ「NIJISANJI EN」所属の撮り下ろしビジュアルを使用した新商品やオリジナルルームウェア、日本限定オリジナルグッ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091800761802067968"
+          ]
+        },
+        "author_id": "734578911778988032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2091800768802373995",
+        "created_at": "2026-08-24T08:12:21.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091800768802373995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NIJISANJI EN Welcome home, boys!　開催決定！",
+              "display_url": "0101.co.jp/405/info/index…",
+              "end": 181,
+              "expanded_url": "https://www.0101.co.jp/405/info/index.html?contents_id=1172",
+              "images": [
+                {
+                  "height": 1109,
+                  "url": "https://pbs.twimg.com/news_img/2091800812460949505/6ArL8-_0?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2091800812460949505/6ArL8-_0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 158,
+              "status": 200,
+              "title": "NIJISANJI EN Welcome home, boys!｜マルイノアニメ",
+              "unwound_url": "https://www.0101.co.jp/405/info/index.html?contents_id=1172",
+              "url": "https://t.co/28kskj0f18"
+            },
+            {
+              "display_url": "pic.x.com/KUD6iE4zVp",
+              "end": 205,
+              "expanded_url": "https://x.com/marui_anime/status/2091800768802373995/photo/1",
+              "media_key": "3_2091800761802067968",
+              "start": 182,
+              "url": "https://t.co/KUD6iE4zVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091800768802373995",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091800761802067968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 266,
+                "start": 255,
+                "tag": "WHB_NIJIEN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "0101.co.jp/405/info/index…",
+                "end": 181,
+                "expanded_url": "https://www.0101.co.jp/405/info/index.html?contents_id=1172",
+                "start": 158,
+                "url": "https://t.co/ZfmrK95Fx3"
+              }
+            ]
+          },
+          "text": "【NIJISANJI EN Welcome home, boys!】\n／\nマルイ３店舗にて開催決定✨\n＼\nVTuberグループ「NIJISANJI EN」所属の撮り下ろしビジュアルを使用した新商品やオリジナルルームウェア、日本限定オリジナルグッズ セットが登場！\n皆様のご来店をお待ちしています♪\n\nイベント詳細▶ https://t.co/ZfmrK95Fx3\n\n今後のお知らせは 各店舗アニメ公式Xアカウントより発信いたします✅\n上記詳細ページの【その他ご案内】に記載の各アカウントよりご確認ください。\n\n#WHB_NIJIEN"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 113671,
+          "like_count": 4538,
+          "quote_count": 231,
+          "reply_count": 0,
+          "retweet_count": 1273
+        },
+        "reply_settings": "everyone",
+        "text": "【NIJISANJI EN Welcome home, boys!】\n／\nマルイ３店舗にて開催決定✨\n＼\nVTuberグループ「NIJISANJI EN」所属の撮り下ろしビジュアルを使用した新商品やオリジナルルームウェア、日本限定オリジナルグッズ セットが登場！\n皆様のご来店をお待ちしています♪\n\nイベント詳細▶ https://t.co/28kskj0f18 https://t.co/KUD6iE4zVp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2091873586529337536",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 704,
+          "like_count": 10865,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-23T02:57:15.000Z",
+        "description": "＼#マルイノアニメ 公式アカウント／ 📢マルイ(OIOI)が開催しているアニメイベント・コラボ情報を発信中！ ※発信専用\n🔽イベント・通販情報はリンクより\n🔽各店イベント詳細は関連アカウントよりご確認ください！\n※グループソーシャルメディアポリシーhttps://t.co/5DStIiMOFE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "マルイノアニメ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/40yB86c",
+                "end": 147,
+                "expanded_url": "https://bit.ly/40yB86c",
+                "start": 124,
+                "url": "https://t.co/5DStIiMOFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0101.co.jp/405/",
+                "end": 23,
+                "expanded_url": "https://www.0101.co.jp/405/",
+                "start": 0,
+                "url": "https://t.co/uQEz0gasrj"
+              }
+            ]
+          }
+        },
+        "id": "734578911778988032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091813161028706372",
+        "name": "マルイノアニメ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/734578911778988032/1766714580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008497714477367297/ZME5xvsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410765,
+          "following_count": 737,
+          "like_count": 830,
+          "listed_count": 1232,
+          "media_count": 11244,
+          "tweet_count": 21347
+        },
+        "url": "https://t.co/uQEz0gasrj",
+        "username": "marui_anime",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083221392573473021",
+    "created_at": "2026-08-01T20:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083657526193815898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083657526193815898",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083221392573473021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 想去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083221330137137152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkWwytXQAAnqlC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083221328895606784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkWwuFXAAAJR_H.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083221392573473021",
+        "created_at": "2026-08-01T20:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083657526193815898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083657526193815898",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083221392573473021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 想去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083221330137137152",
+            "3_2083221328895606784"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2083221392573473021",
+        "created_at": "2026-07-31T16:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083221392573473021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFo8HS0I5U",
+              "end": 43,
+              "expanded_url": "https://x.com/karmakarma1221/status/2083221392573473021/photo/1",
+              "media_key": "3_2083221330137137152",
+              "start": 20,
+              "url": "https://t.co/xFo8HS0I5U"
+            },
+            {
+              "display_url": "pic.x.com/xFo8HS0I5U",
+              "end": 43,
+              "expanded_url": "https://x.com/karmakarma1221/status/2083221392573473021/photo/1",
+              "media_key": "3_2083221328895606784",
+              "start": 20,
+              "url": "https://t.co/xFo8HS0I5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221392573473021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5390,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的工作室和我设计的酒单♪( ´▽｀) https://t.co/xFo8HS0I5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 632,
+          "like_count": 9159,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2819
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5SkEn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 56,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 33,
+                "url": "https://t.co/PXiBB5SkEn"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2075711625663836464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 791,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2850
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

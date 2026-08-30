@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082493065030443300",
+    "created_at": "2026-07-29T18:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082538834336661945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082538834336661945",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082493065030443300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod 下沉市场。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102645,
+        "height": 1280,
+        "media_key": "13_2082492548501983232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082492548501983232/img/a0ivQLJuYybSUVVi.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082492548501983232/vid/avc1/320x690/5JMathtVIiZbQ1lE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082492548501983232/vid/avc1/480x1036/Vba_osM_Obd9eHCE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082492548501983232/vid/avc1/592x1280/Yc0OQdhLhgrEkTqo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082492548501983232/pl/1_MZ6qYRqqVCqrAA.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082493065030443300",
+        "created_at": "2026-07-29T18:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082538834336661945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082538834336661945",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082493065030443300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod 下沉市场。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082492548501983232"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "conversation_id": "2082493065030443300",
+        "created_at": "2026-07-29T15:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082493065030443300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lz1y8BKset",
+              "end": 40,
+              "expanded_url": "https://x.com/niconekkod/status/2082493065030443300/video/1",
+              "media_key": "13_2082492548501983232",
+              "start": 17,
+              "url": "https://t.co/lz1y8BKset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082493065030443300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我这辈子第一次刷微信视频号。 https://t.co/lz1y8BKset"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 554,
+          "like_count": 8118,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2553
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\nins 同 iD\n顺男\n14岁傻逼低龄做题区\n爱好喵斯 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n割手 偶尔压力太大会od\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭 @wozubbdelyta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "wozubbdelyta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx5w0g"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 96,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/Sxu7tx5w0g",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

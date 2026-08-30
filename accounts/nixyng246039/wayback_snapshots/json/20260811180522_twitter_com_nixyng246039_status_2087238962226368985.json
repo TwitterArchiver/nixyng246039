@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2087238962226368985",
+    "created_at": "2026-08-11T18:05:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087238962226368985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1437963160544284675",
+          "start": 3,
+          "username": "EnnaAlouette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087238962226368985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087182314535301519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnnaAlouette: 【GHOST TRICK: PHANTOM DETECTIVE (CHAP 6 ~) 】\nContinuing ghost trick chapter 6 !!!!\nthank u to normie friend for another c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087181997903114240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPco9_6a8AA3vwU.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2087238962226368985",
+        "created_at": "2026-08-11T18:05:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087238962226368985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1437963160544284675",
+              "start": 3,
+              "username": "EnnaAlouette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087238962226368985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087182314535301519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnnaAlouette: 【GHOST TRICK: PHANTOM DETECTIVE (CHAP 6 ~) 】\nContinuing ghost trick chapter 6 !!!!\nthank u to normie friend for another c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087181997903114240"
+          ]
+        },
+        "author_id": "1437963160544284675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087182314535301519",
+        "created_at": "2026-08-11T14:20:16.000Z",
+        "display_text_range": [
+          0,
+          226
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087182314535301519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ghost Trick© CAPCOM CO., LTD. 2010, 2023 ALL RIGHTS RESERVED.• ──...",
+              "display_url": "youtube.com/live/8_j6VNrDR…",
+              "end": 226,
+              "expanded_url": "https://www.youtube.com/live/8_j6VNrDRIA?si=BRREHjXTUmsHFfnq",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2087182319383977984/r9gNFO_O?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087182319383977984/r9gNFO_O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 203,
+              "status": 200,
+              "title": "GHOST TRICK: PHANTOM DETECTIVE (CHAP 6 ~)【NIJISANJI EN | Enna Alouette】",
+              "unwound_url": "https://www.youtube.com/live/8_j6VNrDRIA?si=BRREHjXTUmsHFfnq",
+              "url": "https://t.co/xFhTBLY885"
+            },
+            {
+              "display_url": "pic.x.com/gy3DryM3J0",
+              "end": 250,
+              "expanded_url": "https://x.com/EnnaAlouette/status/2087182314535301519/photo/1",
+              "media_key": "3_2087181997903114240",
+              "start": 227,
+              "url": "https://t.co/gy3DryM3J0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087182314535301519",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087181997903114240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11533,
+          "like_count": 366,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "【GHOST TRICK: PHANTOM DETECTIVE (CHAP 6 ~) 】\nContinuing ghost trick chapter 6 !!!!\nthank u to normie friend for another cute thumbnail 😂🫶 \n\nWaiting Room: \n08.12 - 10AM JST / 3AM CEST / 9PM EDT / 6PM PDT\nhttps://t.co/xFhTBLY885 https://t.co/gy3DryM3J0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087238962226368985",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 645,
+          "like_count": 9757,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3028
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-15T02:15:30.000Z",
+        "description": "NIJISANJI EN's 3rd wave #Ethyria ❤️🧡🩶💜 Your songbird Enna Alouette ♪ にじさんじENエナー アールウェットです！ ♡ まま: @gahara411 | icon: KT MAMA !! | header: @mootecky",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Ethyria"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "gahara411"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "mootecky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCR6qh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow/sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/I13MlMnlQp"
+              }
+            ]
+          }
+        },
+        "id": "1437963160544284675",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087182314535301519",
+        "name": "Enna Alouette 🕊️🎐 NIJISANJI EN",
+        "pinned_tweet_id": "2086478982346862602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437963160544284675/1783828028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086713388315676672/VBRjbQLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657911,
+          "following_count": 480,
+          "like_count": 30860,
+          "listed_count": 4541,
+          "media_count": 3018,
+          "tweet_count": 44779
+        },
+        "url": "https://t.co/I13MlMnlQp",
+        "username": "EnnaAlouette",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

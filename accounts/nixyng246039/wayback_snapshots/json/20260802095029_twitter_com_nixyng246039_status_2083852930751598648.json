@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083779556440420624",
+    "created_at": "2026-08-02T09:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083852930751598648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994592101684805633",
+          "start": 0,
+          "username": "Chara8519863"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083852930751598648",
+    "in_reply_to_user_id": "994592101684805633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083779556440420624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chara8519863 摆了一排香蕉在这里干甚么（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2083779543844925440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsSdG0aMAAVOt0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083779556440420624",
+        "created_at": "2026-08-02T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083852930751598648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994592101684805633",
+              "start": 0,
+              "username": "Chara8519863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083852930751598648",
+        "in_reply_to_user_id": "994592101684805633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083779556440420624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chara8519863 摆了一排香蕉在这里干甚么（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083779543844925440"
+          ]
+        },
+        "author_id": "994592101684805633",
+        "conversation_id": "2083779556440420624",
+        "created_at": "2026-08-02T04:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083779556440420624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5S7N1hsd2M",
+              "end": 29,
+              "expanded_url": "https://x.com/Chara8519863/status/2083779556440420624/photo/1",
+              "media_key": "3_2083779543844925440",
+              "start": 6,
+              "url": "https://t.co/5S7N1hsd2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083779556440420624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全黄毛控 https://t.co/5S7N1hsd2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 639,
+          "like_count": 9247,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2854
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T14:56:50.000Z",
+        "description": "thx for FF🥺",
+        "id": "994592101684805633",
+        "name": "Chara",
+        "pinned_tweet_id": "2078834441204699646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654636145333125121/AAQMfGl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 218,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Chara8519863",
+        "verified": false
+      }
+    ]
+  }
+}

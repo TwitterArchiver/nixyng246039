@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053964046",
+          "name": "殺戮の天使"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2088406942829908092",
+    "created_at": "2026-08-14T23:26:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088406942829908092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4573560492",
+          "start": 3,
+          "username": "strk_tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088406942829908092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088147125930778870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strk_tenshi: 【殺戮の天使：11周年】\n第一話の公開から――今日で11年。\nいつも本当にありがとうございます。\n\n10周年の昨夏は、東京で真田まこと展。\nそして1️⃣1️⃣周年の今夏は、全国のROUND1️⃣でコラボ展開中です🎳\n\n11年目の夏も、『殺戮の天…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2088145394803105792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqVLFCbYAA34tP.jpg",
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053964046",
+              "name": "殺戮の天使"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2088406942829908092",
+        "created_at": "2026-08-14T23:26:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088406942829908092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4573560492",
+              "start": 3,
+              "username": "strk_tenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088406942829908092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088147125930778870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strk_tenshi: 【殺戮の天使：11周年】\n第一話の公開から――今日で11年。\nいつも本当にありがとうございます。\n\n10周年の昨夏は、東京で真田まこと展。\nそして1️⃣1️⃣周年の今夏は、全国のROUND1️⃣でコラボ展開中です🎳\n\n11年目の夏も、『殺戮の天…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088145394803105792"
+          ]
+        },
+        "author_id": "4573560492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2088147125930778870",
+        "created_at": "2026-08-14T06:14:05.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088147125930778870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUT8yk7WU2",
+              "end": 173,
+              "expanded_url": "https://x.com/strk_tenshi/status/2088147125930778870/photo/1",
+              "media_key": "3_2088145394803105792",
+              "start": 150,
+              "url": "https://t.co/BUT8yk7WU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088147125930778870",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088145394803105792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "round1.co.jp/collaboration/…",
+                "end": 173,
+                "expanded_url": "https://www.round1.co.jp/collaboration/satsurikunotenshi/index.html",
+                "start": 150,
+                "url": "https://t.co/2HNPgraaRU"
+              }
+            ]
+          },
+          "text": "【殺戮の天使：11周年】\n第一話の公開から――今日で11年。\nいつも本当にありがとうございます。\n\n10周年の昨夏は、東京で真田まこと展。\nそして1️⃣1️⃣周年の今夏は、全国のROUND1️⃣でコラボ展開中です🎳\n\n11年目の夏も、『殺戮の天使』を楽しんでもらえたら嬉しいです🔪🕊\n\n▼特設ページ\nhttps://t.co/2HNPgraaRU"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 698,
+          "impression_count": 349519,
+          "like_count": 14683,
+          "quote_count": 319,
+          "reply_count": 22,
+          "retweet_count": 3299
+        },
+        "reply_settings": "everyone",
+        "text": "【殺戮の天使：11周年】\n第一話の公開から――今日で11年。\nいつも本当にありがとうございます。\n\n10周年の昨夏は、東京で真田まこと展。\nそして1️⃣1️⃣周年の今夏は、全国のROUND1️⃣でコラボ展開中です🎳\n\n11年目の夏も、『殺戮の天使』を楽しんでもらえたら嬉しいです🔪🕊\n\n▼特設ページ https://t.co/BUT8yk7WU2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2088406942829908092",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 700,
+          "like_count": 10287,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 3189
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-16T08:52:52.000Z",
+        "description": "『殺戮の天使』公式Twitterアカウント。 『殺戮の天使』の最新情報をつぶやきます。@negiyan11さんによる公式4コマも連載中！ TVアニメ「殺戮の天使」公式サイトhttps://t.co/0zxMO1zOOJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "negiyan11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "satsuriku.com",
+                "end": 109,
+                "expanded_url": "http://satsuriku.com",
+                "start": 86,
+                "url": "https://t.co/0zxMO1zOOJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gamemaga.jp/satsuriku/",
+                "end": 23,
+                "expanded_url": "https://www.gamemaga.jp/satsuriku/",
+                "start": 0,
+                "url": "https://t.co/ehD5tybZ7H"
+              }
+            ]
+          }
+        },
+        "id": "4573560492",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088147125930778870",
+        "name": "殺戮の天使🪽公式アカウント",
+        "pinned_tweet_id": "2075492497078530272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4573560492/1458102698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/677049411445264384/lJhImkzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142295,
+          "following_count": 23,
+          "like_count": 1985,
+          "listed_count": 599,
+          "media_count": 3753,
+          "tweet_count": 8737
+        },
+        "url": "https://t.co/ehD5tybZ7H",
+        "username": "strk_tenshi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

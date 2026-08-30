@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2083385524669272373",
+    "created_at": "2026-08-01T02:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083385524669272373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "950967576980422657",
+          "start": 3,
+          "username": "nijisanji_app"
+        },
+        {
+          "end": 99,
+          "id": "1793890231483330560",
+          "start": 87,
+          "username": "Kisara_2434"
+        }
+      ],
+      "urls": [
+        {
+          "description": "深夜に染みる落ち着く声色、歌うと色っぽセクシー担当♡お酒大好き\"きいさま\"です！ にじさんじ所属、バーチャル九州出身！お酒が大好き「綺沙良(Kisara)」です！ 現在は蘭阜に住んでおり、風水師をやっています。 （メンバーシップ限定配信ではタロット占いもしとるよ🃏✨） お酒に合う歌と配信、お花のように寄り添える活動を目指しています！ よかったら一杯飲んでいかん？ ┈┈┈┈┈┈┈ Link ┈┈┈┈┈┈┈┈ ✦X（旧Twitter）✦ https://twitter.com/Kisara_2434 ✦同期ユニット-あやかき公式チャンネル✦ https://www.youtube.com/@AYAKAKI ✦あやかき公式X(旧Twitter)✦ https://x.com/AYAKAKI_INFO ✦にじさんじオフィシャルストア✦ https://shop.nijisanji.jp/s/niji/ ✦メンバーシップ登録✦ https://www.youtube.com/channel/UCiJ_Um3KbfF19NzkDYLzZVQ/join -特典詳細- 1.綺沙良が描いたオリジナルスタンプが使える！ 2.名前の横にドリンクバッジ 　→継続するとグレードアップしてお酒に進化！ 3.メンバー限定配信！ 　→タロット占いで毎月の運勢占い🃏、アニメや映画の同時視聴があるよ！ 4.リプ返や常連さんにだけ内緒話…💜 　→不定期で突発開催される！綺沙良とふたりだけの会話はココだけ…！ ✦お問い合わせやお手紙✦ https://www.nijisanji.jp/contact ✦にじさんじ公式HP✦ https://www.nijisanji.jp/",
+          "display_url": "youtube.com/@Kisara_nijisa…",
+          "end": 137,
+          "expanded_url": "https://www.youtube.com/@Kisara_nijisanji",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=orig",
+              "width": 900
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "綺沙良 / Kisara【にじさんじ】",
+          "unwound_url": "https://www.youtube.com/@Kisara_nijisanji",
+          "url": "https://t.co/hJBcnkQYKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083385524669272373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2013
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083100390111998374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nijisanji_app: 【🎉「3.0」Brushup!!】\n\n従来よりも動きやすく、より豊かな感情表現が可能になる「3.0」が、以下1名に実装決定！\n\n綺沙良　@Kisara_2434\n\nYouTubeチャンネル(https://t.co/hJBcnkQYKm)に…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083100379349467136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiowh6bQAAu1kp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2083385524669272373",
+        "created_at": "2026-08-01T02:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083385524669272373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "950967576980422657",
+              "start": 3,
+              "username": "nijisanji_app"
+            },
+            {
+              "end": 99,
+              "id": "1793890231483330560",
+              "start": 87,
+              "username": "Kisara_2434"
+            }
+          ],
+          "urls": [
+            {
+              "description": "深夜に染みる落ち着く声色、歌うと色っぽセクシー担当♡お酒大好き\"きいさま\"です！ にじさんじ所属、バーチャル九州出身！お酒が大好き「綺沙良(Kisara)」です！ 現在は蘭阜に住んでおり、風水師をやっています。 （メンバーシップ限定配信ではタロット占いもしとるよ🃏✨） お酒に合う歌と配信、お花のように寄り添える活動を目指しています！ よかったら一杯飲んでいかん？ ┈┈┈┈┈┈┈ Link ┈┈┈┈┈┈┈┈ ✦X（旧Twitter）✦ https://twitter.com/Kisara_2434 ✦同期ユニット-あやかき公式チャンネル✦ https://www.youtube.com/@AYAKAKI ✦あやかき公式X(旧Twitter)✦ https://x.com/AYAKAKI_INFO ✦にじさんじオフィシャルストア✦ https://shop.nijisanji.jp/s/niji/ ✦メンバーシップ登録✦ https://www.youtube.com/channel/UCiJ_Um3KbfF19NzkDYLzZVQ/join -特典詳細- 1.綺沙良が描いたオリジナルスタンプが使える！ 2.名前の横にドリンクバッジ 　→継続するとグレードアップしてお酒に進化！ 3.メンバー限定配信！ 　→タロット占いで毎月の運勢占い🃏、アニメや映画の同時視聴があるよ！ 4.リプ返や常連さんにだけ内緒話…💜 　→不定期で突発開催される！綺沙良とふたりだけの会話はココだけ…！ ✦お問い合わせやお手紙✦ https://www.nijisanji.jp/contact ✦にじさんじ公式HP✦ https://www.nijisanji.jp/",
+              "display_url": "youtube.com/@Kisara_nijisa…",
+              "end": 137,
+              "expanded_url": "https://www.youtube.com/@Kisara_nijisanji",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "綺沙良 / Kisara【にじさんじ】",
+              "unwound_url": "https://www.youtube.com/@Kisara_nijisanji",
+              "url": "https://t.co/hJBcnkQYKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083385524669272373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2013
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083100390111998374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nijisanji_app: 【🎉「3.0」Brushup!!】\n\n従来よりも動きやすく、より豊かな感情表現が可能になる「3.0」が、以下1名に実装決定！\n\n綺沙良　@Kisara_2434\n\nYouTubeチャンネル(https://t.co/hJBcnkQYKm)に…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083100379349467136"
+          ]
+        },
+        "author_id": "950967576980422657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2083100390111998374",
+        "created_at": "2026-07-31T08:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083100390111998374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 130,
+              "tag": "にじあぷで"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1793890231483330560",
+              "start": 68,
+              "username": "Kisara_2434"
+            }
+          ],
+          "urls": [
+            {
+              "description": "深夜に染みる落ち着く声色、歌うと色っぽセクシー担当♡お酒大好き\"きいさま\"です！ にじさんじ所属、バーチャル九州出身！お酒が大好き「綺沙良(Kisara)」です！ 現在は蘭阜に住んでおり、風水師をやっています。 （メンバーシップ限定配信ではタロット占いもしとるよ🃏✨） お酒に合う歌と配信、お花のように寄り添える活動を目指しています！ よかったら一杯飲んでいかん？ ┈┈┈┈┈┈┈ Link ┈┈┈┈┈┈┈┈ ✦X（旧Twitter）✦ https://twitter.com/Kisara_2434 ✦同期ユニット-あやかき公式チャンネル✦ https://www.youtube.com/@AYAKAKI ✦あやかき公式X(旧Twitter)✦ https://x.com/AYAKAKI_INFO ✦にじさんじオフィシャルストア✦ https://shop.nijisanji.jp/s/niji/ ✦メンバーシップ登録✦ https://www.youtube.com/channel/UCiJ_Um3KbfF19NzkDYLzZVQ/join -特典詳細- 1.綺沙良が描いたオリジナルスタンプが使える！ 2.名前の横にドリンクバッジ 　→継続するとグレードアップしてお酒に進化！ 3.メンバー限定配信！ 　→タロット占いで毎月の運勢占い🃏、アニメや映画の同時視聴があるよ！ 4.リプ返や常連さんにだけ内緒話…💜 　→不定期で突発開催される！綺沙良とふたりだけの会話はココだけ…！ ✦お問い合わせやお手紙✦ https://www.nijisanji.jp/contact ✦にじさんじ公式HP✦ https://www.nijisanji.jp/",
+              "display_url": "youtube.com/@Kisara_nijisa…",
+              "end": 118,
+              "expanded_url": "https://www.youtube.com/@Kisara_nijisanji",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083100392083357696/tdRF8G-m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "綺沙良 / Kisara【にじさんじ】",
+              "unwound_url": "https://www.youtube.com/@Kisara_nijisanji",
+              "url": "https://t.co/hJBcnkQYKm"
+            },
+            {
+              "display_url": "pic.x.com/qO9JZ050eH",
+              "end": 160,
+              "expanded_url": "https://x.com/nijisanji_app/status/2083100390111998374/photo/1",
+              "media_key": "3_2083100379349467136",
+              "start": 137,
+              "url": "https://t.co/qO9JZ050eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083100390111998374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 707748,
+          "like_count": 20721,
+          "quote_count": 321,
+          "reply_count": 65,
+          "retweet_count": 2013
+        },
+        "reply_settings": "everyone",
+        "text": "【🎉「3.0」Brushup!!】\n\n従来よりも動きやすく、より豊かな感情表現が可能になる「3.0」が、以下1名に実装決定！\n\n綺沙良　@Kisara_2434\n\nYouTubeチャンネル(https://t.co/hJBcnkQYKm)にてお披露目予定！\n\n#にじあぷで https://t.co/qO9JZ050eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 599,
+          "like_count": 8546,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2684
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-10T05:48:33.000Z",
+        "description": "VTuber / バーチャルライバーグループ「にじさんじ」の公式アカウントです！🌈🕒にじさんじの配信やイベント、グッズなどの最新情報をお届けします。個性溢れるにじさんじライバーをぜひ応援してください！ファンアート▷#NIJIArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "NIJIArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/nijisanji",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/nijisanji",
+                "start": 0,
+                "url": "https://t.co/rT8lPG5qhv"
+              }
+            ]
+          }
+        },
+        "id": "950967576980422657",
+        "name": "にじさんじ公式🌈🕒",
+        "pinned_tweet_id": "2083170472712339517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014140978530287616/JBzyrbo-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086506,
+          "following_count": 170,
+          "like_count": 1405,
+          "listed_count": 21128,
+          "media_count": 20850,
+          "tweet_count": 40109
+        },
+        "url": "https://t.co/rT8lPG5qhv",
+        "username": "nijisanji_app",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T06:22:37.000Z",
+        "description": "深夜に染みる落ち着く声色、歌うと色っぽセクシー担当。歌とダンスとお絵描きとお酒が大好き🥃バーチャル九州出身\"きいさま\"です💜 FA #きさあるばむ 配信タグ #良イブ ✦あやかき@AYAKAKI_INFO ✦お問い合わせ: https://t.co/vMNYJn5sZm ✦mom:@tokki_517",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 66,
+                "tag": "きさあるばむ"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "良イブ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "AYAKAKI_INFO"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "tokki_517"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nijisanji.jp/contact",
+                "end": 135,
+                "expanded_url": "http://www.nijisanji.jp/contact",
+                "start": 112,
+                "url": "https://t.co/vMNYJn5sZm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kisara_nijisa…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kisara_nijisanji?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/A70cP1VlgG"
+              }
+            ]
+          }
+        },
+        "id": "1793890231483330560",
+        "location": "蘭阜 西門前",
+        "name": "綺沙良🪞にじさんじ",
+        "pinned_tweet_id": "1804512672597397776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069903904813531136/-9nu1gxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121798,
+          "following_count": 587,
+          "like_count": 16643,
+          "listed_count": 1851,
+          "media_count": 1342,
+          "tweet_count": 8534
+        },
+        "url": "https://t.co/A70cP1VlgG",
+        "username": "Kisara_2434",
+        "verified": true
+      }
+    ]
+  }
+}

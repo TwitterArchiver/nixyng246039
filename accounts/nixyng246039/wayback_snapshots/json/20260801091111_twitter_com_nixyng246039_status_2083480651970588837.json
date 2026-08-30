@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083480651970588837",
+    "created_at": "2026-08-01T09:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083480651970588837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nomfusisetlhod…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nomfusisetlhodi/status/2083177750865785215",
+          "start": 6,
+          "url": "https://t.co/WPXgHeXWwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083480651970588837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083177750865785215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃蹭冷度 https://t.co/WPXgHeXWwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2083177016824860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudawakAAY-yI.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083177016233545729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYjb0AEXxMH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 892,
+        "media_key": "3_2083177016279588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYuaYAAYcwc.jpg",
+        "width": 1183
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2083177016241885184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjudYlbEAAv3QP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083480651970588837",
+        "created_at": "2026-08-01T09:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083480651970588837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomfusisetlhod…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nomfusisetlhodi/status/2083177750865785215",
+              "start": 6,
+              "url": "https://t.co/WPXgHeXWwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083480651970588837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083177750865785215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃蹭冷度 https://t.co/WPXgHeXWwA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083177016824860672",
+            "3_2083177016233545729",
+            "3_2083177016279588864",
+            "3_2083177016241885184"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083177750865785215",
+        "created_at": "2026-07-31T13:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083177750865785215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016824860672",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016233545729",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016279588864",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            },
+            {
+              "display_url": "pic.x.com/ZcSHldwdS4",
+              "end": 119,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083177750865785215/photo/1",
+              "media_key": "3_2083177016241885184",
+              "start": 96,
+              "url": "https://t.co/ZcSHldwdS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083177750865785215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1411,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "hello米娜桑！这里是伊井瀮！\n9月现役中1生😭\n我喜欢吃辣条还有巧乐兹🤤\n很温良欢迎互动🥺🥺🥺🥺\n因为家里断供了所以不得不网络乞讨orz\n（ososos快点认出我木木木木雨！！20_0） https://t.co/ZcSHldwdS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 604,
+          "like_count": 8720,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2732
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 39,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

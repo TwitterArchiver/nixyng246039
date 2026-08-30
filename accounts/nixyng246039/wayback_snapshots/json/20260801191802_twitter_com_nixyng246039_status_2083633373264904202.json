@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083451025927843841"
+      ],
+      "media_source_tweet_id": [
+        "2083451076431503779"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083633373264904202",
+    "created_at": "2026-08-01T19:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083633373264904202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1730251057316737024",
+          "start": 3,
+          "username": "SRamirez66171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHkmJBPClD",
+          "end": 50,
+          "expanded_url": "https://x.com/SRamirez66171/status/2083451076431503779/photo/1",
+          "media_key": "3_2083451025927843841",
+          "start": 27,
+          "url": "https://t.co/aHkmJBPClD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083633373264904202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083451076431503779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SRamirez66171: 今日违禁已更新 https://t.co/aHkmJBPClD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2083451025927843841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnnq2NaMAEE1Pn.png",
+        "width": 1247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083451025927843841"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083451076431503779",
+        "created_at": "2026-08-01T07:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083451076431503779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHkmJBPClD",
+              "end": 31,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083451076431503779/photo/1",
+              "media_key": "3_2083451025927843841",
+              "start": 8,
+              "url": "https://t.co/aHkmJBPClD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083451076431503779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日违禁已更新 https://t.co/aHkmJBPClD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083451025927843841"
+          ],
+          "media_source_tweet_id": [
+            "2083451076431503779"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083633373264904202",
+        "created_at": "2026-08-01T19:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083633373264904202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1730251057316737024",
+              "start": 3,
+              "username": "SRamirez66171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHkmJBPClD",
+              "end": 50,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083451076431503779/photo/1",
+              "media_key": "3_2083451025927843841",
+              "start": 27,
+              "url": "https://t.co/aHkmJBPClD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083633373264904202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083451076431503779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SRamirez66171: 今日违禁已更新 https://t.co/aHkmJBPClD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 625,
+          "like_count": 8961,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt\ntg群：https://t.co/Fm16DYeZCm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 73,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 50,
+                "url": "https://t.co/Fm16DYeZCm"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 109,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

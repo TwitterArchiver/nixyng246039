@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2083635364561080400",
+    "created_at": "2026-08-01T19:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083635364561080400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "月ノ美兎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2043955210909863936",
+          "start": 3,
+          "username": "the_ribbon_hero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083635364561080400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083568437880635430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_ribbon_hero: ／⋰\n　『THE RIBBON HERO リボンヒーロー』\n　　配信まで、あと６日\n＼⋱\n\n୨୧カウントダウンボイス୨୧\nへケート役 #月ノ美兎 \n￣V￣￣￣￣￣￣￣￣￣￣￣\n初めての声優経験を\nさせていただくんですけれども\nにしてはめ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74574,
+        "height": 1080,
+        "media_key": "13_2083159404724338689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083159404724338689/img/7j296NHCAzoGGWBR.jpg",
+        "public_metrics": {
+          "view_count": 8477
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083159404724338689/vid/avc1/1280x720/UghM2_KuhAZNwpvb.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083159404724338689/vid/avc1/480x270/MJb-nUDZNBULmVrm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083159404724338689/pl/RW3IHFID4dvssuoM.m3u8?v=8ef"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083159404724338689/vid/avc1/640x360/eRNWFHZggWXUXS9M.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083159404724338689/vid/avc1/1920x1080/6MWMKteQDDlaspRd.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2083635364561080400",
+        "created_at": "2026-08-01T19:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083635364561080400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "月ノ美兎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2043955210909863936",
+              "start": 3,
+              "username": "the_ribbon_hero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083635364561080400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083568437880635430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_ribbon_hero: ／⋰\n　『THE RIBBON HERO リボンヒーロー』\n　　配信まで、あと６日\n＼⋱\n\n୨୧カウントダウンボイス୨୧\nへケート役 #月ノ美兎 \n￣V￣￣￣￣￣￣￣￣￣￣￣\n初めての声優経験を\nさせていただくんですけれども\nにしてはめ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083159404724338689"
+          ]
+        },
+        "author_id": "2043955210909863936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2083568437880635430",
+        "created_at": "2026-08-01T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083568437880635430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "月ノ美兎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GY4lCGVSG",
+              "end": 184,
+              "expanded_url": "https://x.com/the_ribbon_hero/status/2083568437880635430/video/1",
+              "media_key": "13_2083159404724338689",
+              "start": 161,
+              "url": "https://t.co/2GY4lCGVSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083568437880635430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "月ノ美兎"
+              },
+              {
+                "end": 189,
+                "start": 175,
+                "tag": "THERIBBONHERO"
+              },
+              {
+                "end": 198,
+                "start": 190,
+                "tag": "リボンヒーロー"
+              }
+            ]
+          },
+          "text": "／⋰\n　『THE RIBBON HERO リボンヒーロー』\n　　配信まで、あと６日\n＼⋱\n\n୨୧カウントダウンボイス୨୧\nへケート役 #月ノ美兎 \n￣V￣￣￣￣￣￣￣￣￣￣￣\n初めての声優経験を\nさせていただくんですけれども\nにしてはめちゃくちゃ\n難しいなっていうのがね\n最初の感想ですね…\n\n✦2026年8月8日(土) Netflix独占配信開始\n#THERIBBONHERO #リボンヒーロー"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 25003,
+          "like_count": 1074,
+          "quote_count": 19,
+          "reply_count": 4,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "／⋰\n　『THE RIBBON HERO リボンヒーロー』\n　　配信まで、あと６日\n＼⋱\n\n୨୧カウントダウンボイス୨୧\nへケート役 #月ノ美兎 \n￣V￣￣￣￣￣￣￣￣￣￣￣\n初めての声優経験を\nさせていただくんですけれども\nにしてはめちゃくちゃ\n難しいなっていうのがね\n最初の感想ですね…\n\n✦2026年8月8日(土) https://t.co/2GY4lCGVSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 625,
+          "like_count": 8971,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2789
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:31:22.000Z",
+        "description": "2026年8月8日(土)Netflix世界独占配信\n🎀『THE RIBBON HERO リボンヒーロー』公式🎀\n監督：五十嵐祐貴／原案：手塚治虫『リボンの騎士』より／キャラクター原案：望月けい／キャラクター原案協力：米山舞\nサファイア役：サーヤ(ラランド)\n#リボンヒーロー #THERIBBONHERO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "リボンヒーロー"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "tag": "THERIBBONHERO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theribbonhero.com",
+                "end": 23,
+                "expanded_url": "https://www.theribbonhero.com/",
+                "start": 0,
+                "url": "https://t.co/gTxgquKgWd"
+              }
+            ]
+          }
+        },
+        "id": "2043955210909863936",
+        "name": "『THE RIBBON HERO リボンヒーロー』公式@Netflix映画",
+        "pinned_tweet_id": "2082798362970181906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047284819860824064/uhAac3TV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30363,
+          "following_count": 19,
+          "like_count": 84,
+          "listed_count": 99,
+          "media_count": 120,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/gTxgquKgWd",
+        "username": "the_ribbon_hero",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082223878370427345",
+    "created_at": "2026-08-02T01:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083729450886398294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070132267519995904",
+          "start": 0,
+          "username": "sn7hx9_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083729450886398294",
+    "in_reply_to_user_id": "2070132267519995904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082638625662177484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sn7hx9_01 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082223878370427345",
+        "created_at": "2026-08-02T01:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083729450886398294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070132267519995904",
+              "start": 0,
+              "username": "sn7hx9_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083729450886398294",
+        "in_reply_to_user_id": "2070132267519995904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082638625662177484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sn7hx9_01 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070132267519995904",
+        "conversation_id": "2082223878370427345",
+        "created_at": "2026-07-30T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082638625662177484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082638625662177484",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082223878370427345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 老师可以互fo吗💕💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 638,
+          "like_count": 9224,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T13:13:42.000Z",
+        "description": "萌萌白河豚",
+        "id": "2070132267519995904",
+        "name": "奈糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070134695879421952/MPymMP7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 83,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "sn7hx9_01",
+        "verified": false
+      }
+    ]
+  }
+}

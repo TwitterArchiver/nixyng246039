@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2092140991700767122",
+    "created_at": "2026-08-25T08:34:45.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092168792780530055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688810068329066496",
+          "start": 0,
+          "username": "tiantianzi36162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092168792780530055",
+    "in_reply_to_user_id": "1688810068329066496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092140991700767122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantianzi36162 我娶走了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2092140951158538240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjHHEXaQAApZKc.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2092140991700767122",
+        "created_at": "2026-08-25T08:34:45.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092168792780530055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688810068329066496",
+              "start": 0,
+              "username": "tiantianzi36162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092168792780530055",
+        "in_reply_to_user_id": "1688810068329066496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092140991700767122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantianzi36162 我娶走了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092140951158538240"
+          ]
+        },
+        "author_id": "1688810068329066496",
+        "conversation_id": "2092140991700767122",
+        "created_at": "2026-08-25T06:44:17.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092140991700767122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHPyFHv3Pt",
+              "end": 30,
+              "expanded_url": "https://x.com/tiantianzi36162/status/2092140991700767122/photo/1",
+              "media_key": "3_2092140951158538240",
+              "start": 7,
+              "url": "https://t.co/MHPyFHv3Pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092140991700767122",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092140951158538240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁要做曹贼？ https://t.co/MHPyFHv3Pt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2092168792780530055",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 722,
+          "like_count": 11071,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 3566
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-08T07:11:32.000Z",
+        "description": "缓慢复活中",
+        "id": "1688810068329066496",
+        "is_identity_verified": false,
+        "location": "Kyoto City Fushimi Ward, Kyoto",
+        "most_recent_tweet_id": "2092140991700767122",
+        "name": "曲世爱",
+        "pinned_tweet_id": "2080396890563080701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688810068329066496/1785027816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081183621386530816/mN_6M4Fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 14,
+          "like_count": 57,
+          "listed_count": 11,
+          "media_count": 17,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "tiantianzi36162",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

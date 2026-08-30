@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082497157429596385",
+    "created_at": "2026-07-29T18:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082533683295096925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067984174469009409",
+          "start": 0,
+          "username": "lyxz738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082533683295096925",
+    "in_reply_to_user_id": "2067984174469009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082497157429596385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxz738 好师。！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082497150429360128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaEH_Ea8AAY0Ou.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082497150412529664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaEH_AaIAAz5rq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082497157429596385",
+        "created_at": "2026-07-29T18:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082533683295096925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067984174469009409",
+              "start": 0,
+              "username": "lyxz738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082533683295096925",
+        "in_reply_to_user_id": "2067984174469009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082497157429596385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxz738 好师。！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082497150429360128",
+            "3_2082497150412529664"
+          ]
+        },
+        "author_id": "2067984174469009409",
+        "conversation_id": "2082497157429596385",
+        "created_at": "2026-07-29T16:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082497157429596385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvAC6t2aCb",
+              "end": 23,
+              "expanded_url": "https://x.com/lyxz738/status/2082497157429596385/photo/1",
+              "media_key": "3_2082497150429360128",
+              "start": 0,
+              "url": "https://t.co/mvAC6t2aCb"
+            },
+            {
+              "display_url": "pic.x.com/mvAC6t2aCb",
+              "end": 23,
+              "expanded_url": "https://x.com/lyxz738/status/2082497157429596385/photo/1",
+              "media_key": "3_2082497150412529664",
+              "start": 0,
+              "url": "https://t.co/mvAC6t2aCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082497157429596385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mvAC6t2aCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 554,
+          "like_count": 8099,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2547
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T14:54:22.000Z",
+        "description": "年龄未知｜od割手｜精分｜地雷女｜巡回好友中｜查成分互fo｜男的加我🚪13.14\n前世@lyxtd3s\n恋人@dooaisuan\n传送@bingkuaiy9lt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "lyxtd3s"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "bingkuaiy9lt"
+              }
+            ]
+          }
+        },
+        "id": "2067984174469009409",
+        "name": "冰块🧊3.0巡回互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075973822470365184/LPteQOZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 134,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "lyxz738",
+        "verified": false
+      }
+    ]
+  }
+}

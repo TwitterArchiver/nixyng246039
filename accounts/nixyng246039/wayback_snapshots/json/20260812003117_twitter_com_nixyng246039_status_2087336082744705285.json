@@ -1,0 +1,784 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087138338151280640",
+        "3_2087138345424244737",
+        "3_2087138355041730560",
+        "3_2087138362599858176"
+      ],
+      "media_source_tweet_id": [
+        "2087138927870443533",
+        "2087138927870443533",
+        "2087138927870443533",
+        "2087138927870443533"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1298798617533100032",
+          "name": "Dolls"
+        }
+      }
+    ],
+    "conversation_id": "2087336082744705285",
+    "created_at": "2026-08-12T00:31:17.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087336082744705285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2271236665",
+          "start": 3,
+          "username": "kaya_saga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IVuqARZ0uh",
+          "end": 132,
+          "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+          "media_key": "3_2087138338151280640",
+          "start": 109,
+          "url": "https://t.co/IVuqARZ0uh"
+        },
+        {
+          "display_url": "pic.x.com/IVuqARZ0uh",
+          "end": 132,
+          "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+          "media_key": "3_2087138345424244737",
+          "start": 109,
+          "url": "https://t.co/IVuqARZ0uh"
+        },
+        {
+          "display_url": "pic.x.com/IVuqARZ0uh",
+          "end": 132,
+          "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+          "media_key": "3_2087138355041730560",
+          "start": 109,
+          "url": "https://t.co/IVuqARZ0uh"
+        },
+        {
+          "display_url": "pic.x.com/IVuqARZ0uh",
+          "end": 132,
+          "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+          "media_key": "3_2087138362599858176",
+          "start": 109,
+          "url": "https://t.co/IVuqARZ0uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087336082744705285",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087138338151280640"
+      },
+      {
+        "media_key": "3_2087138345424244737"
+      },
+      {
+        "media_key": "3_2087138355041730560"
+      },
+      {
+        "media_key": "3_2087138362599858176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087138927870443533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaya_saga: アゾンレーベルショップ秋葉原に1/3月ノ美兎ドールが展示されてたから写真撮ってきた！\n1/3だけあって実物は結構大きい\nんで、委員長の制服もかなりしっかりしてるように見える\nご参考までに https://t.co/IVuqARZ0uh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2087138338151280640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBQqqbMAA9cEd.jpg",
+        "width": 900
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2087138345424244737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBRFwb0AEXulO.jpg",
+        "width": 900
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2087138355041730560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBRplbAAAonfQ.jpg",
+        "width": 900
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2087138362599858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBSFva4AAS-MY.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138338151280640",
+            "3_2087138345424244737",
+            "3_2087138355041730560",
+            "3_2087138362599858176"
+          ]
+        },
+        "author_id": "2271236665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298798617533100032",
+              "name": "Dolls"
+            }
+          }
+        ],
+        "conversation_id": "2087138927870443533",
+        "created_at": "2026-08-11T11:27:52.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087138927870443533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 117,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138338151280640",
+              "start": 94,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 117,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138345424244737",
+              "start": 94,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 117,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138355041730560",
+              "start": 94,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 117,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138362599858176",
+              "start": 94,
+              "url": "https://t.co/IVuqARZ0uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138927870443533",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138338151280640"
+          },
+          {
+            "media_key": "3_2087138345424244737"
+          },
+          {
+            "media_key": "3_2087138355041730560"
+          },
+          {
+            "media_key": "3_2087138362599858176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7454,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "アゾンレーベルショップ秋葉原に1/3月ノ美兎ドールが展示されてたから写真撮ってきた！\n1/3だけあって実物は結構大きい\nんで、委員長の制服もかなりしっかりしてるように見える\nご参考までに https://t.co/IVuqARZ0uh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138338151280640",
+            "3_2087138345424244737",
+            "3_2087138355041730560",
+            "3_2087138362599858176"
+          ],
+          "media_source_tweet_id": [
+            "2087138927870443533",
+            "2087138927870443533",
+            "2087138927870443533",
+            "2087138927870443533"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298798617533100032",
+              "name": "Dolls"
+            }
+          }
+        ],
+        "conversation_id": "2087336082744705285",
+        "created_at": "2026-08-12T00:31:17.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087336082744705285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2271236665",
+              "start": 3,
+              "username": "kaya_saga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 132,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138338151280640",
+              "start": 109,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 132,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138345424244737",
+              "start": 109,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 132,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138355041730560",
+              "start": 109,
+              "url": "https://t.co/IVuqARZ0uh"
+            },
+            {
+              "display_url": "pic.x.com/IVuqARZ0uh",
+              "end": 132,
+              "expanded_url": "https://x.com/kaya_saga/status/2087138927870443533/photo/1",
+              "media_key": "3_2087138362599858176",
+              "start": 109,
+              "url": "https://t.co/IVuqARZ0uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087336082744705285",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138338151280640"
+          },
+          {
+            "media_key": "3_2087138345424244737"
+          },
+          {
+            "media_key": "3_2087138355041730560"
+          },
+          {
+            "media_key": "3_2087138362599858176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087138927870443533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaya_saga: アゾンレーベルショップ秋葉原に1/3月ノ美兎ドールが展示されてたから写真撮ってきた！\n1/3だけあって実物は結構大きい\nんで、委員長の制服もかなりしっかりしてるように見える\nご参考までに https://t.co/IVuqARZ0uh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087336082744705285",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 658,
+          "like_count": 9906,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3065
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-01T05:58:34.000Z",
+        "description": "老後はぽかぽかの縁側でだらだらと過ごしていたい。\nVの沼に浸かり中……。\nヘッダーはちょこ庵さんより。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/364748",
+                "end": 23,
+                "expanded_url": "http://www.nicovideo.jp/user/364748",
+                "start": 0,
+                "url": "https://t.co/TwUwEoSywl"
+              }
+            ]
+          }
+        },
+        "id": "2271236665",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087197753093099881",
+        "name": "kaya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271236665/1678097048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/932129915348041728/Kn7RThuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 247,
+          "like_count": 6149,
+          "listed_count": 5,
+          "media_count": 2150,
+          "tweet_count": 9182
+        },
+        "url": "https://t.co/TwUwEoSywl",
+        "username": "kaya_saga",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2083861061288264172",
+    "created_at": "2026-08-02T10:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083861061288264172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "月ノ美兎"
+        },
+        {
+          "end": 115,
+          "start": 101,
+          "tag": "THERIBBONHERO"
+        },
+        {
+          "end": 124,
+          "start": 116,
+          "tag": "リボンヒーロー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2043955210909863936",
+          "start": 3,
+          "username": "the_ribbon_hero"
+        }
+      ],
+      "urls": [
+        {
+          "description": "16 years of experience shipping innovative software products, some impacted millions… · Location: Cambridge. 500+ connections on LinkedIn. View Terry Xu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "display_url": "linkedin.com/in/coolnalu",
+          "end": 139,
+          "expanded_url": "https://www.linkedin.com/in/coolnalu",
+          "start": 125,
+          "status": 200,
+          "title": "Terry Xu - Cambridge, Massachusetts, United States | Professional Profile | LinkedIn",
+          "unwound_url": "https://www.linkedin.com/in/coolnalu",
+          "url": "https://t.co/X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083861061288264172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083745853148410302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_ribbon_hero: へケート：cv. #月ノ美兎\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿…౨ৎ\nクリスタル採掘場で働く勝気な移民。\n\n✦2026年8月8日(土) Netflix独占配信開始\n#THERIBBONHERO #リボンヒーロー https://t.co/X…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083160489845297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjfba9bkAAQC_O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2083861061288264172",
+        "created_at": "2026-08-02T10:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083861061288264172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "月ノ美兎"
+            },
+            {
+              "end": 115,
+              "start": 101,
+              "tag": "THERIBBONHERO"
+            },
+            {
+              "end": 124,
+              "start": 116,
+              "tag": "リボンヒーロー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2043955210909863936",
+              "start": 3,
+              "username": "the_ribbon_hero"
+            }
+          ],
+          "urls": [
+            {
+              "description": "16 years of experience shipping innovative software products, some impacted millions… · Location: Cambridge. 500+ connections on LinkedIn. View Terry Xu’s profile on LinkedIn, a professional community of 1 billion members.",
+              "display_url": "linkedin.com/in/coolnalu",
+              "end": 139,
+              "expanded_url": "https://www.linkedin.com/in/coolnalu",
+              "start": 125,
+              "status": 200,
+              "title": "Terry Xu - Cambridge, Massachusetts, United States | Professional Profile | LinkedIn",
+              "unwound_url": "https://www.linkedin.com/in/coolnalu",
+              "url": "https://t.co/X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083861061288264172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083745853148410302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_ribbon_hero: へケート：cv. #月ノ美兎\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿…౨ৎ\nクリスタル採掘場で働く勝気な移民。\n\n✦2026年8月8日(土) Netflix独占配信開始\n#THERIBBONHERO #リボンヒーロー https://t.co/X…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083160489845297152"
+          ]
+        },
+        "author_id": "2043955210909863936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2083745853148410302",
+        "created_at": "2026-08-02T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083745853148410302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "月ノ美兎"
+            },
+            {
+              "end": 94,
+              "start": 80,
+              "tag": "THERIBBONHERO"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "リボンヒーロー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3UtUeLWsD",
+              "end": 127,
+              "expanded_url": "https://x.com/the_ribbon_hero/status/2083745853148410302/photo/1",
+              "media_key": "3_2083160489845297152",
+              "start": 104,
+              "url": "https://t.co/X3UtUeLWsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083745853148410302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 33505,
+          "like_count": 536,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "へケート：cv. #月ノ美兎\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿…౨ৎ\nクリスタル採掘場で働く勝気な移民。\n\n✦2026年8月8日(土) Netflix独占配信開始\n#THERIBBONHERO #リボンヒーロー https://t.co/X3UtUeLWsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 645,
+          "like_count": 9382,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:31:22.000Z",
+        "description": "2026年8月8日(土)Netflix世界独占配信\n🎀『THE RIBBON HERO リボンヒーロー』公式🎀\n監督：五十嵐祐貴／原案：手塚治虫『リボンの騎士』より／キャラクター原案：望月けい／キャラクター原案協力：米山舞\nサファイア役：サーヤ(ラランド)\n#リボンヒーロー #THERIBBONHERO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "リボンヒーロー"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "tag": "THERIBBONHERO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theribbonhero.com",
+                "end": 23,
+                "expanded_url": "https://www.theribbonhero.com/",
+                "start": 0,
+                "url": "https://t.co/gTxgquKgWd"
+              }
+            ]
+          }
+        },
+        "id": "2043955210909863936",
+        "name": "『THE RIBBON HERO リボンヒーロー』公式@Netflix映画",
+        "pinned_tweet_id": "2082798362970181906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047284819860824064/uhAac3TV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30428,
+          "following_count": 19,
+          "like_count": 85,
+          "listed_count": 97,
+          "media_count": 123,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/gTxgquKgWd",
+        "username": "the_ribbon_hero",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083065145685614592"
+      ],
+      "media_source_tweet_id": [
+        "2083065234617495967"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083328528347738362",
+    "created_at": "2026-07-31T23:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083328528347738362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895170750002204672",
+          "start": 3,
+          "username": "MiSai28846"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIkvFQNFu5",
+          "end": 55,
+          "expanded_url": "https://x.com/MiSai28846/status/2083065234617495967/photo/1",
+          "media_key": "3_2083065145685614592",
+          "start": 32,
+          "url": "https://t.co/LIkvFQNFu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083328528347738362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083065234617495967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiSai28846: 处理一些人和事的方式还是太幼稚 https://t.co/LIkvFQNFu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2083065145685614592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiItqSWoAAhFFI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083065145685614592"
+          ]
+        },
+        "author_id": "1895170750002204672",
+        "conversation_id": "2083065234617495967",
+        "created_at": "2026-07-31T05:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083065234617495967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIkvFQNFu5",
+              "end": 39,
+              "expanded_url": "https://x.com/MiSai28846/status/2083065234617495967/photo/1",
+              "media_key": "3_2083065145685614592",
+              "start": 16,
+              "url": "https://t.co/LIkvFQNFu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083065234617495967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "处理一些人和事的方式还是太幼稚 https://t.co/LIkvFQNFu5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083065145685614592"
+          ],
+          "media_source_tweet_id": [
+            "2083065234617495967"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083328528347738362",
+        "created_at": "2026-07-31T23:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083328528347738362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895170750002204672",
+              "start": 3,
+              "username": "MiSai28846"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIkvFQNFu5",
+              "end": 55,
+              "expanded_url": "https://x.com/MiSai28846/status/2083065234617495967/photo/1",
+              "media_key": "3_2083065145685614592",
+              "start": 32,
+              "url": "https://t.co/LIkvFQNFu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083328528347738362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065234617495967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiSai28846: 处理一些人和事的方式还是太幼稚 https://t.co/LIkvFQNFu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 585,
+          "like_count": 8352,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:55:02.000Z",
+        "description": "休学中/日常/热爱人类/欢迎私信",
+        "id": "1895170750002204672",
+        "name": "弥赛亚",
+        "pinned_tweet_id": "1904340937955848657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903960536741548033/wCpUPl4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 88,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "MiSai28846",
+        "verified": false
+      }
+    ]
+  }
+}

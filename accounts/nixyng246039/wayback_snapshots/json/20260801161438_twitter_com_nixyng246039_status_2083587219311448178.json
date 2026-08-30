@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2083587219311448178",
+    "created_at": "2026-08-01T16:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083587219311448178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990120550881157122",
+          "start": 3,
+          "username": "stf_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "lamondocommedia8.wixsite.com/stf-cos",
+          "end": 64,
+          "expanded_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+          "images": [
+            {
+              "height": 1283,
+              "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "HOME | CoS -S-N.H O_S",
+          "unwound_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+          "url": "https://t.co/jQBSKAlUf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083587219311448178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3831
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083433364435210335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @stf_cos: ▼【System N.H OnlineStation】\nhttps://t.co/jQBSKAlUf4\n\n細胞神曲2-Cell of Mirage- \n　-エイガ・イリナルの肖像-\n・ShortDemo(体験版) \n・日本語 \n・WINDOWS版\n\n大…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2083432685209575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnW_Rta4AAUzK1.png",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2083587219311448178",
+        "created_at": "2026-08-01T16:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083587219311448178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990120550881157122",
+              "start": 3,
+              "username": "stf_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "lamondocommedia8.wixsite.com/stf-cos",
+              "end": 64,
+              "expanded_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+              "images": [
+                {
+                  "height": 1283,
+                  "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "HOME | CoS -S-N.H O_S",
+              "unwound_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+              "url": "https://t.co/jQBSKAlUf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083587219311448178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3831
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083433364435210335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @stf_cos: ▼【System N.H OnlineStation】\nhttps://t.co/jQBSKAlUf4\n\n細胞神曲2-Cell of Mirage- \n　-エイガ・イリナルの肖像-\n・ShortDemo(体験版) \n・日本語 \n・WINDOWS版\n\n大…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083432685209575424"
+          ]
+        },
+        "author_id": "990120550881157122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2083433364435210335",
+        "created_at": "2026-08-01T06:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433364435210335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lamondocommedia8.wixsite.com/stf-cos",
+              "end": 51,
+              "expanded_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+              "images": [
+                {
+                  "height": 1283,
+                  "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077009032221802496/wpmCLcf6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "HOME | CoS -S-N.H O_S",
+              "unwound_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+              "url": "https://t.co/jQBSKAlUf4"
+            },
+            {
+              "display_url": "pic.x.com/35gqLz3wQ4",
+              "end": 196,
+              "expanded_url": "https://x.com/stf_cos/status/2083433364435210335/photo/1",
+              "media_key": "3_2083432685209575424",
+              "start": 173,
+              "url": "https://t.co/35gqLz3wQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433364435210335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1558,
+          "impression_count": 610752,
+          "like_count": 3339,
+          "quote_count": 3773,
+          "reply_count": 1,
+          "retweet_count": 3831
+        },
+        "reply_settings": "following",
+        "text": "▼【System N.H OnlineStation】\nhttps://t.co/jQBSKAlUf4\n\n細胞神曲2-Cell of Mirage- \n　-エイガ・イリナルの肖像-\n・ShortDemo(体験版) \n・日本語 \n・WINDOWS版\n\n大変ながらくお待たせしました。\n配布ページやReadMeテキストをご確認の上お楽しみください。 https://t.co/35gqLz3wQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 612,
+          "like_count": 8775,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2750
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T06:48:29.000Z",
+        "description": "ゲーム製作サークル、鱶尾工業(ふかおこうぎょう)です。System N.H発信「細胞神曲」シリーズの実機製作を担当。告知や修正報告など【細胞神曲-CoE-】【磯井実光の記録】【隠者の間】【幕間】→now→【細胞神曲2-CoM-】/お問い合わせはサイトメールフォームより（DM受付はしておりません）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamondocommedia8.wixsite.com/stf-cos",
+                "end": 23,
+                "expanded_url": "https://lamondocommedia8.wixsite.com/stf-cos",
+                "start": 0,
+                "url": "https://t.co/D6YUdQaeHk"
+              }
+            ]
+          }
+        },
+        "id": "990120550881157122",
+        "location": "コミックジーン3月号（2/15発売）よりコミカライズ連載開始",
+        "name": "鱶尾工業-SharkTale Factory-",
+        "pinned_tweet_id": "1010149275412541441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124321972433723392/3qsBnPRI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19985,
+          "following_count": 6,
+          "like_count": 51,
+          "listed_count": 55,
+          "media_count": 178,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/D6YUdQaeHk",
+        "username": "stf_cos",
+        "verified": false
+      }
+    ]
+  }
+}

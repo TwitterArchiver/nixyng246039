@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2086995417590595702",
+    "created_at": "2026-08-11T02:56:44.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087010296887914632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087010296887914632",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086995417590595702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple 太好了恭喜恭喜🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2086995417590595702",
+        "created_at": "2026-08-11T02:56:44.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087010296887914632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087010296887914632",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086995417590595702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 太好了恭喜恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2086995417590595702",
+        "created_at": "2026-08-11T01:57:36.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086995417590595702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086995417590595702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽其实我谈上了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087010296887914632",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 646,
+          "like_count": 9646,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3002
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2087004576289259763",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 67,
+          "like_count": 648,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

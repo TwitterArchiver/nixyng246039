@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083180616489771008"
+      ],
+      "media_source_tweet_id": [
+        "2083180662023127386"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Popular Memes and Trends",
+          "id": "1046574503331909633",
+          "name": "Memes"
+        }
+      }
+    ],
+    "conversation_id": "2083624627826507931",
+    "created_at": "2026-08-01T18:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083624627826507931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061442873074028545",
+          "start": 3,
+          "username": "YokoYokoYHTOTE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1PLHTDfkB",
+          "end": 102,
+          "expanded_url": "https://x.com/YokoYokoYHTOTE/status/2083180662023127386/photo/1",
+          "media_key": "3_2083180616489771008",
+          "start": 79,
+          "url": "https://t.co/D1PLHTDfkB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083624627826507931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083180662023127386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YokoYokoYHTOTE: 最近、中国ネットで「中国人は飛べる」というネタが流行っています……これがきっかけでたくさんのネタ画像も生まれました。 https://t.co/D1PLHTDfkB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2083180616489771008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjxu8jaIAA-eFD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083180616489771008"
+          ]
+        },
+        "author_id": "2061442873074028545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2083180662023127386",
+        "created_at": "2026-07-31T13:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083180662023127386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1PLHTDfkB",
+              "end": 82,
+              "expanded_url": "https://x.com/YokoYokoYHTOTE/status/2083180662023127386/photo/1",
+              "media_key": "3_2083180616489771008",
+              "start": 59,
+              "url": "https://t.co/D1PLHTDfkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083180662023127386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 184062,
+          "like_count": 2434,
+          "quote_count": 72,
+          "reply_count": 133,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "最近、中国ネットで「中国人は飛べる」というネタが流行っています……これがきっかけでたくさんのネタ画像も生まれました。 https://t.co/D1PLHTDfkB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083180616489771008"
+          ],
+          "media_source_tweet_id": [
+            "2083180662023127386"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2083624627826507931",
+        "created_at": "2026-08-01T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083624627826507931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061442873074028545",
+              "start": 3,
+              "username": "YokoYokoYHTOTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1PLHTDfkB",
+              "end": 102,
+              "expanded_url": "https://x.com/YokoYokoYHTOTE/status/2083180662023127386/photo/1",
+              "media_key": "3_2083180616489771008",
+              "start": 79,
+              "url": "https://t.co/D1PLHTDfkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083624627826507931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083180662023127386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YokoYokoYHTOTE: 最近、中国ネットで「中国人は飛べる」というネタが流行っています……これがきっかけでたくさんのネタ画像も生まれました。 https://t.co/D1PLHTDfkB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 624,
+          "like_count": 8858,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2771
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:42:21.000Z",
+        "description": "我是一名中国的初中生，喜欢prsk，BanGDream和ボカロ，非常非常喜欢orangestar～\n如果是其他国家的朋友和我聊天的话我会很欢迎的！涉及政治之类的还是算了。我只是一个普通人，，\n我想和同样喜欢ボカロ和🍊💫的日本人一起交朋友\n关于日语的回帖大部分都是AI翻译，真的很抱歉\n我喜欢望月穗波、IA、大和麻弥。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/82Ca21mLbk0h…",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/82Ca21mLbk0https://b23.tv/jasgtjA",
+                "start": 0,
+                "url": "https://t.co/mcC6W17D9z"
+              }
+            ]
+          }
+        },
+        "id": "2061442873074028545",
+        "location": "甘肃",
+        "name": "友叛🍊💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061445680409776130/ASijxz3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 77,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/mcC6W17D9z",
+        "username": "YokoYokoYHTOTE",
+        "verified": false
+      }
+    ]
+  }
+}

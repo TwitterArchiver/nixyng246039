@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082443565918048256"
+      ],
+      "media_source_tweet_id": [
+        "2082443577758499122"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082556962319815057",
+    "created_at": "2026-07-29T20:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082556962319815057"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "地雷系"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 58,
+          "start": 44,
+          "tag": "レズビアンさんと繋がりたい"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "地雷系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895170750002204672",
+          "start": 3,
+          "username": "MiSai28846"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aokaw6SZTY",
+          "end": 88,
+          "expanded_url": "https://x.com/MiSai28846/status/2082443577758499122/photo/1",
+          "media_key": "3_2082443565918048256",
+          "start": 65,
+          "url": "https://t.co/Aokaw6SZTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082556962319815057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082443577758499122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiSai28846: 这个角度看我的手像小猪手\n #地雷系  #自撮り界隈  #レズビアンさんと繋がりたい\n #地雷系 https://t.co/Aokaw6SZTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2082443565918048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZTY9NX0AAzDOY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082443565918048256"
+          ]
+        },
+        "author_id": "1895170750002204672",
+        "conversation_id": "2082443577758499122",
+        "created_at": "2026-07-29T12:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082443577758499122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "地雷系"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "レズビアンさんと繋がりたい"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aokaw6SZTY",
+              "end": 72,
+              "expanded_url": "https://x.com/MiSai28846/status/2082443577758499122/photo/1",
+              "media_key": "3_2082443565918048256",
+              "start": 49,
+              "url": "https://t.co/Aokaw6SZTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082443577758499122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个角度看我的手像小猪手\n #地雷系  #自撮り界隈  #レズビアンさんと繋がりたい\n #地雷系 https://t.co/Aokaw6SZTY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082443565918048256"
+          ],
+          "media_source_tweet_id": [
+            "2082443577758499122"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082556962319815057",
+        "created_at": "2026-07-29T20:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082556962319815057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "地雷系"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 58,
+              "start": 44,
+              "tag": "レズビアンさんと繋がりたい"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "地雷系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895170750002204672",
+              "start": 3,
+              "username": "MiSai28846"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aokaw6SZTY",
+              "end": 88,
+              "expanded_url": "https://x.com/MiSai28846/status/2082443577758499122/photo/1",
+              "media_key": "3_2082443565918048256",
+              "start": 65,
+              "url": "https://t.co/Aokaw6SZTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082556962319815057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082443577758499122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiSai28846: 这个角度看我的手像小猪手\n #地雷系  #自撮り界隈  #レズビアンさんと繋がりたい\n #地雷系 https://t.co/Aokaw6SZTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 564,
+          "like_count": 8156,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:55:02.000Z",
+        "description": "休学中/日常/热爱人类/欢迎私信",
+        "id": "1895170750002204672",
+        "name": "弥赛亚",
+        "pinned_tweet_id": "1904340937955848657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903960536741548033/wCpUPl4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "MiSai28846",
+        "verified": false
+      }
+    ]
+  }
+}

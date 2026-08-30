@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083193420710035456"
+      ],
+      "media_source_tweet_id": [
+        "2083193427039244341"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083481663129215237",
+    "created_at": "2026-08-01T09:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083481663129215237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050614840197341184",
+          "start": 3,
+          "username": "ruka_usaginn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JUbIL1UmWc",
+          "end": 48,
+          "expanded_url": "https://x.com/ruka_usaginn/status/2083193427039244341/photo/1",
+          "media_key": "3_2083193420710035456",
+          "start": 25,
+          "url": "https://t.co/JUbIL1UmWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083481663129215237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083193427039244341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruka_usaginn: 井ノ上たきな https://t.co/JUbIL1UmWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2083193420710035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9YP_aQAAreOi.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083193420710035456"
+          ]
+        },
+        "author_id": "2050614840197341184",
+        "conversation_id": "2083193427039244341",
+        "created_at": "2026-07-31T14:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083193427039244341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUbIL1UmWc",
+              "end": 30,
+              "expanded_url": "https://x.com/ruka_usaginn/status/2083193427039244341/photo/1",
+              "media_key": "3_2083193420710035456",
+              "start": 7,
+              "url": "https://t.co/JUbIL1UmWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193427039244341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 83217,
+          "like_count": 7013,
+          "quote_count": 23,
+          "reply_count": 24,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "井ノ上たきな https://t.co/JUbIL1UmWc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083193420710035456"
+          ],
+          "media_source_tweet_id": [
+            "2083193427039244341"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083481663129215237",
+        "created_at": "2026-08-01T09:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083481663129215237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050614840197341184",
+              "start": 3,
+              "username": "ruka_usaginn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUbIL1UmWc",
+              "end": 48,
+              "expanded_url": "https://x.com/ruka_usaginn/status/2083193427039244341/photo/1",
+              "media_key": "3_2083193420710035456",
+              "start": 25,
+              "url": "https://t.co/JUbIL1UmWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083481663129215237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083193427039244341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruka_usaginn: 井ノ上たきな https://t.co/JUbIL1UmWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 605,
+          "like_count": 8740,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2738
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T16:35:02.000Z",
+        "description": "コスプレとゲームが好きです\n💭さぶ @ruka2csub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "ruka2csub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/27HCYBRBR965C?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/welMeIr4QB"
+              }
+            ]
+          }
+        },
+        "id": "2050614840197341184",
+        "location": "Internet",
+        "name": "るか",
+        "pinned_tweet_id": "2053170094155649411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064737096150216704/4r7qM934_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6974,
+          "following_count": 51,
+          "like_count": 1171,
+          "listed_count": 17,
+          "media_count": 54,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/welMeIr4QB",
+        "username": "ruka_usaginn",
+        "verified": true
+      }
+    ]
+  }
+}

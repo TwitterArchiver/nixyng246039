@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086865857406492672"
+      ],
+      "media_source_tweet_id": [
+        "2086867020893810977"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10037009235",
+          "name": "デュラララ"
+        }
+      }
+    ],
+    "conversation_id": "2087336167897542731",
+    "created_at": "2026-08-12T00:31:37.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087336167897542731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "デュラララ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076304664392499200",
+          "start": 3,
+          "username": "Ajqnew"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q76GRydvXU",
+          "end": 47,
+          "expanded_url": "https://x.com/Ajqnew/status/2086867020893810977/photo/1",
+          "media_key": "3_2086865857406492672",
+          "start": 24,
+          "url": "https://t.co/q76GRydvXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087336167897542731",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086865857406492672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086867020893810977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajqnew: #デュラララ 折原兄妹 https://t.co/q76GRydvXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3700,
+        "media_key": "3_2086865857406492672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYJcMya4AAR0Dt.jpg",
+        "width": 2777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086865857406492672"
+          ]
+        },
+        "author_id": "2076304664392499200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10037009235",
+              "name": "デュラララ"
+            }
+          }
+        ],
+        "conversation_id": "2086867020893810977",
+        "created_at": "2026-08-10T17:27:24.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086867020893810977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "デュラララ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q76GRydvXU",
+              "end": 35,
+              "expanded_url": "https://x.com/Ajqnew/status/2086867020893810977/photo/1",
+              "media_key": "3_2086865857406492672",
+              "start": 12,
+              "url": "https://t.co/q76GRydvXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086867020893810977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086865857406492672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1709,
+          "like_count": 132,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#デュラララ 折原兄妹 https://t.co/q76GRydvXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086865857406492672"
+          ],
+          "media_source_tweet_id": [
+            "2086867020893810977"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10037009235",
+              "name": "デュラララ"
+            }
+          }
+        ],
+        "conversation_id": "2087336167897542731",
+        "created_at": "2026-08-12T00:31:37.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087336167897542731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "デュラララ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076304664392499200",
+              "start": 3,
+              "username": "Ajqnew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q76GRydvXU",
+              "end": 47,
+              "expanded_url": "https://x.com/Ajqnew/status/2086867020893810977/photo/1",
+              "media_key": "3_2086865857406492672",
+              "start": 24,
+              "url": "https://t.co/q76GRydvXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087336167897542731",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086865857406492672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086867020893810977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajqnew: #デュラララ 折原兄妹 https://t.co/q76GRydvXU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087336167897542731",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 658,
+          "like_count": 9908,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3066
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T13:58:05.000Z",
+        "description": "何処にも行かないで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/qjrwl",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/qjrwl",
+                "start": 0,
+                "url": "https://t.co/IQhlnkJSt9"
+              }
+            ]
+          }
+        },
+        "id": "2076304664392499200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087124282413621529",
+        "name": "Ajin",
+        "pinned_tweet_id": "2086992447339716611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076304664392499200/1783865278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076306288670318592/Jyamb63v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 8,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/IQhlnkJSt9",
+        "username": "Ajqnew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

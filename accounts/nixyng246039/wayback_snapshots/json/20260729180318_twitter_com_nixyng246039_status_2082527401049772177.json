@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2082493539611812035",
+    "created_at": "2026-07-29T18:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082527401049772177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061450593617563649",
+          "start": 0,
+          "username": "minesavior0311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082527401049772177",
+    "in_reply_to_user_id": "2061450593617563649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082493539611812035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minesavior0311 多喝水呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2082493539611812035",
+        "created_at": "2026-07-29T18:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082527401049772177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061450593617563649",
+              "start": 0,
+              "username": "minesavior0311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082527401049772177",
+        "in_reply_to_user_id": "2061450593617563649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082493539611812035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minesavior0311 多喝水呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061450593617563649",
+        "conversation_id": "2082493539611812035",
+        "created_at": "2026-07-29T15:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082493539611812035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082493539611812035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在上火 难受死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 541,
+          "like_count": 8063,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2531
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂日常\n欢迎来找我玩\nlysk沈星回激推梦女 我是纸性恋\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 72,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 49,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "location": "提问👉🏻",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080743635738578944/fedE2P9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 192,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false
+      }
+    ]
+  }
+}

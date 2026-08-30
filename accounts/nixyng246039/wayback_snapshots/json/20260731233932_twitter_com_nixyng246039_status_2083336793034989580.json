@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082742012357537792"
+      ],
+      "media_source_tweet_id": [
+        "2082742017223012702"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2083336793034989580",
+    "created_at": "2026-07-31T23:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083336793034989580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1413743881946947587",
+          "start": 3,
+          "username": "eeeelog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EBpzdVr6BM",
+          "end": 36,
+          "expanded_url": "https://x.com/eeeelog/status/2082742017223012702/photo/1",
+          "media_key": "3_2082742012357537792",
+          "start": 13,
+          "url": "https://t.co/EBpzdVr6BM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083336793034989580",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1981
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082742017223012702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eeeelog: https://t.co/EBpzdVr6BM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2082742012357537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdi001acAA1y7v.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082742012357537792"
+          ]
+        },
+        "author_id": "1413743881946947587",
+        "conversation_id": "2082742017223012702",
+        "created_at": "2026-07-30T08:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082742017223012702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBpzdVr6BM",
+              "end": 23,
+              "expanded_url": "https://x.com/eeeelog/status/2082742017223012702/photo/1",
+              "media_key": "3_2082742012357537792",
+              "start": 0,
+              "url": "https://t.co/EBpzdVr6BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082742017223012702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1994,
+          "impression_count": 362075,
+          "like_count": 41388,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 1981
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EBpzdVr6BM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082742012357537792"
+          ],
+          "media_source_tweet_id": [
+            "2082742017223012702"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2083336793034989580",
+        "created_at": "2026-07-31T23:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083336793034989580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1413743881946947587",
+              "start": 3,
+              "username": "eeeelog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBpzdVr6BM",
+              "end": 36,
+              "expanded_url": "https://x.com/eeeelog/status/2082742017223012702/photo/1",
+              "media_key": "3_2082742012357537792",
+              "start": 13,
+              "url": "https://t.co/EBpzdVr6BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083336793034989580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1981
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082742017223012702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eeeelog: https://t.co/EBpzdVr6BM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2082223878370427345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389073182253056/GPcQBNz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 588,
+          "like_count": 8469,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2664
+        },
+        "url": "",
+        "username": "nixyng246039",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-10T06:16:38.000Z",
+        "description": "無断転載、無断使用禁止",
+        "id": "1413743881946947587",
+        "name": "h",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063096926699139072/NvnAsKd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173690,
+          "following_count": 514,
+          "like_count": 10866,
+          "listed_count": 1197,
+          "media_count": 296,
+          "tweet_count": 4459
+        },
+        "url": "",
+        "username": "eeeelog",
+        "verified": false
+      }
+    ]
+  }
+}
