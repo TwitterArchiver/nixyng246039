@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2096764795450200088",
+    "created_at": "2026-09-07T01:58:34.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096780133336068159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096780133336068159",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096764795450200088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 只看见一个美萌的小女孩在跳舞"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16983,
+        "height": 1280,
+        "media_key": "13_2096764740362244096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096764740362244096/img/o0jU5109jTusc7lV.jpg",
+        "public_metrics": {
+          "view_count": 105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096764740362244096/vid/avc1/320x568/TM5Otigp1_m0GPpd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096764740362244096/vid/avc1/480x852/lbbMRy37sFjG2YQs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096764740362244096/vid/avc1/720x1280/DMQ0latZPLzRS57B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096764740362244096/pl/S8Iowq4m9D3IjKsx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2096764795450200088",
+        "created_at": "2026-09-07T01:58:34.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096780133336068159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096780133336068159",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096764795450200088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 只看见一个美萌的小女孩在跳舞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096764740362244096"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2096764795450200088",
+        "created_at": "2026-09-07T00:57:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096764795450200088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBEiElX1Vi",
+              "end": 35,
+              "expanded_url": "https://x.com/11andpr89648964/status/2096764795450200088/video/1",
+              "media_key": "13_2096764740362244096",
+              "start": 12,
+              "url": "https://t.co/qBEiElX1Vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096764795450200088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096764740362244096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个人貌似o大了拍的呢 https://t.co/qBEiElX1Vi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096780133336068159",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 763,
+          "like_count": 11707,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2096764795450200088",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 972,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

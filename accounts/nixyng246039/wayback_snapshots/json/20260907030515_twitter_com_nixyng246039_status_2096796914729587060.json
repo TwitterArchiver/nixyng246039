@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096768675575635968"
+      ],
+      "media_source_tweet_id": [
+        "2096768684102725925"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096796914729587060",
+    "created_at": "2026-09-07T03:05:15.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096796914729587060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1655220370755178497",
+          "start": 3,
+          "username": "xuxiaoxian27509"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGS1nvsf5V",
+          "end": 48,
+          "expanded_url": "https://x.com/xuxiaoxian27509/status/2096768684102725925/photo/1",
+          "media_key": "3_2096768675575635968",
+          "start": 25,
+          "url": "https://t.co/zGS1nvsf5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096796914729587060",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096768675575635968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096768684102725925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuxiaoxian27509: 这啥阴 https://t.co/zGS1nvsf5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_2096768675575635968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRk4AFPaIAAFFKk.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096768675575635968"
+          ],
+          "media_source_tweet_id": [
+            "2096768684102725925"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096796914729587060",
+        "created_at": "2026-09-07T03:05:15.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096796914729587060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1655220370755178497",
+              "start": 3,
+              "username": "xuxiaoxian27509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGS1nvsf5V",
+              "end": 48,
+              "expanded_url": "https://x.com/xuxiaoxian27509/status/2096768684102725925/photo/1",
+              "media_key": "3_2096768675575635968",
+              "start": 25,
+              "url": "https://t.co/zGS1nvsf5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096796914729587060",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096768675575635968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096768684102725925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuxiaoxian27509: 这啥阴 https://t.co/zGS1nvsf5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096768675575635968"
+          ]
+        },
+        "author_id": "1655220370755178497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096768684102725925",
+        "created_at": "2026-09-07T01:13:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096768684102725925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGS1nvsf5V",
+              "end": 27,
+              "expanded_url": "https://x.com/xuxiaoxian27509/status/2096768684102725925/photo/1",
+              "media_key": "3_2096768675575635968",
+              "start": 4,
+              "url": "https://t.co/zGS1nvsf5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096768684102725925",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096768675575635968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这啥阴 https://t.co/zGS1nvsf5V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096796914729587060",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 763,
+          "like_count": 11729,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3965
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T14:38:59.000Z",
+        "description": "Daydreamer",
+        "id": "1655220370755178497",
+        "is_identity_verified": false,
+        "location": "Hsinchu City, Taiwan",
+        "most_recent_tweet_id": "2096796631819854090",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655220370755178497/1685180089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045419651702927360/kylU-Zb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 1223,
+          "like_count": 7406,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "xuxiaoxian27509",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2096183303896473832",
+    "created_at": "2026-09-05T17:25:13.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096288555098128631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782645819965046784",
+          "start": 0,
+          "username": "MyBelovedOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096288555098128631",
+    "in_reply_to_user_id": "1782645819965046784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096249068918132882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyBelovedOvO 精品神药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2096183303896473832",
+        "created_at": "2026-09-05T17:25:13.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096288555098128631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782645819965046784",
+              "start": 0,
+              "username": "MyBelovedOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096288555098128631",
+        "in_reply_to_user_id": "1782645819965046784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096249068918132882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyBelovedOvO 精品神药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782645819965046784",
+        "conversation_id": "2096183303896473832",
+        "created_at": "2026-09-05T14:48:19.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096249068918132882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096249068918132882",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096183303896473832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 精品神药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096288555098128631",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 756,
+          "like_count": 11599,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T05:41:10.000Z",
+        "description": "请君自便｜身份&坐标HK🇭🇰｜出厂日期2008.10.18｜精神疾病确认｜💊\n没有也不会有门槛｜请和我交朋友！求求你了！",
+        "id": "1782645819965046784",
+        "is_identity_verified": false,
+        "location": "Causeway Bay, Hong Kong",
+        "most_recent_tweet_id": "2096264257365282956",
+        "name": "如同流星飞越山海🌟全世界最可爱的星酱",
+        "pinned_tweet_id": "2095993511200039058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782645819965046784/1788555785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832400418087038979/-PB1aydX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 121,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "MyBelovedOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

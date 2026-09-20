@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2097308101921923407",
+    "created_at": "2026-09-08T17:59:51.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097384434458566747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2094681707052212224",
+          "start": 0,
+          "username": "nanahime1cpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097384434458566747",
+    "in_reply_to_user_id": "2094681707052212224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097308101921923407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanahime1cpc 狗狗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2097308069797801985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsik9TbsAEzqKY.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2097308069814558720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsik9XbYAASH68.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2097308069818703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsik9YaoAAD0cJ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2097308101921923407",
+        "created_at": "2026-09-08T17:59:51.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097384434458566747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097384434458566747",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097308101921923407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 狗狗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097308069797801985",
+            "3_2097308069814558720",
+            "3_2097308069818703872"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097308101921923407",
+        "created_at": "2026-09-08T12:56:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097308101921923407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmIRH1NkxG",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2097308101921923407/photo/1",
+              "media_key": "3_2097308069797801985",
+              "start": 13,
+              "url": "https://t.co/jmIRH1NkxG"
+            },
+            {
+              "display_url": "pic.x.com/jmIRH1NkxG",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2097308101921923407/photo/1",
+              "media_key": "3_2097308069814558720",
+              "start": 13,
+              "url": "https://t.co/jmIRH1NkxG"
+            },
+            {
+              "display_url": "pic.x.com/jmIRH1NkxG",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2097308101921923407/photo/1",
+              "media_key": "3_2097308069818703872",
+              "start": 13,
+              "url": "https://t.co/jmIRH1NkxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097308101921923407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097308069797801985"
+          },
+          {
+            "media_key": "3_2097308069814558720"
+          },
+          {
+            "media_key": "3_2097308069818703872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 425,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家看家狗🥰🥰🥰🥰🥰🥰 https://t.co/jmIRH1NkxG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2097384434458566747",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 765,
+          "like_count": 11931,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097373383008903657",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 276,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

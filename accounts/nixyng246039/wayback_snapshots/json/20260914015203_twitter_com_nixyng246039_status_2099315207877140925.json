@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2099181025297641964",
+    "created_at": "2026-09-14T01:52:03.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T02:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099315207877140925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089408201209102336",
+          "start": 0,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099315207877140925",
+    "in_reply_to_user_id": "2089408201209102336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099181025297641964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuzhuzhuzhusiz 居然是耍起…太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3700,
+        "height": 1132,
+        "media_key": "13_2099180999808897024",
+        "preview_image_url": "https://pbs.twimg.com/media/HSHJ_xFaEAAFwrl.jpg",
+        "public_metrics": {
+          "view_count": 497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099180999808897024/vid/avc1/320x566/EF9wmxZbAC0MiWcJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099180999808897024/vid/avc1/480x850/O5NNAnP_i7NgGYxR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099180999808897024/vid/avc1/638x1132/ymH5wY6xcDsjBrNI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099180999808897024/pl/Mka410GKyJAOZORf.m3u8"
+          }
+        ],
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2099181025297641964",
+        "created_at": "2026-09-14T01:52:03.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099315207877140925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089408201209102336",
+              "start": 0,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099315207877140925",
+        "in_reply_to_user_id": "2089408201209102336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099181025297641964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuzhuzhuzhusiz 居然是耍起…太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099180999808897024"
+          ]
+        },
+        "author_id": "2089408201209102336",
+        "conversation_id": "2099181025297641964",
+        "created_at": "2026-09-13T16:58:51.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099181025297641964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5J7yxWl6me",
+              "end": 37,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2099181025297641964/video/1",
+              "media_key": "13_2099180999808897024",
+              "start": 14,
+              "url": "https://t.co/5J7yxWl6me"
+            },
+            {
+              "display_url": "x.com/zhuzhuzhuzhusi…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/zhuzhuzhuzhusiz/status/2098782000840888508",
+              "start": 38,
+              "url": "https://t.co/G09KEMV0Zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099181025297641964",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099180999808897024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1691,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098782000840888508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还想跳一次这个绝望舞步， https://t.co/5J7yxWl6me https://t.co/G09KEMV0Zl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2099315207877140925",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 794,
+          "like_count": 12460,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 4223
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "炸玉的6.0\n含od自伤内容\n妈妈@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099181025297641964",
+        "name": "炸炸的玉6.0",
+        "pinned_tweet_id": "2096941750262911156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089408584824291328/xsqL6M6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 208,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

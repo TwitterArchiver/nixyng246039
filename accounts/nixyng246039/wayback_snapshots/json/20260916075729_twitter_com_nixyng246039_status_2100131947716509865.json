@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100090011005694141",
+    "created_at": "2026-09-16T07:57:29.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100131947716509865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100131947716509865",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100090011005694141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 怎么每天都在救人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100090011005694141",
+        "created_at": "2026-09-16T07:57:29.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100131947716509865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100131947716509865",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100090011005694141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 怎么每天都在救人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677270742705270784",
+        "conversation_id": "2100090011005694141",
+        "created_at": "2026-09-16T05:10:51.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100090011005694141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/2099924708003283070",
+              "start": 142,
+              "url": "https://t.co/0Df9Ps5h30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100090011005694141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099924708003283070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新：\n\n她在今天早上8點給我發了新私信，目前為止應該還活著；\n\n我對她而言只是個陌生網友，線下並未跟她接觸過，而且她最近突然說自己想自殺，後來又說自己已經買了亞硝酸鈉，我上線查看到那則消息時，她又正好不在線；\n\n所以當時我無法確定她是否真的已經開始自殺，只能先把消息發出來求助…… https://t.co/0Df9Ps5h30"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100131947716509865",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 810,
+          "like_count": 12620,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 4281
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100101825479467363",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 6915,
+          "like_count": 112494,
+          "listed_count": 3,
+          "media_count": 4532,
+          "tweet_count": 12412
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

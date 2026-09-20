@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100172572600205312",
+        "3_2100172572549947392"
+      ],
+      "media_source_tweet_id": [
+        "2100172612404211731",
+        "2100172612404211731"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100394923342045559",
+    "created_at": "2026-09-17T01:22:27.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100394923342045559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "904642127560228864",
+          "start": 3,
+          "username": "chuu_die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/78rTTgP4U2",
+          "end": 64,
+          "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+          "media_key": "3_2100172572600205312",
+          "start": 41,
+          "url": "https://t.co/78rTTgP4U2"
+        },
+        {
+          "display_url": "pic.x.com/78rTTgP4U2",
+          "end": 64,
+          "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+          "media_key": "3_2100172572549947392",
+          "start": 41,
+          "url": "https://t.co/78rTTgP4U2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100394923342045559",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100172572600205312"
+      },
+      {
+        "media_key": "3_2100172572549947392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100172612404211731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuu_die: 金髪だと姫っぽくて毎日可愛くするの楽しいです👸👑*ﾟ https://t.co/78rTTgP4U2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100172572600205312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVP09zagAAwOrU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100172572549947392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVP09nboAADwA1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100172572600205312",
+            "3_2100172572549947392"
+          ],
+          "media_source_tweet_id": [
+            "2100172612404211731",
+            "2100172612404211731"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100394923342045559",
+        "created_at": "2026-09-17T01:22:27.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100394923342045559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "904642127560228864",
+              "start": 3,
+              "username": "chuu_die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78rTTgP4U2",
+              "end": 64,
+              "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+              "media_key": "3_2100172572600205312",
+              "start": 41,
+              "url": "https://t.co/78rTTgP4U2"
+            },
+            {
+              "display_url": "pic.x.com/78rTTgP4U2",
+              "end": 64,
+              "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+              "media_key": "3_2100172572549947392",
+              "start": 41,
+              "url": "https://t.co/78rTTgP4U2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100394923342045559",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100172572600205312"
+          },
+          {
+            "media_key": "3_2100172572549947392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100172612404211731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuu_die: 金髪だと姫っぽくて毎日可愛くするの楽しいです👸👑*ﾟ https://t.co/78rTTgP4U2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100172572600205312",
+            "3_2100172572549947392"
+          ]
+        },
+        "author_id": "904642127560228864",
+        "conversation_id": "2100172612404211731",
+        "created_at": "2026-09-16T10:39:04.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100172612404211731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78rTTgP4U2",
+              "end": 50,
+              "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+              "media_key": "3_2100172572600205312",
+              "start": 27,
+              "url": "https://t.co/78rTTgP4U2"
+            },
+            {
+              "display_url": "pic.x.com/78rTTgP4U2",
+              "end": 50,
+              "expanded_url": "https://x.com/chuu_die/status/2100172612404211731/photo/1",
+              "media_key": "3_2100172572549947392",
+              "start": 27,
+              "url": "https://t.co/78rTTgP4U2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100172612404211731",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100172572600205312"
+          },
+          {
+            "media_key": "3_2100172572549947392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 36074,
+          "like_count": 2139,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "金髪だと姫っぽくて毎日可愛くするの楽しいです👸👑*ﾟ https://t.co/78rTTgP4U2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100394923342045559",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 816,
+          "like_count": 12930,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-04T09:47:45.000Z",
+        "description": "icon:(@n03172) sub:(@chuu_die_sub) header:(@121_moemoekyun)🍅🦍(@__x_chu_x__ )#みにとまとのへた 自我▶︎(@Ux_xUto_ch)🐰💤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 76,
+                "tag": "みにとまとのへた"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "n03172"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "chuu_die_sub"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "121_moemoekyun"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "__x_chu_x__"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "Ux_xUto_ch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chumpi",
+                "end": 23,
+                "expanded_url": "https://lit.link/chumpi",
+                "start": 0,
+                "url": "https://t.co/S1I7DiVp6s"
+              }
+            ]
+          }
+        },
+        "id": "904642127560228864",
+        "is_identity_verified": false,
+        "location": "🎀🐾➕⚓️",
+        "most_recent_tweet_id": "2100356193244082517",
+        "name": "ミニトマト食べたい",
+        "pinned_tweet_id": "2100172612404211731",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/904642127560228864/1703062048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238986120446087168/ryG6S2Si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11365,
+          "following_count": 96,
+          "like_count": 36999,
+          "listed_count": 71,
+          "media_count": 98,
+          "tweet_count": 8559
+        },
+        "url": "https://t.co/S1I7DiVp6s",
+        "username": "chuu_die",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2098802080878125291",
+    "created_at": "2026-09-12T15:53:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098802080878125291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1652733611022635009",
+          "start": 3,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098802080878125291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098735495970996636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingCrimson_09: 其实岐哥的真实身份是缉毒警，钓鱼执法来说的，等把你们这些嗑药的一网打尽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2098802080878125291",
+        "created_at": "2026-09-12T15:53:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098802080878125291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652733611022635009",
+              "start": 3,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098802080878125291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098735495970996636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingCrimson_09: 其实岐哥的真实身份是缉毒警，钓鱼执法来说的，等把你们这些嗑药的一网打尽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652733611022635009",
+        "conversation_id": "2098735495970996636",
+        "created_at": "2026-09-12T11:28:29.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098735495970996636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098735495970996636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实岐哥的真实身份是缉毒警，钓鱼执法来说的，等把你们这些嗑药的一网打尽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2098802080878125291",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 791,
+          "like_count": 12330,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "繁华散尽之后，行者徒悲伤\n黄昏啊，宛如手心的，曼珠沙华\n恋人：@17yearsDaye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "17yearsDaye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingcrimson177…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kingcrimson17700",
+                "start": 0,
+                "url": "https://t.co/p1Qj5VoTiO"
+              }
+            ]
+          }
+        },
+        "id": "1652733611022635009",
+        "is_identity_verified": false,
+        "location": "人世与幽冥的分界线",
+        "most_recent_tweet_id": "2098798465128259816",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2089118541958308150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652733611022635009/1786932013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091019253759582209/mQN_2w17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 558,
+          "like_count": 2943,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/p1Qj5VoTiO",
+        "username": "kingCrimson_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

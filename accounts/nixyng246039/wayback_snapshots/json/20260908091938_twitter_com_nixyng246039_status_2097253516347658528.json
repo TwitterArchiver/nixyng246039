@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2097223696205348941",
+    "created_at": "2026-09-08T09:19:38.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097253516347658528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1858911589115850754",
+          "start": 0,
+          "username": "life4dead67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097253516347658528",
+    "in_reply_to_user_id": "1858911589115850754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097223696205348941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life4dead67 瘪———*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097223638831505408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrVybcaoAAhzur.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097223638835769344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrVybdbsAAyzr-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2097223696205348941",
+        "created_at": "2026-09-08T09:19:38.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097253516347658528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1858911589115850754",
+              "start": 0,
+              "username": "life4dead67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097253516347658528",
+        "in_reply_to_user_id": "1858911589115850754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097223696205348941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life4dead67 瘪———*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097223638831505408",
+            "3_2097223638835769344"
+          ]
+        },
+        "author_id": "1858911589115850754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097223696205348941",
+        "created_at": "2026-09-08T07:21:08.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097223696205348941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hPxsu538R",
+              "end": 30,
+              "expanded_url": "https://x.com/life4dead67/status/2097223696205348941/photo/1",
+              "media_key": "3_2097223638831505408",
+              "start": 7,
+              "url": "https://t.co/1hPxsu538R"
+            },
+            {
+              "display_url": "pic.x.com/1hPxsu538R",
+              "end": 30,
+              "expanded_url": "https://x.com/life4dead67/status/2097223696205348941/photo/1",
+              "media_key": "3_2097223638835769344",
+              "start": 7,
+              "url": "https://t.co/1hPxsu538R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097223696205348941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097223638831505408"
+          },
+          {
+            "media_key": "3_2097223638835769344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊蓝莓的时候 https://t.co/1hPxsu538R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2097253516347658528",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 766,
+          "like_count": 11915,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 4036
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T16:34:17.000Z",
+        "description": "我是小璃 1.0已逝@life4dead1127\n发血图和稿件\n纯绿墙内男的🚪52 纯被动聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "life4dead1127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruriri1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruriri1",
+                "start": 0,
+                "url": "https://t.co/uDUY20gKnu"
+              }
+            ]
+          }
+        },
+        "id": "1858911589115850754",
+        "is_identity_verified": false,
+        "location": "鱼蛋的匿名提问",
+        "most_recent_tweet_id": "2097223696205348941",
+        "name": "Ruriri2.0",
+        "pinned_tweet_id": "2091682192141205627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858911589115850754/1775818707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095083374809583616/h4hJWmav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 181,
+          "like_count": 6954,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/uDUY20gKnu",
+        "username": "life4dead67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

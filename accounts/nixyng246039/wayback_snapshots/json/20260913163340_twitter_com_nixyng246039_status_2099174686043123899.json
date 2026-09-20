@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098956385350541312",
+        "3_2098956385526685696"
+      ],
+      "media_source_tweet_id": [
+        "2098956925316808776",
+        "2098956925316808776"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1586040452628721664",
+          "name": "Slice of life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2099174686043123899",
+    "created_at": "2026-09-13T16:33:40.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099174686043123899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063187473405227008",
+          "start": 3,
+          "username": "yvame_rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qy0Xltdsst",
+          "end": 117,
+          "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+          "media_key": "3_2098956385350541312",
+          "start": 94,
+          "url": "https://t.co/qy0Xltdsst"
+        },
+        {
+          "display_url": "pic.x.com/qy0Xltdsst",
+          "end": 117,
+          "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+          "media_key": "3_2098956385526685696",
+          "start": 94,
+          "url": "https://t.co/qy0Xltdsst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099174686043123899",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098956385350541312"
+      },
+      {
+        "media_key": "3_2098956385526685696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098956925316808776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yvame_rain: 我是小雨  今年17  ip武汉\n我喜欢有礼貌人 交朋友直接私信我就好啦\n喜欢的动漫还有游戏漫画都比较多 发日常照片和碎碎念\n喜欢我的话请资助我谢谢！！！ https://t.co/qy0Xltdsst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2098956385350541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD9tjPbYAAIKdl.jpg",
+        "width": 1115
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2098956385526685696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD9tj5bIAA4ML7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098956385350541312",
+            "3_2098956385526685696"
+          ],
+          "media_source_tweet_id": [
+            "2098956925316808776",
+            "2098956925316808776"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2099174686043123899",
+        "created_at": "2026-09-13T16:33:40.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099174686043123899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063187473405227008",
+              "start": 3,
+              "username": "yvame_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qy0Xltdsst",
+              "end": 117,
+              "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+              "media_key": "3_2098956385350541312",
+              "start": 94,
+              "url": "https://t.co/qy0Xltdsst"
+            },
+            {
+              "display_url": "pic.x.com/qy0Xltdsst",
+              "end": 117,
+              "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+              "media_key": "3_2098956385526685696",
+              "start": 94,
+              "url": "https://t.co/qy0Xltdsst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099174686043123899",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098956385350541312"
+          },
+          {
+            "media_key": "3_2098956385526685696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098956925316808776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yvame_rain: 我是小雨  今年17  ip武汉\n我喜欢有礼貌人 交朋友直接私信我就好啦\n喜欢的动漫还有游戏漫画都比较多 发日常照片和碎碎念\n喜欢我的话请资助我谢谢！！！ https://t.co/qy0Xltdsst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098956385350541312",
+            "3_2098956385526685696"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2098956925316808776",
+        "created_at": "2026-09-13T02:08:22.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:06:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098956563482652878",
+          "2098956925316808776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qy0Xltdsst",
+              "end": 101,
+              "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+              "media_key": "3_2098956385350541312",
+              "start": 78,
+              "url": "https://t.co/qy0Xltdsst"
+            },
+            {
+              "display_url": "pic.x.com/qy0Xltdsst",
+              "end": 101,
+              "expanded_url": "https://x.com/yvame_rain/status/2098956925316808776/photo/1",
+              "media_key": "3_2098956385526685696",
+              "start": 78,
+              "url": "https://t.co/qy0Xltdsst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098956925316808776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098956385350541312"
+          },
+          {
+            "media_key": "3_2098956385526685696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4738,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是小雨  今年17  ip武汉\n我喜欢有礼貌人 交朋友直接私信我就好啦\n喜欢的动漫还有游戏漫画都比较多 发日常照片和碎碎念\n喜欢我的话请资助我谢谢！！！ https://t.co/qy0Xltdsst"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2099174686043123899",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 794,
+          "like_count": 12416,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我//另一个我@kosame_yv\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kosame_yv"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2099151244854169653",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 92,
+          "like_count": 3213,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

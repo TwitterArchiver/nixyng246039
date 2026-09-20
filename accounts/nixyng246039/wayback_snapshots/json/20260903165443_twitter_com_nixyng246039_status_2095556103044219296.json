@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2095517917572104216",
+    "created_at": "2026-09-03T16:54:43.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095556103044219296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023256339363856384",
+          "start": 0,
+          "username": "Yumeoibito76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095556103044219296",
+    "in_reply_to_user_id": "2023256339363856384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095517917572104216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumeoibito76 兔兔诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095517812802617344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTGWSSagAA-q62.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095517854154313729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTGYsVbUAEB8oS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095517886521704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTGak6agAA0r1C.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2095517917572104216",
+        "created_at": "2026-09-03T16:54:43.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095556103044219296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095556103044219296",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095517917572104216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 兔兔诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095517812802617344",
+            "3_2095517854154313729",
+            "3_2095517886521704448"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2095517917572104216",
+        "created_at": "2026-09-03T14:22:59.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095517917572104216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsHLWpjPer",
+              "end": 25,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2095517917572104216/photo/1",
+              "media_key": "3_2095517812802617344",
+              "start": 2,
+              "url": "https://t.co/PsHLWpjPer"
+            },
+            {
+              "display_url": "pic.x.com/PsHLWpjPer",
+              "end": 25,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2095517917572104216/photo/1",
+              "media_key": "3_2095517854154313729",
+              "start": 2,
+              "url": "https://t.co/PsHLWpjPer"
+            },
+            {
+              "display_url": "pic.x.com/PsHLWpjPer",
+              "end": 25,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2095517917572104216/photo/1",
+              "media_key": "3_2095517886521704448",
+              "start": 2,
+              "url": "https://t.co/PsHLWpjPer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095517917572104216",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095517812802617344"
+          },
+          {
+            "media_key": "3_2095517854154313729"
+          },
+          {
+            "media_key": "3_2095517886521704448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/PsHLWpjPer"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2095556103044219296",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 747,
+          "like_count": 11532,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2095517917572104216",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 408,
+          "like_count": 6844,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

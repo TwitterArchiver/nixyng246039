@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2095091817704218947",
+    "created_at": "2026-09-02T21:08:26.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T22:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095257564942368995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782645819965046784",
+          "start": 0,
+          "username": "Searinia1029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095257564942368995",
+    "in_reply_to_user_id": "1782645819965046784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095197602723880989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Searinia1029 越o越牛逼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2095091817704218947",
+        "created_at": "2026-09-02T21:08:26.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T22:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095257564942368995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782645819965046784",
+              "start": 0,
+              "username": "Searinia1029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095257564942368995",
+        "in_reply_to_user_id": "1782645819965046784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095197602723880989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Searinia1029 越o越牛逼！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782645819965046784",
+        "conversation_id": "2095091817704218947",
+        "created_at": "2026-09-02T17:10:10.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095197602723880989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095197602723880989",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095091817704218947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 越o越牛逼！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2095257564942368995",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 746,
+          "like_count": 11516,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 3834
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T05:41:10.000Z",
+        "description": "请君自便\n精神疾病确认\n\n「一切話語皆略顯冗余，但我愛你。」",
+        "id": "1782645819965046784",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2095224902722928922",
+        "name": "如同流星飞越山海🌟全世界最可爱的星酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782645819965046784/1786548652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832400418087038979/-PB1aydX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 88,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Searinia1029",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

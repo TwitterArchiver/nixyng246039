@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096605294646419456"
+      ],
+      "media_source_tweet_id": [
+        "2096605328351854918"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2096795855042797894",
+    "created_at": "2026-09-07T03:01:03.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096795855042797894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096172013996089344",
+          "start": 3,
+          "username": "Mintink4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GxmCBytZG8",
+          "end": 66,
+          "expanded_url": "https://x.com/Mintink4/status/2096605328351854918/video/1",
+          "media_key": "13_2096605294646419456",
+          "start": 43,
+          "url": "https://t.co/GxmCBytZG8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096795855042797894",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096605294646419456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096605328351854918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink4: 我今天真的是劳模了\n打完球洗个澡就来陪别的客户唱歌喝酒了 https://t.co/GxmCBytZG8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11633,
+        "height": 1280,
+        "media_key": "13_2096605294646419456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096605294646419456/img/U-IRPYGUeJaTeO65.jpg",
+        "public_metrics": {
+          "view_count": 3282
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605294646419456/vid/avc1/320x568/vO35mp78AIwyI5vH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605294646419456/vid/avc1/480x852/cfwpfLaqV_85m-u0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096605294646419456/vid/avc1/720x1280/2SE4xK7QqCXKJ-w_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096605294646419456/pl/BNLBDtvXk24STD12.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096605294646419456"
+          ],
+          "media_source_tweet_id": [
+            "2096605328351854918"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2096795855042797894",
+        "created_at": "2026-09-07T03:01:03.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096795855042797894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096172013996089344",
+              "start": 3,
+              "username": "Mintink4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxmCBytZG8",
+              "end": 66,
+              "expanded_url": "https://x.com/Mintink4/status/2096605328351854918/video/1",
+              "media_key": "13_2096605294646419456",
+              "start": 43,
+              "url": "https://t.co/GxmCBytZG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096795855042797894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096605294646419456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096605328351854918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink4: 我今天真的是劳模了\n打完球洗个澡就来陪别的客户唱歌喝酒了 https://t.co/GxmCBytZG8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096605294646419456"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "conversation_id": "2096605328351854918",
+        "created_at": "2026-09-06T14:23:57.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096605328351854918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxmCBytZG8",
+              "end": 52,
+              "expanded_url": "https://x.com/Mintink4/status/2096605328351854918/video/1",
+              "media_key": "13_2096605294646419456",
+              "start": 29,
+              "url": "https://t.co/GxmCBytZG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605328351854918",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096605294646419456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9667,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我今天真的是劳模了\n打完球洗个澡就来陪别的客户唱歌喝酒了 https://t.co/GxmCBytZG8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096795855042797894",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 763,
+          "like_count": 11722,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "前世@Mintink3 被害 我转生了 没回fo就是当日关注上限了 请帮我寻回好友们 互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink3"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096704586883186913",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2096176661050126752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 210,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

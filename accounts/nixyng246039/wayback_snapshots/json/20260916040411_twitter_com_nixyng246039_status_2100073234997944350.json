@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2099841468915699761",
+    "created_at": "2026-09-16T04:04:11.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100073234997944350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089408201209102336",
+          "start": 0,
+          "username": "zhuzhuzhuzhusiz"
+        },
+        {
+          "end": 28,
+          "id": "2057425772198215680",
+          "start": 17,
+          "username": "boqiaoahm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100073234997944350",
+    "in_reply_to_user_id": "2089408201209102336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099841468915699761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuzhuzhuzhusiz @boqiaoahm4 卧槽了死吗msk"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [boqiaoahm4].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "boqiaoahm4",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "boqiaoahm4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2099841468915699761",
+        "created_at": "2026-09-16T04:04:11.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100073234997944350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089408201209102336",
+              "start": 0,
+              "username": "zhuzhuzhuzhusiz"
+            },
+            {
+              "end": 28,
+              "id": "2057425772198215680",
+              "start": 17,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100073234997944350",
+        "in_reply_to_user_id": "2089408201209102336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099841468915699761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuzhuzhuzhusiz @boqiaoahm4 卧槽了死吗msk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089408201209102336",
+        "conversation_id": "2099841468915699761",
+        "created_at": "2026-09-15T12:43:14.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099841468915699761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2057425772198215680",
+              "start": 15,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099841468915699761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好！\n我们已审核你针对账号 @boqiaoahm4 的申诉请求。\n我们的支持团队已确认存在违反我们规则的行为，具体为：\n我们已考虑你提供的补充信息，认为在此情况下无需推翻原决定。因此，我们不会撤销锁定你账号的决定。\n要恢复你的账号功能，你可以登录你的账号并按照屏幕说明完成操作，从而解决违规情况"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100073234997944350",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 803,
+          "like_count": 12532,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "炸玉的6.0\n含od自伤内容\n妈妈@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100054662779203811",
+        "name": "炸炸的玉6.0",
+        "pinned_tweet_id": "2099496247329694190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089408584824291328/xsqL6M6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 229,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

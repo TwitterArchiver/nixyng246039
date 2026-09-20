@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2094779043812147205",
+    "created_at": "2026-09-02T09:52:07.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095087366012551297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090457430169907200",
+          "start": 0,
+          "username": "shashatsi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095087366012551297",
+    "in_reply_to_user_id": "2090457430169907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094779043812147205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shashatsi7 卧槽此滤镜牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094779031220809728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRImbibacAAl8AW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2094779043812147205",
+        "created_at": "2026-09-02T09:52:07.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095087366012551297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090457430169907200",
+              "start": 0,
+              "username": "shashatsi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095087366012551297",
+        "in_reply_to_user_id": "2090457430169907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094779043812147205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shashatsi7 卧槽此滤镜牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094779031220809728"
+          ]
+        },
+        "author_id": "2090457430169907200",
+        "conversation_id": "2094779043812147205",
+        "created_at": "2026-09-01T13:26:57.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094779043812147205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gDdADzz6w",
+              "end": 28,
+              "expanded_url": "https://x.com/shashatsi7/status/2094779043812147205/photo/1",
+              "media_key": "3_2094779031220809728",
+              "start": 5,
+              "url": "https://t.co/6gDdADzz6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094779043812147205",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094779031220809728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 715,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遗照滤镜 https://t.co/6gDdADzz6w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2095087366012551297",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 744,
+          "like_count": 11493,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T15:16:14.000Z",
+        "description": "妈妈@b1a0q1a0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "b1a0q1a0"
+              }
+            ]
+          }
+        },
+        "id": "2090457430169907200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094779552040128566",
+        "name": "莎莎2.0",
+        "pinned_tweet_id": "2090461514360901864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090457430169907200/1787239080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090458189787697152/ct3wFlZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "shashatsi7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

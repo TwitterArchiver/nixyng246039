@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2094341577879527431",
+    "created_at": "2026-08-31T11:12:59.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094382940163571873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094382940163571873",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094341577879527431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 我去这么萌？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1024,
+        "media_key": "7_2094341528613199872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2094341528613199872/pu/img/eDyByZs2jMAOBjlj.jpg",
+        "public_metrics": {
+          "view_count": 168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094341528613199872/pu/vid/avc1/320x568/QVWULwb18E2Nn0NR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094341528613199872/pu/vid/avc1/480x852/JbXV86k-ik4R59HX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094341528613199872/pu/vid/avc1/576x1024/C2O5moQjH25TTOKE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2094341528613199872/pu/pl/wviHs6wktOtRhXon.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2094341577879527431",
+        "created_at": "2026-08-31T11:12:59.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094382940163571873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094382940163571873",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094341577879527431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我去这么萌？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2094341528613199872"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2094341577879527431",
+        "created_at": "2026-08-31T08:28:37.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094341577879527431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/85FPqgWr77",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2094341577879527431/video/1",
+              "media_key": "7_2094341528613199872",
+              "start": 3,
+              "url": "https://t.co/85FPqgWr77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094341577879527431",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2094341528613199872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃 https://t.co/85FPqgWr77"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2094382940163571873",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 738,
+          "like_count": 11281,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 3691
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2094365852858462209",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17947,
+          "following_count": 1936,
+          "like_count": 57062,
+          "listed_count": 21,
+          "media_count": 7058,
+          "tweet_count": 24652
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2095840270097244303",
+    "created_at": "2026-09-05T17:26:02.000Z",
+    "display_text_range": [
+      15,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096288759780110486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983919037810962432",
+          "start": 0,
+          "username": "orange6699166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096288759780110486",
+    "in_reply_to_user_id": "1983919037810962432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096209951136137333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange6699166 害怕跳了吧，真死了就是老师的责任了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2095840270097244303",
+        "created_at": "2026-09-05T17:26:02.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096288759780110486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983919037810962432",
+              "start": 0,
+              "username": "orange6699166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096288759780110486",
+        "in_reply_to_user_id": "1983919037810962432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096209951136137333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange6699166 害怕跳了吧，真死了就是老师的责任了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983919037810962432",
+        "conversation_id": "2095840270097244303",
+        "created_at": "2026-09-05T12:12:52.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096209951136137333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096209951136137333",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095840270097244303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 emmm，但其实不管对于老师来说也很省心啊！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096288759780110486",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 756,
+          "like_count": 11601,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 3879
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T15:29:11.000Z",
+        "description": "推主是⭕sub/k3k9许愿一个手黑s！\n180/60kg,性别是mtf，爱好/植物/喜欢可爱有趣的东西🥳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lophophora3",
+                "end": 23,
+                "expanded_url": "http://t.me/Lophophora3",
+                "start": 0,
+                "url": "https://t.co/6INVOReCKI"
+              }
+            ]
+          }
+        },
+        "id": "1983919037810962432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096288670127145244",
+        "name": "orange🏳️‍🌈",
+        "pinned_tweet_id": "1986418905053790562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983919037810962432/1761925519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919237950533632/nGPoOIGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 315,
+          "like_count": 2838,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/6INVOReCKI",
+        "username": "orange6699166",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

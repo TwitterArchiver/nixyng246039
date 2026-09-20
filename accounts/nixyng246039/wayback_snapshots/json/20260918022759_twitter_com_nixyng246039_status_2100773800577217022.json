@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100587451890979165",
+    "created_at": "2026-09-18T02:27:59.000Z",
+    "display_text_range": [
+      32,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100773800577217022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        },
+        {
+          "end": 31,
+          "id": "2089362780633931776",
+          "start": 16,
+          "username": "chooselifehnvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100773800577217022",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100587451890979165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 @chooselifehnvj 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100587451890979165",
+        "created_at": "2026-09-18T02:27:59.000Z",
+        "display_text_range": [
+          32,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100773800577217022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            },
+            {
+              "end": 31,
+              "id": "2089362780633931776",
+              "start": 16,
+              "username": "chooselifehnvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100773800577217022",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100587451890979165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 @chooselifehnvj 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489486846211936256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347246523172573184",
+              "name": "Apple Pencil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2100587451890979165",
+        "created_at": "2026-09-17T14:07:30.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100587451890979165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100587451890979165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1683,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉100fo了 蟹蟹大家和我做朋友(´-ω-`) 抽50元or愈美片+一支Apple pencil二代（需转帖+点赞+评论）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100773800577217022",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100631301468667904/RKbsuw71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 818,
+          "like_count": 12986,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/HardDance/Techno/Industrial\n动漫和喜欢的Gal都剪到视频号里去了  玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 \n我要重新尝试一些类型（哼哼\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2100669828965212495",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 309,
+          "like_count": 1496,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T14:49:05.000Z",
+        "description": "想拥有坚硬躯壳",
+        "id": "2089362780633931776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100768377749082284",
+        "name": "桥克力",
+        "pinned_tweet_id": "2096504917376872627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097026958123311104/2yBq7WEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 244,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "chooselifehnvj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

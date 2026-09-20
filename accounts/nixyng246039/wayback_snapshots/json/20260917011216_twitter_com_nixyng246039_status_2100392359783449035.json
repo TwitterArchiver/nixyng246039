@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100042308897099776"
+      ],
+      "media_source_tweet_id": [
+        "2100042318770515980"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100392359783449035",
+    "created_at": "2026-09-17T01:12:16.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100392359783449035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "ansy"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "あのそよ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "862464108368609281",
+          "start": 3,
+          "username": "MiRAMaxwell_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlnyMHF3C1",
+          "end": 60,
+          "expanded_url": "https://x.com/MiRAMaxwell_/status/2100042318770515980/photo/1",
+          "media_key": "3_2100042308897099776",
+          "start": 37,
+          "url": "https://t.co/nlnyMHF3C1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100392359783449035",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100042308897099776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100042318770515980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiRAMaxwell_: #ansy #あのそよ 让小狗咬一口 https://t.co/nlnyMHF3C1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2064,
+        "media_key": "3_2100042308897099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTZWnsaUAATA_3.jpg",
+        "width": 2752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100042308897099776"
+          ],
+          "media_source_tweet_id": [
+            "2100042318770515980"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100392359783449035",
+        "created_at": "2026-09-17T01:12:16.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100392359783449035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ansy"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "あのそよ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862464108368609281",
+              "start": 3,
+              "username": "MiRAMaxwell_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlnyMHF3C1",
+              "end": 60,
+              "expanded_url": "https://x.com/MiRAMaxwell_/status/2100042318770515980/photo/1",
+              "media_key": "3_2100042308897099776",
+              "start": 37,
+              "url": "https://t.co/nlnyMHF3C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100392359783449035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100042308897099776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100042318770515980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiRAMaxwell_: #ansy #あのそよ 让小狗咬一口 https://t.co/nlnyMHF3C1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100042308897099776"
+          ]
+        },
+        "author_id": "862464108368609281",
+        "conversation_id": "2100042318770515980",
+        "created_at": "2026-09-16T02:01:20.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100042318770515980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ansy"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "あのそよ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlnyMHF3C1",
+              "end": 42,
+              "expanded_url": "https://x.com/MiRAMaxwell_/status/2100042318770515980/photo/1",
+              "media_key": "3_2100042308897099776",
+              "start": 19,
+              "url": "https://t.co/nlnyMHF3C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100042318770515980",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100042308897099776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 14728,
+          "like_count": 2461,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "#ansy #あのそよ 让小狗咬一口 https://t.co/nlnyMHF3C1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100392359783449035",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 815,
+          "like_count": 12892,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 4360
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-11T00:27:22.000Z",
+        "description": "｜中文/Eng／日語學習中丨图均为约稿 转载搬运AI禁止",
+        "id": "862464108368609281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100042318770515980",
+        "name": "MillaMaxwell",
+        "pinned_tweet_id": "1241372268942385153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862464108368609281/1734363170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965333349440061440/4PCg7HZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 76,
+          "like_count": 136,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "MiRAMaxwell_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

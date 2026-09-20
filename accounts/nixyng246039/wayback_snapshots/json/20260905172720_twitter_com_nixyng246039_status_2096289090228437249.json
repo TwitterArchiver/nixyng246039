@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096215030727659520"
+      ],
+      "media_source_tweet_id": [
+        "2096215092627210684"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2096289090228437249",
+    "created_at": "2026-09-05T17:27:20.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096289090228437249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088884586503942144",
+          "start": 3,
+          "username": "b1a0q1a0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p65iyjqCxW",
+          "end": 48,
+          "expanded_url": "https://x.com/b1a0q1a0/status/2096215092627210684/video/1",
+          "media_key": "13_2096215030727659520",
+          "start": 25,
+          "url": "https://t.co/p65iyjqCxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096289090228437249",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096215030727659520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096215092627210684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b1a0q1a0: 这个假刘海好像断层了 https://t.co/p65iyjqCxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2096215030727659520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096215030727659520/img/fRmtVrAw8eTr4xWw.jpg",
+        "public_metrics": {
+          "view_count": 493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096215030727659520/vid/avc1/320x568/ChxNSFJ3_VaSP4_i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096215030727659520/vid/avc1/480x852/Ris6gzriHwF5xcbX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096215030727659520/vid/avc1/720x1280/zUHLzDWmZq3jwRfh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096215030727659520/pl/fjLROJLKXkaFaGUY.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096215030727659520"
+          ],
+          "media_source_tweet_id": [
+            "2096215092627210684"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2096289090228437249",
+        "created_at": "2026-09-05T17:27:20.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096289090228437249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088884586503942144",
+              "start": 3,
+              "username": "b1a0q1a0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p65iyjqCxW",
+              "end": 48,
+              "expanded_url": "https://x.com/b1a0q1a0/status/2096215092627210684/video/1",
+              "media_key": "13_2096215030727659520",
+              "start": 25,
+              "url": "https://t.co/p65iyjqCxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096289090228437249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096215030727659520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096215092627210684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b1a0q1a0: 这个假刘海好像断层了 https://t.co/p65iyjqCxW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096215030727659520"
+          ]
+        },
+        "author_id": "2088884586503942144",
+        "conversation_id": "2096215092627210684",
+        "created_at": "2026-09-05T12:33:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096215092627210684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p65iyjqCxW",
+              "end": 34,
+              "expanded_url": "https://x.com/b1a0q1a0/status/2096215092627210684/video/1",
+              "media_key": "13_2096215030727659520",
+              "start": 11,
+              "url": "https://t.co/p65iyjqCxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096215092627210684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096215030727659520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1363,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个假刘海好像断层了 https://t.co/p65iyjqCxW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096289090228437249",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 756,
+          "like_count": 11603,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 3882
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T07:05:40.000Z",
+        "description": "爱人@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2088884586503942144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096257908749336907",
+        "name": "乍玉5.0",
+        "pinned_tweet_id": "2088886963730567560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088884586503942144/1786864173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 211,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "b1a0q1a0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

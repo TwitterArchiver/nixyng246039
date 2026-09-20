@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096280622717427712"
+      ],
+      "media_source_tweet_id": [
+        "2096280633404481560"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2096303204900176372",
+    "created_at": "2026-09-05T18:23:26.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096303204900176372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619606197723856901",
+          "start": 3,
+          "username": "Tokino_Yui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wbgv8crEI",
+          "end": 48,
+          "expanded_url": "https://x.com/Tokino_Yui/status/2096280633404481560/photo/1",
+          "media_key": "3_2096280622717427712",
+          "start": 25,
+          "url": "https://t.co/8wbgv8crEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096303204900176372",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096280622717427712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096280633404481560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tokino_Yui: 再次一个自介条喵 https://t.co/8wbgv8crEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096280622717427712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd8HqqbYAApGvo.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096280622717427712"
+          ],
+          "media_source_tweet_id": [
+            "2096280633404481560"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2096303204900176372",
+        "created_at": "2026-09-05T18:23:26.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096303204900176372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619606197723856901",
+              "start": 3,
+              "username": "Tokino_Yui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wbgv8crEI",
+              "end": 48,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2096280633404481560/photo/1",
+              "media_key": "3_2096280622717427712",
+              "start": 25,
+              "url": "https://t.co/8wbgv8crEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096303204900176372",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096280622717427712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096280633404481560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tokino_Yui: 再次一个自介条喵 https://t.co/8wbgv8crEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096280622717427712"
+          ]
+        },
+        "author_id": "1619606197723856901",
+        "conversation_id": "2096280633404481560",
+        "created_at": "2026-09-05T16:53:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096280633404481560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wbgv8crEI",
+              "end": 32,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2096280633404481560/photo/1",
+              "media_key": "3_2096280622717427712",
+              "start": 9,
+              "url": "https://t.co/8wbgv8crEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096280633404481560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096280622717427712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再次一个自介条喵 https://t.co/8wbgv8crEI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2096303204900176372",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 757,
+          "like_count": 11639,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 3910
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/🈚️门槛不聊骚不要骚扰我了/单纯送钱可以/没有回fo一定要私我一下！🥰\n\nhttps://t.co/8DCMjJbsUv\n\n我的🪜https://t.co/ljwZpOuVDu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tokino_yui",
+                "end": 94,
+                "expanded_url": "https://ngl.link/tokino_yui",
+                "start": 71,
+                "url": "https://t.co/8DCMjJbsUv"
+              },
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 122,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=VyZhPMFr",
+                "start": 99,
+                "url": "https://t.co/ljwZpOuVDu"
+              }
+            ]
+          }
+        },
+        "id": "1619606197723856901",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096280633404481560",
+        "name": "时野唯",
+        "pinned_tweet_id": "2096280633404481560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619606197723856901/1786387918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094742809551228928/jowIJdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 169,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      }
+    ],
+    "conversation_id": "2094734291297087592",
+    "created_at": "2026-09-01T10:29:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094734291297087592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 113,
+          "tag": "GroovyMix"
+        },
+        {
+          "end": 129,
+          "start": 124,
+          "tag": "D4DJ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1364759794754576384",
+          "start": 3,
+          "username": "D4DJ_game_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094734291297087592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094606165816881598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D4DJ_game_EN: Which Tsubaki outfit do you prefer?\n💍┈┈✤⁘ꕤ⁘✤┈┈💍\n\nLet me know in the replies or quote posts! 💙\n\n#GroovyMix #D4DJ https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2092804814338129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsi4_baAAAM39n.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "2094734291297087592",
+        "created_at": "2026-09-01T10:29:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094734291297087592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 113,
+              "tag": "GroovyMix"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "D4DJ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1364759794754576384",
+              "start": 3,
+              "username": "D4DJ_game_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094734291297087592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094606165816881598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D4DJ_game_EN: Which Tsubaki outfit do you prefer?\n💍┈┈✤⁘ꕤ⁘✤┈┈💍\n\nLet me know in the replies or quote posts! 💙\n\n#GroovyMix #D4DJ https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092804814338129920"
+          ]
+        },
+        "author_id": "1364759794754576384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "2094606165816881598",
+        "created_at": "2026-09-01T02:00:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094606165816881598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 95,
+              "tag": "GroovyMix"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "D4DJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk6NBDBd6w",
+              "end": 135,
+              "expanded_url": "https://x.com/D4DJ_game_EN/status/2094606165816881598/photo/1",
+              "media_key": "3_2092804814338129920",
+              "start": 112,
+              "url": "https://t.co/nk6NBDBd6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094606165816881598",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092804814338129920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6774,
+          "like_count": 297,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Which Tsubaki outfit do you prefer?\n💍┈┈✤⁘ꕤ⁘✤┈┈💍\n\nLet me know in the replies or quote posts! 💙\n\n#GroovyMix #D4DJ https://t.co/nk6NBDBd6w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2094734291297087592",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 744,
+          "like_count": 11446,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-25T02:11:17.000Z",
+        "description": "💿🎧The official X account of D4DJ Groovy Mix, a DJ-themed Rhythm and Adventure game! \n▼Check out the Web Store\nhttps://t.co/7yeGsPDgRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "webstore.en.d4dj-world-donuts.net",
+                "end": 133,
+                "expanded_url": "https://webstore.en.d4dj-world-donuts.net/",
+                "start": 110,
+                "url": "https://t.co/7yeGsPDgRM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.d4dj-pj.com/game/",
+                "end": 23,
+                "expanded_url": "https://en.d4dj-pj.com/game/",
+                "start": 0,
+                "url": "https://t.co/f8CC2xQv7T"
+              }
+            ]
+          }
+        },
+        "id": "1364759794754576384",
+        "is_identity_verified": false,
+        "location": "Yoba Academy",
+        "most_recent_tweet_id": "2094696846790922316",
+        "name": "D4DJ Groovy Mix EN【Official】",
+        "pinned_tweet_id": "2093519252972343578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364759794754576384/1788141444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997849347090968576/w0yqs3Rz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35903,
+          "following_count": 57,
+          "like_count": 7,
+          "listed_count": 106,
+          "media_count": 3321,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/f8CC2xQv7T",
+        "username": "D4DJ_game_EN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

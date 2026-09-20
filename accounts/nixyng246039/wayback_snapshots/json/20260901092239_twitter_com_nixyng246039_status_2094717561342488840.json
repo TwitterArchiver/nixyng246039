@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2094442665740022196",
+    "created_at": "2026-09-01T09:22:39.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094717561342488840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061450593617563649",
+          "start": 0,
+          "username": "minesavior0311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094717561342488840",
+    "in_reply_to_user_id": "2061450593617563649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094442665740022196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minesavior0311 我靠他吗神经病吧，这傻逼男的死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094442665740022196].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094442665740022196",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094442665740022196"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2094442665740022196",
+        "created_at": "2026-09-01T09:22:39.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094717561342488840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061450593617563649",
+              "start": 0,
+              "username": "minesavior0311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094717561342488840",
+        "in_reply_to_user_id": "2061450593617563649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094442665740022196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minesavior0311 我靠他吗神经病吧，这傻逼男的死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2094717561342488840",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 735,
+          "like_count": 11324,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂日常\n欢迎来找我玩\nlysk沈星回激推梦女 我是纸性恋\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 72,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 49,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "is_identity_verified": false,
+        "location": "提问👉🏻",
+        "most_recent_tweet_id": "2094624831857988081",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061450593617563649/1784922986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094041235887730688/TtPVVCoU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 178,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

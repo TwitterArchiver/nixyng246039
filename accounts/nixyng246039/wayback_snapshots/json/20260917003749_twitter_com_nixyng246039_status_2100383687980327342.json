@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100126708297035776",
+        "3_2100126708208943104",
+        "3_2100126708213104640",
+        "3_2100126708225708032"
+      ],
+      "media_source_tweet_id": [
+        "2100126713594466528",
+        "2100126713594466528",
+        "2100126713594466528",
+        "2100126713594466528"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100383687980327342",
+    "created_at": "2026-09-17T00:37:49.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100383687980327342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414672456804040705",
+          "start": 3,
+          "username": "Bunch_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCsUAQF9ru",
+          "end": 51,
+          "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+          "media_key": "3_2100126708297035776",
+          "start": 28,
+          "url": "https://t.co/hCsUAQF9ru"
+        },
+        {
+          "display_url": "pic.x.com/hCsUAQF9ru",
+          "end": 51,
+          "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+          "media_key": "3_2100126708208943104",
+          "start": 28,
+          "url": "https://t.co/hCsUAQF9ru"
+        },
+        {
+          "display_url": "pic.x.com/hCsUAQF9ru",
+          "end": 51,
+          "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+          "media_key": "3_2100126708213104640",
+          "start": 28,
+          "url": "https://t.co/hCsUAQF9ru"
+        },
+        {
+          "display_url": "pic.x.com/hCsUAQF9ru",
+          "end": 51,
+          "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+          "media_key": "3_2100126708225708032",
+          "start": 28,
+          "url": "https://t.co/hCsUAQF9ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100383687980327342",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100126708297035776"
+      },
+      {
+        "media_key": "3_2100126708208943104"
+      },
+      {
+        "media_key": "3_2100126708213104640"
+      },
+      {
+        "media_key": "3_2100126708225708032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100126713594466528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunch_1123: 謎きのこマスクまとめ🍄 https://t.co/hCsUAQF9ru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100126708297035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUmHT9a8AA6HvE.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100126708208943104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUmHToawAAb2P-.jpg",
+        "width": 1676
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100126708213104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUmHTpaQAAQDKq.jpg",
+        "width": 1727
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100126708225708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUmHTsakAAl3Ty.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100126708297035776",
+            "3_2100126708208943104",
+            "3_2100126708213104640",
+            "3_2100126708225708032"
+          ],
+          "media_source_tweet_id": [
+            "2100126713594466528",
+            "2100126713594466528",
+            "2100126713594466528",
+            "2100126713594466528"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100383687980327342",
+        "created_at": "2026-09-17T00:37:49.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100383687980327342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414672456804040705",
+              "start": 3,
+              "username": "Bunch_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 51,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708297035776",
+              "start": 28,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 51,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708208943104",
+              "start": 28,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 51,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708213104640",
+              "start": 28,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 51,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708225708032",
+              "start": 28,
+              "url": "https://t.co/hCsUAQF9ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100383687980327342",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100126708297035776"
+          },
+          {
+            "media_key": "3_2100126708208943104"
+          },
+          {
+            "media_key": "3_2100126708213104640"
+          },
+          {
+            "media_key": "3_2100126708225708032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100126713594466528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunch_1123: 謎きのこマスクまとめ🍄 https://t.co/hCsUAQF9ru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100126708297035776",
+            "3_2100126708208943104",
+            "3_2100126708213104640",
+            "3_2100126708225708032"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "2100126713594466528",
+        "created_at": "2026-09-16T07:36:41.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100126713594466528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 35,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708297035776",
+              "start": 12,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 35,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708208943104",
+              "start": 12,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 35,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708213104640",
+              "start": 12,
+              "url": "https://t.co/hCsUAQF9ru"
+            },
+            {
+              "display_url": "pic.x.com/hCsUAQF9ru",
+              "end": 35,
+              "expanded_url": "https://x.com/Bunch_1123/status/2100126713594466528/photo/1",
+              "media_key": "3_2100126708225708032",
+              "start": 12,
+              "url": "https://t.co/hCsUAQF9ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100126713594466528",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100126708297035776"
+          },
+          {
+            "media_key": "3_2100126708208943104"
+          },
+          {
+            "media_key": "3_2100126708213104640"
+          },
+          {
+            "media_key": "3_2100126708225708032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16560,
+          "impression_count": 1662657,
+          "like_count": 78481,
+          "quote_count": 152,
+          "reply_count": 30,
+          "retweet_count": 3423
+        },
+        "reply_settings": "everyone",
+        "text": "謎きのこマスクまとめ🍄 https://t.co/hCsUAQF9ru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100383687980327342",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 814,
+          "like_count": 12781,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 4341
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "NL GL BL ごちゃまぜ なんでも許せる人向け\n擬人化シリーズ(主に海洋生物)悪魔シリーズ(サキュバス ニャキュバス)JKシリーズ等\nFANBOX→ https://t.co/uWdpGMga4m\nお仕事→ buchi5433@gmail.com\n 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 100,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 77,
+                "url": "https://t.co/uWdpGMga4m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfduWH"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "is_identity_verified": true,
+        "location": "キモータの掃き溜め",
+        "most_recent_tweet_id": "2100236344866025860",
+        "name": "ぶんち",
+        "pinned_tweet_id": "2097886846042976442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414672456804040705/1700238254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614911,
+          "following_count": 671,
+          "like_count": 31877,
+          "listed_count": 2940,
+          "media_count": 385,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/UgBLIfduWH",
+        "username": "Bunch_1123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

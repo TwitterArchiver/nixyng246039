@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098409397705916416"
+      ],
+      "media_source_tweet_id": [
+        "2098409405805195567"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2098503007394472397",
+    "created_at": "2026-09-11T20:04:39.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098503007394472397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397843223217729538",
+          "start": 3,
+          "username": "SIGURE_house"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lx1HiERvDV",
+          "end": 83,
+          "expanded_url": "https://x.com/SIGURE_house/status/2098409405805195567/photo/1",
+          "media_key": "3_2098409397705916416",
+          "start": 60,
+          "url": "https://t.co/lx1HiERvDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098503007394472397",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098409397705916416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098409405805195567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SIGURE_house: 捏造⚠︎\n🌤️＆💐🫖cosplay\n\n前も後ろも拘って作ってみました\nSexy~😄 https://t.co/lx1HiERvDV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2098409397705916416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8MOreaQAAkccD.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098409397705916416"
+          ],
+          "media_source_tweet_id": [
+            "2098409405805195567"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2098503007394472397",
+        "created_at": "2026-09-11T20:04:39.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098503007394472397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397843223217729538",
+              "start": 3,
+              "username": "SIGURE_house"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lx1HiERvDV",
+              "end": 83,
+              "expanded_url": "https://x.com/SIGURE_house/status/2098409405805195567/photo/1",
+              "media_key": "3_2098409397705916416",
+              "start": 60,
+              "url": "https://t.co/lx1HiERvDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098503007394472397",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098409397705916416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098409405805195567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SIGURE_house: 捏造⚠︎\n🌤️＆💐🫖cosplay\n\n前も後ろも拘って作ってみました\nSexy~😄 https://t.co/lx1HiERvDV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098409397705916416"
+          ]
+        },
+        "author_id": "1397843223217729538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2098409405805195567",
+        "created_at": "2026-09-11T13:52:43.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098409405805195567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lx1HiERvDV",
+              "end": 65,
+              "expanded_url": "https://x.com/SIGURE_house/status/2098409405805195567/photo/1",
+              "media_key": "3_2098409397705916416",
+              "start": 42,
+              "url": "https://t.co/lx1HiERvDV"
+            },
+            {
+              "display_url": "x.com/sigure_house/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/sigure_house/status/2098330279362597081",
+              "start": 66,
+              "url": "https://t.co/amDQKMNDuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098409405805195567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098409397705916416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 8469,
+          "like_count": 638,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098330279362597081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "捏造⚠︎\n🌤️＆💐🫖cosplay\n\n前も後ろも拘って作ってみました\nSexy~😄 https://t.co/lx1HiERvDV https://t.co/amDQKMNDuR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2098503007394472397",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 784,
+          "like_count": 12203,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 4118
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-27T09:13:01.000Z",
+        "description": "20代/cos男（9）女（1）なります/🌊🔮.👟🦊.💳🌪💐/enメイン/写真は理想/フォロー🗽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mayoSI",
+                "end": 23,
+                "expanded_url": "https://lit.link/mayoSI",
+                "start": 0,
+                "url": "https://t.co/3etCh9hR62"
+              }
+            ]
+          }
+        },
+        "id": "1397843223217729538",
+        "is_identity_verified": false,
+        "location": "国内外どこでも出没します",
+        "most_recent_tweet_id": "2098415847169798420",
+        "name": "マヨ氏 osuコス12",
+        "pinned_tweet_id": "2086754800209965073",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397843223217729538/1783689373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046601336687607808/5N1r8D8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 420,
+          "like_count": 11273,
+          "listed_count": 43,
+          "media_count": 474,
+          "tweet_count": 18755
+        },
+        "url": "https://t.co/3etCh9hR62",
+        "username": "SIGURE_house",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

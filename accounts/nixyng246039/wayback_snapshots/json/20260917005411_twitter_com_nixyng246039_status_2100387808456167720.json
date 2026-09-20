@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2099381194676916716",
+    "created_at": "2026-09-17T00:54:11.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100387808456167720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1051173694779863040",
+          "start": 0,
+          "username": "madina__mart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100387808456167720",
+    "in_reply_to_user_id": "1051173694779863040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099381194676916716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madina__mart 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2099381194676916716",
+        "created_at": "2026-09-17T00:54:11.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100387808456167720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1051173694779863040",
+              "start": 0,
+              "username": "madina__mart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100387808456167720",
+        "in_reply_to_user_id": "1051173694779863040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099381194676916716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madina__mart 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051173694779863040",
+        "conversation_id": "2099381194676916716",
+        "created_at": "2026-09-14T06:14:16.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099381194676916716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099381194676916716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1923,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于之前抽到的两两位没有回复我，我将把他们的重新抽，如果他们看到了也可以重新找我拿，期限一周噢\n\n所以就是pr10\npr5g\n两个奖项20人开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100387808456167720",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 815,
+          "like_count": 12828,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 4347
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-13T18:11:53.000Z",
+        "description": "二世复活！买pr私聊我呀\n一世账号2d4SEUFUBFzltqB\n三世账号OscarSa45267516\n一个联系不上可以换一个联系噢",
+        "id": "1051173694779863040",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2100324622873051611",
+        "name": "小爱同学_二世/出售pr",
+        "pinned_tweet_id": "2099506559961473249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051173694779863040/1781710907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067271497765515264/x4DT4Mus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 37,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "madina__mart",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

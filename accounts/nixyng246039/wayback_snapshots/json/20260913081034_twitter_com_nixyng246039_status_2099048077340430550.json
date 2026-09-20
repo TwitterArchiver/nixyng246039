@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099048060659826688",
+        "3_2099048060454088704",
+        "3_2099048060487651334",
+        "3_2099048060651462656"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099048077340430550",
+    "created_at": "2026-09-13T08:10:34.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099048077340430550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9jdHn6ara",
+          "end": 30,
+          "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+          "media_key": "3_2099048060659826688",
+          "start": 7,
+          "url": "https://t.co/N9jdHn6ara"
+        },
+        {
+          "display_url": "pic.x.com/N9jdHn6ara",
+          "end": 30,
+          "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+          "media_key": "3_2099048060454088704",
+          "start": 7,
+          "url": "https://t.co/N9jdHn6ara"
+        },
+        {
+          "display_url": "pic.x.com/N9jdHn6ara",
+          "end": 30,
+          "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+          "media_key": "3_2099048060487651334",
+          "start": 7,
+          "url": "https://t.co/N9jdHn6ara"
+        },
+        {
+          "display_url": "pic.x.com/N9jdHn6ara",
+          "end": 30,
+          "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+          "media_key": "3_2099048060651462656",
+          "start": 7,
+          "url": "https://t.co/N9jdHn6ara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099048077340430550",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099048060659826688"
+      },
+      {
+        "media_key": "3_2099048060454088704"
+      },
+      {
+        "media_key": "3_2099048060487651334"
+      },
+      {
+        "media_key": "3_2099048060651462656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么可爱…？ https://t.co/N9jdHn6ara"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2099048060659826688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFRFwYaAAAw_jh.jpg",
+        "width": 1024
+      },
+      {
+        "height": 473,
+        "media_key": "3_2099048060454088704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFRFvnWsAA60x_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 473,
+        "media_key": "3_2099048060487651334",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFRFvvW0AYMwXZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 473,
+        "media_key": "3_2099048060651462656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFRFwWaYAAT8AW.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099048060659826688",
+            "3_2099048060454088704",
+            "3_2099048060487651334",
+            "3_2099048060651462656"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099048077340430550",
+        "created_at": "2026-09-13T08:10:34.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099048077340430550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9jdHn6ara",
+              "end": 30,
+              "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+              "media_key": "3_2099048060659826688",
+              "start": 7,
+              "url": "https://t.co/N9jdHn6ara"
+            },
+            {
+              "display_url": "pic.x.com/N9jdHn6ara",
+              "end": 30,
+              "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+              "media_key": "3_2099048060454088704",
+              "start": 7,
+              "url": "https://t.co/N9jdHn6ara"
+            },
+            {
+              "display_url": "pic.x.com/N9jdHn6ara",
+              "end": 30,
+              "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+              "media_key": "3_2099048060487651334",
+              "start": 7,
+              "url": "https://t.co/N9jdHn6ara"
+            },
+            {
+              "display_url": "pic.x.com/N9jdHn6ara",
+              "end": 30,
+              "expanded_url": "https://x.com/nixyng246039/status/2099048077340430550/photo/1",
+              "media_key": "3_2099048060651462656",
+              "start": 7,
+              "url": "https://t.co/N9jdHn6ara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099048077340430550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099048060659826688"
+          },
+          {
+            "media_key": "3_2099048060454088704"
+          },
+          {
+            "media_key": "3_2099048060487651334"
+          },
+          {
+            "media_key": "3_2099048060651462656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么可爱…？ https://t.co/N9jdHn6ara"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2099048077340430550",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 792,
+          "like_count": 12374,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

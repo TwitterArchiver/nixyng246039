@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100849875386847545",
+    "created_at": "2026-09-18T16:45:05.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100989498779685059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033502740002000898",
+          "start": 0,
+          "username": "Yuki_asukai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100989498779685059",
+    "in_reply_to_user_id": "2033502740002000898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100849875386847545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_asukai 就个破社团还搞上阶级了我服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100849875386847545",
+        "created_at": "2026-09-18T16:45:05.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100989498779685059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033502740002000898",
+              "start": 0,
+              "username": "Yuki_asukai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100989498779685059",
+        "in_reply_to_user_id": "2033502740002000898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100849875386847545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_asukai 就个破社团还搞上阶级了我服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033502740002000898",
+        "conversation_id": "2100849875386847545",
+        "created_at": "2026-09-18T07:30:16.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100849875386847545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100849875386847545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依稀记得三四年前我进这b大学动漫社面试的时候面试官做了七个人还有压力面我直接怼回去了，妈的最烦这种，官没有一点架子还不小"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100989498779685059",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 818,
+          "like_count": 13042,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T11:16:56.000Z",
+        "description": "＝飞鸟井郁希| enby | 餐券女 | 🎸🎨",
+        "id": "2033502740002000898",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2100957329047114083",
+        "name": "郁希（2.0）",
+        "pinned_tweet_id": "2099710277516398730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033502740002000898/1789223786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 119,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Yuki_asukai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

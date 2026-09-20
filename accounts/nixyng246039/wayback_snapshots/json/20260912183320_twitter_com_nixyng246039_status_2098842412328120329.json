@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2098842412328120329",
+    "created_at": "2026-09-12T18:33:20.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098842412328120329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alouette_zzz/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/alouette_zzz/status/2098578836862669112",
+          "start": 31,
+          "url": "https://t.co/cSbw60gDPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098842412328120329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098578836862669112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吗的自从22年看见那群男的就毁了我一辈子，我现在还在看啊我去 https://t.co/cSbw60gDPf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2098842412328120329",
+        "created_at": "2026-09-12T18:33:20.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098842412328120329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alouette_zzz/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/alouette_zzz/status/2098578836862669112",
+              "start": 31,
+              "url": "https://t.co/cSbw60gDPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098842412328120329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098578836862669112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吗的自从22年看见那群男的就毁了我一辈子，我现在还在看啊我去 https://t.co/cSbw60gDPf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522862031795372032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2098578836862669112",
+        "created_at": "2026-09-12T01:05:59.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098578836862669112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098578836862669112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 128561,
+          "like_count": 2655,
+          "quote_count": 85,
+          "reply_count": 433,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "你再牛逼 没在22年追过彩虹社？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2098842412328120329",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 793,
+          "like_count": 12346,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "｜你总问别人好不好 那你好不好₍˄·͈༝·͈˄*₎◞ ̑̑｜｜°.✩┈⋆⁺幸福请降临在𝓛𝓮𝓿𝓲/左然/顾时夜/保科宗四郎/鸣海弦/SMTR25手中₊⋆┈✩.°｜｜宝宝@wslcdg20｜💚💙🤍🩵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "is_identity_verified": false,
+        "location": "帕拉迪岛",
+        "most_recent_tweet_id": "2098842339758477529",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522862031795372032/1741331170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007425087050248192/vZN1cwT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 420,
+          "like_count": 55963,
+          "listed_count": 4,
+          "media_count": 1330,
+          "tweet_count": 11464
+        },
+        "url": "",
+        "username": "Alouette_zzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

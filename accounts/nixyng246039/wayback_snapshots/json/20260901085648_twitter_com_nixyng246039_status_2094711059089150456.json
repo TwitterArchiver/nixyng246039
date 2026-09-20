@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094439878260039680",
+        "3_2094439898245939200"
+      ],
+      "media_source_tweet_id": [
+        "2094440492033622410",
+        "2094440492033622410"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2094711059089150456",
+    "created_at": "2026-09-01T08:56:48.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094711059089150456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533070324912521217",
+          "start": 3,
+          "username": "whaletaylor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ks8JcpyzeB",
+          "end": 97,
+          "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+          "media_key": "3_2094439878260039680",
+          "start": 74,
+          "url": "https://t.co/ks8JcpyzeB"
+        },
+        {
+          "display_url": "pic.x.com/ks8JcpyzeB",
+          "end": 97,
+          "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+          "media_key": "3_2094439898245939200",
+          "start": 74,
+          "url": "https://t.co/ks8JcpyzeB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094711059089150456",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094439878260039680"
+      },
+      {
+        "media_key": "3_2094439898245939200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094440492033622410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whaletaylor: HappyBirthday!!\nFourth Year!!\n今日はホエール・テイラー記念日だ💜🐋\nバースデー🎁🎂 https://t.co/ks8JcpyzeB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2094439878260039680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDx-PMaIAATggD.jpg",
+        "width": 1170
+      },
+      {
+        "height": 772,
+        "media_key": "3_2094439898245939200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDx_ZpawAAgdG5.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094439878260039680",
+            "3_2094439898245939200"
+          ],
+          "media_source_tweet_id": [
+            "2094440492033622410",
+            "2094440492033622410"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2094711059089150456",
+        "created_at": "2026-09-01T08:56:48.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094711059089150456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533070324912521217",
+              "start": 3,
+              "username": "whaletaylor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks8JcpyzeB",
+              "end": 97,
+              "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+              "media_key": "3_2094439878260039680",
+              "start": 74,
+              "url": "https://t.co/ks8JcpyzeB"
+            },
+            {
+              "display_url": "pic.x.com/ks8JcpyzeB",
+              "end": 97,
+              "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+              "media_key": "3_2094439898245939200",
+              "start": 74,
+              "url": "https://t.co/ks8JcpyzeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094711059089150456",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094439878260039680"
+          },
+          {
+            "media_key": "3_2094439898245939200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094440492033622410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whaletaylor: HappyBirthday!!\nFourth Year!!\n今日はホエール・テイラー記念日だ💜🐋\nバースデー🎁🎂 https://t.co/ks8JcpyzeB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094439878260039680",
+            "3_2094439898245939200"
+          ]
+        },
+        "author_id": "1533070324912521217",
+        "conversation_id": "2094440492033622410",
+        "created_at": "2026-08-31T15:01:40.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094440492033622410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks8JcpyzeB",
+              "end": 80,
+              "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+              "media_key": "3_2094439878260039680",
+              "start": 57,
+              "url": "https://t.co/ks8JcpyzeB"
+            },
+            {
+              "display_url": "pic.x.com/ks8JcpyzeB",
+              "end": 80,
+              "expanded_url": "https://x.com/whaletaylor/status/2094440492033622410/photo/1",
+              "media_key": "3_2094439898245939200",
+              "start": 57,
+              "url": "https://t.co/ks8JcpyzeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094440492033622410",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094439878260039680"
+          },
+          {
+            "media_key": "3_2094439898245939200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 59454,
+          "like_count": 3659,
+          "quote_count": 46,
+          "reply_count": 189,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "HappyBirthday!!\nFourth Year!!\n今日はホエール・テイラー記念日だ💜🐋\nバースデー🎁🎂 https://t.co/ks8JcpyzeB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2094711059089150456",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 735,
+          "like_count": 11312,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 3713
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-04T12:58:22.000Z",
+        "description": "Let's sing yeah! ホエール・テイラー洋楽歌うよ！ Illustrator 吠L様@yowaiinudasi ． live2D 三ツ門様@Mitsukado_S . , #ホエテラ #whaletaylor for fanart🌸 ． https://t.co/9ev2CZfBmF ✉↓↓✉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 92,
+                "tag": "ホエテラ"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "tag": "whaletaylor"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "yowaiinudasi"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Mitsukado_S"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/whaletaylor",
+                "end": 148,
+                "expanded_url": "http://twitch.tv/whaletaylor",
+                "start": 125,
+                "url": "https://t.co/9ev2CZfBmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmkA3…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmkA3ZlbadJFCfR7OnQWM0A/featured",
+                "start": 0,
+                "url": "https://t.co/7RpPKx6Qt0"
+              }
+            ]
+          }
+        },
+        "id": "1533070324912521217",
+        "is_identity_verified": false,
+        "location": "officialwhaletaylor@gmail.com",
+        "most_recent_tweet_id": "2094689385929470027",
+        "name": "Whale Taylor🌸🐋ホエール・テイラー",
+        "pinned_tweet_id": "2080240101129609256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533070324912521217/1663483466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610886162885017600/LkHvGUcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203547,
+          "following_count": 335,
+          "like_count": 9439,
+          "listed_count": 359,
+          "media_count": 1553,
+          "tweet_count": 7141
+        },
+        "url": "https://t.co/7RpPKx6Qt0",
+        "username": "whaletaylor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

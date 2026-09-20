@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100220868488298496"
+      ],
+      "media_source_tweet_id": [
+        "2100220881306013863"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2100394888248357296",
+    "created_at": "2026-09-17T01:22:19.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100394888248357296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038522500452122624",
+          "start": 3,
+          "username": "Goumier45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txZxAZpvr3",
+          "end": 45,
+          "expanded_url": "https://x.com/Goumier45/status/2100220881306013863/video/1",
+          "media_key": "13_2100220868488298496",
+          "start": 22,
+          "url": "https://t.co/txZxAZpvr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100394888248357296",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100220868488298496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100220881306013863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goumier45: 我笑的快炸了 https://t.co/txZxAZpvr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5233,
+        "height": 1280,
+        "media_key": "13_2100220868488298496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100220868488298496/img/XTDeL3kHGEAA9i8Z.jpg",
+        "public_metrics": {
+          "view_count": 15064
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100220868488298496/vid/avc1/320x710/fPegFEYucD2N8lVn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100220868488298496/vid/avc1/480x1066/e5HFLHn4ta1fPMaq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100220868488298496/vid/avc1/576x1280/aHvKN6PpFN0MMuQB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100220868488298496/pl/uDbnJJHt_lF5HSSZ.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100220868488298496"
+          ],
+          "media_source_tweet_id": [
+            "2100220881306013863"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2100394888248357296",
+        "created_at": "2026-09-17T01:22:19.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100394888248357296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038522500452122624",
+              "start": 3,
+              "username": "Goumier45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txZxAZpvr3",
+              "end": 45,
+              "expanded_url": "https://x.com/Goumier45/status/2100220881306013863/video/1",
+              "media_key": "13_2100220868488298496",
+              "start": 22,
+              "url": "https://t.co/txZxAZpvr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100394888248357296",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100220868488298496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100220881306013863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goumier45: 我笑的快炸了 https://t.co/txZxAZpvr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100220868488298496"
+          ]
+        },
+        "author_id": "2038522500452122624",
+        "conversation_id": "2100220881306013863",
+        "created_at": "2026-09-16T13:50:52.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100220881306013863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txZxAZpvr3",
+              "end": 30,
+              "expanded_url": "https://x.com/Goumier45/status/2100220881306013863/video/1",
+              "media_key": "13_2100220868488298496",
+              "start": 7,
+              "url": "https://t.co/txZxAZpvr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100220881306013863",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100220868488298496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 32273,
+          "like_count": 478,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的快炸了 https://t.co/txZxAZpvr3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2100394888248357296",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 816,
+          "like_count": 12929,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 4364
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T07:44:34.000Z",
+        "description": "三桥渡全肯定\n19｜分享听乙女抓日常｜此账号什么都发话很多｜只回关同坑欢迎互关｜纯代入党｜翻译器使用者｜无声关注抱歉",
+        "id": "2038522500452122624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100290824886255735",
+        "name": "杏",
+        "pinned_tweet_id": "2097962653025194364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038522500452122624/1787662551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100052367685324800/LtI9lkU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 102,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1958
+        },
+        "url": "",
+        "username": "Goumier45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

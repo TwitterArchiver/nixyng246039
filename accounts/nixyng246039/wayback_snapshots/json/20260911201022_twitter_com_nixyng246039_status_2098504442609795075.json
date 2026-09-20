@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2098504442609795075",
+    "created_at": "2026-09-11T20:10:22.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098504442609795075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2079782772605169664",
+          "start": 3,
+          "username": "Xuankatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098504442609795075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097943978499092654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuankatc: 想象一下我是你学生 每天早上八点钟准时到教室打开vpn刷推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2098504442609795075",
+        "created_at": "2026-09-11T20:10:22.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098504442609795075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2079782772605169664",
+              "start": 3,
+              "username": "Xuankatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098504442609795075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097943978499092654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuankatc: 想象一下我是你学生 每天早上八点钟准时到教室打开vpn刷推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079782772605169664",
+        "conversation_id": "2097943978499092654",
+        "created_at": "2026-09-10T07:03:17.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097943978499092654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097943978499092654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 96173,
+          "like_count": 1974,
+          "quote_count": 16,
+          "reply_count": 519,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你学生 每天早上八点钟准时到教室打开vpn刷推"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2098504442609795075",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 787,
+          "like_count": 12224,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T04:18:02.000Z",
+        "description": "瞎发的 只回喜欢的",
+        "id": "2079782772605169664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098460287464812974",
+        "name": "Xuan",
+        "pinned_tweet_id": "2097363657378406536",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097634887557890048/RhUa1jRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 7,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Xuankatc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

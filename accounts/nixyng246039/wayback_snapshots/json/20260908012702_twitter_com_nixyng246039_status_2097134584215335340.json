@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2097112672441712856",
+    "created_at": "2026-09-08T01:27:02.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T02:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097134584215335340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971027114582474752",
+          "start": 0,
+          "username": "Kanataqqq0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097134584215335340",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097112672441712856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanataqqq0221 卧槽怎么做到的不化妆都这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097112651696623616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpw2IJa0AAJSe8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097112651713466368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpw2INb0AAB3_l.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2097112672441712856",
+        "created_at": "2026-09-08T01:27:02.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097134584215335340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097134584215335340",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097112672441712856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 卧槽怎么做到的不化妆都这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097112651696623616",
+            "3_2097112651713466368"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2097112672441712856",
+        "created_at": "2026-09-07T23:59:58.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097112672441712856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xm10582YkJ",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2097112672441712856/photo/1",
+              "media_key": "3_2097112651696623616",
+              "start": 18,
+              "url": "https://t.co/Xm10582YkJ"
+            },
+            {
+              "display_url": "pic.x.com/Xm10582YkJ",
+              "end": 41,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2097112672441712856/photo/1",
+              "media_key": "3_2097112651713466368",
+              "start": 18,
+              "url": "https://t.co/Xm10582YkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097112672441712856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097112651696623616"
+          },
+          {
+            "media_key": "3_2097112651713466368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "展示数值（？）\n是试衣所以没有化妆 https://t.co/Xm10582YkJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2097134584215335340",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 763,
+          "like_count": 11815,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2097112672441712856",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096871165663072256/aNvmorVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 400,
+          "like_count": 3348,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 2521
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

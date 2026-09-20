@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2094711998978171274",
+    "created_at": "2026-09-02T09:43:45.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095085261482868754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530832862093594624",
+          "start": 0,
+          "username": "whwzfyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095085261482868754",
+    "in_reply_to_user_id": "1530832862093594624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094796424617820485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whwzfyl 那你就是404"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2094711998978171274",
+        "created_at": "2026-09-02T09:43:45.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095085261482868754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530832862093594624",
+              "start": 0,
+              "username": "whwzfyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095085261482868754",
+        "in_reply_to_user_id": "1530832862093594624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094796424617820485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whwzfyl 那你就是404"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "conversation_id": "2094711998978171274",
+        "created_at": "2026-09-01T14:36:01.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094796424617820485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094796424617820485",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094711998978171274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 101"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2095085261482868754",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 742,
+          "like_count": 11476,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 3805
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "绝对忠诚，精干内行",
+        "id": "1530832862093594624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095036531387859169",
+        "name": "平田一郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530832862093594624/1788102481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094931111315226624/4sdmjD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 231,
+          "like_count": 17912,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 5220
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

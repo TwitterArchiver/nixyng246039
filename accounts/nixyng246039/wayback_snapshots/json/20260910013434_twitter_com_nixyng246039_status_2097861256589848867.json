@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2097861256589848867",
+    "created_at": "2026-09-10T01:34:34.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097861256589848867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987561311438610432",
+          "start": 3,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097861256589848867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097762386778395032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xrwi238646: 好多互关号都被冻结了。有没有爱发碎碎念的萌物再来互fo一下，来点活人感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2097861256589848867",
+        "created_at": "2026-09-10T01:34:34.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097861256589848867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987561311438610432",
+              "start": 3,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097861256589848867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097762386778395032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xrwi238646: 好多互关号都被冻结了。有没有爱发碎碎念的萌物再来互fo一下，来点活人感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2097762386778395032",
+        "created_at": "2026-09-09T19:01:42.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097762386778395032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097762386778395032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好多互关号都被冻结了。有没有爱发碎碎念的萌物再来互fo一下，来点活人感。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2097861256589848867",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 774,
+          "like_count": 12073,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo（请私信）｜互fo会查主页成分。｜很多废话吵到你们报意丝。｜不是男同😡\n176 目前64.7kg，健身中……（仅拍照记录）\n低精力小猪。 小小猪：@yzovoc7（小号不回fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "yzovoc7"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2097762386778395032",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2061397921841791468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987561311438610432/1771056475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 197,
+          "like_count": 5646,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 2607
+        },
+        "url": "",
+        "username": "xrwi238646",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
