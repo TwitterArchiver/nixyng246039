@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2106234305647407272",
+    "created_at": "2026-10-03T06:26:31.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106269648396455992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106269648396455992",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106234305647407272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 这种人脑子不正常吧，我就喜欢你这种可爱的小宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2106234305647407272",
+        "created_at": "2026-10-03T06:26:31.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106269648396455992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106269648396455992",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106234305647407272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 这种人脑子不正常吧，我就喜欢你这种可爱的小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404997135360270343",
+        "conversation_id": "2106234305647407272",
+        "created_at": "2026-10-03T04:06:05.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106234305647407272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106234305647407272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前只是发了一条说会不会有人在意好奇我的事情……居然有人评论你是谁啊为什么要在意你(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)我不是谁啊我只是自言自语，为什么我会觉得被这种话攻击到呢我好难过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2106269648396455992",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 857,
+          "like_count": 14144,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ ┆碎碎念記錄合集┆中文En OK┆音游、繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆拒建政 查成分回fo\nサブ垢@yuk1_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "yuk1_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "is_identity_verified": false,
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "most_recent_tweet_id": "2106234758778982444",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2104780234759471250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404997135360270343/1726210286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 461,
+          "like_count": 7353,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 3058
+        },
+        "url": "",
+        "username": "_yukinaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

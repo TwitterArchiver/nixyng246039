@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103321178861694978"
+      ],
+      "media_source_tweet_id": [
+        "2103333680051519927"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2103974986549805550",
+    "created_at": "2026-09-26T22:28:21.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103974986549805550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9utVYBZnu",
+          "end": 72,
+          "expanded_url": "https://x.com/bigjusir/status/2103333680051519927/photo/1",
+          "media_key": "3_2103321178861694978",
+          "start": 49,
+          "url": "https://t.co/J9utVYBZnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103974986549805550",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103321178861694978"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103333680051519927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigjusir: 刘大根发现，总是有人跟着自己，但自己一上公交车，那些人就都自动消失了 https://t.co/J9utVYBZnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2103321178861694978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTB_d-KbcAIuHfz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103321178861694978"
+          ],
+          "media_source_tweet_id": [
+            "2103333680051519927"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2103974986549805550",
+        "created_at": "2026-09-26T22:28:21.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103974986549805550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9utVYBZnu",
+              "end": 72,
+              "expanded_url": "https://x.com/bigjusir/status/2103333680051519927/photo/1",
+              "media_key": "3_2103321178861694978",
+              "start": 49,
+              "url": "https://t.co/J9utVYBZnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103974986549805550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103321178861694978"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103333680051519927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigjusir: 刘大根发现，总是有人跟着自己，但自己一上公交车，那些人就都自动消失了 https://t.co/J9utVYBZnu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103321178861694978"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2103333680051519927",
+        "created_at": "2026-09-25T04:00:02.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103333680051519927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9utVYBZnu",
+              "end": 58,
+              "expanded_url": "https://x.com/bigjusir/status/2103333680051519927/photo/1",
+              "media_key": "3_2103321178861694978",
+              "start": 35,
+              "url": "https://t.co/J9utVYBZnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103333680051519927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103321178861694978"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 757578,
+          "like_count": 8674,
+          "quote_count": 3,
+          "reply_count": 140,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "刘大根发现，总是有人跟着自己，但自己一上公交车，那些人就都自动消失了 https://t.co/J9utVYBZnu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103974986549805550",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 822,
+          "like_count": 13316,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 4556
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103801931840065981",
+        "name": "jusir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 4325,
+          "like_count": 10264,
+          "listed_count": 19,
+          "media_count": 1389,
+          "tweet_count": 5498
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

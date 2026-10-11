@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2102716236866232454",
+    "created_at": "2026-09-24T00:08:47.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102913099003203730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "mykfc6657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102913099003203730",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102716236866232454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mykfc6657 恭喜斑鸠，给你抓点虫子吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102716222202900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5ZQ2_a8AAI4DH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2102716236866232454",
+        "created_at": "2026-09-24T00:08:47.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102913099003203730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "mykfc6657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102913099003203730",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102716236866232454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mykfc6657 恭喜斑鸠，给你抓点虫子吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102716222202900480"
+          ]
+        },
+        "author_id": "1547081573962375170",
+        "conversation_id": "2102716236866232454",
+        "created_at": "2026-09-23T11:06:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102716236866232454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdjbTgxZtY",
+              "end": 34,
+              "expanded_url": "https://x.com/mykfc6657/status/2102716236866232454/photo/1",
+              "media_key": "3_2102716222202900480",
+              "start": 11,
+              "url": "https://t.co/UdjbTgxZtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102716236866232454",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102716222202900480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此斑鸠600fo了！ https://t.co/UdjbTgxZtY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2102913099003203730",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 819,
+          "like_count": 13208,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4500
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "我是珠颈斑鸠\n天蝎 enfp 男生\n异次元同位体：@woaimdl123\n匿名提问：https://t.co/5WKo4vlS0p\n个人网站👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "woaimdl123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/birds51127",
+                "end": 65,
+                "expanded_url": "https://ngl.link/birds51127",
+                "start": 42,
+                "url": "https://t.co/5WKo4vlS0p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "222-803.pages.dev",
+                "end": 23,
+                "expanded_url": "https://222-803.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/XghSZrj0bV"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "幻想",
+        "most_recent_tweet_id": "2102911384736653642",
+        "name": "珠颈斑鸠",
+        "pinned_tweet_id": "2102182181762437399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1790004595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088167671196229632/1-KzKltk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 392,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/XghSZrj0bV",
+        "username": "mykfc6657",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

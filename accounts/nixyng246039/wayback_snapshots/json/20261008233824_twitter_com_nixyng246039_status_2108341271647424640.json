@@ -1,0 +1,646 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107944815510102016"
+      ],
+      "media_source_tweet_id": [
+        "2107944874398105785"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2108341271647424640",
+    "created_at": "2026-10-08T23:38:24.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T00:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108341271647424640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 36,
+          "tag": "ResidentEvil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1086254427634163714",
+          "start": 3,
+          "username": "bbbeard3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fAy7m4XtfH",
+          "end": 73,
+          "expanded_url": "https://x.com/bbbeard3/status/2107944874398105785/video/1",
+          "media_key": "13_2107944815510102016",
+          "start": 50,
+          "url": "https://t.co/fAy7m4XtfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108341271647424640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107944815510102016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6737
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107944874398105785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbbeard3: touch👉✋no touch\n观影时迷思\n#ResidentEvil https://t.co/fAy7m4XtfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13467,
+        "height": 720,
+        "media_key": "13_2107944815510102016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107944815510102016/img/qhE68KEyToThTEg6.jpg",
+        "public_metrics": {
+          "view_count": 256984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107944815510102016/vid/avc1/320x320/ZNl7FlkFcryDD_ce.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107944815510102016/vid/avc1/540x540/SmrbP2Bf71HLumfE.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107944815510102016/vid/avc1/720x720/ahqwEqwqoHF0YFB7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107944815510102016/pl/l4gdAOzPmpTfVluM.m3u8?v=04b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107944815510102016"
+          ],
+          "media_source_tweet_id": [
+            "2107944874398105785"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2108341271647424640",
+        "created_at": "2026-10-08T23:38:24.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108341271647424640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 36,
+              "tag": "ResidentEvil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1086254427634163714",
+              "start": 3,
+              "username": "bbbeard3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAy7m4XtfH",
+              "end": 73,
+              "expanded_url": "https://x.com/bbbeard3/status/2107944874398105785/video/1",
+              "media_key": "13_2107944815510102016",
+              "start": 50,
+              "url": "https://t.co/fAy7m4XtfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108341271647424640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107944815510102016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6737
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107944874398105785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbbeard3: touch👉✋no touch\n观影时迷思\n#ResidentEvil https://t.co/fAy7m4XtfH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107944815510102016"
+          ]
+        },
+        "author_id": "1086254427634163714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2107944874398105785",
+        "created_at": "2026-10-07T21:23:16.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T22:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107944874398105785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 22,
+              "tag": "ResidentEvil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAy7m4XtfH",
+              "end": 59,
+              "expanded_url": "https://x.com/bbbeard3/status/2107944874398105785/video/1",
+              "media_key": "13_2107944815510102016",
+              "start": 36,
+              "url": "https://t.co/fAy7m4XtfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107944874398105785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107944815510102016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5370,
+          "impression_count": 444641,
+          "like_count": 47579,
+          "quote_count": 106,
+          "reply_count": 53,
+          "retweet_count": 6737
+        },
+        "reply_settings": "everyone",
+        "text": "touch👉✋no touch\n观影时迷思\n#ResidentEvil https://t.co/fAy7m4XtfH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2108341271647424640",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 876,
+          "like_count": 14552,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-18T13:30:11.000Z",
+        "description": "artist/animator, speak Chinese/English\nI create works about Cute/Gore/Adult🤓☝️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCr1Sc…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCr1SclqzqEK4QBrHIeXpHkA",
+                "start": 0,
+                "url": "https://t.co/bcNn98jpOE"
+              }
+            ]
+          }
+        },
+        "id": "1086254427634163714",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107944874398105785",
+        "name": "冲刺小糊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086254427634163714/1650742078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517945909216120832/Q-X3sKZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7864,
+          "following_count": 1078,
+          "like_count": 4804,
+          "listed_count": 24,
+          "media_count": 648,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/bcNn98jpOE",
+        "username": "bbbeard3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

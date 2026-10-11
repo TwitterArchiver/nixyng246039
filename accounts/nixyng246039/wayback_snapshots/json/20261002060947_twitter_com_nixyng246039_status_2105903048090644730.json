@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994819307621302274",
+        "3_1994819383320088577"
+      ],
+      "media_source_tweet_id": [
+        "1994819652594405881",
+        "1994819652594405881"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2105903048090644730",
+    "created_at": "2026-10-02T06:09:47.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105903048090644730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1213155143799033856",
+          "start": 3,
+          "username": "gommotheworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7bLkkSFK2",
+          "end": 52,
+          "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+          "media_key": "3_1994819307621302274",
+          "start": 29,
+          "url": "https://t.co/r7bLkkSFK2"
+        },
+        {
+          "display_url": "pic.x.com/r7bLkkSFK2",
+          "end": 52,
+          "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+          "media_key": "3_1994819383320088577",
+          "start": 29,
+          "url": "https://t.co/r7bLkkSFK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105903048090644730",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_1994819307621302274"
+      },
+      {
+        "media_key": "3_1994819383320088577"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994819652594405881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gommotheworld: 뭋냠움 ...AU https://t.co/r7bLkkSFK2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_1994819307621302274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68Fl13bwAIR1Ia.jpg",
+        "width": 1713
+      },
+      {
+        "height": 1628,
+        "media_key": "3_1994819383320088577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68FqP3bkAETQYE.jpg",
+        "width": 2083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994819307621302274",
+            "3_1994819383320088577"
+          ],
+          "media_source_tweet_id": [
+            "1994819652594405881",
+            "1994819652594405881"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2105903048090644730",
+        "created_at": "2026-10-02T06:09:47.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105903048090644730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1213155143799033856",
+              "start": 3,
+              "username": "gommotheworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7bLkkSFK2",
+              "end": 52,
+              "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+              "media_key": "3_1994819307621302274",
+              "start": 29,
+              "url": "https://t.co/r7bLkkSFK2"
+            },
+            {
+              "display_url": "pic.x.com/r7bLkkSFK2",
+              "end": 52,
+              "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+              "media_key": "3_1994819383320088577",
+              "start": 29,
+              "url": "https://t.co/r7bLkkSFK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105903048090644730",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_1994819307621302274"
+          },
+          {
+            "media_key": "3_1994819383320088577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994819652594405881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gommotheworld: 뭋냠움 ...AU https://t.co/r7bLkkSFK2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994819307621302274",
+            "3_1994819383320088577"
+          ]
+        },
+        "author_id": "1213155143799033856",
+        "conversation_id": "1994819652594405881",
+        "created_at": "2025-11-29T17:24:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994819652594405881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7bLkkSFK2",
+              "end": 33,
+              "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+              "media_key": "3_1994819307621302274",
+              "start": 10,
+              "url": "https://t.co/r7bLkkSFK2"
+            },
+            {
+              "display_url": "pic.x.com/r7bLkkSFK2",
+              "end": 33,
+              "expanded_url": "https://x.com/gommotheworld/status/1994819652594405881/photo/1",
+              "media_key": "3_1994819383320088577",
+              "start": 10,
+              "url": "https://t.co/r7bLkkSFK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994819652594405881",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_1994819307621302274"
+          },
+          {
+            "media_key": "3_1994819383320088577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 49762,
+          "like_count": 1068,
+          "quote_count": 63,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "뭋냠움 ...AU https://t.co/r7bLkkSFK2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2105903048090644730",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 848,
+          "like_count": 13950,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 4732
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-03T17:48:30.000Z",
+        "description": "",
+        "id": "1213155143799033856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105886447786135700",
+        "name": "부시모의 개",
+        "pinned_tweet_id": "2102691979582984315",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213155143799033856/1736590102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929957493947674627/M-BQpedd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 240,
+          "like_count": 49372,
+          "listed_count": 18,
+          "media_count": 2985,
+          "tweet_count": 68795
+        },
+        "url": "",
+        "username": "gommotheworld",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

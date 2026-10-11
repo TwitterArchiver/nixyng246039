@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104477819883671552",
+        "3_2104477819862691840"
+      ],
+      "media_source_tweet_id": [
+        "2104477824749064638",
+        "2104477824749064638"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2104670635410743398",
+    "created_at": "2026-09-28T20:32:37.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104670635410743398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974678622222069760",
+          "start": 3,
+          "username": "kb_dn_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C2aEMEiHYl",
+          "end": 50,
+          "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+          "media_key": "3_2104477819883671552",
+          "start": 27,
+          "url": "https://t.co/C2aEMEiHYl"
+        },
+        {
+          "display_url": "pic.x.com/C2aEMEiHYl",
+          "end": 50,
+          "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+          "media_key": "3_2104477819862691840",
+          "start": 27,
+          "url": "https://t.co/C2aEMEiHYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104670635410743398",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104477819883671552"
+      },
+      {
+        "media_key": "3_2104477819862691840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 966
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104477824749064638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kb_dn_: こういう人外百合、よくない？ https://t.co/C2aEMEiHYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104477819883671552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSbbVva0AAO7at.jpg",
+        "width": 1744
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104477819862691840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSbbVqasAAeurY.jpg",
+        "width": 1743
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104477819883671552",
+            "3_2104477819862691840"
+          ],
+          "media_source_tweet_id": [
+            "2104477824749064638",
+            "2104477824749064638"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2104670635410743398",
+        "created_at": "2026-09-28T20:32:37.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104670635410743398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974678622222069760",
+              "start": 3,
+              "username": "kb_dn_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2aEMEiHYl",
+              "end": 50,
+              "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+              "media_key": "3_2104477819883671552",
+              "start": 27,
+              "url": "https://t.co/C2aEMEiHYl"
+            },
+            {
+              "display_url": "pic.x.com/C2aEMEiHYl",
+              "end": 50,
+              "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+              "media_key": "3_2104477819862691840",
+              "start": 27,
+              "url": "https://t.co/C2aEMEiHYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104670635410743398",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104477819883671552"
+          },
+          {
+            "media_key": "3_2104477819862691840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 966
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104477824749064638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kb_dn_: こういう人外百合、よくない？ https://t.co/C2aEMEiHYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104477819883671552",
+            "3_2104477819862691840"
+          ]
+        },
+        "author_id": "1974678622222069760",
+        "conversation_id": "2104477824749064638",
+        "created_at": "2026-09-28T07:46:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104477824749064638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2aEMEiHYl",
+              "end": 38,
+              "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+              "media_key": "3_2104477819883671552",
+              "start": 15,
+              "url": "https://t.co/C2aEMEiHYl"
+            },
+            {
+              "display_url": "pic.x.com/C2aEMEiHYl",
+              "end": 38,
+              "expanded_url": "https://x.com/kb_dn_/status/2104477824749064638/photo/1",
+              "media_key": "3_2104477819862691840",
+              "start": 15,
+              "url": "https://t.co/C2aEMEiHYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104477824749064638",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104477819883671552"
+          },
+          {
+            "media_key": "3_2104477819862691840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1797,
+          "impression_count": 436427,
+          "like_count": 19766,
+          "quote_count": 71,
+          "reply_count": 22,
+          "retweet_count": 966
+        },
+        "reply_settings": "everyone",
+        "text": "こういう人外百合、よくない？ https://t.co/C2aEMEiHYl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2104670635410743398",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 825,
+          "like_count": 13437,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 4591
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T03:30:54.000Z",
+        "description": "創作百合 よく喋りよくツイ消しします #チソポアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "チソポアート"
+              }
+            ]
+          }
+        },
+        "id": "1974678622222069760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104648701507740154",
+        "name": "えと",
+        "pinned_tweet_id": "2056666297895911445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974678622222069760/1784606915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085255149522722816/upd-0CJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60202,
+          "following_count": 51,
+          "like_count": 1709,
+          "listed_count": 100,
+          "media_count": 82,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "kb_dn_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

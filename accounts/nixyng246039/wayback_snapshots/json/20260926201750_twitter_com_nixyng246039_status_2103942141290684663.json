@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2103942141290684663",
+    "created_at": "2026-09-26T20:17:50.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T21:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103942141290684663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hashi_988/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hashi_988/status/2103630205965439215",
+          "start": 13,
+          "url": "https://t.co/hN8SGdsSDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103942141290684663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103630205965439215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来关注这个可怜的女孩… https://t.co/hN8SGdsSDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103630138596564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGYdy3aoAAwgeL.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103630162025975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGYfKJbEAAWFK1.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3866,
+        "media_key": "3_2103630180254400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGYgODawAAE-NG.jpg",
+        "width": 3073
+      },
+      {
+        "height": 493,
+        "media_key": "3_2103630199749500928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGYhWraYAAYhri.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2103942141290684663",
+        "created_at": "2026-09-26T20:17:50.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103942141290684663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hashi_988/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hashi_988/status/2103630205965439215",
+              "start": 13,
+              "url": "https://t.co/hN8SGdsSDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103942141290684663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103630205965439215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来关注这个可怜的女孩… https://t.co/hN8SGdsSDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103630138596564992",
+            "3_2103630162025975808",
+            "3_2103630180254400512",
+            "3_2103630199749500928"
+          ]
+        },
+        "author_id": "2082181614822735872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2103630205965439215",
+        "created_at": "2026-09-25T23:38:19.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103630205965439215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1964331185590718464",
+              "start": 61,
+              "username": "breakcoreWTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tpv9nf5Gm",
+              "end": 118,
+              "expanded_url": "https://x.com/Hashi_988/status/2103630205965439215/photo/1",
+              "media_key": "3_2103630138596564992",
+              "start": 95,
+              "url": "https://t.co/3tpv9nf5Gm"
+            },
+            {
+              "display_url": "pic.x.com/3tpv9nf5Gm",
+              "end": 118,
+              "expanded_url": "https://x.com/Hashi_988/status/2103630205965439215/photo/1",
+              "media_key": "3_2103630162025975808",
+              "start": 95,
+              "url": "https://t.co/3tpv9nf5Gm"
+            },
+            {
+              "display_url": "pic.x.com/3tpv9nf5Gm",
+              "end": 118,
+              "expanded_url": "https://x.com/Hashi_988/status/2103630205965439215/photo/1",
+              "media_key": "3_2103630180254400512",
+              "start": 95,
+              "url": "https://t.co/3tpv9nf5Gm"
+            },
+            {
+              "display_url": "pic.x.com/3tpv9nf5Gm",
+              "end": 118,
+              "expanded_url": "https://x.com/Hashi_988/status/2103630205965439215/photo/1",
+              "media_key": "3_2103630199749500928",
+              "start": 95,
+              "url": "https://t.co/3tpv9nf5Gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103630205965439215",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103630138596564992"
+          },
+          {
+            "media_key": "3_2103630162025975808"
+          },
+          {
+            "media_key": "3_2103630180254400512"
+          },
+          {
+            "media_key": "3_2103630199749500928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2932,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是筷子(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n大号1.7kfo @Breakcorewtf 已坠机…\np4是本体！求转想和同类互关 https://t.co/3tpv9nf5Gm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103942141290684663",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 821,
+          "like_count": 13263,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T19:11:27.000Z",
+        "description": "Never see me again\n本垢→@breakcoreWTF 1k7fo已坠机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "breakcoreWTF"
+              }
+            ]
+          }
+        },
+        "id": "2082181614822735872",
+        "is_identity_verified": false,
+        "location": "(:3っ )っ",
+        "most_recent_tweet_id": "2103856444223406434",
+        "name": "箸#二世",
+        "pinned_tweet_id": "2103630205965439215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082181614822735872/1788643934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103631233871945728/hUrp2kTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 162,
+          "like_count": 6638,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1331
+        },
+        "url": "",
+        "username": "Hashi_988",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

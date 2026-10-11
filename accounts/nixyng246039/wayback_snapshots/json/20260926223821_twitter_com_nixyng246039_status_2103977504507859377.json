@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103694973036343296",
+        "3_2103694972990173184"
+      ],
+      "media_source_tweet_id": [
+        "2103694982758760504",
+        "2103694982758760504"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2103977504507859377",
+    "created_at": "2026-09-26T22:38:21.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103977504507859377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521542833072660484",
+          "start": 3,
+          "username": "yuric_ori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGV16MQH9p",
+          "end": 60,
+          "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+          "media_key": "3_2103694973036343296",
+          "start": 37,
+          "url": "https://t.co/EGV16MQH9p"
+        },
+        {
+          "display_url": "pic.x.com/EGV16MQH9p",
+          "end": 60,
+          "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+          "media_key": "3_2103694972990173184",
+          "start": 37,
+          "url": "https://t.co/EGV16MQH9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103977504507859377",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103694973036343296"
+      },
+      {
+        "media_key": "3_2103694972990173184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103694982758760504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuric_ori: 新版大头儿子别的不说 感觉台球技术直线上升 https://t.co/EGV16MQH9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2103694973036343296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHTbp-bMAAVKPN.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1155,
+        "media_key": "3_2103694972990173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHTbpzasAAcbIj.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103694973036343296",
+            "3_2103694972990173184"
+          ],
+          "media_source_tweet_id": [
+            "2103694982758760504",
+            "2103694982758760504"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2103977504507859377",
+        "created_at": "2026-09-26T22:38:21.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103977504507859377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521542833072660484",
+              "start": 3,
+              "username": "yuric_ori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGV16MQH9p",
+              "end": 60,
+              "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+              "media_key": "3_2103694973036343296",
+              "start": 37,
+              "url": "https://t.co/EGV16MQH9p"
+            },
+            {
+              "display_url": "pic.x.com/EGV16MQH9p",
+              "end": 60,
+              "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+              "media_key": "3_2103694972990173184",
+              "start": 37,
+              "url": "https://t.co/EGV16MQH9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103977504507859377",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103694973036343296"
+          },
+          {
+            "media_key": "3_2103694972990173184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103694982758760504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuric_ori: 新版大头儿子别的不说 感觉台球技术直线上升 https://t.co/EGV16MQH9p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103694973036343296",
+            "3_2103694972990173184"
+          ]
+        },
+        "author_id": "1521542833072660484",
+        "conversation_id": "2103694982758760504",
+        "created_at": "2026-09-26T03:55:43.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103694982758760504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGV16MQH9p",
+              "end": 45,
+              "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+              "media_key": "3_2103694973036343296",
+              "start": 22,
+              "url": "https://t.co/EGV16MQH9p"
+            },
+            {
+              "display_url": "pic.x.com/EGV16MQH9p",
+              "end": 45,
+              "expanded_url": "https://x.com/yuric_ori/status/2103694982758760504/photo/1",
+              "media_key": "3_2103694972990173184",
+              "start": 22,
+              "url": "https://t.co/EGV16MQH9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103694982758760504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103694973036343296"
+          },
+          {
+            "media_key": "3_2103694972990173184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 57504,
+          "like_count": 1008,
+          "quote_count": 6,
+          "reply_count": 73,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "新版大头儿子别的不说 感觉台球技术直线上升 https://t.co/EGV16MQH9p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103977504507859377",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 822,
+          "like_count": 13332,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 4560
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-03T17:31:11.000Z",
+        "description": "沃叫欲礼 | 梗图趣事 | 文案收集者 | fufu死忠粉 |",
+        "id": "1521542833072660484",
+        "is_identity_verified": false,
+        "location": "地球Online",
+        "most_recent_tweet_id": "2103915328321589388",
+        "name": "欲礼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521542833072660484/1788852171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098271914645164032/eaw5aYid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 941,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "yuric_ori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

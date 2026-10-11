@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2108505283991310399",
+    "created_at": "2026-10-09T10:30:08.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T11:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108505283991310399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 73,
+          "id": "1720665183188922368",
+          "start": 68,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/msksml2000/sta…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/msksml2000/status/2108494766866645038",
+          "start": 74,
+          "url": "https://t.co/FmPRqM8jc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108505283991310399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108494766866645038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抛开我的身份 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/FmPRqM8jc1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2108505283991310399",
+        "created_at": "2026-10-09T10:30:08.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108505283991310399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1720665183188922368",
+              "start": 68,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/msksml2000/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/msksml2000/status/2108494766866645038",
+              "start": 74,
+              "url": "https://t.co/FmPRqM8jc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108505283991310399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108494766866645038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的身份 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/FmPRqM8jc1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021385985612001280",
+        "conversation_id": "2108494766866645038",
+        "created_at": "2026-10-09T09:48:21.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108494766866645038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1720665183188922368",
+              "start": 68,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/KarBwk5251/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/KarBwk5251/status/2108462294963466516",
+              "start": 74,
+              "url": "https://t.co/2JItT9OyZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108494766866645038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108462294963466516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的身份 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/2JItT9OyZt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2108505283991310399",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 878,
+          "like_count": 14648,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 5053
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T00:49:25.000Z",
+        "description": "梦想是和所有人成为朋友！！！！\n“你可听到人们在唱愤怒的人群歌声嘹亮……”",
+        "id": "2021385985612001280",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2108501052693864644",
+        "name": "偷面包的米格鲁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021385985612001280/1770771337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 874,
+          "like_count": 6754,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3718
+        },
+        "url": "",
+        "username": "msksml2000",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108505299728421104",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9152618,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7780,
+          "media_count": 3994742,
+          "tweet_count": 139835608
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

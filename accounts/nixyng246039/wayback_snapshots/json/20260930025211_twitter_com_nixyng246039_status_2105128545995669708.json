@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2105128545995669708",
+    "created_at": "2026-09-30T02:52:11.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105128545995669708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066164606213795840",
+          "start": 3,
+          "username": "HelloLLQuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105128545995669708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104868947552284871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HelloLLQuQ: 抖上：中味/这是好女孩/脖子吃醋了/你永远是中国人/嗑药磕的/最怕这种/可是我真的喜欢这种啊/乐乐/怎么加入这个群体/现在割手已经不流行了/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2105128545995669708",
+        "created_at": "2026-09-30T02:52:11.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105128545995669708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066164606213795840",
+              "start": 3,
+              "username": "HelloLLQuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105128545995669708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104868947552284871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HelloLLQuQ: 抖上：中味/这是好女孩/脖子吃醋了/你永远是中国人/嗑药磕的/最怕这种/可是我真的喜欢这种啊/乐乐/怎么加入这个群体/现在割手已经不流行了/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066164606213795840",
+        "conversation_id": "2104868947552284871",
+        "created_at": "2026-09-29T09:40:38.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104868947552284871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104868947552284871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8070,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "抖上：中味/这是好女孩/脖子吃醋了/你永远是中国人/嗑药磕的/最怕这种/可是我真的喜欢这种啊/乐乐/怎么加入这个群体/现在割手已经不流行了/"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2105128545995669708",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 836,
+          "like_count": 13773,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 4678
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "透明画师-我会在这里补档我的画和发一些日常👉小红书指路：https://t.co/0VgJvwf8qZ防止被炸备用机@fdl2000513\n需要回关请私信我（我怕打扰到你）\n向我提问👉 https://t.co/TJeeFih2YN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "fdl2000513"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG/",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG/",
+                "start": 28,
+                "url": "https://t.co/0VgJvwf8qZ"
+              },
+              {
+                "display_url": "ngl.link/%E7%BD%91%E7%B…",
+                "end": 116,
+                "expanded_url": "https://ngl.link/%E7%BD%91%E7%BB%9C%E4%BA%BA%E6%9C%BA",
+                "start": 93,
+                "url": "https://t.co/TJeeFih2YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104903374865039494",
+        "name": "网络人机",
+        "pinned_tweet_id": "2092593900657725654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 71,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

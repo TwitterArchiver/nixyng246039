@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103873886622511104",
+        "3_2103873886622552064",
+        "3_2103873886630895618",
+        "3_2103873886635126784"
+      ],
+      "media_source_tweet_id": [
+        "2103873896038703480",
+        "2103873896038703480",
+        "2103873896038703480",
+        "2103873896038703480"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2103970060637503644",
+    "created_at": "2026-09-26T22:08:46.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103970060637503644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "900298800601878528",
+          "start": 3,
+          "username": "NE2OP_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0IoCuRWY4n",
+          "end": 43,
+          "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+          "media_key": "3_2103873886622511104",
+          "start": 20,
+          "url": "https://t.co/0IoCuRWY4n"
+        },
+        {
+          "display_url": "pic.x.com/0IoCuRWY4n",
+          "end": 43,
+          "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+          "media_key": "3_2103873886622552064",
+          "start": 20,
+          "url": "https://t.co/0IoCuRWY4n"
+        },
+        {
+          "display_url": "pic.x.com/0IoCuRWY4n",
+          "end": 43,
+          "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+          "media_key": "3_2103873886630895618",
+          "start": 20,
+          "url": "https://t.co/0IoCuRWY4n"
+        },
+        {
+          "display_url": "pic.x.com/0IoCuRWY4n",
+          "end": 43,
+          "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+          "media_key": "3_2103873886635126784",
+          "start": 20,
+          "url": "https://t.co/0IoCuRWY4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103970060637503644",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103873886622511104"
+      },
+      {
+        "media_key": "3_2103873886622552064"
+      },
+      {
+        "media_key": "3_2103873886630895618"
+      },
+      {
+        "media_key": "3_2103873886635126784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103873896038703480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NE2OP_: 天呐…夫君…… https://t.co/0IoCuRWY4n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3772,
+        "media_key": "3_2103873886622511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ2JzBa8AAfyiT.jpg",
+        "width": 3352
+      },
+      {
+        "height": 3772,
+        "media_key": "3_2103873886622552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ2JzBbkAAUrla.jpg",
+        "width": 3352
+      },
+      {
+        "height": 3772,
+        "media_key": "3_2103873886630895618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ2JzDa4AI4Qj-.jpg",
+        "width": 3352
+      },
+      {
+        "height": 3772,
+        "media_key": "3_2103873886635126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ2JzEbcAA07GV.jpg",
+        "width": 3352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103873886622511104",
+            "3_2103873886622552064",
+            "3_2103873886630895618",
+            "3_2103873886635126784"
+          ],
+          "media_source_tweet_id": [
+            "2103873896038703480",
+            "2103873896038703480",
+            "2103873896038703480",
+            "2103873896038703480"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2103970060637503644",
+        "created_at": "2026-09-26T22:08:46.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103970060637503644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "900298800601878528",
+              "start": 3,
+              "username": "NE2OP_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 43,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886622511104",
+              "start": 20,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 43,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886622552064",
+              "start": 20,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 43,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886630895618",
+              "start": 20,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 43,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886635126784",
+              "start": 20,
+              "url": "https://t.co/0IoCuRWY4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103970060637503644",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103873886622511104"
+          },
+          {
+            "media_key": "3_2103873886622552064"
+          },
+          {
+            "media_key": "3_2103873886630895618"
+          },
+          {
+            "media_key": "3_2103873886635126784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103873896038703480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NE2OP_: 天呐…夫君…… https://t.co/0IoCuRWY4n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103873886622511104",
+            "3_2103873886622552064",
+            "3_2103873886630895618",
+            "3_2103873886635126784"
+          ]
+        },
+        "author_id": "900298800601878528",
+        "conversation_id": "2103873896038703480",
+        "created_at": "2026-09-26T15:46:39.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103873896038703480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 31,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886622511104",
+              "start": 8,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 31,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886622552064",
+              "start": 8,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 31,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886630895618",
+              "start": 8,
+              "url": "https://t.co/0IoCuRWY4n"
+            },
+            {
+              "display_url": "pic.x.com/0IoCuRWY4n",
+              "end": 31,
+              "expanded_url": "https://x.com/NE2OP_/status/2103873896038703480/photo/1",
+              "media_key": "3_2103873886635126784",
+              "start": 8,
+              "url": "https://t.co/0IoCuRWY4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103873896038703480",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103873886622511104"
+          },
+          {
+            "media_key": "3_2103873886622552064"
+          },
+          {
+            "media_key": "3_2103873886630895618"
+          },
+          {
+            "media_key": "3_2103873886635126784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4033,
+          "like_count": 344,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "天呐…夫君…… https://t.co/0IoCuRWY4n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103970060637503644",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 822,
+          "like_count": 13296,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 4552
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-23T10:08:55.000Z",
+        "description": "AveMujica/東方/Arknights/Reverse1999/多忙",
+        "id": "900298800601878528",
+        "is_identity_verified": false,
+        "location": "巡り巡る星よ",
+        "most_recent_tweet_id": "2103873896038703480",
+        "name": "NE2OP",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/900298800601878528/1790263843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102022876283174912/g-QS_Fgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21916,
+          "following_count": 127,
+          "like_count": 4400,
+          "listed_count": 98,
+          "media_count": 76,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "NE2OP_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

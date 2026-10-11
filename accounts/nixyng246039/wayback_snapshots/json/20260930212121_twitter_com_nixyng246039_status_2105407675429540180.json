@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2105407675429540180",
+    "created_at": "2026-09-30T21:21:21.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T22:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105407675429540180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuwuren4/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/wuwuren4/status/2104990352906264867",
+          "start": 6,
+          "url": "https://t.co/UXAtZWRdzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105407675429540180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104990352906264867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天画画 https://t.co/UXAtZWRdzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16509,
+        "height": 754,
+        "media_key": "13_2104990302033637377",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104990302033637377/img/MW_G9ApzK87rXI1j.jpg",
+        "public_metrics": {
+          "view_count": 282384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/320x334/mHg1KXaAhSPrMs8W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/480x500/HG0nOwybJVvL-SZ9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/vid/avc1/720x750/J7tPbLQDXKpigmnK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104990302033637377/pl/hqfATCM_yjylwCHU.m3u8?tag=14"
+          }
+        ],
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2105407675429540180",
+        "created_at": "2026-09-30T21:21:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T22:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105407675429540180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuwuren4/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wuwuren4/status/2104990352906264867",
+              "start": 6,
+              "url": "https://t.co/UXAtZWRdzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105407675429540180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104990352906264867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天画画 https://t.co/UXAtZWRdzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104990302033637377"
+          ]
+        },
+        "author_id": "1519654741185556480",
+        "conversation_id": "2104990352906264867",
+        "created_at": "2026-09-29T17:43:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104990352906264867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycEA4KMn9A",
+              "end": 23,
+              "expanded_url": "https://x.com/wuwuren4/status/2104990352906264867/video/1",
+              "media_key": "13_2104990302033637377",
+              "start": 0,
+              "url": "https://t.co/ycEA4KMn9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104990352906264867",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2104990302033637377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5998,
+          "impression_count": 472000,
+          "like_count": 56524,
+          "quote_count": 291,
+          "reply_count": 125,
+          "retweet_count": 6026
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ycEA4KMn9A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2105407675429540180",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 837,
+          "like_count": 13824,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 4700
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:28:28.000Z",
+        "description": "别拿我的任何画代餐以及当头像当壁纸\\禁止用于任何参考学习以及素材使用\\禁止转载\\禁止ai\\未关注评论也会被我拉黑\\                                 工作\\合作renwuwu5@gmail.com",
+        "id": "1519654741185556480",
+        "is_identity_verified": false,
+        "location": "家",
+        "most_recent_tweet_id": "2104990352906264867",
+        "name": "戊戊人",
+        "pinned_tweet_id": "1657262699770957825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519654741185556480/1731321311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966601320418197504/66PaFeCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56873,
+          "following_count": 295,
+          "like_count": 896,
+          "listed_count": 216,
+          "media_count": 847,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "wuwuren4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

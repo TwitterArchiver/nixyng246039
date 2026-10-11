@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2102910967692579084",
+    "created_at": "2026-09-24T12:03:21.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103092923021545972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687753797169467392",
+          "start": 0,
+          "username": "chloris2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103092923021545972",
+    "in_reply_to_user_id": "1687753797169467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103009882635153790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chloris2026 啊啊卧槽我真笑了…全世界的学生都一个吊样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103009882635153790].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103009882635153790",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103009882635153790"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2102910967692579084",
+        "created_at": "2026-09-24T12:03:21.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103092923021545972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687753797169467392",
+              "start": 0,
+              "username": "chloris2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103092923021545972",
+        "in_reply_to_user_id": "1687753797169467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103009882635153790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chloris2026 啊啊卧槽我真笑了…全世界的学生都一个吊样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103092923021545972",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 819,
+          "like_count": 13215,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 4507
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "非主帳互關關注直接拉黑：）",
+        "id": "1687753797169467392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2015676126958620953",
+        "name": "🌻",
+        "pinned_tweet_id": "2041689346638790953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687753797169467392/1752255550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039562814369775616/m9RUgiqz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 249,
+          "like_count": 18020,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 13328
+        },
+        "url": "",
+        "username": "chloris2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

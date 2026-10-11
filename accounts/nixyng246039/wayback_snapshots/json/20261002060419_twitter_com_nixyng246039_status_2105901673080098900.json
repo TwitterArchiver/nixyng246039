@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105880822041423872"
+      ],
+      "media_source_tweet_id": [
+        "2105880844271301014"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2105901673080098900",
+    "created_at": "2026-10-02T06:04:19.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105901673080098900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2105875533565157376",
+          "start": 3,
+          "username": "yimiTvT"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/yimitvt",
+          "end": 95,
+          "expanded_url": "https://ngl.link/yimitvt",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "@yimitvt: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/yimitvt",
+          "url": "https://t.co/uyfLsccImt"
+        },
+        {
+          "display_url": "pic.x.com/zNFO5x4Xdc",
+          "end": 119,
+          "expanded_url": "https://x.com/yimiTvT/status/2105880844271301014/photo/1",
+          "media_key": "3_2105880822041423872",
+          "start": 96,
+          "url": "https://t.co/zNFO5x4Xdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105901673080098900",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105880822041423872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105880844271301014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yimiTvT: 🔝2.0\n我重生了 宝宝们可不可以帮我卷卷 助力我巡回互fo૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა\n\n这是我的提问箱 请随意使用♡\nhttps://t.co/uyfLsccImt https://t.co/zNFO5x4Xdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2105880822041423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmXc0EWMAARf2-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105880822041423872"
+          ],
+          "media_source_tweet_id": [
+            "2105880844271301014"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2105901673080098900",
+        "created_at": "2026-10-02T06:04:19.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105901673080098900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2105875533565157376",
+              "start": 3,
+              "username": "yimiTvT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yimitvt",
+              "end": 95,
+              "expanded_url": "https://ngl.link/yimitvt",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "@yimitvt: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yimitvt",
+              "url": "https://t.co/uyfLsccImt"
+            },
+            {
+              "display_url": "pic.x.com/zNFO5x4Xdc",
+              "end": 119,
+              "expanded_url": "https://x.com/yimiTvT/status/2105880844271301014/photo/1",
+              "media_key": "3_2105880822041423872",
+              "start": 96,
+              "url": "https://t.co/zNFO5x4Xdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105901673080098900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105880822041423872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105880844271301014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yimiTvT: 🔝2.0\n我重生了 宝宝们可不可以帮我卷卷 助力我巡回互fo૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა\n\n这是我的提问箱 请随意使用♡\nhttps://t.co/uyfLsccImt https://t.co/zNFO5x4Xdc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105880822041423872"
+          ]
+        },
+        "author_id": "2105875533565157376",
+        "conversation_id": "2105880844271301014",
+        "created_at": "2026-10-02T04:41:33.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105880844271301014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yimitvt",
+              "end": 82,
+              "expanded_url": "https://ngl.link/yimitvt",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105880855965052928/huxW_eOS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "@yimitvt: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yimitvt",
+              "url": "https://t.co/uyfLsccImt"
+            },
+            {
+              "display_url": "pic.x.com/zNFO5x4Xdc",
+              "end": 106,
+              "expanded_url": "https://x.com/yimiTvT/status/2105880844271301014/photo/1",
+              "media_key": "3_2105880822041423872",
+              "start": 83,
+              "url": "https://t.co/zNFO5x4Xdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105880844271301014",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105880822041423872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🔝2.0\n我重生了 宝宝们可不可以帮我卷卷 助力我巡回互fo૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა\n\n这是我的提问箱 请随意使用♡\nhttps://t.co/uyfLsccImt https://t.co/zNFO5x4Xdc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2105901673080098900",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 848,
+          "like_count": 13932,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 4726
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-02T04:22:57.000Z",
+        "description": "我是薏米呀\n前世@oTvTor\n再次重生2.0这次娥一定安分守己\n06/女/双相/自伤/od/互fo巡回中\n\n匿名提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "oTvTor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yimitvt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yimitvt",
+                "start": 0,
+                "url": "https://t.co/YENFJfDbgG"
+              }
+            ]
+          }
+        },
+        "id": "2105875533565157376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105886279967846841",
+        "name": "薏米2.0",
+        "pinned_tweet_id": "2105880844271301014",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105875533565157376/1790915721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105876293346529280/nYYnddfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/YENFJfDbgG",
+        "username": "yimiTvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2101326025846047166",
+    "created_at": "2026-09-20T03:26:17.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101513250907304333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850277763099602944",
+          "start": 0,
+          "username": "xiaopang887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101513250907304333",
+    "in_reply_to_user_id": "1850277763099602944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101326025846047166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaopang887 看起来哦依稀哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26500,
+        "height": 960,
+        "media_key": "13_2101325944715644928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101325944715644928/img/KxaAHUMToJP1ojwk.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101325944715644928/vid/avc1/320x426/SnQPiIBb0WiUO2ZN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101325944715644928/vid/avc1/480x640/Vcyo9kfOgrd4_GNg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101325944715644928/vid/avc1/720x960/bRf6JVmhi4GCxZ2_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101325944715644928/pl/rPreY2qp-7iq5-Zl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2101326025846047166",
+        "created_at": "2026-09-20T03:26:17.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101513250907304333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850277763099602944",
+              "start": 0,
+              "username": "xiaopang887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101513250907304333",
+        "in_reply_to_user_id": "1850277763099602944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101326025846047166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaopang887 看起来哦依稀哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101325944715644928"
+          ]
+        },
+        "author_id": "1850277763099602944",
+        "conversation_id": "2101326025846047166",
+        "created_at": "2026-09-19T15:02:19.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101326025846047166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUrPFl50fu",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaopang887/status/2101326025846047166/video/1",
+              "media_key": "13_2101325944715644928",
+              "start": 3,
+              "url": "https://t.co/nUrPFl50fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101326025846047166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101325944715644928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无题 https://t.co/nUrPFl50fu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2101513250907304333",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 818,
+          "like_count": 13102,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 4449
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-26T20:46:21.000Z",
+        "description": "不知名的少女乐队大手子🚬\n精神分裂/药物滥用/极端主义\n别骂我 我只是一只老鼠 你关掉你的手机我就死了！\n状态不太好最近… 只想过好自己的糖人日子",
+        "id": "1850277763099602944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101389181134225520",
+        "name": "Ming",
+        "pinned_tweet_id": "2089705108065882192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850277763099602944/1779554017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095907254042300416/VxbKVC8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 441,
+          "like_count": 24765,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "xiaopang887",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

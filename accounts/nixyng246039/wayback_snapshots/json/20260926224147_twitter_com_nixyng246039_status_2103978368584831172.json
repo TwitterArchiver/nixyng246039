@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2103978368584831172",
+    "created_at": "2026-09-26T22:41:47.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103978368584831172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vincent_ainote…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/vincent_ainotes/status/2103707857464311840",
+          "start": 11,
+          "url": "https://t.co/EOQq6rIabc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103978368584831172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103707857464311840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶，我女神上迷因图了 https://t.co/EOQq6rIabc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2103707821875564545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHfHjoakAEW6jQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2103707839114186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHfIj2bEAAtEO0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2103978368584831172",
+        "created_at": "2026-09-26T22:41:47.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103978368584831172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vincent_ainote…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/vincent_ainotes/status/2103707857464311840",
+              "start": 11,
+              "url": "https://t.co/EOQq6rIabc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103978368584831172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103707857464311840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶，我女神上迷因图了 https://t.co/EOQq6rIabc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103707821875564545",
+            "3_2103707839114186752"
+          ]
+        },
+        "author_id": "1861449351328854016",
+        "conversation_id": "2103707857464311840",
+        "created_at": "2026-09-26T04:46:52.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103707857464311840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PG6bVXEeiN",
+              "end": 45,
+              "expanded_url": "https://x.com/Vincent_AINotes/status/2103707857464311840/photo/1",
+              "media_key": "3_2103707821875564545",
+              "start": 22,
+              "url": "https://t.co/PG6bVXEeiN"
+            },
+            {
+              "display_url": "pic.x.com/PG6bVXEeiN",
+              "end": 45,
+              "expanded_url": "https://x.com/Vincent_AINotes/status/2103707857464311840/photo/1",
+              "media_key": "3_2103707839114186752",
+              "start": 22,
+              "url": "https://t.co/PG6bVXEeiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103707857464311840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103707821875564545"
+          },
+          {
+            "media_key": "3_2103707839114186752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 398446,
+          "like_count": 1723,
+          "quote_count": 24,
+          "reply_count": 245,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "信息茧房有点恐怖了，我从来没有见过左边的😂 https://t.co/PG6bVXEeiN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2103978368584831172",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 822,
+          "like_count": 13340,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 4565
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T16:38:22.000Z",
+        "description": "AI",
+        "id": "1861449351328854016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103912224842715282",
+        "name": "Vincent",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861449351328854016/1783144204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58675,
+          "following_count": 363,
+          "like_count": 494,
+          "listed_count": 292,
+          "media_count": 2699,
+          "tweet_count": 10596
+        },
+        "url": "",
+        "username": "Vincent_AINotes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

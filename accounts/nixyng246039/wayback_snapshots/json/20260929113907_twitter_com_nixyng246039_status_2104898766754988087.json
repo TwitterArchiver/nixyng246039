@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "conversation_id": "2104757236925157661",
+    "created_at": "2026-09-29T11:39:07.000Z",
+    "display_text_range": [
+      27,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104898766754988087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052760341411708928",
+          "start": 0,
+          "username": "Sui17171Fei"
+        },
+        {
+          "end": 26,
+          "id": "1835112020007596032",
+          "start": 13,
+          "username": "ManTian99501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104898766754988087",
+    "in_reply_to_user_id": "2052760341411708928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104757236925157661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui17171Fei @ManTian99501 我真的觉得这个事件的争端里没人讨论ai作画少了点什么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104757236925157661].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104757236925157661",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104757236925157661"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2104757236925157661",
+        "created_at": "2026-09-29T11:39:07.000Z",
+        "display_text_range": [
+          27,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104898766754988087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052760341411708928",
+              "start": 0,
+              "username": "Sui17171Fei"
+            },
+            {
+              "end": 26,
+              "id": "1835112020007596032",
+              "start": 13,
+              "username": "ManTian99501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104898766754988087",
+        "in_reply_to_user_id": "2052760341411708928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104757236925157661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui17171Fei @ManTian99501 我真的觉得这个事件的争端里没人讨论ai作画少了点什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2104898766754988087",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 835,
+          "like_count": 13703,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "💊🔪🩸I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo|恐游像素RPG跟任系游戏爱好者| 友全部 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向；all昴全肯定 all雷古全肯定     尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我者死全家",
+        "id": "2052760341411708928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104804813330592008",
+        "name": "雨鈴2.0互关寻回（账号又被冻结了😭）",
+        "pinned_tweet_id": "2096149992071467206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052760341411708928/1789291905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096042663938273280/B8d49Wio_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 464,
+          "like_count": 7987,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "Sui17171Fei",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T00:23:18.000Z",
+        "description": "本当はもっとバカでいたい くだらないこと歌にして死にたい",
+        "id": "1835112020007596032",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2104897683622367402",
+        "name": "天滿",
+        "pinned_tweet_id": "1995461615102091670",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060771474903076864/gOlIla94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1560,
+          "like_count": 19599,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 2021
+        },
+        "url": "",
+        "username": "ManTian99501",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2106236335585730881",
+    "created_at": "2026-10-03T04:14:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106236335585730881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625139421027913729",
+          "start": 3,
+          "username": "MAGIARTS0906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106236335585730881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1775
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105855309671481522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAGIARTS0906: 🎉【予約開始記念キャンペーン】🎉\n大人気ゲーム『CLANNAD』より、\n「古河 渚」1/6スケールフィギュアの予約開始を記念して、プレゼントキャンペーンを開催！✨\n🎁Amazonギフト券2,000円分を抽選で2名様にプレゼント！\n【応募方法】…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105565196672794624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh4Y_8bgAA-_Gf.jpg",
+        "width": 2732
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105565232181727233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh4bEOa0AEw2oy.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105565256751980544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh4cfwbIAAHvyI.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2106236335585730881",
+        "created_at": "2026-10-03T04:14:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106236335585730881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625139421027913729",
+              "start": 3,
+              "username": "MAGIARTS0906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106236335585730881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1775
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105855309671481522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MAGIARTS0906: 🎉【予約開始記念キャンペーン】🎉\n大人気ゲーム『CLANNAD』より、\n「古河 渚」1/6スケールフィギュアの予約開始を記念して、プレゼントキャンペーンを開催！✨\n🎁Amazonギフト券2,000円分を抽選で2名様にプレゼント！\n【応募方法】…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105565196672794624",
+            "3_2105565232181727233",
+            "3_2105565256751980544"
+          ]
+        },
+        "author_id": "1625139421027913729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2105855309671481522",
+        "created_at": "2026-10-02T03:00:05.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105855309671481522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 137,
+              "id": "1625139421027913729",
+              "start": 124,
+              "username": "MAGIARTS0906"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEVG6kaDGK",
+              "end": 186,
+              "expanded_url": "https://x.com/MAGIARTS0906/status/2105855309671481522/photo/1",
+              "media_key": "3_2105565196672794624",
+              "start": 163,
+              "url": "https://t.co/SEVG6kaDGK"
+            },
+            {
+              "display_url": "pic.x.com/SEVG6kaDGK",
+              "end": 186,
+              "expanded_url": "https://x.com/MAGIARTS0906/status/2105855309671481522/photo/1",
+              "media_key": "3_2105565232181727233",
+              "start": 163,
+              "url": "https://t.co/SEVG6kaDGK"
+            },
+            {
+              "display_url": "pic.x.com/SEVG6kaDGK",
+              "end": 186,
+              "expanded_url": "https://x.com/MAGIARTS0906/status/2105855309671481522/photo/1",
+              "media_key": "3_2105565256751980544",
+              "start": 163,
+              "url": "https://t.co/SEVG6kaDGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105855309671481522",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105565196672794624"
+          },
+          {
+            "media_key": "3_2105565232181727233"
+          },
+          {
+            "media_key": "3_2105565256751980544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 261,
+                "start": 253,
+                "tag": "CLANNAD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "id": "1625139421027913729",
+                "start": 124,
+                "username": "MAGIARTS0906"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amiami.jp/top/detail/det…",
+                "end": 218,
+                "expanded_url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-208925",
+                "start": 195,
+                "url": "https://t.co/dvheh1suvo"
+              },
+              {
+                "display_url": "tokyofigure.jp/products/detai…",
+                "end": 251,
+                "expanded_url": "https://tokyofigure.jp/products/detail/1720",
+                "start": 228,
+                "url": "https://t.co/lc0GapU3wj"
+              }
+            ]
+          },
+          "text": "🎉【予約開始記念キャンペーン】🎉\n大人気ゲーム『CLANNAD』より、\n「古河 渚」1/6スケールフィギュアの予約開始を記念して、プレゼントキャンペーンを開催！✨\n🎁Amazonギフト券2,000円分を抽選で2名様にプレゼント！\n【応募方法】\n1．@MAGIARTS0906をフォロー\n2．このポストをリポスト\n【応募締切】\n2026年11月2日（月）まで\n🔽ご予約はこちら🔽\n■あみあみ\nhttps://t.co/dvheh1suvo\n■東京フィギュア\nhttps://t.co/lc0GapU3wj\n\n#CLANNAD"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 688,
+          "impression_count": 936738,
+          "like_count": 6378,
+          "quote_count": 49,
+          "reply_count": 52,
+          "retweet_count": 1775
+        },
+        "reply_settings": "everyone",
+        "text": "🎉【予約開始記念キャンペーン】🎉\n大人気ゲーム『CLANNAD』より、\n「古河 渚」1/6スケールフィギュアの予約開始を記念して、プレゼントキャンペーンを開催！✨\n🎁Amazonギフト券2,000円分を抽選で2名様にプレゼント！\n【応募方法】\n1．@MAGIARTS0906をフォロー\n2．このポストをリポスト\n【応募締切】 https://t.co/SEVG6kaDGK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2106236335585730881",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 856,
+          "like_count": 14138,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 4782
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-13T14:27:14.000Z",
+        "description": "フィギュア開発/製品製造などなど/ご連絡は【suukyoku213@gmail.com】までお願いいたします🕺🙇‍♂️🕺 アフターサービス【info@magi-arts.com】",
+        "id": "1625139421027913729",
+        "is_identity_verified": true,
+        "location": "東京",
+        "most_recent_tweet_id": "2106221451149816001",
+        "name": "MAGI ARTS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625139421027913729/1678769621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625140643881418752/fYaVnt5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31172,
+          "following_count": 216,
+          "like_count": 112,
+          "listed_count": 182,
+          "media_count": 405,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "MAGIARTS0906",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108617281114951680"
+      ],
+      "media_source_tweet_id": [
+        "2108617306654101947"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2108642132789764168",
+    "created_at": "2026-10-09T19:33:55.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T20:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108642132789764168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631836864483328",
+          "start": 3,
+          "username": "TwT_1Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NZO72jrWVa",
+          "end": 47,
+          "expanded_url": "https://x.com/TwT_1Apple/status/2108617306654101947/photo/1",
+          "media_key": "3_2108617281114951680",
+          "start": 24,
+          "url": "https://t.co/NZO72jrWVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108642132789764168",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2108617281114951680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108617306654101947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwT_1Apple: 3000fo！ https://t.co/NZO72jrWVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2108617281114951680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUNQPsgbUAAlrx8.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108617281114951680"
+          ],
+          "media_source_tweet_id": [
+            "2108617306654101947"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2108642132789764168",
+        "created_at": "2026-10-09T19:33:55.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T20:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108642132789764168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631836864483328",
+              "start": 3,
+              "username": "TwT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZO72jrWVa",
+              "end": 47,
+              "expanded_url": "https://x.com/TwT_1Apple/status/2108617306654101947/photo/1",
+              "media_key": "3_2108617281114951680",
+              "start": 24,
+              "url": "https://t.co/NZO72jrWVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108642132789764168",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2108617281114951680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108617306654101947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwT_1Apple: 3000fo！ https://t.co/NZO72jrWVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108617281114951680"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2108617306654101947",
+        "created_at": "2026-10-09T17:55:16.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108617306654101947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZO72jrWVa",
+              "end": 31,
+              "expanded_url": "https://x.com/TwT_1Apple/status/2108617306654101947/photo/1",
+              "media_key": "3_2108617281114951680",
+              "start": 8,
+              "url": "https://t.co/NZO72jrWVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108617306654101947",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2108617281114951680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo！ https://t.co/NZO72jrWVa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2108642132789764168",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 884,
+          "like_count": 14720,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜08双相重焦OD｜我老婆@For_cat1102\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "For_cat1102"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2108617306654101947",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 78,
+          "like_count": 780,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TwT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106021856830771200",
+        "3_2106021924149346304"
+      ],
+      "media_source_tweet_id": [
+        "2106021948073595022",
+        "2106021948073595022"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "conversation_id": "2106229698821079465",
+    "created_at": "2026-10-03T03:47:46.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106229698821079465"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "夢限大みゅーたいぷ"
+        },
+        {
+          "end": 40,
+          "start": 29,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089640525968384000",
+          "start": 3,
+          "username": "shushuqiezi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqo1X6vcz2",
+          "end": 64,
+          "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+          "media_key": "3_2106021856830771200",
+          "start": 41,
+          "url": "https://t.co/cqo1X6vcz2"
+        },
+        {
+          "display_url": "pic.x.com/cqo1X6vcz2",
+          "end": 64,
+          "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+          "media_key": "3_2106021924149346304",
+          "start": 41,
+          "url": "https://t.co/cqo1X6vcz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106229698821079465",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106021856830771200"
+      },
+      {
+        "media_key": "3_2106021924149346304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106021948073595022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shushuqiezi: #夢限大みゅーたいぷ \n#bandoriart https://t.co/cqo1X6vcz2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_2106021856830771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToXuHmbUAAnhPc.jpg",
+        "width": 3000
+      },
+      {
+        "height": 740,
+        "media_key": "3_2106021924149346304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToXyCYbQAAwipX.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106021856830771200",
+            "3_2106021924149346304"
+          ],
+          "media_source_tweet_id": [
+            "2106021948073595022",
+            "2106021948073595022"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2106229698821079465",
+        "created_at": "2026-10-03T03:47:46.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106229698821079465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "夢限大みゅーたいぷ"
+            },
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089640525968384000",
+              "start": 3,
+              "username": "shushuqiezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqo1X6vcz2",
+              "end": 64,
+              "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+              "media_key": "3_2106021856830771200",
+              "start": 41,
+              "url": "https://t.co/cqo1X6vcz2"
+            },
+            {
+              "display_url": "pic.x.com/cqo1X6vcz2",
+              "end": 64,
+              "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+              "media_key": "3_2106021924149346304",
+              "start": 41,
+              "url": "https://t.co/cqo1X6vcz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106229698821079465",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106021856830771200"
+          },
+          {
+            "media_key": "3_2106021924149346304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106021948073595022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shushuqiezi: #夢限大みゅーたいぷ \n#bandoriart https://t.co/cqo1X6vcz2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106021856830771200",
+            "3_2106021924149346304"
+          ]
+        },
+        "author_id": "2089640525968384000",
+        "conversation_id": "2106021948073595022",
+        "created_at": "2026-10-02T14:02:15.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106021948073595022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "夢限大みゅーたいぷ"
+            },
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqo1X6vcz2",
+              "end": 47,
+              "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+              "media_key": "3_2106021856830771200",
+              "start": 24,
+              "url": "https://t.co/cqo1X6vcz2"
+            },
+            {
+              "display_url": "pic.x.com/cqo1X6vcz2",
+              "end": 47,
+              "expanded_url": "https://x.com/shushuqiezi/status/2106021948073595022/photo/1",
+              "media_key": "3_2106021924149346304",
+              "start": 24,
+              "url": "https://t.co/cqo1X6vcz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106021948073595022",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106021856830771200"
+          },
+          {
+            "media_key": "3_2106021924149346304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 21021,
+          "like_count": 1794,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "#夢限大みゅーたいぷ \n#bandoriart https://t.co/cqo1X6vcz2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2106229698821079465",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 852,
+          "like_count": 14096,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T09:09:20.000Z",
+        "description": "这里是鼠🐭\n同人画师🎨\n杂食性动物  🍎\n什么cp属性基本都吃但只画百合🌷\n主更BangDream🎸\n感谢喜欢⭐",
+        "id": "2089640525968384000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106021948073595022",
+        "name": "🐭茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089640525968384000/1787106569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089902539814944768/cnMM3DUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 22,
+          "like_count": 392,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "shushuqiezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

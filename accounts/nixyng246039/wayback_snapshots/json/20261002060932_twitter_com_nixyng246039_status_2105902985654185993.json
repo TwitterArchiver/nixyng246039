@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105662012772786176"
+      ],
+      "media_source_tweet_id": [
+        "2105662023946137822"
+      ]
+    },
+    "author_id": "1720098116601532416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105902985654185993",
+    "created_at": "2026-10-02T06:09:32.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105902985654185993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947049438696058880",
+          "start": 3,
+          "username": "Evelyn_xanax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YpX3yzRF1K",
+          "end": 49,
+          "expanded_url": "https://x.com/Evelyn_xanax/status/2105662023946137822/photo/1",
+          "media_key": "3_2105662012772786176",
+          "start": 26,
+          "url": "https://t.co/YpX3yzRF1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105902985654185993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105662012772786176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105662023946137822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Evelyn_xanax: 你看我像傻逼不 https://t.co/YpX3yzRF1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3077,
+        "media_key": "3_2105662012772786176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjQccBbIAA4I2T.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105662012772786176"
+          ],
+          "media_source_tweet_id": [
+            "2105662023946137822"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105902985654185993",
+        "created_at": "2026-10-02T06:09:32.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105902985654185993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947049438696058880",
+              "start": 3,
+              "username": "Evelyn_xanax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpX3yzRF1K",
+              "end": 49,
+              "expanded_url": "https://x.com/Evelyn_xanax/status/2105662023946137822/photo/1",
+              "media_key": "3_2105662012772786176",
+              "start": 26,
+              "url": "https://t.co/YpX3yzRF1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105902985654185993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105662012772786176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105662023946137822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Evelyn_xanax: 你看我像傻逼不 https://t.co/YpX3yzRF1K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105662012772786176"
+          ]
+        },
+        "author_id": "1947049438696058880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105662023946137822",
+        "created_at": "2026-10-01T14:12:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105662023946137822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpX3yzRF1K",
+              "end": 31,
+              "expanded_url": "https://x.com/Evelyn_xanax/status/2105662023946137822/photo/1",
+              "media_key": "3_2105662012772786176",
+              "start": 8,
+              "url": "https://t.co/YpX3yzRF1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105662023946137822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105662012772786176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你看我像傻逼不 https://t.co/YpX3yzRF1K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀，不加私讯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2105902985654185993",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100988245613969408/qR5hbN4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 848,
+          "like_count": 13947,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 4731
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T21:43:18.000Z",
+        "description": "精神病 休学 女 infp\n 欢迎任何人互fo\n 大部分都是碎碎念呀\n偶尔发血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xanax69587",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xanax69587",
+                "start": 0,
+                "url": "https://t.co/xdbSqqopCN"
+              }
+            ]
+          }
+        },
+        "id": "1947049438696058880",
+        "is_identity_verified": false,
+        "location": "神聖なXanax†",
+        "most_recent_tweet_id": "2105789892425085306",
+        "name": "異樣",
+        "pinned_tweet_id": "2031050502386209106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947049438696058880/1778450021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099896628144697344/RbIlwMTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 522,
+          "like_count": 5229,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/xdbSqqopCN",
+        "username": "Evelyn_xanax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
